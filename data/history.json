@@ -1,1 +1,121 @@
-[]
+[
+  {
+    "date": "2026-05-18 (Monday)",
+    "date_display": "Monday, May 18",
+    "date_short": "Mon · May 18",
+    "generated_label": "Generated last night for today",
+    "breakfast": {
+      "dish_hindi": "ओट्स उपमा",
+      "dish_english": "Oats Upma",
+      "ingredients_hindi": "ओट्स, प्याज, गाजर, मटर, हरी मिर्च, कड़ी पत्ता, सरसों के बीज, नमक",
+      "ingredients_list_hi": [
+        "ओट्स",
+        "प्याज",
+        "गाजर",
+        "मटर",
+        "हरी मिर्च",
+        "कड़ी पत्ता",
+        "सरसों के बीज",
+        "नमक"
+      ],
+      "ingredients_list_en": [
+        "Oats",
+        "Onion",
+        "Carrot",
+        "Peas",
+        "Green Chili",
+        "Curry Leaves",
+        "Mustard Seeds",
+        "Salt"
+      ],
+      "youtube_url": "https://www.youtube.com/watch?v=XxUpmaExample",
+      "prep_notes_hi": "ओट्स को पानी में भिगो कर रखें। मसालों को पहले गरम तेल में तड़का दें, फिर बाकी सामग्री डालें।",
+      "prep_notes_en": "Soak the oats in water beforehand. In heated oil, temper the spices first, then add the remaining ingredients.",
+      "vizz_macros": {
+        "cal": 350,
+        "protein": 12,
+        "fat": 8,
+        "carbs": 60
+      }
+    },
+    "lunch": {
+      "dish_hindi": "चने की दाल और चावल",
+      "dish_english": "Chana Dal and Rice",
+      "ingredients_hindi": "चना दाल, चावल, प्याज, टमाटर, हल्दी, जीरा, नमक",
+      "ingredients_list_hi": [
+        "चना दाल",
+        "चावल",
+        "प्याज",
+        "टमाटर",
+        "हल्दी",
+        "जीरा",
+        "नमक"
+      ],
+      "ingredients_list_en": [
+        "Chana Dal (Split Chickpeas)",
+        "Rice",
+        "Onion",
+        "Tomato",
+        "Turmeric",
+        "Cumin Seeds",
+        "Salt"
+      ],
+      "youtube_url": "https://www.youtube.com/watch?v=ChanaRiceExample",
+      "prep_notes_hi": "दाल और चावल को अलग-अलग पकाएं। यह यात्रा के लिए और माइक्रोवेव में गरम करने के लिए उपयुक्त है।",
+      "prep_notes_en": "Cook dal and rice separately. This dish is suitable for travel and reheating in a microwave.",
+      "vizz_macros": {
+        "cal": 600,
+        "protein": 18,
+        "fat": 10,
+        "carbs": 105
+      }
+    },
+    "dinner": {
+      "dish_hindi": "पालक पनीर और तंदूरी रोटी",
+      "dish_english": "Palak Paneer and Tandoori Roti",
+      "ingredients_hindi": "पालक, पनीर, प्याज, टमाटर, लहसुन, अदरक, जीरा, नमक",
+      "ingredients_list_hi": [
+        "पालक",
+        "पनीर",
+        "प्याज",
+        "टमाटर",
+        "लहसुन",
+        "अदरक",
+        "जीरा",
+        "नमक"
+      ],
+      "ingredients_list_en": [
+        "Spinach",
+        "Paneer (Cottage Cheese)",
+        "Onion",
+        "Tomato",
+        "Garlic",
+        "Ginger",
+        "Cumin Seeds",
+        "Salt"
+      ],
+      "youtube_url": "https://www.youtube.com/watch?v=PalakPaneerExample",
+      "prep_notes_hi": "पालक को उबाल कर प्यूरी बना लें। मसालों के साथ मिलाकर पनीर डालें। तंदूरी रोटी के साथ परोसें।",
+      "prep_notes_en": "Blanch the spinach and make a puree. Mix with spices and add paneer. Serve with tandoori roti.",
+      "vizz_macros": {
+        "cal": 750,
+        "protein": 28,
+        "fat": 27,
+        "carbs": 110
+      }
+    },
+    "vizz_daily_total_from_meals": {
+      "cal": 1700,
+      "protein": 58,
+      "fat": 45,
+      "carbs": 200
+    },
+    "vizz_daily_total_with_shake": {
+      "cal": 2000,
+      "protein": 98,
+      "fat": 50,
+      "carbs": 225
+    },
+    "macro_check": "Falls short of protein target by 12g; otherwise, calories, fat, and carbs are hitting target."
+  }
+]
