@@ -1,0 +1,40 @@
+name: Generate Daily Menu
+
+on:
+  schedule:
+    # 10:00 PM IST = 16:30 UTC
+    - cron: '30 16 * * *'
+  workflow_dispatch:
+    # Allow manual trigger from GitHub Actions tab
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install -r scripts/requirements.txt
+
+      - name: Generate menu
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          WHATSAPP_TOKEN: ${{ secrets.WHATSAPP_TOKEN }}
+          WHATSAPP_PHONE_ID: ${{ secrets.WHATSAPP_PHONE_ID }}
+          FLATMATE_NUMBERS: ${{ secrets.FLATMATE_NUMBERS }}
+        run: python scripts/generate.py
+
+      - name: Commit and push menu
+        run: |
+          git config user.name "menu-bot"
+          git config user.email "menu-bot@users.noreply.github.com"
+          git add data/menu.json data/history.json
+          git diff --staged --quiet || git commit -m "chore: menu for $(date +'%Y-%m-%d')"
+          git push

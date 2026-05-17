@@ -1,0 +1,30 @@
+{
+  "date": "Waiting for first generation...",
+  "breakfast": {
+    "dish_hindi": "—",
+    "dish_english": "Not generated yet",
+    "ingredients_hindi": "",
+    "youtube_url": "",
+    "prep_notes": "",
+    "vizz_macros": { "cal": 0, "protein": 0, "fat": 0, "carbs": 0 }
+  },
+  "lunch": {
+    "dish_hindi": "—",
+    "dish_english": "Not generated yet",
+    "ingredients_hindi": "",
+    "youtube_url": "",
+    "prep_notes": "",
+    "vizz_macros": { "cal": 0, "protein": 0, "fat": 0, "carbs": 0 }
+  },
+  "dinner": {
+    "dish_hindi": "—",
+    "dish_english": "Not generated yet",
+    "ingredients_hindi": "",
+    "youtube_url": "",
+    "prep_notes": "",
+    "vizz_macros": { "cal": 0, "protein": 0, "fat": 0, "carbs": 0 }
+  },
+  "vizz_daily_total_from_meals": { "cal": 0, "protein": 0, "fat": 0, "carbs": 0 },
+  "vizz_daily_total_with_shake": { "cal": 0, "protein": 0, "fat": 0, "carbs": 0 },
+  "macro_check": "No menu generated yet."
+}
