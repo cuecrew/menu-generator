@@ -1,6 +1,6 @@
 """
 Daily menu generator.
-Runs via GitHub Actions at 10 PM IST.
+Runs via GitHub Actions at 10 PM IST (16:30 UTC).
 Generates next day's menu, sends to flatmate group via WhatsApp,
 and writes menu.json + history.json for the PWA to display.
 """
@@ -20,31 +20,48 @@ FLATMATE_NUMBERS      = [n.strip() for n in FLATMATE_NUMBERS_RAW.split(",") if n
 
 # Vizz's macro targets
 TARGETS = {
-    "calories": 2000,
+    "calories":  2000,
     "protein_g": 110,
-    "fat_g": 60,
-    "carbs_g": 215,
+    "fat_g":     60,
+    "carbs_g":   215,
 }
 
 # Diet rules
 DIET_RULES = """
 - All meals vegetarian. Boiled eggs allowed for Vizz and Flatmate-2 only.
 - Flatmate-3: vegetarian, no eggs.
-- Fruits: only Flatmate-3 eats them. Do not include fruits in shared meals; can suggest as optional add-on for Flatmate-3.
-- Cook has 45 min in morning (breakfast + lunch) and 45 min at night (dinner). Stay within this budget.
+- Fruits: only Flatmate-3 eats them. Do not include fruits in shared meals.
+- Cook has 45 min in morning (breakfast + lunch prep) and 45 min at night (dinner). Stay within this.
 - Breakfast + lunch served to 2 people (Vizz + Flatmate-2). Dinner served to 3 people.
-- Lunch must be office-portable, hold for 4-5 hours unrefrigerated, microwave-reheatable.
-- Avoid: soggy items (dosa, puri), wilting salads, anything that separates badly.
-- Good lunch candidates: dal-rice, rajma-rice, chole-rice, pulao, paratha + sabzi, curd rice, biryani-style.
-- Vizz needs to hit: 2000 cal / 110g protein / 60g fat / 215g carbs daily.
-- Vizz takes a 40g protein shake (plant protein + 500ml milk) — counts toward daily total but NOT part of cooked meals.
-- Cooked meals for Vizz must deliver: ~1700 cal / 70g protein / ~45g fat / ~200g carbs across breakfast + lunch + dinner.
+- Lunch must be office-portable, hold 4-5 hours unrefrigerated, microwave-reheatable.
+- Avoid soggy items (dosa, puri) or salads that wilt. Good lunch: dal-rice, rajma-rice, chole-rice,
+  pulao, paratha + sabzi, curd rice, biryani-style.
+- Vizz needs: 2000 cal / 110g protein / 60g fat / 215g carbs daily.
+- Vizz takes a 40g protein shake (plant protein + 500ml milk) — counts toward daily total but NOT
+  part of cooked meals. Shake adds: 300 cal / 40g protein / 5g fat / 25g carbs.
+- Cooked meals for Vizz must deliver: ~1700 cal / ~70g protein / ~45g fat / ~200g carbs
+  across breakfast + lunch + dinner combined.
 - Indian cuisine focus. Variety across the week. No repeats from last 3 days.
 """
 
+
+# ---------- DATE HELPERS ----------
+def format_date_display(dt: datetime) -> str:
+    """'Monday, May 19'"""
+    return dt.strftime("%A, %B %-d")
+
+def format_date_short(dt: datetime) -> str:
+    """'Mon · May 19'"""
+    return dt.strftime("%a · %b %-d")
+
+
 # ---------- MENU GENERATION ----------
-def generate_menu(date_str: str, recent_menus: list = None) -> dict:
+def generate_menu(tomorrow: datetime, recent_menus: list = None) -> dict:
     client = OpenAI(api_key=OPENAI_API_KEY)
+
+    date_str     = tomorrow.strftime("%Y-%m-%d (%A)")
+    date_display = format_date_display(tomorrow)
+    date_short   = format_date_short(tomorrow)
 
     recent_context = ""
     if recent_menus:
@@ -58,42 +75,58 @@ def generate_menu(date_str: str, recent_menus: list = None) -> dict:
 Return ONLY valid JSON in this exact structure:
 {{
   "date": "{date_str}",
+  "date_display": "{date_display}",
+  "date_short": "{date_short}",
+  "generated_label": "Generated last night for today",
   "breakfast": {{
-    "dish_hindi": "string (Hindi/Hinglish name for cook)",
-    "dish_english": "string",
-    "ingredients_hindi": "string (comma-separated, in Hindi/Hinglish)",
-    "youtube_url": "string (a real YouTube recipe URL)",
-    "prep_notes": "string (Hindi, brief instruction to cook)",
+    "dish_hindi": "string (Hindi/Devanagari name)",
+    "dish_english": "string (English name)",
+    "ingredients_hindi": "string (comma-separated ingredients in Hindi/Devanagari)",
+    "ingredients_list_hi": ["array", "of", "individual", "Hindi/Devanagari", "ingredients"],
+    "ingredients_list_en": ["array", "of", "individual", "English", "ingredients"],
+    "youtube_url": "string (a real YouTube recipe URL for this dish)",
+    "prep_notes_hi": "string (2-4 sentences in Hindi/Devanagari: key technique tips for the cook)",
+    "prep_notes_en": "string (2-4 sentences in English: same tips for someone who prefers English)",
     "vizz_macros": {{"cal": int, "protein": int, "fat": int, "carbs": int}}
   }},
   "lunch": {{
     "dish_hindi": "string",
     "dish_english": "string",
     "ingredients_hindi": "string",
+    "ingredients_list_hi": ["array"],
+    "ingredients_list_en": ["array"],
     "youtube_url": "string",
-    "prep_notes": "string (mention it must travel + reheat well)",
+    "prep_notes_hi": "string (mention it must travel + reheat well)",
+    "prep_notes_en": "string (mention it must travel + reheat well)",
     "vizz_macros": {{"cal": int, "protein": int, "fat": int, "carbs": int}}
   }},
   "dinner": {{
     "dish_hindi": "string",
     "dish_english": "string",
     "ingredients_hindi": "string",
+    "ingredients_list_hi": ["array"],
+    "ingredients_list_en": ["array"],
     "youtube_url": "string",
-    "prep_notes": "string",
+    "prep_notes_hi": "string",
+    "prep_notes_en": "string",
     "vizz_macros": {{"cal": int, "protein": int, "fat": int, "carbs": int}}
   }},
   "vizz_daily_total_from_meals": {{"cal": int, "protein": int, "fat": int, "carbs": int}},
   "vizz_daily_total_with_shake": {{"cal": int, "protein": int, "fat": int, "carbs": int}},
-  "macro_check": "string (one line: does this hit 2000/110/60/215 target? any gaps?)"
+  "macro_check": "string (one line: does this hit 2000/110/60/215 target? note any gaps)"
 }}
 
-Protein shake adds: 300 cal, 40g protein, 5g fat, 25g carbs.
+Rules for ingredients arrays:
+- ingredients_list_hi: each item is a single ingredient in Hindi/Devanagari (e.g. "पोहा", "प्याज")
+- ingredients_list_en: each item is a single ingredient in English (e.g. "Poha (flattened rice)", "Onion")
+- ingredients_hindi: the comma-separated string version for cook display
+
 Boiled egg adds: ~70 cal / 6g protein / 5g fat — include where it fits.
 Return ONLY the JSON, no markdown, no explanation."""
 
     response = client.chat.completions.create(
         model="gpt-4o",
-        max_tokens=2000,
+        max_tokens=2500,
         response_format={"type": "json_object"},
         messages=[{"role": "user", "content": prompt}]
     )
@@ -104,7 +137,8 @@ Return ONLY the JSON, no markdown, no explanation."""
 # ---------- MESSAGE FORMATTING ----------
 def format_whatsapp_message(menu: dict) -> str:
     m = menu
-    return f"""*Menu for {m['date']}*
+    t = m.get("vizz_daily_total_with_shake", {})
+    return f"""*Menu for {m.get('date_display', m['date'])}*
 
 *Breakfast* (8 AM, for 2)
 {m['breakfast']['dish_hindi']} ({m['breakfast']['dish_english']})
@@ -119,33 +153,33 @@ Recipe: {m['lunch']['youtube_url']}
 Recipe: {m['dinner']['youtube_url']}
 
 ---
-Vizz macros (with shake): {m['vizz_daily_total_with_shake']['cal']} cal / {m['vizz_daily_total_with_shake']['protein']}g P / {m['vizz_daily_total_with_shake']['fat']}g F / {m['vizz_daily_total_with_shake']['carbs']}g C
+Vizz macros (with shake): {t.get('cal',0)} cal / {t.get('protein',0)}g P / {t.get('fat',0)}g F / {t.get('carbs',0)}g C
 Target: 2000 / 110 / 60 / 215
-{m['macro_check']}
+{m.get('macro_check', '')}
 
-Reply *YES* to approve or *NO* + reason to revise."""
+View full menu + cook notes: https://cuecrew.github.io/menu-generator"""
 
 
 def format_cook_message(menu: dict) -> str:
     m = menu
-    return f"""कल का मेन्यू ({m['date']})
+    return f"""कल का मेन्यू ({m.get('date_display', m['date'])})
 
 *सुबह (2 लोगों के लिए)*
 नाश्ता: {m['breakfast']['dish_hindi']}
 सामग्री: {m['breakfast']['ingredients_hindi']}
 रेसिपी: {m['breakfast']['youtube_url']}
-नोट: {m['breakfast']['prep_notes']}
+नोट: {m['breakfast'].get('prep_notes_hi', '')}
 
 लंच (टिफ़िन): {m['lunch']['dish_hindi']}
 सामग्री: {m['lunch']['ingredients_hindi']}
 रेसिपी: {m['lunch']['youtube_url']}
-नोट: {m['lunch']['prep_notes']}
+नोट: {m['lunch'].get('prep_notes_hi', '')}
 
 *रात (3 लोगों के लिए)*
 डिनर: {m['dinner']['dish_hindi']}
 सामग्री: {m['dinner']['ingredients_hindi']}
 रेसिपी: {m['dinner']['youtube_url']}
-नोट: {m['dinner']['prep_notes']}"""
+नोट: {m['dinner'].get('prep_notes_hi', '')}"""
 
 
 # ---------- WHATSAPP ----------
@@ -181,41 +215,42 @@ def save_files(menu: dict):
     # Write today's menu for the PWA
     with open(MENU_FILE, "w", encoding="utf-8") as f:
         json.dump(menu, f, indent=2, ensure_ascii=False)
+    print(f"Saved {MENU_FILE}")
 
-    # Append to history (keep last 30 days)
+    # Append full menu to history (keep last 30 days)
     history = load_history()
     history.append(menu)
     history = history[-30:]
     with open(HISTORY_FILE, "w", encoding="utf-8") as f:
         json.dump(history, f, indent=2, ensure_ascii=False)
-
-    print(f"Saved menu.json and history.json")
+    print(f"Updated {HISTORY_FILE} ({len(history)} entries)")
 
 
 # ---------- MAIN ----------
 def main():
-    tomorrow = (datetime.now() + timedelta(days=1)).strftime("%Y-%m-%d (%A)")
+    now      = datetime.now()
+    tomorrow = now + timedelta(days=1)
 
     history = load_history()
     recent_dishes = [
         {
-            "date": h["date"],
+            "date":      h.get("date", ""),
             "breakfast": h["breakfast"]["dish_english"],
-            "lunch": h["lunch"]["dish_english"],
-            "dinner": h["dinner"]["dish_english"],
+            "lunch":     h["lunch"]["dish_english"],
+            "dinner":    h["dinner"]["dish_english"],
         }
         for h in history[-3:]
     ]
 
-    print(f"Generating menu for {tomorrow}...")
+    print(f"Generating menu for {format_date_display(tomorrow)}…")
     menu = generate_menu(tomorrow, recent_dishes)
 
     flatmate_msg = format_whatsapp_message(menu)
     cook_msg     = format_cook_message(menu)
 
-    print("\n=== FLATMATE MESSAGE ===\n")
+    print("\n=== FLATMATE MESSAGE ===")
     print(flatmate_msg)
-    print("\n=== COOK MESSAGE ===\n")
+    print("\n=== COOK MESSAGE ===")
     print(cook_msg)
 
     save_files(menu)
@@ -228,11 +263,7 @@ def main():
     else:
         print("WhatsApp credentials not set — skipping send.")
 
-    # Save cook message as a file too
-    cook_file = f"data/cook_{menu['date'][:10]}.txt"
-    with open(cook_file, "w", encoding="utf-8") as f:
-        f.write(cook_msg)
-    print(f"Cook message saved to {cook_file}")
+    print("\nDone.")
 
 
 if __name__ == "__main__":

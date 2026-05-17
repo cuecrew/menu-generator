@@ -10,464 +10,64 @@
   <title>Thali</title>
   <link rel="manifest" href="manifest.json" />
   <link rel="apple-touch-icon" href="icon-192.png" />
+
+  <!-- Fonts: Bricolage Grotesque (headings) + Geist (UI) + Noto Sans Devanagari (Hindi) -->
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-  <link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wdth,wght@12..96,75..110,400..800&family=Geist:wght@400;500;600;700&display=swap" rel="stylesheet" />
+  <link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wdth,wght@12..96,75..110,400..800&family=Geist:wght@300;400;500;600;700&family=Noto+Sans+Devanagari:wght@400;500;600;700&display=swap" rel="stylesheet" />
+
   <style>
     *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
-    html, body { width: 100%; height: 100%; background: #0E0B09; overflow: hidden; color: #F6EFE6; font-family: 'Geist', system-ui, sans-serif; }
-    #root { width: 100%; height: 100%; display: flex; flex-direction: column; }
-    ::-webkit-scrollbar { display: none; }
 
-    /* Safe area */
-    .safe-top { height: max(env(safe-area-inset-top), 44px); flex-shrink: 0; }
-    .safe-bottom { height: max(env(safe-area-inset-bottom), 16px); flex-shrink: 0; }
-
-    /* Tab bar */
-    .tab-bar {
-      position: absolute; left: 0; right: 0; bottom: 0;
-      padding-bottom: max(env(safe-area-inset-bottom), 16px);
-      padding-top: 8px;
-      background: linear-gradient(to top, rgba(14,11,9,0.97) 60%, transparent);
-      display: flex; justify-content: space-around; align-items: flex-end; z-index: 40;
-    }
-    .tab-btn {
-      flex: 1; background: none; border: none; cursor: pointer;
-      display: flex; flex-direction: column; align-items: center; gap: 3px;
-      color: #6E665D; font-family: 'Geist', system-ui; font-size: 10px; font-weight: 600;
-      padding: 6px 4px; transition: color 120ms;
-    }
-    .tab-btn.active { color: #F4B23C; }
-    .tab-btn svg { width: 22px; height: 22px; }
-
-    /* Screens */
-    .screen { display: none; flex-direction: column; height: 100%; position: relative; overflow: hidden; }
-    .screen.active { display: flex; }
-    .scroll-area { flex: 1; overflow-y: auto; padding-bottom: 90px; }
-
-    /* Header */
-    .header { padding: 8px 20px 16px; display: flex; align-items: center; justify-content: space-between; flex-shrink: 0; }
-    .wordmark { font-family: 'Bricolage Grotesque', system-ui; font-weight: 800; font-size: 26px; color: #F4B23C; letter-spacing: -0.5px; }
-    .date-label { font-family: 'Geist', system-ui; font-size: 13px; color: #A89E92; font-weight: 500; }
-
-    /* Meal cards */
-    .meal-card {
-      margin: 0 16px 12px;
-      background: #1B1613; border: 1px solid rgba(255,240,224,0.06);
-      border-radius: 18px; overflow: hidden; cursor: pointer;
-      transition: transform 120ms;
-    }
-    .meal-card:active { transform: scale(0.98); }
-    .meal-card-accent { height: 3px; }
-    .meal-card-body { padding: 14px 16px; }
-    .meal-time { font-size: 11px; font-weight: 700; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 4px; }
-    .meal-hindi { font-family: 'Bricolage Grotesque', system-ui; font-weight: 700; font-size: 24px; color: #F6EFE6; letter-spacing: -0.3px; line-height: 1.1; }
-    .meal-english { font-size: 13px; color: #A89E92; margin-top: 3px; }
-
-    /* Macro strip */
-    .macro-strip {
-      margin: 4px 16px 16px;
-      background: #1B1613; border: 1px solid rgba(255,240,224,0.04);
-      border-radius: 14px; padding: 12px 14px;
-      display: flex; gap: 6px; flex-wrap: wrap;
-    }
-    .macro-pill {
-      padding: 4px 10px; border-radius: 999px; font-size: 11px; font-weight: 600;
-      background: rgba(255,240,224,0.06); color: #A89E92;
-    }
-    .macro-pill span { color: #F6EFE6; }
-
-    /* Detail screen */
-    .detail-back {
-      width: 38px; height: 38px; border-radius: 19px;
-      background: rgba(255,255,255,0.06); border: 1px solid rgba(255,240,224,0.08);
-      display: flex; align-items: center; justify-content: center; cursor: pointer; flex-shrink: 0;
-    }
-    .detail-hindi { font-family: 'Bricolage Grotesque', system-ui; font-weight: 800; font-size: 36px; color: #F6EFE6; letter-spacing: -1px; line-height: 1; }
-    .detail-english { font-size: 15px; color: #A89E92; margin-top: 6px; }
-    .section-label { font-size: 11px; font-weight: 700; color: #6E665D; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 8px; }
-    .ingredients-list { display: flex; flex-wrap: wrap; gap: 6px; }
-    .ingredient-chip {
-      padding: 6px 12px; border-radius: 999px;
-      background: #241D19; border: 1px solid rgba(255,240,224,0.06);
-      font-size: 13px; color: #F6EFE6;
-    }
-    .prep-card {
-      background: #1B1613; border: 1px solid rgba(255,240,224,0.06);
-      border-radius: 14px; padding: 14px 16px;
-      font-size: 15px; color: #F6EFE6; line-height: 1.6;
-    }
-    .watch-btn {
-      width: 100%; padding: 15px; border-radius: 14px; border: none; cursor: pointer;
-      background: #FF0000; color: #fff;
-      font-family: 'Bricolage Grotesque', system-ui; font-weight: 700; font-size: 16px;
-      display: flex; align-items: center; justify-content: center; gap: 8px;
-    }
-    .macro-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; }
-    .macro-tile {
-      background: #1B1613; border: 1px solid rgba(255,240,224,0.06);
-      border-radius: 12px; padding: 12px 14px;
-    }
-    .macro-tile-label { font-size: 10px; font-weight: 700; color: #6E665D; text-transform: uppercase; letter-spacing: 0.8px; margin-bottom: 4px; }
-    .macro-tile-value { font-family: 'Bricolage Grotesque', system-ui; font-weight: 800; font-size: 26px; color: #F6EFE6; line-height: 1; }
-    .macro-tile-unit { font-size: 12px; color: #A89E92; }
-
-    /* Cook screen */
-    .cook-screen { background: #FAF6F0; color: #1a1008; }
-    .cook-screen .scroll-area { background: #FAF6F0; }
-    .cook-header { padding: 8px 20px 16px; background: #FAF6F0; }
-    .cook-wordmark { font-family: 'Bricolage Grotesque', system-ui; font-weight: 800; font-size: 26px; color: #C8862A; }
-    .cook-meal-card {
-      margin: 0 16px 16px; background: #fff;
-      border: 1px solid rgba(0,0,0,0.06); border-radius: 18px; overflow: hidden;
-    }
-    .cook-meal-accent { height: 4px; }
-    .cook-meal-body { padding: 16px; }
-    .cook-meal-time { font-size: 13px; font-weight: 700; color: #888; margin-bottom: 6px; }
-    .cook-meal-hindi { font-family: 'Bricolage Grotesque', system-ui; font-weight: 800; font-size: 28px; color: #1a1008; line-height: 1.1; margin-bottom: 10px; }
-    .cook-ingredients { font-size: 16px; color: #3a2a18; line-height: 1.7; margin-bottom: 10px; }
-    .cook-prep { font-size: 16px; color: #3a2a18; line-height: 1.7; margin-bottom: 12px; }
-    .cook-recipe-btn {
-      width: 100%; padding: 14px; border-radius: 12px; border: none; cursor: pointer;
-      background: #FF0000; color: #fff;
-      font-family: 'Bricolage Grotesque', system-ui; font-weight: 700; font-size: 16px;
+    html, body {
+      width: 100%; height: 100%;
+      background: #0E0B09;
+      overflow: hidden;
+      color: #F6EFE6;
+      -webkit-font-smoothing: antialiased;
+      -moz-osx-font-smoothing: grayscale;
+      font-family: 'Geist', -apple-system, BlinkMacSystemFont, system-ui, sans-serif;
     }
 
-    /* History screen */
-    .history-row {
-      margin: 0 16px 10px; padding: 14px 16px;
-      background: #1B1613; border: 1px solid rgba(255,240,224,0.06);
-      border-radius: 14px; cursor: pointer;
-    }
-    .history-date { font-size: 11px; font-weight: 700; color: #6E665D; text-transform: uppercase; letter-spacing: 0.8px; margin-bottom: 6px; }
-    .history-meals { font-size: 14px; color: #A89E92; line-height: 1.6; }
-
-    /* Offline badge */
-    .offline-badge {
-      margin: 0 16px 12px; padding: 8px 14px; border-radius: 10px;
-      background: rgba(255,77,61,0.12); border: 1px solid rgba(255,77,61,0.2);
-      font-size: 12px; color: #FF4D3D; font-weight: 600; text-align: center;
+    #root {
+      width: 100%; height: 100%;
+      position: relative;
     }
 
-    /* Loading */
-    .loading { padding: 40px 20px; text-align: center; color: #6E665D; font-size: 14px; }
+    /* Hide scrollbars everywhere */
+    * { scrollbar-width: none; -ms-overflow-style: none; }
+    *::-webkit-scrollbar { display: none; }
 
-    /* Generated label */
-    .generated-label { padding: 0 20px 12px; font-size: 12px; color: #6E665D; }
+    /* Tap highlight off */
+    * { -webkit-tap-highlight-color: transparent; }
+
+    /* Pulse animation for the "Fresh" badge dot */
+    @keyframes thali-pulse {
+      0%, 100% { opacity: 1; transform: scale(1); }
+      50%       { opacity: 0.55; transform: scale(0.85); }
+    }
+
+    /* Prevent text selection during taps */
+    button { -webkit-user-select: none; user-select: none; }
   </style>
 </head>
 <body>
-<div id="root">
+<div id="root"></div>
 
-  <!-- TODAY SCREEN -->
-  <div id="screen-today" class="screen active">
-    <div class="safe-top"></div>
-    <div class="header">
-      <div class="wordmark">Thali</div>
-      <div class="date-label" id="today-date">—</div>
-    </div>
-    <div class="generated-label" id="generated-label"></div>
-    <div id="offline-badge" class="offline-badge" style="display:none">Offline — showing last saved menu</div>
-    <div class="scroll-area" id="today-content">
-      <div class="loading">Loading menu…</div>
-    </div>
-    <div class="tab-bar">
-      <button class="tab-btn active" onclick="showTab('today')">
-        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M3 9l9-7 9 7v11a2 2 0 01-2 2H5a2 2 0 01-2-2z"/></svg>
-        Today
-      </button>
-      <button class="tab-btn" onclick="showTab('cook')">
-        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 2a7 7 0 017 7c0 3.5-2.5 5.5-3 8H8c-.5-2.5-3-4.5-3-8a7 7 0 017-7z"/><line x1="8" y1="22" x2="16" y2="22"/><line x1="9" y1="18" x2="15" y2="18"/></svg>
-        Cook
-      </button>
-      <button class="tab-btn" onclick="showTab('history')">
-        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>
-        History
-      </button>
-    </div>
-  </div>
+<!-- React 18 + ReactDOM (UMD production) -->
+<script crossorigin src="https://unpkg.com/react@18/umd/react.production.min.js"></script>
+<script crossorigin src="https://unpkg.com/react-dom@18/umd/react-dom.production.min.js"></script>
 
-  <!-- COOK SCREEN -->
-  <div id="screen-cook" class="screen cook-screen">
-    <div class="safe-top" style="background:#FAF6F0"></div>
-    <div class="cook-header">
-      <div class="cook-wordmark">Thali · Cook</div>
-    </div>
-    <div class="scroll-area" id="cook-content">
-      <div class="loading" style="color:#888">Loading…</div>
-    </div>
-    <div class="tab-bar" style="background:linear-gradient(to top,rgba(250,246,240,0.97) 60%,transparent)">
-      <button class="tab-btn" onclick="showTab('today')" style="color:#888">
-        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M3 9l9-7 9 7v11a2 2 0 01-2 2H5a2 2 0 01-2-2z"/></svg>
-        Today
-      </button>
-      <button class="tab-btn active" onclick="showTab('cook')" style="color:#C8862A">
-        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 2a7 7 0 017 7c0 3.5-2.5 5.5-3 8H8c-.5-2.5-3-4.5-3-8a7 7 0 017-7z"/><line x1="8" y1="22" x2="16" y2="22"/><line x1="9" y1="18" x2="15" y2="18"/></svg>
-        Cook
-      </button>
-      <button class="tab-btn" onclick="showTab('history')" style="color:#888">
-        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>
-        History
-      </button>
-    </div>
-  </div>
+<!-- Babel standalone — compiles JSX in-browser -->
+<script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
 
-  <!-- HISTORY SCREEN -->
-  <div id="screen-history" class="screen">
-    <div class="safe-top"></div>
-    <div class="header">
-      <div class="wordmark">History</div>
-    </div>
-    <div class="scroll-area" id="history-content">
-      <div class="loading">Loading…</div>
-    </div>
-    <div class="tab-bar">
-      <button class="tab-btn" onclick="showTab('today')">
-        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M3 9l9-7 9 7v11a2 2 0 01-2 2H5a2 2 0 01-2-2z"/></svg>
-        Today
-      </button>
-      <button class="tab-btn" onclick="showTab('cook')">
-        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 2a7 7 0 017 7c0 3.5-2.5 5.5-3 8H8c-.5-2.5-3-4.5-3-8a7 7 0 017-7z"/><line x1="8" y1="22" x2="16" y2="22"/><line x1="9" y1="18" x2="15" y2="18"/></svg>
-        Cook
-      </button>
-      <button class="tab-btn active" onclick="showTab('history')">
-        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>
-        History
-      </button>
-    </div>
-  </div>
+<!-- Design tokens + shared components (THALI_T, MEAL_TOKENS, TabBar, LangToggle, …) -->
+<script type="text/babel" src="src/components.jsx"></script>
 
-  <!-- DETAIL SCREEN -->
-  <div id="screen-detail" class="screen">
-    <div class="safe-top"></div>
-    <div class="header">
-      <div class="detail-back" onclick="closeDetail()">
-        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#F6EFE6" stroke-width="2.5"><polyline points="15 18 9 12 15 6"/></svg>
-      </div>
-      <div style="width:38px"></div>
-    </div>
-    <div class="scroll-area" id="detail-content"></div>
-  </div>
+<!-- Screen components (HomeScreen, MealDetailScreen, CookScreen, HistoryScreen) -->
+<script type="text/babel" src="src/screens.jsx"></script>
 
-</div>
-
-<script>
-const BASE = 'https://cuecrew.github.io/menu-generator';
-const MENU_URL = BASE + '/data/menu.json';
-const HISTORY_URL = BASE + '/data/history.json';
-const CACHE_KEY = 'thali_menu';
-const HISTORY_CACHE_KEY = 'thali_history';
-
-let currentMenu = null;
-let currentHistory = [];
-let activeTab = 'today';
-let prevScreen = null;
-
-const MEAL_COLORS = {
-  breakfast: '#F4B23C',
-  lunch:     '#34C77A',
-  dinner:    '#FB923C',
-};
-const MEAL_LABELS = {
-  breakfast: 'Breakfast · 8 AM',
-  lunch:     'Lunch · Packed by 9 AM',
-  dinner:    'Dinner · 9 PM',
-};
-
-// ── Fetch ──────────────────────────────────────────────────────────────
-async function loadMenu() {
-  try {
-    const r = await fetch(MENU_URL + '?t=' + Date.now());
-    const data = await r.json();
-    localStorage.setItem(CACHE_KEY, JSON.stringify(data));
-    currentMenu = data;
-    document.getElementById('offline-badge').style.display = 'none';
-  } catch (e) {
-    const cached = localStorage.getItem(CACHE_KEY);
-    if (cached) {
-      currentMenu = JSON.parse(cached);
-      document.getElementById('offline-badge').style.display = 'block';
-    }
-  }
-  renderToday();
-  renderCook();
-}
-
-async function loadHistory() {
-  try {
-    const r = await fetch(HISTORY_URL + '?t=' + Date.now());
-    const data = await r.json();
-    localStorage.setItem(HISTORY_CACHE_KEY, JSON.stringify(data));
-    currentHistory = data;
-  } catch (e) {
-    const cached = localStorage.getItem(HISTORY_CACHE_KEY);
-    if (cached) currentHistory = JSON.parse(cached);
-  }
-  renderHistory();
-}
-
-// ── Render Today ───────────────────────────────────────────────────────
-function renderToday() {
-  if (!currentMenu) return;
-  const m = currentMenu;
-
-  document.getElementById('today-date').textContent = m.date;
-  document.getElementById('generated-label').textContent =
-    m.date === 'Waiting for first generation...' ? '' : "Tomorrow's menu, generated tonight";
-
-  let html = '';
-  for (const meal of ['breakfast', 'lunch', 'dinner']) {
-    const d = m[meal];
-    const color = MEAL_COLORS[meal];
-    html += `
-      <div class="meal-card" onclick="openDetail('${meal}')">
-        <div class="meal-card-accent" style="background:${color}"></div>
-        <div class="meal-card-body">
-          <div class="meal-time" style="color:${color}">${MEAL_LABELS[meal]}</div>
-          <div class="meal-hindi">${d.dish_hindi}</div>
-          <div class="meal-english">${d.dish_english}</div>
-        </div>
-      </div>`;
-  }
-
-  const mac = m.vizz_daily_total_with_shake;
-  if (mac && mac.cal > 0) {
-    html += `
-      <div class="macro-strip">
-        <div class="macro-pill">🔥 <span>${mac.cal}</span> kcal</div>
-        <div class="macro-pill">💪 <span>${mac.protein}g</span> protein</div>
-        <div class="macro-pill">🥑 <span>${mac.fat}g</span> fat</div>
-        <div class="macro-pill">🌾 <span>${mac.carbs}g</span> carbs</div>
-      </div>
-      <div style="padding:0 16px 8px;font-size:12px;color:#6E665D">${m.macro_check}</div>`;
-  }
-
-  document.getElementById('today-content').innerHTML = html;
-}
-
-// ── Render Cook ────────────────────────────────────────────────────────
-function renderCook() {
-  if (!currentMenu) return;
-  const m = currentMenu;
-  const COOK_TIMES = {
-    breakfast: 'सुबह का नाश्ता (8 बजे) · 2 लोगों के लिए',
-    lunch:     'लंच / टिफ़िन (9 बजे) · 2 लोगों के लिए',
-    dinner:    'रात का खाना (9 बजे) · 3 लोगों के लिए',
-  };
-  let html = '';
-  for (const meal of ['breakfast', 'lunch', 'dinner']) {
-    const d = m[meal];
-    const color = MEAL_COLORS[meal];
-    const youtubeBtn = d.youtube_url
-      ? `<a href="${d.youtube_url}" target="_blank"><button class="cook-recipe-btn">▶ रेसिपी देखें (YouTube)</button></a>`
-      : '';
-    html += `
-      <div class="cook-meal-card">
-        <div class="cook-meal-accent" style="background:${color}"></div>
-        <div class="cook-meal-body">
-          <div class="cook-meal-time">${COOK_TIMES[meal]}</div>
-          <div class="cook-meal-hindi">${d.dish_hindi}</div>
-          <div class="cook-ingredients"><strong>सामग्री:</strong> ${d.ingredients_hindi}</div>
-          <div class="cook-prep"><strong>नोट:</strong> ${d.prep_notes}</div>
-          ${youtubeBtn}
-        </div>
-      </div>`;
-  }
-  document.getElementById('cook-content').innerHTML = html;
-}
-
-// ── Render History ─────────────────────────────────────────────────────
-function renderHistory() {
-  if (!currentHistory.length) {
-    document.getElementById('history-content').innerHTML =
-      '<div class="loading">No history yet — check back after the first menu generates.</div>';
-    return;
-  }
-  const reversed = [...currentHistory].reverse();
-  let html = '';
-  for (const entry of reversed) {
-    html += `
-      <div class="history-row">
-        <div class="history-date">${entry.date}</div>
-        <div class="history-meals">
-          🌅 ${entry.breakfast.dish_english}<br>
-          🌿 ${entry.lunch.dish_english}<br>
-          🌙 ${entry.dinner.dish_english}
-        </div>
-      </div>`;
-  }
-  document.getElementById('history-content').innerHTML = html;
-}
-
-// ── Detail ─────────────────────────────────────────────────────────────
-function openDetail(meal) {
-  if (!currentMenu) return;
-  prevScreen = activeTab;
-  const d = currentMenu[meal];
-  const color = MEAL_COLORS[meal];
-  const youtubeBtn = d.youtube_url
-    ? `<a href="${d.youtube_url}" target="_blank" style="display:block;margin-bottom:14px"><button class="watch-btn">▶ Watch Recipe on YouTube</button></a>`
-    : '';
-  const chips = d.ingredients_hindi
-    ? d.ingredients_hindi.split(',').map(i => `<span class="ingredient-chip">${i.trim()}</span>`).join('')
-    : '';
-
-  document.getElementById('detail-content').innerHTML = `
-    <div style="padding:0 20px 20px">
-      <div style="width:48px;height:4px;border-radius:2px;background:${color};margin-bottom:16px"></div>
-      <div class="detail-hindi">${d.dish_hindi}</div>
-      <div class="detail-english">${d.dish_english}</div>
-    </div>
-    <div style="padding:0 20px 20px">
-      <div class="section-label">Ingredients</div>
-      <div class="ingredients-list">${chips}</div>
-    </div>
-    <div style="padding:0 20px 20px">
-      <div class="section-label">Prep Notes (Cook)</div>
-      <div class="prep-card">${d.prep_notes}</div>
-    </div>
-    <div style="padding:0 20px 20px">
-      ${youtubeBtn}
-    </div>
-    <div style="padding:0 20px 20px">
-      <div class="section-label">Vizz's Macros — This Meal</div>
-      <div class="macro-grid">
-        <div class="macro-tile"><div class="macro-tile-label">Calories</div><div class="macro-tile-value">${d.vizz_macros.cal}<span class="macro-tile-unit"> kcal</span></div></div>
-        <div class="macro-tile"><div class="macro-tile-label">Protein</div><div class="macro-tile-value">${d.vizz_macros.protein}<span class="macro-tile-unit">g</span></div></div>
-        <div class="macro-tile"><div class="macro-tile-label">Fat</div><div class="macro-tile-value">${d.vizz_macros.fat}<span class="macro-tile-unit">g</span></div></div>
-        <div class="macro-tile"><div class="macro-tile-label">Carbs</div><div class="macro-tile-value">${d.vizz_macros.carbs}<span class="macro-tile-unit">g</span></div></div>
-      </div>
-    </div>`;
-
-  showScreen('detail');
-}
-
-function closeDetail() {
-  showScreen(prevScreen || 'today');
-}
-
-// ── Navigation ─────────────────────────────────────────────────────────
-function showScreen(name) {
-  document.querySelectorAll('.screen').forEach(s => s.classList.remove('active'));
-  document.getElementById('screen-' + name).classList.add('active');
-}
-
-function showTab(tab) {
-  activeTab = tab;
-  showScreen(tab);
-  document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
-  document.querySelectorAll('.tab-btn').forEach(b => {
-    if (b.getAttribute('onclick') === `showTab('${tab}')`) b.classList.add('active');
-  });
-}
-
-// ── Boot ───────────────────────────────────────────────────────────────
-loadMenu();
-loadHistory();
-
-if ('serviceWorker' in navigator) {
-  navigator.serviceWorker.register('sw.js').catch(() => {});
-}
-</script>
+<!-- Root app (ThaliApp — fetches data, manages state, renders screens) -->
+<script type="text/babel" src="src/app.jsx"></script>
 </body>
 </html>
