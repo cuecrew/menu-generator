@@ -1,119 +1,113 @@
 {
-  "date": "2026-05-18 (Monday)",
-  "date_display": "Monday, May 18",
-  "date_short": "Mon · May 18",
+  "date": "2026-05-19 (Tuesday)",
+  "date_display": "Tuesday, May 19",
+  "date_short": "Tue · May 19",
   "generated_label": "Generated last night for today",
   "breakfast": {
-    "dish_hindi": "ओट्स उपमा",
-    "dish_english": "Oats Upma",
-    "ingredients_hindi": "ओट्स, प्याज, गाजर, मटर, हरी मिर्च, कड़ी पत्ता, सरसों के बीज, नमक",
+    "dish_hindi": "अंडा भुर्जी और टोस्ट",
+    "dish_english": "Egg Bhurji and Toast",
+    "ingredients_hindi": "अंडा, प्याज, टमाटर, हरी मिर्च, मक्खन, ब्रेड",
     "ingredients_list_hi": [
-      "ओट्स",
+      "अंडा",
       "प्याज",
-      "गाजर",
-      "मटर",
+      "टमाटर",
       "हरी मिर्च",
-      "कड़ी पत्ता",
-      "सरसों के बीज",
-      "नमक"
+      "मक्खन",
+      "ब्रेड"
     ],
     "ingredients_list_en": [
-      "Oats",
+      "Egg",
       "Onion",
-      "Carrot",
-      "Peas",
-      "Green Chili",
-      "Curry Leaves",
-      "Mustard Seeds",
-      "Salt"
+      "Tomato",
+      "Green chili",
+      "Butter",
+      "Bread"
     ],
-    "youtube_url": "https://www.youtube.com/watch?v=XxUpmaExample",
-    "prep_notes_hi": "ओट्स को पानी में भिगो कर रखें। मसालों को पहले गरम तेल में तड़का दें, फिर बाकी सामग्री डालें।",
-    "prep_notes_en": "Soak the oats in water beforehand. In heated oil, temper the spices first, then add the remaining ingredients.",
+    "prep_notes_hi": "अंडा भुर्जी बनाने के लिए अंडे को फेंटकर सब्जियों के साथ पकाएं। इसे मसालों के साथ अच्छे से मिलाएं।",
+    "prep_notes_en": "Whisk the eggs and cook them with vegetables to make egg bhurji. Mix well with spices.",
     "vizz_macros": {
-      "cal": 350,
-      "protein": 12,
-      "fat": 8,
-      "carbs": 60
-    }
+      "cal": 400,
+      "protein": 20,
+      "fat": 15,
+      "carbs": 30
+    },
+    "youtube_url": "https://www.youtube.com/results?search_query=egg%20bhurji%20recipe%20recipe"
   },
   "lunch": {
-    "dish_hindi": "चने की दाल और चावल",
-    "dish_english": "Chana Dal and Rice",
-    "ingredients_hindi": "चना दाल, चावल, प्याज, टमाटर, हल्दी, जीरा, नमक",
+    "dish_hindi": "राजमा चावल और पापड़",
+    "dish_english": "Rajma Rice and Papad",
+    "ingredients_hindi": "राजमा, चावल, अदरक, लहसुन, प्याज, टमाटर, मसाले, पापड़",
     "ingredients_list_hi": [
-      "चना दाल",
+      "राजमा",
       "चावल",
+      "अदरक",
+      "लहसुन",
       "प्याज",
       "टमाटर",
-      "हल्दी",
-      "जीरा",
-      "नमक"
+      "मसाले",
+      "पापड़"
     ],
     "ingredients_list_en": [
-      "Chana Dal (Split Chickpeas)",
+      "Kidney beans",
       "Rice",
+      "Ginger",
+      "Garlic",
       "Onion",
       "Tomato",
-      "Turmeric",
-      "Cumin Seeds",
-      "Salt"
+      "Spices",
+      "Papad"
     ],
-    "youtube_url": "https://www.youtube.com/watch?v=ChanaRiceExample",
-    "prep_notes_hi": "दाल और चावल को अलग-अलग पकाएं। यह यात्रा के लिए और माइक्रोवेव में गरम करने के लिए उपयुक्त है।",
-    "prep_notes_en": "Cook dal and rice separately. This dish is suitable for travel and reheating in a microwave.",
+    "prep_notes_hi": "राजमा को पहले से भिगोकर पकाएं। यह यात्रा के लिए उपयुक्त है और माइक्रोवेव में दोबारा गरम किया जा सकता है।",
+    "prep_notes_en": "Soak the kidney beans before cooking. Suitable for travel and reheating in microwave.",
     "vizz_macros": {
       "cal": 600,
-      "protein": 18,
+      "protein": 20,
       "fat": 10,
-      "carbs": 105
-    }
+      "carbs": 95
+    },
+    "youtube_url": "https://www.youtube.com/results?search_query=rajma%20rice%20recipe%20recipe"
   },
   "dinner": {
-    "dish_hindi": "पालक पनीर और तंदूरी रोटी",
-    "dish_english": "Palak Paneer and Tandoori Roti",
-    "ingredients_hindi": "पालक, पनीर, प्याज, टमाटर, लहसुन, अदरक, जीरा, नमक",
+    "dish_hindi": "मिक्स्ड सब्ज़ी और रोटी",
+    "dish_english": "Mixed Vegetable and Roti",
+    "ingredients_hindi": "गाजर, मटर, गोभी, आलू, मसाले, रोटी",
     "ingredients_list_hi": [
-      "पालक",
-      "पनीर",
-      "प्याज",
-      "टमाटर",
-      "लहसुन",
-      "अदरक",
-      "जीरा",
-      "नमक"
+      "गाजर",
+      "मटर",
+      "गोभी",
+      "आलू",
+      "मसाले",
+      "रोटी"
     ],
     "ingredients_list_en": [
-      "Spinach",
-      "Paneer (Cottage Cheese)",
-      "Onion",
-      "Tomato",
-      "Garlic",
-      "Ginger",
-      "Cumin Seeds",
-      "Salt"
+      "Carrot",
+      "Peas",
+      "Cauliflower",
+      "Potato",
+      "Spices",
+      "Roti"
     ],
-    "youtube_url": "https://www.youtube.com/watch?v=PalakPaneerExample",
-    "prep_notes_hi": "पालक को उबाल कर प्यूरी बना लें। मसालों के साथ मिलाकर पनीर डालें। तंदूरी रोटी के साथ परोसें।",
-    "prep_notes_en": "Blanch the spinach and make a puree. Mix with spices and add paneer. Serve with tandoori roti.",
+    "prep_notes_hi": "सब्जियों को एक साथ डालकर अच्छी तरह से पकाएं। स्वाद को बढ़ाने के लिए मसालों का उपयोग करें।",
+    "prep_notes_en": "Combine vegetables and cook thoroughly. Use spices to enhance flavor.",
     "vizz_macros": {
-      "cal": 750,
-      "protein": 28,
-      "fat": 27,
-      "carbs": 110
-    }
+      "cal": 700,
+      "protein": 30,
+      "fat": 20,
+      "carbs": 75
+    },
+    "youtube_url": "https://www.youtube.com/results?search_query=mixed%20veg%20sabzi%20recipe%20recipe"
   },
   "vizz_daily_total_from_meals": {
     "cal": 1700,
-    "protein": 58,
+    "protein": 70,
     "fat": 45,
     "carbs": 200
   },
   "vizz_daily_total_with_shake": {
     "cal": 2000,
-    "protein": 98,
+    "protein": 110,
     "fat": 50,
     "carbs": 225
   },
-  "macro_check": "Falls short of protein target by 12g; otherwise, calories, fat, and carbs are hitting target."
+  "macro_check": "Hits target of 2000 cal, 110g protein, 60g fat, and 215g carbs with slight excess in carbs."
 }
