@@ -255,9 +255,9 @@ def save_files(menu: dict, tomorrow_menu: dict):
 
 # ---------- MAIN ----------
 def main():
-    now           = datetime.now()
-    tomorrow      = now + timedelta(days=1)
-    day_after     = now + timedelta(days=2)
+    now       = datetime.now()
+    tomorrow  = now + timedelta(days=1)
+    day_after = now + timedelta(days=2)
 
     history = load_history()
     recent_dishes = [
@@ -270,12 +270,24 @@ def main():
         for h in history[-3:]
     ]
 
-    # Generate D+1 (tomorrow — shown as "today" in the app)
-    print(f"Generating menu for {format_date_display(tomorrow)}…")
-    menu = generate_menu(tomorrow, recent_dishes)
+    # ── D+1: promote yesterday's "tomorrow" if it matches, else generate fresh ──
+    # This ensures the menu the user saw in the Next tab is the same one
+    # that appears as Today the following day — no surprise changes.
+    expected_date_prefix = tomorrow.strftime("%Y-%m-%d")
+    menu = None
 
-    # Generate D+2 (day after — shown in "Next" tab for grocery planning)
-    # Pass tomorrow's menu as extra context to avoid repeats
+    if os.path.exists(TOMORROW_FILE):
+        with open(TOMORROW_FILE, encoding="utf-8") as f:
+            cached = json.load(f)
+        if cached.get("date", "").startswith(expected_date_prefix):
+            menu = cached
+            print(f"Promoting pre-generated menu for {format_date_display(tomorrow)} (no re-generation)")
+
+    if menu is None:
+        print(f"Generating menu for {format_date_display(tomorrow)}…")
+        menu = generate_menu(tomorrow, recent_dishes)
+
+    # ── D+2: always generate fresh for the Next tab ──
     recent_plus_tomorrow = recent_dishes + [{
         "date":      menu.get("date", ""),
         "breakfast": menu["breakfast"]["dish_english"],
