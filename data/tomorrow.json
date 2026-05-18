@@ -1,0 +1,42 @@
+{
+  "date": "Waiting for first generation...",
+  "date_display": "—",
+  "date_short": "—",
+  "generated_label": "Generates tonight at 10 PM IST",
+  "breakfast": {
+    "dish_hindi": "—",
+    "dish_english": "Not generated yet",
+    "ingredients_hindi": "",
+    "ingredients_list_hi": [],
+    "ingredients_list_en": [],
+    "youtube_url": "",
+    "prep_notes_hi": "",
+    "prep_notes_en": "",
+    "vizz_macros": { "cal": 0, "protein": 0, "fat": 0, "carbs": 0 }
+  },
+  "lunch": {
+    "dish_hindi": "—",
+    "dish_english": "Not generated yet",
+    "ingredients_hindi": "",
+    "ingredients_list_hi": [],
+    "ingredients_list_en": [],
+    "youtube_url": "",
+    "prep_notes_hi": "",
+    "prep_notes_en": "",
+    "vizz_macros": { "cal": 0, "protein": 0, "fat": 0, "carbs": 0 }
+  },
+  "dinner": {
+    "dish_hindi": "—",
+    "dish_english": "Not generated yet",
+    "ingredients_hindi": "",
+    "ingredients_list_hi": [],
+    "ingredients_list_en": [],
+    "youtube_url": "",
+    "prep_notes_hi": "",
+    "prep_notes_en": "",
+    "vizz_macros": { "cal": 0, "protein": 0, "fat": 0, "carbs": 0 }
+  },
+  "vizz_daily_total_from_meals": { "cal": 0, "protein": 0, "fat": 0, "carbs": 0 },
+  "vizz_daily_total_with_shake": { "cal": 0, "protein": 0, "fat": 0, "carbs": 0 },
+  "macro_check": ""
+}

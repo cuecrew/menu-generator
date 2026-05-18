@@ -91,6 +91,7 @@ function TabBar({ active, onChange, dark = true }) {
   const tabs = [
     { id: 'today',   label: 'Today',   icon: 'today'   },
     { id: 'cook',    label: 'Cook',    icon: 'cook'    },
+    { id: 'next',    label: 'Next',    icon: 'next'    },
     { id: 'history', label: 'History', icon: 'history' },
   ];
   return (
@@ -110,6 +111,7 @@ function TabIcon({ kind, active }) {
   if (kind === 'today')   return <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke={c} strokeWidth={w} strokeLinecap="round" strokeLinejoin="round"><rect x="3" y="5" width="18" height="16" rx="3"/><path d="M3 10h18M8 3v4M16 3v4"/>{active && <circle cx="12" cy="15" r="1.6" fill={c} stroke="none"/>}</svg>;
   if (kind === 'cook')    return <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke={c} strokeWidth={w} strokeLinecap="round" strokeLinejoin="round"><path d="M6 11h12l-1.2 7.2a2 2 0 0 1-2 1.8H9.2a2 2 0 0 1-2-1.8L6 11z"/><path d="M5 11h14"/><path d="M8 8c0-1.5 1-2 2-2s2 .5 2 2-1 2 0 3M14 8c0-1.5 1-2 2-2"/></svg>;
   if (kind === 'history') return <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke={c} strokeWidth={w} strokeLinecap="round" strokeLinejoin="round"><path d="M3 12a9 9 0 1 0 3-6.7L3 8"/><path d="M3 3v5h5"/><path d="M12 7v5l3 2"/></svg>;
+  if (kind === 'next')    return <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke={c} strokeWidth={w} strokeLinecap="round" strokeLinejoin="round"><rect x="3" y="4" width="18" height="17" rx="2"/><path d="M3 9h18"/><path d="M8 2v4M16 2v4"/>{active && <path d="M8 14h4M8 17h6" strokeWidth="1.8"/>}</svg>;
   return null;
 }
 

@@ -708,7 +708,213 @@ function MealRowMini({ accent, label, name, dark = true, lang = 'en' }) {
   );
 }
 
+// ───────────────────────── Next day + Grocery list ─────────────────────────
+
+function NextScreen({ menu, dark = true, lang = 'en', onChangeLang = () => {} }) {
+  const T = window.THALI_T;
+  const { useState: useLocalState } = React;
+  const fg     = dark ? T.cream    : T.cookInk;
+  const muted  = dark ? T.creamMuted  : T.cookInkMuted;
+  const subtle = dark ? T.creamSubtle : T.cookInkMuted;
+
+  // Build consolidated unique ingredient list from all 3 meals
+  const allIngredients = React.useMemo(() => {
+    if (!menu) return [];
+    const seen = new Set();
+    const list = [];
+    for (const slot of ['breakfast', 'lunch', 'dinner']) {
+      const meal = menu[slot];
+      const items = lang === 'hi'
+        ? (meal.ingredients_list_hi || [])
+        : (meal.ingredients_list_en || []);
+      for (const item of items) {
+        const key = item.trim().toLowerCase();
+        if (key && !seen.has(key)) { seen.add(key); list.push({ item: item.trim(), slot }); }
+      }
+    }
+    return list;
+  }, [menu, lang]);
+
+  // Grocery checklist — persisted per date so it resets for each new day
+  const storageKey = `thali_groceries_${menu?.date?.substring(0, 10) || 'next'}`;
+  const [checked, setChecked] = useLocalState(() => {
+    try { return JSON.parse(localStorage.getItem(storageKey) || '{}'); }
+    catch { return {}; }
+  });
+
+  const toggle = (item) => {
+    setChecked(prev => {
+      const next = { ...prev, [item]: !prev[item] };
+      localStorage.setItem(storageKey, JSON.stringify(next));
+      return next;
+    });
+  };
+
+  const checkedCount = Object.values(checked).filter(Boolean).length;
+
+  if (!menu || !menu.breakfast?.dish_english || menu.breakfast.dish_english === 'Not generated yet') {
+    return (
+      <div style={{ padding: '70px 20px 130px', color: fg, fontFamily: T.fontUI }}>
+        <div style={{ fontFamily: T.fontDisplay, fontSize: 32, fontWeight: 600, letterSpacing: -1, color: fg, marginBottom: 8 }}>
+          Next
+        </div>
+        <div style={{ fontSize: 13, color: muted, marginTop: 40, lineHeight: 1.6 }}>
+          Tomorrow's menu will appear here after the first nightly generation.
+        </div>
+      </div>
+    );
+  }
+
+  const slotAccent = { breakfast: T.saffron, lunch: T.pista, dinner: T.terra };
+
+  return (
+    <div style={{ padding: '70px 20px 130px', color: fg, fontFamily: T.fontUI, minHeight: '100%' }}>
+
+      {/* Header */}
+      <div style={{ marginBottom: 20, display: 'flex', alignItems: 'flex-start', justifyContent: 'space-between' }}>
+        <div>
+          <div style={{ fontFamily: T.fontDisplay, fontSize: 32, fontWeight: 600, letterSpacing: -1, lineHeight: 1, color: fg }}>
+            Next
+          </div>
+          <div style={{ fontSize: 13, color: muted, marginTop: 6, fontWeight: 500 }}>
+            {menu.date_display || menu.date}
+          </div>
+        </div>
+        <LangToggle lang={lang} onChange={onChangeLang} dark={dark}/>
+      </div>
+
+      {/* Compact meal previews */}
+      <div style={{
+        fontSize: 11, fontWeight: 600, letterSpacing: 0.8, textTransform: 'uppercase',
+        color: subtle, marginBottom: 10,
+      }}>
+        Menu
+      </div>
+      <div style={{ display: 'flex', flexDirection: 'column', gap: 8, marginBottom: 28 }}>
+        {['breakfast', 'lunch', 'dinner'].map(slot => {
+          const tok  = window.MEAL_TOKENS[slot];
+          const meal = menu[slot];
+          const name = lang === 'hi' ? meal.dish_hindi : meal.dish_english;
+          return (
+            <div key={slot} style={{
+              display: 'flex', alignItems: 'center', gap: 12,
+              padding: '12px 16px',
+              borderRadius: 14,
+              background: dark ? 'rgba(246,239,230,0.025)' : 'rgba(35,25,21,0.025)',
+              border: `1px solid ${dark ? T.hairline : T.cookHairline}`,
+              position: 'relative', overflow: 'hidden',
+            }}>
+              <div style={{ position: 'absolute', left: 0, top: 0, bottom: 0, width: 3, background: tok.accent, borderRadius: '14px 0 0 14px' }}/>
+              <div style={{ marginLeft: 4, flex: 1, minWidth: 0 }}>
+                <div style={{ fontSize: 10, fontWeight: 600, letterSpacing: 0.8, textTransform: 'uppercase', color: tok.accent, marginBottom: 3 }}>
+                  {tok.label}
+                </div>
+                <div style={{
+                  fontFamily: lang === 'hi' ? T.fontDeva : T.fontUI,
+                  fontSize: lang === 'hi' ? 15 : 14, fontWeight: 600,
+                  color: fg, letterSpacing: -0.2, lineHeight: 1.2,
+                }}>
+                  {name}
+                </div>
+              </div>
+              <div style={{ fontFamily: T.fontMono, fontSize: 10.5, color: subtle }}>
+                {tok.timeWindow}
+              </div>
+            </div>
+          );
+        })}
+      </div>
+
+      {/* Grocery checklist */}
+      <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', marginBottom: 10 }}>
+        <div style={{ fontSize: 11, fontWeight: 600, letterSpacing: 0.8, textTransform: 'uppercase', color: subtle }}>
+          Groceries
+        </div>
+        <div style={{ fontSize: 11, color: subtle, fontFamily: T.fontMono }}>
+          {checkedCount}/{allIngredients.length}
+        </div>
+      </div>
+
+      {/* Progress bar */}
+      <div style={{
+        height: 3, borderRadius: 999, marginBottom: 14,
+        background: dark ? 'rgba(246,239,230,0.08)' : 'rgba(35,25,21,0.08)',
+      }}>
+        <div style={{
+          height: '100%', borderRadius: 999,
+          background: T.pista,
+          width: `${allIngredients.length ? (checkedCount / allIngredients.length) * 100 : 0}%`,
+          transition: 'width 0.3s ease',
+        }}/>
+      </div>
+
+      <div style={{ display: 'flex', flexDirection: 'column', gap: 0 }}>
+        {allIngredients.map(({ item, slot }, i) => {
+          const isChecked = !!checked[item];
+          const accent = slotAccent[slot];
+          return (
+            <button
+              key={i}
+              onClick={() => toggle(item)}
+              style={{
+                all: 'unset', cursor: 'pointer',
+                display: 'flex', alignItems: 'center', gap: 12,
+                padding: '11px 4px',
+                borderBottom: i < allIngredients.length - 1 ? `1px solid ${dark ? T.hairline : T.cookHairline}` : 'none',
+              }}
+            >
+              {/* Checkbox */}
+              <div style={{
+                width: 20, height: 20, borderRadius: 6, flexShrink: 0,
+                border: `1.5px solid ${isChecked ? T.pista : (dark ? T.creamSubtle : T.cookInkMuted)}`,
+                background: isChecked ? T.pista : 'transparent',
+                display: 'flex', alignItems: 'center', justifyContent: 'center',
+                transition: 'all 0.15s',
+              }}>
+                {isChecked && (
+                  <svg width="11" height="11" viewBox="0 0 12 12" fill="none">
+                    <path d="M2 6l3 3 5-5" stroke="#0E0B09" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"/>
+                  </svg>
+                )}
+              </div>
+              {/* Slot dot */}
+              <div style={{ width: 6, height: 6, borderRadius: 999, background: accent, flexShrink: 0, opacity: 0.7 }}/>
+              {/* Name */}
+              <span style={{
+                fontFamily: lang === 'hi' ? T.fontDeva : T.fontUI,
+                fontSize: lang === 'hi' ? 15 : 14,
+                color: isChecked ? subtle : fg,
+                fontWeight: 500,
+                textDecoration: isChecked ? 'line-through' : 'none',
+                transition: 'color 0.15s',
+                letterSpacing: lang === 'hi' ? 0 : -0.1,
+                flex: 1,
+              }}>
+                {item}
+              </span>
+            </button>
+          );
+        })}
+      </div>
+
+      {checkedCount === allIngredients.length && allIngredients.length > 0 && (
+        <div style={{
+          marginTop: 20, padding: '12px 16px', borderRadius: 12,
+          background: dark ? 'rgba(143,184,97,0.07)' : 'rgba(143,184,97,0.12)',
+          border: `1px solid rgba(143,184,97,0.25)`,
+          display: 'flex', gap: 8, alignItems: 'center',
+        }}>
+          <div style={{ width: 6, height: 6, borderRadius: 999, background: T.pista, flexShrink: 0 }}/>
+          <div style={{ fontSize: 13, color: dark ? T.cream : T.cookInk, fontWeight: 500 }}>
+            All groceries sorted ✓
+          </div>
+        </div>
+      )}
+    </div>
+  );
+}
+
 Object.assign(window, {
   HomeScreen, MealCard, MealDetailScreen, CookScreen, CookMealCard,
-  HistoryScreen, HistoryRow, MealRowMini,
+  HistoryScreen, HistoryRow, MealRowMini, NextScreen,
 });

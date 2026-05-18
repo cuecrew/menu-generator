@@ -221,8 +221,9 @@ def send_whatsapp(to_number: str, message: str) -> dict:
 
 
 # ---------- HISTORY ----------
-HISTORY_FILE = "data/history.json"
-MENU_FILE    = "data/menu.json"
+HISTORY_FILE  = "data/history.json"
+MENU_FILE     = "data/menu.json"
+TOMORROW_FILE = "data/tomorrow.json"
 
 def load_history() -> list:
     if not os.path.exists(HISTORY_FILE):
@@ -230,15 +231,20 @@ def load_history() -> list:
     with open(HISTORY_FILE, encoding="utf-8") as f:
         return json.load(f)
 
-def save_files(menu: dict):
+def save_files(menu: dict, tomorrow_menu: dict):
     os.makedirs("data", exist_ok=True)
 
-    # Write today's menu for the PWA
+    # Today's menu (D+1 from run time)
     with open(MENU_FILE, "w", encoding="utf-8") as f:
         json.dump(menu, f, indent=2, ensure_ascii=False)
     print(f"Saved {MENU_FILE}")
 
-    # Append full menu to history (keep last 30 days)
+    # Tomorrow's menu (D+2 from run time) — for grocery planning
+    with open(TOMORROW_FILE, "w", encoding="utf-8") as f:
+        json.dump(tomorrow_menu, f, indent=2, ensure_ascii=False)
+    print(f"Saved {TOMORROW_FILE}")
+
+    # Append today's menu to history (keep last 30 days)
     history = load_history()
     history.append(menu)
     history = history[-30:]
@@ -249,8 +255,9 @@ def save_files(menu: dict):
 
 # ---------- MAIN ----------
 def main():
-    now      = datetime.now()
-    tomorrow = now + timedelta(days=1)
+    now           = datetime.now()
+    tomorrow      = now + timedelta(days=1)
+    day_after     = now + timedelta(days=2)
 
     history = load_history()
     recent_dishes = [
@@ -263,8 +270,20 @@ def main():
         for h in history[-3:]
     ]
 
+    # Generate D+1 (tomorrow — shown as "today" in the app)
     print(f"Generating menu for {format_date_display(tomorrow)}…")
     menu = generate_menu(tomorrow, recent_dishes)
+
+    # Generate D+2 (day after — shown in "Next" tab for grocery planning)
+    # Pass tomorrow's menu as extra context to avoid repeats
+    recent_plus_tomorrow = recent_dishes + [{
+        "date":      menu.get("date", ""),
+        "breakfast": menu["breakfast"]["dish_english"],
+        "lunch":     menu["lunch"]["dish_english"],
+        "dinner":    menu["dinner"]["dish_english"],
+    }]
+    print(f"Generating menu for {format_date_display(day_after)}…")
+    tomorrow_menu = generate_menu(day_after, recent_plus_tomorrow)
 
     flatmate_msg = format_whatsapp_message(menu)
     cook_msg     = format_cook_message(menu)
@@ -274,7 +293,7 @@ def main():
     print("\n=== COOK MESSAGE ===")
     print(cook_msg)
 
-    save_files(menu)
+    save_files(menu, tomorrow_menu)
 
     # Send WhatsApp if credentials are present
     if WHATSAPP_TOKEN and FLATMATE_NUMBERS:

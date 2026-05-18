@@ -5,8 +5,9 @@ const { useState, useEffect } = React;
 
 const IS_LOCAL = location.hostname === 'localhost' || location.hostname === '127.0.0.1';
 const BASE = IS_LOCAL ? '' : 'https://cuecrew.github.io/menu-generator';
-const MENU_URL    = BASE + '/data/menu.json';
-const HISTORY_URL = BASE + '/data/history.json';
+const MENU_URL     = BASE + '/data/menu.json';
+const TOMORROW_URL = BASE + '/data/tomorrow.json';
+const HISTORY_URL  = BASE + '/data/history.json';
 
 // ── Helpers ──────────────────────────────────────────────────────────────
 
@@ -114,12 +115,13 @@ function EmptyMenu() {
 // ── Root app ──────────────────────────────────────────────────────────────
 
 function ThaliApp() {
-  const [menu,    setMenu]    = useState(null);   // null = loading
-  const [history, setHistory] = useState([]);
-  const [tab,     setTab]     = useState('today');
-  const [detail,  setDetail]  = useState(null);  // slot string: 'breakfast'|'lunch'|'dinner'
-  const [offline, setOffline] = useState(false);
-  const [lang,    setLang]    = useState('en');
+  const [menu,     setMenu]    = useState(null);   // null = loading
+  const [tomorrow, setTomorrow] = useState(null);
+  const [history,  setHistory] = useState([]);
+  const [tab,      setTab]     = useState('today');
+  const [detail,   setDetail]  = useState(null);  // slot string: 'breakfast'|'lunch'|'dinner'
+  const [offline,  setOffline] = useState(false);
+  const [lang,     setLang]    = useState('en');
   const T = window.THALI_T;
 
   // ── Data fetching ──────────────────────────────────────────────────────
@@ -136,6 +138,18 @@ function ThaliApp() {
         const cached = localStorage.getItem('thali_menu');
         if (cached) { setMenu(JSON.parse(cached)); setOffline(true); }
         else setMenu(EmptyMenu());
+      });
+
+    // Tomorrow's menu (for grocery planning)
+    fetch(TOMORROW_URL + '?t=' + Date.now())
+      .then(r => { if (!r.ok) throw new Error(r.status); return r.json(); })
+      .then(data => {
+        localStorage.setItem('thali_tomorrow', JSON.stringify(data));
+        setTomorrow(data);
+      })
+      .catch(() => {
+        const cached = localStorage.getItem('thali_tomorrow');
+        if (cached) setTomorrow(JSON.parse(cached));
       });
 
     // History
@@ -194,6 +208,14 @@ function ThaliApp() {
           )}
           {tab === 'cook' && (
             <CookScreen menu={menu} />
+          )}
+          {tab === 'next' && (
+            <NextScreen
+              menu={tomorrow}
+              dark={true}
+              lang={lang}
+              onChangeLang={setLang}
+            />
           )}
           {tab === 'history' && (
             <HistoryScreen
