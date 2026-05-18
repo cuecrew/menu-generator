@@ -7,6 +7,7 @@ and writes menu.json + history.json for the PWA to display.
 
 import os
 import json
+import urllib.parse
 import requests
 from datetime import datetime, timedelta
 from openai import OpenAI
@@ -34,14 +35,19 @@ DIET_RULES = """
 - Cook has 45 min in morning (breakfast + lunch prep) and 45 min at night (dinner). Stay within this.
 - Breakfast + lunch served to 2 people (Vizz + Flatmate-2). Dinner served to 3 people.
 - Lunch must be office-portable, hold 4-5 hours unrefrigerated, microwave-reheatable.
-- Avoid soggy items (dosa, puri) or salads that wilt. Good lunch: dal-rice, rajma-rice, chole-rice,
-  pulao, paratha + sabzi, curd rice, biryani-style.
+- Avoid soggy items (dosa, puri) or salads that wilt. Good portable lunches: dal-rice, rajma-rice,
+  chole-rice, pulao, paratha + sabzi, curd rice, pasta salad, grain bowls.
 - Vizz needs: 2000 cal / 110g protein / 60g fat / 215g carbs daily.
 - Vizz takes a 40g protein shake (plant protein + 500ml milk) — counts toward daily total but NOT
   part of cooked meals. Shake adds: 300 cal / 40g protein / 5g fat / 25g carbs.
 - Cooked meals for Vizz must deliver: ~1700 cal / ~70g protein / ~45g fat / ~200g carbs
   across breakfast + lunch + dinner combined.
-- Indian cuisine focus. Variety across the week. No repeats from last 3 days.
+- CUISINE: Primarily Indian home cooking, but variety is strongly encouraged. Non-Indian meals are
+  welcome — e.g. sprout salad, pasta, oats, continental breakfast, grain bowls, Asian noodles.
+  Aim for at least 1 non-Indian meal every 2-3 days. No repeats from last 3 days.
+- ACCOMPANIMENTS: Meals should feel complete. Include natural sides where they fit —
+  raita, chutney, cut salad, pickle, curd, papad. List them as part of the dish.
+  e.g. dish_english = "Rajma with Basmati Rice, Boondi Raita & Sliced Onion"
 """
 
 
@@ -79,34 +85,34 @@ Return ONLY valid JSON in this exact structure:
   "date_short": "{date_short}",
   "generated_label": "Generated last night for today",
   "breakfast": {{
-    "dish_hindi": "string (Hindi/Devanagari name)",
-    "dish_english": "string (English name)",
-    "ingredients_hindi": "string (comma-separated ingredients in Hindi/Devanagari)",
-    "ingredients_list_hi": ["array", "of", "individual", "Hindi/Devanagari", "ingredients"],
-    "ingredients_list_en": ["array", "of", "individual", "English", "ingredients"],
-    "youtube_url": "string (a real YouTube recipe URL for this dish)",
-    "prep_notes_hi": "string (2-4 sentences in Hindi/Devanagari: key technique tips for the cook)",
-    "prep_notes_en": "string (2-4 sentences in English: same tips for someone who prefers English)",
+    "dish_hindi": "string (Devanagari, include accompaniments e.g. 'पोहा, बूँदी रायता')",
+    "dish_english": "string (English, include accompaniments e.g. 'Poha with Peanut Chutney & Curd')",
+    "ingredients_hindi": "string (comma-separated in Devanagari)",
+    "ingredients_list_hi": ["individual", "Devanagari", "ingredients"],
+    "ingredients_list_en": ["individual", "English", "ingredients"],
+    "youtube_search_query": "string (3-5 words to search YouTube, e.g. 'poha recipe hindi')",
+    "prep_notes_hi": "string (2-4 sentences in Devanagari: key technique tips for the cook)",
+    "prep_notes_en": "string (2-4 sentences in English: same tips)",
     "vizz_macros": {{"cal": int, "protein": int, "fat": int, "carbs": int}}
   }},
   "lunch": {{
-    "dish_hindi": "string",
-    "dish_english": "string",
+    "dish_hindi": "string (include accompaniments)",
+    "dish_english": "string (include accompaniments)",
     "ingredients_hindi": "string",
     "ingredients_list_hi": ["array"],
     "ingredients_list_en": ["array"],
-    "youtube_url": "string",
+    "youtube_search_query": "string (3-5 words)",
     "prep_notes_hi": "string (mention it must travel + reheat well)",
     "prep_notes_en": "string (mention it must travel + reheat well)",
     "vizz_macros": {{"cal": int, "protein": int, "fat": int, "carbs": int}}
   }},
   "dinner": {{
-    "dish_hindi": "string",
-    "dish_english": "string",
+    "dish_hindi": "string (include accompaniments)",
+    "dish_english": "string (include accompaniments)",
     "ingredients_hindi": "string",
     "ingredients_list_hi": ["array"],
     "ingredients_list_en": ["array"],
-    "youtube_url": "string",
+    "youtube_search_query": "string (3-5 words)",
     "prep_notes_hi": "string",
     "prep_notes_en": "string",
     "vizz_macros": {{"cal": int, "protein": int, "fat": int, "carbs": int}}
@@ -117,9 +123,10 @@ Return ONLY valid JSON in this exact structure:
 }}
 
 Rules for ingredients arrays:
-- ingredients_list_hi: each item is a single ingredient in Hindi/Devanagari (e.g. "पोहा", "प्याज")
+- ingredients_list_hi: each item is a single ingredient in Devanagari (e.g. "पोहा", "प्याज")
 - ingredients_list_en: each item is a single ingredient in English (e.g. "Poha (flattened rice)", "Onion")
 - ingredients_hindi: the comma-separated string version for cook display
+- youtube_search_query: just the search terms, NOT a URL — Python will build the link
 
 Boiled egg adds: ~70 cal / 6g protein / 5g fat — include where it fits.
 Return ONLY the JSON, no markdown, no explanation."""
@@ -131,7 +138,21 @@ Return ONLY the JSON, no markdown, no explanation."""
         messages=[{"role": "user", "content": prompt}]
     )
 
-    return json.loads(response.choices[0].message.content)
+    menu = json.loads(response.choices[0].message.content)
+
+    # Convert search queries → real YouTube search URLs (GPT can't know real video IDs)
+    for slot in ("breakfast", "lunch", "dinner"):
+        q = menu[slot].pop("youtube_search_query", "") or menu[slot].get("youtube_url", "")
+        # Strip any URL GPT might have hallucinated and rebuild from query
+        if q.startswith("http"):
+            # Extract last path component as a crude search term fallback
+            q = menu[slot]["dish_english"]
+        menu[slot]["youtube_url"] = (
+            "https://www.youtube.com/results?search_query="
+            + urllib.parse.quote(q + " recipe")
+        )
+
+    return menu
 
 
 # ---------- MESSAGE FORMATTING ----------
