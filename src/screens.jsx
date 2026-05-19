@@ -3,6 +3,112 @@
 
 const { useState, useEffect, useRef } = React;
 
+// ───────────────────────── Voice / TTS ─────────────────────────
+
+function SpeakButton({ dish, ingredients, prepNotes, accent }) {
+  const [state, setState] = useState('idle'); // idle | speaking | unsupported
+
+  useEffect(() => {
+    if (!window.speechSynthesis) setState('unsupported');
+    return () => { window.speechSynthesis && window.speechSynthesis.cancel(); };
+  }, []);
+
+  function buildScript() {
+    const parts = [];
+    if (dish)       parts.push(dish);
+    if (ingredients) parts.push('सामग्री। ' + ingredients);
+    if (prepNotes)   parts.push('बनाने का तरीक़ा। ' + prepNotes);
+    return parts.join('। ');
+  }
+
+  function toggle() {
+    if (state === 'unsupported') return;
+    if (state === 'speaking') {
+      window.speechSynthesis.cancel();
+      setState('idle');
+      return;
+    }
+    const text = buildScript();
+    if (!text) return;
+    const u = new SpeechSynthesisUtterance(text);
+    u.lang  = 'hi-IN';
+    u.rate  = 0.82;
+    u.pitch = 1;
+    // Prefer a Hindi voice if available
+    const voices = window.speechSynthesis.getVoices();
+    const hindi  = voices.find(v => v.lang.startsWith('hi'));
+    if (hindi) u.voice = hindi;
+    u.onend   = () => setState('idle');
+    u.onerror = () => setState('idle');
+    window.speechSynthesis.speak(u);
+    setState('speaking');
+  }
+
+  if (state === 'unsupported') return null;
+
+  const T = window.THALI_T;
+  const speaking = state === 'speaking';
+  return (
+    <button onClick={toggle} style={{
+      all: 'unset', cursor: 'pointer',
+      display: 'flex', alignItems: 'center', gap: 10,
+      width: '100%',
+      padding: '13px 16px',
+      borderRadius: 14,
+      background: speaking ? accent + '22' : 'rgba(35,25,21,0.04)',
+      border: `1.5px solid ${speaking ? accent : T.cookHairline}`,
+      transition: 'all 0.2s',
+      marginBottom: 10,
+    }}>
+      {/* animated waveform / mic icon */}
+      <div style={{
+        width: 36, height: 36, borderRadius: 10,
+        background: speaking ? accent : T.cookWarm,
+        display: 'flex', alignItems: 'center', justifyContent: 'center',
+        flexShrink: 0, transition: 'background 0.2s',
+      }}>
+        {speaking ? (
+          // Simple animated bars
+          <svg width="18" height="18" viewBox="0 0 18 18" fill={accent === T.cookHairline ? '#888' : '#fff'}>
+            <rect x="1"  y="5" width="3" height="8" rx="1.5" opacity="0.6">
+              <animate attributeName="height" values="8;14;8" dur="0.6s" repeatCount="indefinite"/>
+              <animate attributeName="y" values="5;2;5" dur="0.6s" repeatCount="indefinite"/>
+            </rect>
+            <rect x="7"  y="2" width="3" height="14" rx="1.5">
+              <animate attributeName="height" values="14;6;14" dur="0.6s" begin="0.15s" repeatCount="indefinite"/>
+              <animate attributeName="y" values="2;6;2" dur="0.6s" begin="0.15s" repeatCount="indefinite"/>
+            </rect>
+            <rect x="13" y="5" width="3" height="8" rx="1.5" opacity="0.6">
+              <animate attributeName="height" values="8;14;8" dur="0.6s" begin="0.3s" repeatCount="indefinite"/>
+              <animate attributeName="y" values="5;2;5" dur="0.6s" begin="0.3s" repeatCount="indefinite"/>
+            </rect>
+          </svg>
+        ) : (
+          // Speaker icon
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke={T.cookInkMuted} strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+            <polygon points="11 5 6 9 2 9 2 15 6 15 11 19 11 5"/>
+            <path d="M15.54 8.46a5 5 0 0 1 0 7.07"/>
+            <path d="M19.07 4.93a10 10 0 0 1 0 14.14"/>
+          </svg>
+        )}
+      </div>
+      <div style={{ flex: 1 }}>
+        <div style={{
+          fontFamily: T.fontDeva, fontSize: 16, fontWeight: 600,
+          color: T.cookInk, letterSpacing: -0.2,
+        }}>
+          {speaking ? 'सुन रहे हैं…' : 'सुनें — Listen aloud'}
+        </div>
+        <div style={{
+          fontFamily: T.fontUI, fontSize: 11, color: T.cookInkMuted, marginTop: 2,
+        }}>
+          {speaking ? 'tap to stop' : 'Hindi · dish + ingredients + prep notes'}
+        </div>
+      </div>
+    </button>
+  );
+}
+
 // ───────────────────────── Home — Today's Menu ─────────────────────────
 
 function HomeScreen({ menu, onOpenMeal, dark = true, cardStyle = 'bordered', showMacroStrip = true, offline = false, refreshing = false, lang = 'en', onChangeLang = () => {} }) {
@@ -95,7 +201,7 @@ function HomeScreen({ menu, onOpenMeal, dark = true, cardStyle = 'bordered', sho
               fontSize: 11, fontWeight: 600, letterSpacing: 0.8, textTransform: 'uppercase',
               color: muted,
             }}>
-              Vizz's macros — today
+              Vizz's macros — today · approx
             </div>
             <div style={{ fontSize: 11, color: subtle, fontFamily: T.fontMono }}>
               incl. shake
@@ -398,7 +504,7 @@ function MealDetailScreen({ slot, meal, onBack, dark = true, lang = 'en', onChan
       ) : null}
 
       {/* Vizz macros 2x2 */}
-      <SectionHeader label="Vizz's macros" hindiLabel="विज़ के मैक्रोज़" dark={dark} lang={lang}/>
+      <SectionHeader label="Vizz's macros · approx" hindiLabel="विज़ के मैक्रोज़ · अनुमान" dark={dark} lang={lang}/>
       <div style={{
         padding: '0 20px',
         display: 'grid', gridTemplateColumns: '1fr 1fr', gap: 8,
@@ -553,6 +659,14 @@ function CookMealCard({ slot, meal }) {
           </div>
         </>
       ) : null}
+
+      {/* speak button */}
+      <SpeakButton
+        dish={meal.dish_hindi}
+        ingredients={ingredientsText}
+        prepNotes={prepText}
+        accent={tok.accent}
+      />
 
       {/* youtube button */}
       {meal.youtube_url ? (

@@ -128,6 +128,20 @@ Rules for ingredients arrays:
 - ingredients_hindi: the comma-separated string version for cook display
 - youtube_search_query: just the search terms, NOT a URL — Python will build the link
 
+MACRO RULES — be realistic, not aspirational:
+- All macros are for 1 adult male serving (Vizz's portion only).
+- Assume realistic home-cooked quantities: ~300-450g cooked weight per meal.
+- Use these anchors to reason from:
+    Rice 100g dry → cooked ~300g → 350 cal, 7g protein, 1g fat, 78g carbs
+    Dal 100g dry → cooked ~300g → 340 cal, 22g protein, 2g fat, 60g carbs
+    Paneer 100g → 265 cal, 18g protein, 20g fat, 3g carbs
+    Wheat roti (40g each) → 120 cal, 4g protein, 1g fat, 25g carbs
+    Egg (1 large, boiled) → 70 cal, 6g protein, 5g fat, 0g carbs
+    Oats 80g dry → 300 cal, 12g protein, 5g fat, 52g carbs
+    Pasta 80g dry → 290 cal, 10g protein, 1g fat, 58g carbs
+- Do NOT overestimate protein. Pulao, upma, poha are low-protein (~6-12g). Dal/paneer/egg are the protein sources.
+- If the dish can't realistically hit protein targets, say so in macro_check.
+
 Boiled egg adds: ~70 cal / 6g protein / 5g fat — include where it fits.
 Return ONLY the JSON, no markdown, no explanation."""
 
@@ -140,17 +154,13 @@ Return ONLY the JSON, no markdown, no explanation."""
 
     menu = json.loads(response.choices[0].message.content)
 
-    # Convert search queries → real YouTube search URLs (GPT can't know real video IDs)
+    # Convert search queries → real YouTube URLs via Data API (or search URL fallback)
     for slot in ("breakfast", "lunch", "dinner"):
-        q = menu[slot].pop("youtube_search_query", "") or menu[slot].get("youtube_url", "")
-        # Strip any URL GPT might have hallucinated and rebuild from query
+        q = menu[slot].pop("youtube_search_query", "") or menu[slot].get("dish_english", "")
+        # If GPT hallucinated a URL instead of a query, use dish name as fallback query
         if q.startswith("http"):
-            # Extract last path component as a crude search term fallback
             q = menu[slot]["dish_english"]
-        menu[slot]["youtube_url"] = (
-            "https://www.youtube.com/results?search_query="
-            + urllib.parse.quote(q + " recipe")
-        )
+        menu[slot]["youtube_url"] = get_youtube_url(q)
 
     return menu
 
@@ -201,6 +211,44 @@ def format_cook_message(menu: dict) -> str:
 सामग्री: {m['dinner']['ingredients_hindi']}
 रेसिपी: {m['dinner']['youtube_url']}
 नोट: {m['dinner'].get('prep_notes_hi', '')}"""
+
+
+# ---------- YOUTUBE ----------
+YOUTUBE_API_KEY = os.environ.get("YOUTUBE_API_KEY", "")
+
+def get_youtube_url(search_query: str) -> str:
+    """Return the top YouTube video URL for the query, or a search URL as fallback."""
+    if not YOUTUBE_API_KEY:
+        return (
+            "https://www.youtube.com/results?search_query="
+            + urllib.parse.quote(search_query + " recipe")
+        )
+    try:
+        r = requests.get(
+            "https://www.googleapis.com/youtube/v3/search",
+            params={
+                "part":             "snippet",
+                "q":                search_query + " recipe",
+                "type":             "video",
+                "maxResults":       1,
+                "relevanceLanguage":"hi",
+                "regionCode":       "IN",
+                "key":              YOUTUBE_API_KEY,
+            },
+            timeout=10,
+        )
+        items = r.json().get("items", [])
+        if items:
+            video_id = items[0]["id"]["videoId"]
+            print(f"  YouTube: found https://www.youtube.com/watch?v={video_id} for '{search_query}'")
+            return f"https://www.youtube.com/watch?v={video_id}"
+    except Exception as e:
+        print(f"  YouTube API error for '{search_query}': {e}")
+    # Fallback
+    return (
+        "https://www.youtube.com/results?search_query="
+        + urllib.parse.quote(search_query + " recipe")
+    )
 
 
 # ---------- WHATSAPP ----------
