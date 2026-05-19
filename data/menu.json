@@ -4,138 +4,106 @@
   "date_short": "Wed · May 20",
   "generated_label": "Generated last night for today",
   "breakfast": {
-    "dish_hindi": "उप्पितु और उबला अंडा",
-    "dish_english": "Upma and Boiled Egg",
-    "ingredients_hindi": "सूजी, पानी, नमक, घी, राई, करी पत्ते, प्याज, हरी मिर्च, हरी मटर, गाजर, उबला अंडा",
+    "dish_hindi": "दलिया और उबला अंडा",
+    "dish_english": "Dalia with Boiled Egg",
+    "ingredients_hindi": "दलिया, पानी, दूध, उबला अंडा",
     "ingredients_list_hi": [
-      "सूजी",
+      "दलिया",
       "पानी",
-      "नमक",
-      "घी",
-      "राई",
-      "करी पत्ते",
-      "प्याज",
-      "हरी मिर्च",
-      "हरी मटर",
-      "गाजर",
+      "दूध",
       "उबला अंडा"
     ],
     "ingredients_list_en": [
-      "Semolina",
+      "Dalia (broken wheat)",
       "Water",
-      "Salt",
-      "Ghee",
-      "Mustard Seeds",
-      "Curry Leaves",
-      "Onion",
-      "Green Chili",
-      "Green Peas",
-      "Carrot",
+      "Milk",
       "Boiled Egg"
     ],
-    "prep_notes_hi": "सूजी को भूनें और घी गरम कर उसमें राई और करी पत्ते डालें। फिर प्याज, हरी मिर्च, हरी मटर, और गाजर डालकर पकाएं। अंत में पानी और नमक डालकर पकाएं।",
-    "prep_notes_en": "Roast the semolina and heat ghee, add mustard seeds and curry leaves. Then add onions, green chili, green peas, and carrots, cook well. Finally, add water and salt, cook till done.",
+    "prep_notes_hi": "दलिया को पानी में उबालें और दूध मिलाएं। उबला अंडा अलग से परोसें।",
+    "prep_notes_en": "Boil dalia in water and add milk. Serve boiled egg separately.",
     "vizz_macros": {
-      "cal": 400,
-      "protein": 18,
-      "fat": 15,
-      "carbs": 55
+      "cal": 380,
+      "protein": 14,
+      "fat": 7,
+      "carbs": 62
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=upma%20recipe%20hindi%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=dalia%20recipe%20hindi%20recipe"
   },
   "lunch": {
-    "dish_hindi": "लोबिया चावल और पापड़",
-    "dish_english": "Black-eyed Peas with Rice and Papad",
-    "ingredients_hindi": "लोबिया, चावल, प्याज, टमाटर, हरी मिर्च, अदरक, लहसुन, जीरा, हल्दी, नमक, तेल, पापड़",
+    "dish_hindi": "पालक पनीर और फुल्का",
+    "dish_english": "Palak Paneer with Phulka",
+    "ingredients_hindi": "पालक, पनीर, प्याज, टमाटर, अदरक, लहसुन, मसाले, गेंहू का आटा",
     "ingredients_list_hi": [
-      "लोबिया",
-      "चावल",
-      "प्याज",
-      "टमाटर",
-      "हरी मिर्च",
-      "अदरक",
-      "लहसुन",
-      "जीरा",
-      "हल्दी",
-      "नमक",
-      "तेल",
-      "पापड़"
-    ],
-    "ingredients_list_en": [
-      "Black-eyed Peas",
-      "Rice",
-      "Onion",
-      "Tomato",
-      "Green Chili",
-      "Ginger",
-      "Garlic",
-      "Cumin Seeds",
-      "Turmeric",
-      "Salt",
-      "Oil",
-      "Papad"
-    ],
-    "prep_notes_hi": "लोबिया को पहले से भिगोकर रखें। पकाते समय जीरा, हरी मिर्च, प्याज, टमाटर, अदरक, लहसुन डालें और मसाले डालकर पकाएं। यह यात्रा और गरम करने के लिए उपयुक्त है।",
-    "prep_notes_en": "Soak the black-eyed peas in advance. When cooking, add cumin, green chili, onions, tomatoes, ginger, garlic, and spices. This dish is suitable for travel and reheating.",
-    "vizz_macros": {
-      "cal": 700,
-      "protein": 20,
-      "fat": 5,
-      "carbs": 123
-    },
-    "youtube_url": "https://www.youtube.com/results?search_query=lobia%20rice%20recipe%20recipe"
-  },
-  "dinner": {
-    "dish_hindi": "कढ़ाई पनीर और नान",
-    "dish_english": "Kadhai Paneer and Naan",
-    "ingredients_hindi": "पनीर, टमाटर, शिमला मिर्च, प्याज, अदरक, लहसुन, गरम मसाला, लाल मिर्च पाउडर, धनिया पाउडर, तेल, नान",
-    "ingredients_list_hi": [
+      "पालक",
       "पनीर",
-      "टमाटर",
-      "शिमला मिर्च",
       "प्याज",
+      "टमाटर",
       "अदरक",
       "लहसुन",
-      "गरम मसाला",
-      "लाल मिर्च पाउडर",
-      "धनिया पाउडर",
-      "तेल",
-      "नान"
+      "मसाले",
+      "आटा"
     ],
     "ingredients_list_en": [
+      "Spinach",
       "Paneer",
-      "Tomato",
-      "Bell Pepper",
       "Onion",
+      "Tomato",
       "Ginger",
       "Garlic",
-      "Garam Masala",
-      "Red Chili Powder",
-      "Coriander Powder",
-      "Oil",
-      "Naan"
+      "Spices",
+      "Wheat flour"
     ],
-    "prep_notes_hi": "पनीर को शिमला मिर्च और प्याज के साथ हलके से तलें। टमाटर का मसालेदार पेस्ट बनाएं और सभी मसाले डालकर पनीर मिलाएं।",
-    "prep_notes_en": "Lightly fry paneer with bell peppers and onions. Make a spicy tomato paste and combine with all spices and paneer.",
+    "prep_notes_hi": "पालक पकाकर पीस लें, फिर पनीर के साथ पकाएं। यह यात्रा और पुनः गर्म करने के लिए उपयुक्त है।",
+    "prep_notes_en": "Cook and puree spinach, then cook with paneer. Suitable for travel and reheating.",
     "vizz_macros": {
-      "cal": 600,
+      "cal": 690,
       "protein": 30,
       "fat": 25,
-      "carbs": 65
+      "carbs": 90
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=kadhai%20paneer%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=palak%20paneer%20recipe%20recipe"
+  },
+  "dinner": {
+    "dish_hindi": "सोया चंक्स बिरयानी और रायता",
+    "dish_english": "Soya Chunks Biryani with Raita",
+    "ingredients_hindi": "सोया चंक्स, बासमती चावल, मसाले, दही, प्याज, टमाटर",
+    "ingredients_list_hi": [
+      "सोया चंक्स",
+      "बासमती चावल",
+      "मसाले",
+      "दही",
+      "प्याज",
+      "टमाटर"
+    ],
+    "ingredients_list_en": [
+      "Soya Chunks",
+      "Basmati Rice",
+      "Spices",
+      "Yogurt",
+      "Onion",
+      "Tomato"
+    ],
+    "prep_notes_hi": "सोया चंक्स को पहले भिगो दें, फिर मसालों के साथ पकाएं। चावल के साथ परत करें।",
+    "prep_notes_en": "Soak soya chunks, cook with spices, and layer with rice.",
+    "vizz_macros": {
+      "cal": 530,
+      "protein": 26,
+      "fat": 12,
+      "carbs": 80
+    },
+    "youtube_url": "https://www.youtube.com/results?search_query=soya%20chunks%20biryani%20recipe%20recipe"
   },
   "vizz_daily_total_from_meals": {
-    "cal": 1700,
-    "protein": 68,
-    "fat": 45,
-    "carbs": 243
+    "cal": 1600,
+    "protein": 70,
+    "fat": 44,
+    "carbs": 232
   },
   "vizz_daily_total_with_shake": {
-    "cal": 2000,
-    "protein": 108,
-    "fat": 50,
-    "carbs": 268
+    "cal": 1900,
+    "protein": 110,
+    "fat": 49,
+    "carbs": 257
   },
-  "macro_check": "Slight carb excess, protein is on target with shake, fat is adequate. Overall macros align with goal."
+  "macro_check": "Hits protein and carb targets with shake. Slightly below calorie goal."
 }
