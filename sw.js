@@ -1,8 +1,11 @@
-const CACHE = 'thali-v1';
+const CACHE = 'thali-v3';
 const STATIC = [
   '/menu-generator/',
   '/menu-generator/index.html',
   '/menu-generator/manifest.json',
+  '/menu-generator/src/components.jsx',
+  '/menu-generator/src/screens.jsx',
+  '/menu-generator/src/app.jsx',
 ];
 
 self.addEventListener('install', e => {
