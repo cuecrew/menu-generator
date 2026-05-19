@@ -1,121 +1,141 @@
 {
-  "date": "2026-05-19 (Tuesday)",
-  "date_display": "Tuesday, May 19",
-  "date_short": "Tue · May 19",
+  "date": "2026-05-20 (Wednesday)",
+  "date_display": "Wednesday, May 20",
+  "date_short": "Wed · May 20",
   "generated_label": "Generated last night for today",
   "breakfast": {
-    "dish_hindi": "मसाला ओट्स, अंडा, मक्खन टोस्ट",
-    "dish_english": "Masala Oats with Egg and Buttered Toast",
-    "ingredients_hindi": "ओट्स, पानी, हरी मटर, गाजर, मक्खन, नमक, मिर्च पाउडर, अंडा, ब्रेड",
+    "dish_hindi": "उप्पितु और उबला अंडा",
+    "dish_english": "Upma and Boiled Egg",
+    "ingredients_hindi": "सूजी, पानी, नमक, घी, राई, करी पत्ते, प्याज, हरी मिर्च, हरी मटर, गाजर, उबला अंडा",
     "ingredients_list_hi": [
-      "ओट्स",
+      "सूजी",
       "पानी",
+      "नमक",
+      "घी",
+      "राई",
+      "करी पत्ते",
+      "प्याज",
+      "हरी मिर्च",
       "हरी मटर",
       "गाजर",
-      "मक्खन",
-      "नमक",
-      "मिर्च पाउडर",
-      "अंडा",
-      "ब्रेड"
+      "उबला अंडा"
     ],
     "ingredients_list_en": [
-      "Oats",
+      "Semolina",
       "Water",
+      "Salt",
+      "Ghee",
+      "Mustard Seeds",
+      "Curry Leaves",
+      "Onion",
+      "Green Chili",
       "Green Peas",
       "Carrot",
-      "Butter",
-      "Salt",
-      "Chili Powder",
-      "Egg",
-      "Bread"
+      "Boiled Egg"
     ],
-    "prep_notes_hi": "ओट्स को धीमी आंच पर पकाएं, साथ में सब्जियाँ मिलाएं। अंडे को उबाल कर अलग से गरम रखें।",
-    "prep_notes_en": "Cook the oats on low heat, adding vegetables. Boil the egg separately and keep warm.",
+    "prep_notes_hi": "सूजी को भूनें और घी गरम कर उसमें राई और करी पत्ते डालें। फिर प्याज, हरी मिर्च, हरी मटर, और गाजर डालकर पकाएं। अंत में पानी और नमक डालकर पकाएं।",
+    "prep_notes_en": "Roast the semolina and heat ghee, add mustard seeds and curry leaves. Then add onions, green chili, green peas, and carrots, cook well. Finally, add water and salt, cook till done.",
     "vizz_macros": {
       "cal": 400,
-      "protein": 15,
-      "fat": 10,
-      "carbs": 60
+      "protein": 18,
+      "fat": 15,
+      "carbs": 55
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=masala%20oats%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=upma%20recipe%20hindi%20recipe"
   },
   "lunch": {
-    "dish_hindi": "पनीर भुर्जी और चपाती",
-    "dish_english": "Paneer Bhurji with Chapati",
-    "ingredients_hindi": "पनीर, टमाटर, प्याज, मिर्च, हल्दी, नमक, चपाती",
+    "dish_hindi": "लोबिया चावल और पापड़",
+    "dish_english": "Black-eyed Peas with Rice and Papad",
+    "ingredients_hindi": "लोबिया, चावल, प्याज, टमाटर, हरी मिर्च, अदरक, लहसुन, जीरा, हल्दी, नमक, तेल, पापड़",
+    "ingredients_list_hi": [
+      "लोबिया",
+      "चावल",
+      "प्याज",
+      "टमाटर",
+      "हरी मिर्च",
+      "अदरक",
+      "लहसुन",
+      "जीरा",
+      "हल्दी",
+      "नमक",
+      "तेल",
+      "पापड़"
+    ],
+    "ingredients_list_en": [
+      "Black-eyed Peas",
+      "Rice",
+      "Onion",
+      "Tomato",
+      "Green Chili",
+      "Ginger",
+      "Garlic",
+      "Cumin Seeds",
+      "Turmeric",
+      "Salt",
+      "Oil",
+      "Papad"
+    ],
+    "prep_notes_hi": "लोबिया को पहले से भिगोकर रखें। पकाते समय जीरा, हरी मिर्च, प्याज, टमाटर, अदरक, लहसुन डालें और मसाले डालकर पकाएं। यह यात्रा और गरम करने के लिए उपयुक्त है।",
+    "prep_notes_en": "Soak the black-eyed peas in advance. When cooking, add cumin, green chili, onions, tomatoes, ginger, garlic, and spices. This dish is suitable for travel and reheating.",
+    "vizz_macros": {
+      "cal": 700,
+      "protein": 20,
+      "fat": 5,
+      "carbs": 123
+    },
+    "youtube_url": "https://www.youtube.com/results?search_query=lobia%20rice%20recipe%20recipe"
+  },
+  "dinner": {
+    "dish_hindi": "कढ़ाई पनीर और नान",
+    "dish_english": "Kadhai Paneer and Naan",
+    "ingredients_hindi": "पनीर, टमाटर, शिमला मिर्च, प्याज, अदरक, लहसुन, गरम मसाला, लाल मिर्च पाउडर, धनिया पाउडर, तेल, नान",
     "ingredients_list_hi": [
       "पनीर",
       "टमाटर",
+      "शिमला मिर्च",
       "प्याज",
-      "मिर्च",
-      "हल्दी",
-      "नमक",
-      "चपाती"
+      "अदरक",
+      "लहसुन",
+      "गरम मसाला",
+      "लाल मिर्च पाउडर",
+      "धनिया पाउडर",
+      "तेल",
+      "नान"
     ],
     "ingredients_list_en": [
-      "Paneer (cottage cheese)",
+      "Paneer",
       "Tomato",
+      "Bell Pepper",
       "Onion",
-      "Chili",
-      "Turmeric",
-      "Salt",
-      "Chapati"
+      "Ginger",
+      "Garlic",
+      "Garam Masala",
+      "Red Chili Powder",
+      "Coriander Powder",
+      "Oil",
+      "Naan"
     ],
-    "prep_notes_hi": "यह डिश यात्रा के लिए अच्छी है। माइक्रोवेव में आसानी से गरम होती है।",
-    "prep_notes_en": "This dish travels well. It reheats easily in the microwave.",
+    "prep_notes_hi": "पनीर को शिमला मिर्च और प्याज के साथ हलके से तलें। टमाटर का मसालेदार पेस्ट बनाएं और सभी मसाले डालकर पनीर मिलाएं।",
+    "prep_notes_en": "Lightly fry paneer with bell peppers and onions. Make a spicy tomato paste and combine with all spices and paneer.",
     "vizz_macros": {
-      "cal": 650,
+      "cal": 600,
       "protein": 30,
       "fat": 25,
-      "carbs": 75
+      "carbs": 65
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=paneer%20bhurji%20recipe%20recipe"
-  },
-  "dinner": {
-    "dish_hindi": "रतौली पुलाव और रायता",
-    "dish_english": "Mint Pulao with Raita",
-    "ingredients_hindi": "बासमती चावल, पुदीना, मटर, जीरा, तेल, नमक, दही, खीरा",
-    "ingredients_list_hi": [
-      "बासमती चावल",
-      "पुदीना",
-      "मटर",
-      "जीरा",
-      "तेल",
-      "नमक",
-      "दही",
-      "खीरा"
-    ],
-    "ingredients_list_en": [
-      "Basmati Rice",
-      "Mint",
-      "Peas",
-      "Cumin Seeds",
-      "Oil",
-      "Salt",
-      "Curd",
-      "Cucumber"
-    ],
-    "prep_notes_hi": "चावल को पुदीने के साथ पके। मटर को छौंक दें। साथ में रायता परोसें।",
-    "prep_notes_en": "Cook the rice with mint. Lightly sauté the peas. Serve with raita.",
-    "vizz_macros": {
-      "cal": 650,
-      "protein": 25,
-      "fat": 10,
-      "carbs": 100
-    },
-    "youtube_url": "https://www.youtube.com/results?search_query=mint%20pulao%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=kadhai%20paneer%20recipe%20recipe"
   },
   "vizz_daily_total_from_meals": {
     "cal": 1700,
-    "protein": 70,
+    "protein": 68,
     "fat": 45,
-    "carbs": 235
+    "carbs": 243
   },
   "vizz_daily_total_with_shake": {
     "cal": 2000,
-    "protein": 110,
+    "protein": 108,
     "fat": 50,
-    "carbs": 260
+    "carbs": 268
   },
-  "macro_check": "Hits 2000 cal, 110g protein, 60g fat, 215g carbs target. Slight excess in carbs."
+  "macro_check": "Slight carb excess, protein is on target with shake, fat is adequate. Overall macros align with goal."
 }
