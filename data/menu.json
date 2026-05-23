@@ -1,123 +1,133 @@
 {
-  "date": "2026-05-23 (Saturday)",
-  "date_display": "Saturday, May 23",
-  "date_short": "Sat · May 23",
+  "date": "2026-05-24 (Sunday)",
+  "date_display": "Sunday, May 24",
+  "date_short": "Sun · May 24",
   "generated_label": "Generated last night for today",
   "breakfast": {
-    "dish_hindi": "ओट्स उपमा, दही",
-    "dish_english": "Oats Upma with Curd",
-    "ingredients_hindi": "ओट्स, प्याज, गाजर, मटर, सरसों के बीज, कढ़ी पत्ता, हरी मिर्च, दही",
+    "dish_hindi": "साबूदाना खिचड़ी, दही, उबला अंडा",
+    "dish_english": "Sabudana Khichdi with Curd & Boiled Egg",
+    "ingredients_hindi": "साबूदाना, आलू, मूंगफली, धनिया, हरी मिर्च, जीरा, दही, अंडा",
     "ingredients_list_hi": [
-      "ओट्स",
-      "प्याज",
-      "गाजर",
-      "मटर",
-      "सरसों के बीज",
-      "कढ़ी पत्ता",
+      "साबूदाना",
+      "आलू",
+      "मूंगफली",
+      "धनिया",
       "हरी मिर्च",
-      "दही"
+      "जीरा",
+      "दही",
+      "अंडा"
     ],
     "ingredients_list_en": [
-      "Oats",
-      "Onion",
-      "Carrot",
-      "Peas",
-      "Mustard Seeds",
-      "Curry Leaves",
-      "Green Chili",
-      "Curd"
+      "Sabudana (tapioca pearls)",
+      "Potato",
+      "Peanuts",
+      "Coriander",
+      "Green Chilli",
+      "Cumin seeds",
+      "Curd",
+      "Egg"
     ],
-    "prep_notes_hi": "ओट्स को पहले भून लें। सब्जियों को हल्का सा पकाएं फिर ओट्स डालें। उपमा पकाते समय थोड़ा पानी मिलाएं।",
-    "prep_notes_en": "Dry roast the oats first. Lightly cook the vegetables before adding oats. Add a little water while cooking upma.",
+    "prep_notes_hi": "साबूदाना को भिगोकर नरम कर लें। मूंगफली को भून के पीस लें। तब तक पकाएँ जब तक आलू पक न जाए।",
+    "prep_notes_en": "Soak sabudana until soft. Roast and grind peanuts. Cook until potatoes are done.",
     "vizz_macros": {
       "cal": 400,
-      "protein": 12,
-      "fat": 7,
-      "carbs": 68
+      "protein": 14,
+      "fat": 16,
+      "carbs": 52
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=oats%20upma%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=sabudana%20khichdi%20recipe%20recipe"
   },
   "lunch": {
-    "dish_hindi": "चना मसाला और भात, हरा धनिया और टमाटर की चटनी",
-    "dish_english": "Chana Masala with Rice, Coriander and Tomato Chutney",
-    "ingredients_hindi": "काबुली चना, चावल, प्याज, टमाटर, अदरक, लहसुन, मसाले, हरा धनिया, हरी मिर्च",
+    "dish_hindi": "लौकी चना दाल, चावल, आचार",
+    "dish_english": "Lauki Chana Dal with Rice & Pickle",
+    "ingredients_hindi": "लौकी, चना दाल, चावल, टमाटर, प्याज, अदरक, लहसुन, जीरा, तेजपत्ता, गरम मसाला, आचार",
     "ingredients_list_hi": [
-      "काबुली चना",
+      "लौकी",
+      "चना दाल",
       "चावल",
-      "प्याज",
       "टमाटर",
+      "प्याज",
       "अदरक",
       "लहसुन",
-      "मसाले",
-      "हरा धनिया",
-      "हरी मिर्च"
+      "जीरा",
+      "तेजपत्ता",
+      "गरम मसाला",
+      "आचार"
     ],
     "ingredients_list_en": [
-      "Chickpeas",
+      "Bottle gourd",
+      "Chana dal",
       "Rice",
-      "Onion",
       "Tomato",
+      "Onion",
       "Ginger",
       "Garlic",
-      "Spices",
-      "Coriander",
-      "Green Chili"
+      "Cumin seeds",
+      "Bay leaf",
+      "Garam masala",
+      "Pickle"
     ],
-    "prep_notes_hi": "चना और भात ऑफिस के लिए अच्छा है। इसे माइक्रोवेव में आसानी से गरम कर सकते हैं।",
-    "prep_notes_en": "Chana and rice are great for office as they hold well. Easily reheatable in a microwave.",
+    "prep_notes_hi": "लौकी चना दाल को अच्छी तरह से पकाना है ताकि यह 4-5 घंटे तक रहने के बाद भी अच्छे से गरम हो सके।",
+    "prep_notes_en": "Cook the lauki chana dal thoroughly to ensure it reheats well after 4-5 hours.",
     "vizz_macros": {
-      "cal": 700,
-      "protein": 25,
-      "fat": 10,
-      "carbs": 115
+      "cal": 650,
+      "protein": 28,
+      "fat": 8,
+      "carbs": 112
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=chana%20masala%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=lauki%20chana%20dal%20recipe%20recipe"
   },
   "dinner": {
-    "dish_hindi": "मटर पनीर, रोटी, बूँदी रायता",
-    "dish_english": "Matar Paneer, Roti with Boondi Raita",
-    "ingredients_hindi": "पनीर, मटर, प्याज, टमाटर, मसाले, गेहूं का आटा, बूँदी, दही",
+    "dish_hindi": "पालक पनीर, नान, पापड़",
+    "dish_english": "Palak Paneer with Naan & Papad",
+    "ingredients_hindi": "पालक, पनीर, प्याज, टमाटर, हरी मिर्च, काजू, लहसुन, अदरक, गरम मसाला, नान, पापड़",
     "ingredients_list_hi": [
+      "पालक",
       "पनीर",
-      "मटर",
       "प्याज",
       "टमाटर",
-      "मसाले",
-      "गेहूं का आटा",
-      "बूँदी",
-      "दही"
+      "हरी मिर्च",
+      "काजू",
+      "लहसुन",
+      "अदरक",
+      "गरम मसाला",
+      "नान",
+      "पापड़"
     ],
     "ingredients_list_en": [
+      "Spinach",
       "Paneer",
-      "Peas",
       "Onion",
       "Tomato",
-      "Spices",
-      "Wheat Flour",
-      "Boondi",
-      "Curd"
+      "Green Chilli",
+      "Cashew",
+      "Garlic",
+      "Ginger",
+      "Garam masala",
+      "Naan",
+      "Papad"
     ],
-    "prep_notes_hi": "पनीर को नरम रखने के लिए हल्के हाथ से पकाएं। मटर जल्दी से पकती है।",
-    "prep_notes_en": "Cook paneer gently to keep it soft. Peas cook quickly.",
+    "prep_notes_hi": "पालक को अच्छे से पकाएँ, और पनीर को अंत में डालें। नान को नमक पानी लगाकर सेंके।",
+    "prep_notes_en": "Cook spinach thoroughly, add paneer at the end. Roast naan with salted water.",
     "vizz_macros": {
-      "cal": 600,
-      "protein": 34,
-      "fat": 15,
-      "carbs": 60
+      "cal": 650,
+      "protein": 25,
+      "fat": 25,
+      "carbs": 75
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=matar%20paneer%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=palak%20paneer%20recipe%20recipe"
   },
   "vizz_daily_total_from_meals": {
     "cal": 1700,
-    "protein": 71,
-    "fat": 32,
-    "carbs": 243
+    "protein": 67,
+    "fat": 49,
+    "carbs": 239
   },
   "vizz_daily_total_with_shake": {
     "cal": 2000,
-    "protein": 111,
-    "fat": 37,
-    "carbs": 268
+    "protein": 107,
+    "fat": 54,
+    "carbs": 264
   },
-  "macro_check": "Hits 2000 cal and 110g protein. Carbs slightly over at 268g, fat slightly under at 37g."
+  "macro_check": "Calories and protein slightly low, carbs slightly high. Overall well balanced."
 }
