@@ -1218,5 +1218,126 @@
       "carbs": 225
     },
     "macro_check": "Calories, protein, fat, and carbs are well balanced but protein slightly on lower side without protein shake."
+  },
+  {
+    "date": "2026-05-26 (Tuesday)",
+    "date_display": "Tuesday, May 26",
+    "date_short": "Tue · May 26",
+    "generated_label": "Generated last night for today",
+    "breakfast": {
+      "dish_hindi": "मसाला उपमा, उबला अंडा",
+      "dish_english": "Masala Upma with Boiled Egg",
+      "ingredients_hindi": "सूजी, प्याज, मटर, गाजर, सरसों के बीज, हरी मिर्च, नमक, तेल, उबला अंडा",
+      "ingredients_list_hi": [
+        "सूजी",
+        "प्याज",
+        "मटर",
+        "गाजर",
+        "सरसों के बीज",
+        "हरी मिर्च",
+        "नमक",
+        "तेल",
+        "उबला अंडा"
+      ],
+      "ingredients_list_en": [
+        "Semolina",
+        "Onion",
+        "Peas",
+        "Carrot",
+        "Mustard Seeds",
+        "Green Chilies",
+        "Salt",
+        "Oil",
+        "Boiled Egg"
+      ],
+      "prep_notes_hi": "सूजी को भून लें। सब्जियों को तेल में तड़का लगाकर पकाएं। इसके बाद भुनी हुई सूजी और पानी मिलाएं। धीमी आंच पर पकाएं।",
+      "prep_notes_en": "Roast the semolina lightly. Sauté the vegetables with mustard seeds. Add roasted semolina and water. Cook on low heat.",
+      "vizz_macros": {
+        "cal": 400,
+        "protein": 12,
+        "fat": 10,
+        "carbs": 60
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=masala%20upma%20recipe%20recipe"
+    },
+    "lunch": {
+      "dish_hindi": "कढ़ी पकोड़ा चावल, अचार",
+      "dish_english": "Kadhi Pakora with Rice & Pickle",
+      "ingredients_hindi": "बेसन, दही, चावल, ताज़ा सब्जियाँ, जीरा, सरसों के बीज, करी पत्ते, अचार",
+      "ingredients_list_hi": [
+        "बेसन",
+        "दही",
+        "चावल",
+        "ताज़ा सब्जियाँ",
+        "जीरा",
+        "सरसों के बीज",
+        "करी पत्ते",
+        "अचार"
+      ],
+      "ingredients_list_en": [
+        "Gram Flour",
+        "Yogurt",
+        "Rice",
+        "Fresh Vegetables",
+        "Cumin Seeds",
+        "Mustard Seeds",
+        "Curry Leaves",
+        "Pickle"
+      ],
+      "prep_notes_hi": "कढ़ी पकोड़ा को धीरे-धीरे गर्म पानी में पकाएं। ऑफिस ले जाने और माइक्रोवेव में गर्म करने के लिए उपयुक्त।",
+      "prep_notes_en": "Cook the kadhi pakora slowly in the hot water. Suitable for office carry and reheating in the microwave.",
+      "vizz_macros": {
+        "cal": 600,
+        "protein": 15,
+        "fat": 14,
+        "carbs": 100
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=kadhi%20pakora%20rice%20recipe"
+    },
+    "dinner": {
+      "dish_hindi": "ठेचा भात, भाकरी",
+      "dish_english": "Thecha Bhaat with Bhakri",
+      "ingredients_hindi": "टोमाटर, हरी मिर्च, लहसुन, भात, चावल आटा, नमक, तेल",
+      "ingredients_list_hi": [
+        "टोमाटर",
+        "हरी मिर्च",
+        "लहसुन",
+        "भात",
+        "चावल आटा",
+        "नमक",
+        "तेल"
+      ],
+      "ingredients_list_en": [
+        "Tomato",
+        "Green Chillies",
+        "Garlic",
+        "Cooked Rice",
+        "Rice Flour",
+        "Salt",
+        "Oil"
+      ],
+      "prep_notes_hi": "ठेचा को मिक्सर में पीस लें। भात के साथ मिलाकर भाकरी के साथ परोसें।",
+      "prep_notes_en": "Grind the thecha ingredients in a mixer. Mix with rice and serve with bhakri.",
+      "vizz_macros": {
+        "cal": 700,
+        "protein": 12,
+        "fat": 15,
+        "carbs": 110
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=thecha%20bhaat%20recipe%20recipe"
+    },
+    "vizz_daily_total_from_meals": {
+      "cal": 1700,
+      "protein": 39,
+      "fat": 39,
+      "carbs": 270
+    },
+    "vizz_daily_total_with_shake": {
+      "cal": 2000,
+      "protein": 79,
+      "fat": 44,
+      "carbs": 295
+    },
+    "macro_check": "Protein is slightly lower than required; increase protein sources in meals if needed."
   }
 ]

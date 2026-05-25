@@ -1,123 +1,121 @@
 {
-  "date": "2026-05-25 (Monday)",
-  "date_display": "Monday, May 25",
-  "date_short": "Mon · May 25",
+  "date": "2026-05-26 (Tuesday)",
+  "date_display": "Tuesday, May 26",
+  "date_short": "Tue · May 26",
   "generated_label": "Generated last night for today",
   "breakfast": {
-    "dish_hindi": "वेज तूफान सैंडविच, उबला अंडा",
-    "dish_english": "Veg Thunder Sandwich with Boiled Egg",
-    "ingredients_hindi": "ब्रेड, शिमला मिर्च, पनीर, प्याज, टमाटर, हरी मिर्च, मक्खन, उबला अंडा",
+    "dish_hindi": "मसाला उपमा, उबला अंडा",
+    "dish_english": "Masala Upma with Boiled Egg",
+    "ingredients_hindi": "सूजी, प्याज, मटर, गाजर, सरसों के बीज, हरी मिर्च, नमक, तेल, उबला अंडा",
     "ingredients_list_hi": [
-      "ब्रेड",
-      "शिमला मिर्च",
-      "पनीर",
+      "सूजी",
       "प्याज",
-      "टमाटर",
+      "मटर",
+      "गाजर",
+      "सरसों के बीज",
       "हरी मिर्च",
-      "मक्खन",
+      "नमक",
+      "तेल",
       "उबला अंडा"
     ],
     "ingredients_list_en": [
-      "Bread",
-      "Capsicum",
-      "Paneer",
+      "Semolina",
       "Onion",
-      "Tomato",
-      "Green Chili",
-      "Butter",
+      "Peas",
+      "Carrot",
+      "Mustard Seeds",
+      "Green Chilies",
+      "Salt",
+      "Oil",
       "Boiled Egg"
     ],
-    "prep_notes_hi": "सब्जियों को छोटे टुकड़ों में काटें, सैंडविच की स्टफिंग के लिए सब्जियों को पनीर के साथ मिलाएं। मक्खन गर्म तवे पर डालें और सैंडविच को दोनों तरफ से सेकें।",
-    "prep_notes_en": "Chop vegetables finely, mix with paneer for the sandwich filling. Use butter on hot tawa to toast the sandwich on both sides.",
+    "prep_notes_hi": "सूजी को भून लें। सब्जियों को तेल में तड़का लगाकर पकाएं। इसके बाद भुनी हुई सूजी और पानी मिलाएं। धीमी आंच पर पकाएं।",
+    "prep_notes_en": "Roast the semolina lightly. Sauté the vegetables with mustard seeds. Add roasted semolina and water. Cook on low heat.",
     "vizz_macros": {
       "cal": 400,
-      "protein": 15,
-      "fat": 18,
-      "carbs": 40
+      "protein": 12,
+      "fat": 10,
+      "carbs": 60
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=veg%20sandwich%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=masala%20upma%20recipe%20recipe"
   },
   "lunch": {
-    "dish_hindi": "खिचड़ी रायताके साथ",
-    "dish_english": "Khichdi with Raita",
-    "ingredients_hindi": "चावल, मूंग दाल, सब्जियां, दही, जीरा, हींग, अदरक, हरी मिर्च, नमक",
+    "dish_hindi": "कढ़ी पकोड़ा चावल, अचार",
+    "dish_english": "Kadhi Pakora with Rice & Pickle",
+    "ingredients_hindi": "बेसन, दही, चावल, ताज़ा सब्जियाँ, जीरा, सरसों के बीज, करी पत्ते, अचार",
     "ingredients_list_hi": [
-      "चावल",
-      "मूंग दाल",
-      "सब्जियां",
+      "बेसन",
       "दही",
+      "चावल",
+      "ताज़ा सब्जियाँ",
       "जीरा",
-      "हींग",
-      "अदरक",
-      "हरी मिर्च",
-      "नमक"
+      "सरसों के बीज",
+      "करी पत्ते",
+      "अचार"
     ],
     "ingredients_list_en": [
+      "Gram Flour",
+      "Yogurt",
       "Rice",
-      "Moong Dal",
-      "Vegetables",
-      "Curd",
-      "Cumin",
-      "Asafoetida",
-      "Ginger",
-      "Green Chili",
-      "Salt"
+      "Fresh Vegetables",
+      "Cumin Seeds",
+      "Mustard Seeds",
+      "Curry Leaves",
+      "Pickle"
     ],
-    "prep_notes_hi": "खिचड़ी अच्छी तरह से पैक हो जाती है और माइक्रोवेव में आसानी से गर्म होती है। दही को अलग डिब्बे में पैक करें।",
-    "prep_notes_en": "Khichdi travels well and reheats easily in the microwave. Pack curd separately.",
+    "prep_notes_hi": "कढ़ी पकोड़ा को धीरे-धीरे गर्म पानी में पकाएं। ऑफिस ले जाने और माइक्रोवेव में गर्म करने के लिए उपयुक्त।",
+    "prep_notes_en": "Cook the kadhi pakora slowly in the hot water. Suitable for office carry and reheating in the microwave.",
     "vizz_macros": {
-      "cal": 550,
-      "protein": 20,
-      "fat": 15,
-      "carbs": 85
+      "cal": 600,
+      "protein": 15,
+      "fat": 14,
+      "carbs": 100
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=khichdi%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=kadhi%20pakora%20rice%20recipe"
   },
   "dinner": {
-    "dish_hindi": "मलाई कोफ्ता, रोटी",
-    "dish_english": "Malai Kofta with Roti",
-    "ingredients_hindi": "पनीर, आलू, मावा, क्रीम, टमाटर, प्याज, मसाले, गेहूं का आटा",
+    "dish_hindi": "ठेचा भात, भाकरी",
+    "dish_english": "Thecha Bhaat with Bhakri",
+    "ingredients_hindi": "टोमाटर, हरी मिर्च, लहसुन, भात, चावल आटा, नमक, तेल",
     "ingredients_list_hi": [
-      "पनीर",
-      "आलू",
-      "मावा",
-      "क्रीम",
-      "टमाटर",
-      "प्याज",
-      "मसाले",
-      "गेहूं का आटा"
+      "टोमाटर",
+      "हरी मिर्च",
+      "लहसुन",
+      "भात",
+      "चावल आटा",
+      "नमक",
+      "तेल"
     ],
     "ingredients_list_en": [
-      "Paneer",
-      "Potato",
-      "Khoya",
-      "Cream",
       "Tomato",
-      "Onion",
-      "Spices",
-      "Wheat Flour"
+      "Green Chillies",
+      "Garlic",
+      "Cooked Rice",
+      "Rice Flour",
+      "Salt",
+      "Oil"
     ],
-    "prep_notes_hi": "आलू और पनीर के मिश्रण से कोफ्तों को तैयार करें। टमाटर और प्याज की ग्रेवी बनाएं और उसमें कोफ्ते डालें। परोसते समय रोटी गरम कर लें।",
-    "prep_notes_en": "Prepare koftas from potato and paneer mixture. Make sauce from tomatoes and onions, add koftas. Serve hot with roti.",
+    "prep_notes_hi": "ठेचा को मिक्सर में पीस लें। भात के साथ मिलाकर भाकरी के साथ परोसें।",
+    "prep_notes_en": "Grind the thecha ingredients in a mixer. Mix with rice and serve with bhakri.",
     "vizz_macros": {
-      "cal": 750,
-      "protein": 25,
-      "fat": 20,
-      "carbs": 75
+      "cal": 700,
+      "protein": 12,
+      "fat": 15,
+      "carbs": 110
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=malai%20kofta%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=thecha%20bhaat%20recipe%20recipe"
   },
   "vizz_daily_total_from_meals": {
     "cal": 1700,
-    "protein": 60,
-    "fat": 53,
-    "carbs": 200
+    "protein": 39,
+    "fat": 39,
+    "carbs": 270
   },
   "vizz_daily_total_with_shake": {
     "cal": 2000,
-    "protein": 100,
-    "fat": 58,
-    "carbs": 225
+    "protein": 79,
+    "fat": 44,
+    "carbs": 295
   },
-  "macro_check": "Calories, protein, fat, and carbs are well balanced but protein slightly on lower side without protein shake."
+  "macro_check": "Protein is slightly lower than required; increase protein sources in meals if needed."
 }
