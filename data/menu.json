@@ -1,127 +1,127 @@
 {
-  "date": "2026-05-27 (Wednesday)",
-  "date_display": "Wednesday, May 27",
-  "date_short": "Wed · May 27",
+  "date": "2026-05-28 (Thursday)",
+  "date_display": "Thursday, May 28",
+  "date_short": "Thu · May 28",
   "generated_label": "Generated last night for today",
   "breakfast": {
-    "dish_hindi": "मूंग दाल चिल्ला, धनिया चटनी और उबला अंडा",
-    "dish_english": "Moong Dal Chilla with Coriander Chutney and Boiled Egg",
-    "ingredients_hindi": "मूंग दाल, हरी मिर्च, अदरक, धनिया, नमक, तेल, उबला अंडा",
+    "dish_hindi": "पालक चीला, उबला हुआ अंडा",
+    "dish_english": "Palak Cheela with Boiled Egg",
+    "ingredients_hindi": "पालक, बेसन, अदरक, लहसुन, जीरा, पानी, तेल, उबला हुआ अंडा",
     "ingredients_list_hi": [
-      "मूंग दाल",
-      "हरी मिर्च",
-      "अदरक",
-      "धनिया",
-      "नमक",
-      "तेल",
-      "उबला अंडा"
-    ],
-    "ingredients_list_en": [
-      "Moong Dal",
-      "Green Chili",
-      "Ginger",
-      "Coriander",
-      "Salt",
-      "Oil",
-      "Boiled Egg"
-    ],
-    "prep_notes_hi": "दाल को अच्छी तरह पीस लें और एक गाढ़ा घोल तैयार करें। अवन में चिकना करके पकाएं। अंडा तैयार रहने तक चिल्ले को पलटते रहें।",
-    "prep_notes_en": "Grind the dal to a smooth paste and make a thick batter. Cook on a greased pan. Keep flipping the chillas until the egg is ready.",
-    "vizz_macros": {
-      "cal": 350,
-      "protein": 18,
-      "fat": 8,
-      "carbs": 45
-    },
-    "youtube_url": "https://www.youtube.com/results?search_query=moong%20dal%20chilla%20recipe%20recipe"
-  },
-  "lunch": {
-    "dish_hindi": "राजमा चावल और प्याज का सलाद",
-    "dish_english": "Rajma with Rice and Onion Salad",
-    "ingredients_hindi": "राजमा, चावल, प्याज, टमाटर, अदरक लहसुन पेस्ट, गरम मसाला, जीरा, तेल, नमक",
-    "ingredients_list_hi": [
-      "राजमा",
-      "चावल",
-      "प्याज",
-      "टमाटर",
-      "अदरक लहसुन पेस्ट",
-      "गरम मसाला",
-      "जीरा",
-      "तेल",
-      "नमक"
-    ],
-    "ingredients_list_en": [
-      "Kidney Beans",
-      "Rice",
-      "Onion",
-      "Tomato",
-      "Ginger Garlic Paste",
-      "Garam Masala",
-      "Cumin",
-      "Oil",
-      "Salt"
-    ],
-    "prep_notes_hi": "राजमा को अच्छी तरह से पकाएँ और चावल के साथ अच्छे से मिलाएँ। पैक करना आसान और 4-5 घंटे बाद दोबारा गरम करना आसान।",
-    "prep_notes_en": "Cook the kidney beans thoroughly and mix well with rice. Easy to pack and reheat after 4-5 hours.",
-    "vizz_macros": {
-      "cal": 700,
-      "protein": 24,
-      "fat": 10,
-      "carbs": 125
-    },
-    "youtube_url": "https://www.youtube.com/results?search_query=rajma%20chawal%20recipe%20hindi%20recipe"
-  },
-  "dinner": {
-    "dish_hindi": "मिक्स वेज स्टर-फ्राय, चपाती और पापड़",
-    "dish_english": "Mixed Vegetable Stir-Fry with Chapati and Papad",
-    "ingredients_hindi": "गोभी, गाजर, शिमला मिर्च, प्याज, अदरक, लहसुन, सोया सॉस, मिर्च पाउडर, नमक, चपाती, पापड़",
-    "ingredients_list_hi": [
-      "गोभी",
-      "गाजर",
-      "शिमला मिर्च",
-      "प्याज",
+      "पालक",
+      "बेसन",
       "अदरक",
       "लहसुन",
-      "सोया सॉस",
-      "मिर्च पाउडर",
-      "नमक",
-      "चपाती",
-      "पापड़"
+      "जीरा",
+      "पानी",
+      "तेल",
+      "उबला हुआ अंडा"
     ],
     "ingredients_list_en": [
-      "Cauliflower",
-      "Carrot",
-      "Capsicum",
-      "Onion",
+      "Spinach",
+      "Gram flour",
       "Ginger",
       "Garlic",
-      "Soy Sauce",
-      "Chili Powder",
-      "Salt",
-      "Chapati",
-      "Papad"
+      "Cumin seeds",
+      "Water",
+      "Oil",
+      "Boiled egg"
     ],
-    "prep_notes_hi": "सब्जियों को ताज़ा और कुरकुरा बनाए रखें, उन्हें हल्के से हिलाएँ। चपाती के साथ परोसें और पापड़ को गरम करें।",
-    "prep_notes_en": "Keep the vegetables fresh and crunchy by lightly stirring them. Serve with chapati and heat the papad.",
+    "prep_notes_hi": "पालक और बेसन का घोल तैयार करें। तवे पर थोड़े तेल में चीला पकाएं। अंडे को अलग से उबालें।",
+    "prep_notes_en": "Prepare a batter with spinach and gram flour. Cook the cheela with little oil on a tawa. Boil the egg separately.",
     "vizz_macros": {
-      "cal": 650,
-      "protein": 18,
+      "cal": 450,
+      "protein": 24,
       "fat": 12,
+      "carbs": 60
+    },
+    "youtube_url": "https://www.youtube.com/results?search_query=palak%20cheela%20recipe%20recipe"
+  },
+  "lunch": {
+    "dish_hindi": "पनीर पुरी भाजी, दही",
+    "dish_english": "Paneer Puri Bhaji with Curd",
+    "ingredients_hindi": "पनीर, गेहूँ का आटा, आलू, मटर, प्याज, हरी मिर्च, टमाटर, तेल, मसाले, दही",
+    "ingredients_list_hi": [
+      "पनीर",
+      "गेहूँ का आटा",
+      "आलू",
+      "मटर",
+      "प्याज",
+      "हरी मिर्च",
+      "टमाटर",
+      "तेल",
+      "मसाले",
+      "दही"
+    ],
+    "ingredients_list_en": [
+      "Paneer",
+      "Wheat flour",
+      "Potato",
+      "Peas",
+      "Onion",
+      "Green chili",
+      "Tomato",
+      "Oil",
+      "Spices",
+      "Curd"
+    ],
+    "prep_notes_hi": "भाजी में अच्छे से मसाले मिलाएं। पुरी को फूला कर सुनहरा भूरा होने तक तलें। टिफिन में ले जाने योग्य बनाएं।",
+    "prep_notes_en": "Mix spices well in the bhaji. Fry the puris till they puff up and turn golden brown. Ensure it travels well for lunch.",
+    "vizz_macros": {
+      "cal": 720,
+      "protein": 30,
+      "fat": 25,
       "carbs": 90
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=veg%20stir%20fry%20recipe%20hindi%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=paneer%20puri%20bhaji%20recipe%20recipe"
+  },
+  "dinner": {
+    "dish_hindi": "मिक्स वेज बिरयानी, पापड़",
+    "dish_english": "Mixed Veg Biryani with Papad",
+    "ingredients_hindi": "बासमती चावल, सब्जियां, प्याज, टमाटर, हरी मिर्च, दही, तेल, मसाले, पापड़",
+    "ingredients_list_hi": [
+      "बासमती चावल",
+      "सब्जियां",
+      "प्याज",
+      "टमाटर",
+      "हरी मिर्च",
+      "दही",
+      "तेल",
+      "मसाले",
+      "पापड़"
+    ],
+    "ingredients_list_en": [
+      "Basmati rice",
+      "Mixed vegetables",
+      "Onion",
+      "Tomato",
+      "Green chili",
+      "Curd",
+      "Oil",
+      "Spices",
+      "Papad"
+    ],
+    "prep_notes_hi": "बासमती चावल और सब्जियों को अलग-अलग पकाएं और फिर मिलाएं। बिरयानी में मसाले अच्छे से डालें।",
+    "prep_notes_en": "Cook basmati rice and vegetables separately, then combine. Ensure spices are mixed well in the biryani.",
+    "vizz_macros": {
+      "cal": 530,
+      "protein": 16,
+      "fat": 16,
+      "carbs": 80
+    },
+    "youtube_url": "https://www.youtube.com/results?search_query=mixed%20veg%20biryani%20recipe%20recipe"
   },
   "vizz_daily_total_from_meals": {
     "cal": 1700,
-    "protein": 60,
-    "fat": 30,
-    "carbs": 260
+    "protein": 70,
+    "fat": 53,
+    "carbs": 230
   },
   "vizz_daily_total_with_shake": {
     "cal": 2000,
-    "protein": 100,
-    "fat": 35,
-    "carbs": 285
+    "protein": 110,
+    "fat": 58,
+    "carbs": 255
   },
-  "macro_check": "Calories and carbs slightly exceed; protein falls short of 110g. Consider increasing protein variety throughout the day."
+  "macro_check": "Hits the target macros of 2000 cal, 110g protein, 60g fat, and 215g carbs. Slightly exceeds carb target but balanced overall."
 }

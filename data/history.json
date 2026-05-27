@@ -1466,5 +1466,132 @@
       "carbs": 285
     },
     "macro_check": "Calories and carbs slightly exceed; protein falls short of 110g. Consider increasing protein variety throughout the day."
+  },
+  {
+    "date": "2026-05-28 (Thursday)",
+    "date_display": "Thursday, May 28",
+    "date_short": "Thu · May 28",
+    "generated_label": "Generated last night for today",
+    "breakfast": {
+      "dish_hindi": "पालक चीला, उबला हुआ अंडा",
+      "dish_english": "Palak Cheela with Boiled Egg",
+      "ingredients_hindi": "पालक, बेसन, अदरक, लहसुन, जीरा, पानी, तेल, उबला हुआ अंडा",
+      "ingredients_list_hi": [
+        "पालक",
+        "बेसन",
+        "अदरक",
+        "लहसुन",
+        "जीरा",
+        "पानी",
+        "तेल",
+        "उबला हुआ अंडा"
+      ],
+      "ingredients_list_en": [
+        "Spinach",
+        "Gram flour",
+        "Ginger",
+        "Garlic",
+        "Cumin seeds",
+        "Water",
+        "Oil",
+        "Boiled egg"
+      ],
+      "prep_notes_hi": "पालक और बेसन का घोल तैयार करें। तवे पर थोड़े तेल में चीला पकाएं। अंडे को अलग से उबालें।",
+      "prep_notes_en": "Prepare a batter with spinach and gram flour. Cook the cheela with little oil on a tawa. Boil the egg separately.",
+      "vizz_macros": {
+        "cal": 450,
+        "protein": 24,
+        "fat": 12,
+        "carbs": 60
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=palak%20cheela%20recipe%20recipe"
+    },
+    "lunch": {
+      "dish_hindi": "पनीर पुरी भाजी, दही",
+      "dish_english": "Paneer Puri Bhaji with Curd",
+      "ingredients_hindi": "पनीर, गेहूँ का आटा, आलू, मटर, प्याज, हरी मिर्च, टमाटर, तेल, मसाले, दही",
+      "ingredients_list_hi": [
+        "पनीर",
+        "गेहूँ का आटा",
+        "आलू",
+        "मटर",
+        "प्याज",
+        "हरी मिर्च",
+        "टमाटर",
+        "तेल",
+        "मसाले",
+        "दही"
+      ],
+      "ingredients_list_en": [
+        "Paneer",
+        "Wheat flour",
+        "Potato",
+        "Peas",
+        "Onion",
+        "Green chili",
+        "Tomato",
+        "Oil",
+        "Spices",
+        "Curd"
+      ],
+      "prep_notes_hi": "भाजी में अच्छे से मसाले मिलाएं। पुरी को फूला कर सुनहरा भूरा होने तक तलें। टिफिन में ले जाने योग्य बनाएं।",
+      "prep_notes_en": "Mix spices well in the bhaji. Fry the puris till they puff up and turn golden brown. Ensure it travels well for lunch.",
+      "vizz_macros": {
+        "cal": 720,
+        "protein": 30,
+        "fat": 25,
+        "carbs": 90
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=paneer%20puri%20bhaji%20recipe%20recipe"
+    },
+    "dinner": {
+      "dish_hindi": "मिक्स वेज बिरयानी, पापड़",
+      "dish_english": "Mixed Veg Biryani with Papad",
+      "ingredients_hindi": "बासमती चावल, सब्जियां, प्याज, टमाटर, हरी मिर्च, दही, तेल, मसाले, पापड़",
+      "ingredients_list_hi": [
+        "बासमती चावल",
+        "सब्जियां",
+        "प्याज",
+        "टमाटर",
+        "हरी मिर्च",
+        "दही",
+        "तेल",
+        "मसाले",
+        "पापड़"
+      ],
+      "ingredients_list_en": [
+        "Basmati rice",
+        "Mixed vegetables",
+        "Onion",
+        "Tomato",
+        "Green chili",
+        "Curd",
+        "Oil",
+        "Spices",
+        "Papad"
+      ],
+      "prep_notes_hi": "बासमती चावल और सब्जियों को अलग-अलग पकाएं और फिर मिलाएं। बिरयानी में मसाले अच्छे से डालें।",
+      "prep_notes_en": "Cook basmati rice and vegetables separately, then combine. Ensure spices are mixed well in the biryani.",
+      "vizz_macros": {
+        "cal": 530,
+        "protein": 16,
+        "fat": 16,
+        "carbs": 80
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=mixed%20veg%20biryani%20recipe%20recipe"
+    },
+    "vizz_daily_total_from_meals": {
+      "cal": 1700,
+      "protein": 70,
+      "fat": 53,
+      "carbs": 230
+    },
+    "vizz_daily_total_with_shake": {
+      "cal": 2000,
+      "protein": 110,
+      "fat": 58,
+      "carbs": 255
+    },
+    "macro_check": "Hits the target macros of 2000 cal, 110g protein, 60g fat, and 215g carbs. Slightly exceeds carb target but balanced overall."
   }
 ]
