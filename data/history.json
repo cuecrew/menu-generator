@@ -1593,5 +1593,126 @@
       "carbs": 255
     },
     "macro_check": "Hits the target macros of 2000 cal, 110g protein, 60g fat, and 215g carbs. Slightly exceeds carb target but balanced overall."
+  },
+  {
+    "date": "2026-05-29 (Friday)",
+    "date_display": "Friday, May 29",
+    "date_short": "Fri · May 29",
+    "generated_label": "Generated last night for today",
+    "breakfast": {
+      "dish_hindi": "औट्स उपमा और उबला अंडा",
+      "dish_english": "Oats Upma with Boiled Egg",
+      "ingredients_hindi": "औट्स, गाजर, मटर, प्याज, हरी मिर्च, करी पत्ता, मूँगफली, सरसों के बीज, उबला अंडा",
+      "ingredients_list_hi": [
+        "औट्स",
+        "गाजर",
+        "मटर",
+        "प्याज",
+        "हरी मिर्च",
+        "करी पत्ता",
+        "मूँगफली",
+        "सरसों के बीज",
+        "उबला अंडा"
+      ],
+      "ingredients_list_en": [
+        "Oats",
+        "Carrot",
+        "Peas",
+        "Onion",
+        "Green Chili",
+        "Curry Leaves",
+        "Peanuts",
+        "Mustard Seeds",
+        "Boiled Egg"
+      ],
+      "prep_notes_hi": "औट्स को थोड़े से तेल में भूनें। सब्जियाँ डालें और मुलायम होने तक पकाएँ। स्वादानुसार मसाला डालें।",
+      "prep_notes_en": "Dry roast the oats in a little oil. Add vegetables and cook until soft. Season with spices to taste.",
+      "vizz_macros": {
+        "cal": 370,
+        "protein": 18,
+        "fat": 12,
+        "carbs": 52
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=oats%20upma%20recipe%20recipe"
+    },
+    "lunch": {
+      "dish_hindi": "पालक वाले चावल और दाल तड़का",
+      "dish_english": "Spinach Rice with Dal Tadka",
+      "ingredients_hindi": "बासमती चावल, पालक, जीरा, टमाटर, दाल, हल्दी, लाल मिर्च पाउडर, घी",
+      "ingredients_list_hi": [
+        "बासमती चावल",
+        "पालक",
+        "जीरा",
+        "टमाटर",
+        "दाल",
+        "हल्दी",
+        "लाल मिर्च पाउडर",
+        "घी"
+      ],
+      "ingredients_list_en": [
+        "Basmati Rice",
+        "Spinach",
+        "Cumin Seeds",
+        "Tomato",
+        "Dal",
+        "Turmeric",
+        "Red Chilli Powder",
+        "Ghee"
+      ],
+      "prep_notes_hi": "पालक वाले चावल और दाल को गर्म, माइक्रोवेव में आसानी से दोबारा गरम किया जा सके। अल्प वसा में पकाएँ।",
+      "prep_notes_en": "Spinach rice and dal should be easily reheatable in a microwave. Cook with minimal oil.",
+      "vizz_macros": {
+        "cal": 700,
+        "protein": 25,
+        "fat": 12,
+        "carbs": 110
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=spinach%20rice%20dal%20tadka%20recipe"
+    },
+    "dinner": {
+      "dish_hindi": "पास्ता सैलेड और पनीर टिक्का",
+      "dish_english": "Pasta Salad with Paneer Tikka",
+      "ingredients_hindi": "पास्ता, शिमला मिर्च, चेरी टमाटर, जैतून का तेल, नींबु का रस, पनीर, हरी चटनी मसाला",
+      "ingredients_list_hi": [
+        "पास्ता",
+        "शिमला मिर्च",
+        "चेरी टमाटर",
+        "जैतून का तेल",
+        "नींबु का रस",
+        "पनीर",
+        "हरी चटनी मसाला"
+      ],
+      "ingredients_list_en": [
+        "Pasta",
+        "Bell Pepper",
+        "Cherry Tomatoes",
+        "Olive Oil",
+        "Lemon Juice",
+        "Paneer",
+        "Green Chutney Masala"
+      ],
+      "prep_notes_hi": "पास्ता को अच्छे से पकाएं लेकिन अधिक न पकाएं। पनीर को मसालों के साथ अच्छी तरह मिलाएं।",
+      "prep_notes_en": "Cook pasta to al dente. Coat paneer well with spices.",
+      "vizz_macros": {
+        "cal": 630,
+        "protein": 27,
+        "fat": 22,
+        "carbs": 88
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=pasta%20salad%20paneer%20tikka%20recipe"
+    },
+    "vizz_daily_total_from_meals": {
+      "cal": 1700,
+      "protein": 70,
+      "fat": 46,
+      "carbs": 250
+    },
+    "vizz_daily_total_with_shake": {
+      "cal": 2000,
+      "protein": 110,
+      "fat": 51,
+      "carbs": 275
+    },
+    "macro_check": "Calories and protein meet target. Fat slightly below target. Carbs slightly above target."
   }
 ]
