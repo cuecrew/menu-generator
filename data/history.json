@@ -1837,5 +1837,104 @@
       "carbs": 285
     },
     "macro_check": "Calories and fats are on target, protein is slightly low, carbs are higher than target."
+  },
+  {
+    "date": "2026-05-31 (Sunday)",
+    "date_display": "Sunday, May 31",
+    "date_short": "Sun · May 31",
+    "generated_label": "Generated last night for today",
+    "breakfast": {
+      "dish_hindi": "मशरूम परांठा, दही और उबले अंडे",
+      "dish_english": "Mushroom Paratha with Curd and Boiled Eggs",
+      "ingredients_hindi": "गेहूं का आटा, मशरूम, दही, उबले अंडे, मसाले",
+      "ingredients_list_hi": [
+        "गेहूं का आटा",
+        "मशरूम",
+        "दही",
+        "उबले अंडे",
+        "मसाले"
+      ],
+      "ingredients_list_en": [
+        "Wheat Flour",
+        "Mushrooms",
+        "Curd",
+        "Boiled Eggs",
+        "Spices"
+      ],
+      "prep_notes_hi": "मशरूम को अच्छे से धोकर बारीक काट लें। आटे में मशरूम मिश्रण भरकर परांठा बेलें।",
+      "prep_notes_en": "Wash and finely chop the mushrooms. Stuff the dough with the mushroom mixture and roll into parathas.",
+      "vizz_macros": {
+        "cal": 400,
+        "protein": 14,
+        "fat": 12,
+        "carbs": 60
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=mushroom%20paratha%20recipe%20recipe"
+    },
+    "lunch": {
+      "dish_hindi": "चने पुलाव के साथ पापड़",
+      "dish_english": "Chana Pulao with Papad",
+      "ingredients_hindi": "चने, बासमती चावल, पापड़, मसाले",
+      "ingredients_list_hi": [
+        "चने",
+        "बासमती चावल",
+        "पापड़",
+        "मसाले"
+      ],
+      "ingredients_list_en": [
+        "Chickpeas",
+        "Basmati Rice",
+        "Papad",
+        "Spices"
+      ],
+      "prep_notes_hi": "चने और चावल को मिलाएं। इसे पापड़ के साथ सर्व करें। यह लंच के लिए उपयुक्त है।",
+      "prep_notes_en": "Combine the chickpeas and rice. Serve with papad. Suitable for lunch.",
+      "vizz_macros": {
+        "cal": 450,
+        "protein": 16,
+        "fat": 8,
+        "carbs": 80
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=chana%20pulao%20recipe%20recipe"
+    },
+    "dinner": {
+      "dish_hindi": "वेज मंचूरियन नूडल्स",
+      "dish_english": "Veg Manchurian Noodles",
+      "ingredients_hindi": "हरी सब्जियां, नूडल्स, सोया सॉस, मसाले",
+      "ingredients_list_hi": [
+        "हरी सब्जियां",
+        "नूडल्स",
+        "सोया सॉस",
+        "मसाले"
+      ],
+      "ingredients_list_en": [
+        "Green Vegetables",
+        "Noodles",
+        "Soy Sauce",
+        "Spices"
+      ],
+      "prep_notes_hi": "वेज मंचूरियन बॉल्स बनाकर नूडल्स में मिलाएं।",
+      "prep_notes_en": "Prepare veg Manchurian balls and mix with noodles.",
+      "vizz_macros": {
+        "cal": 550,
+        "protein": 18,
+        "fat": 14,
+        "carbs": 95
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=veg%20manchurian%20noodles%20recipe%20recipe"
+    },
+    "vizz_daily_total_from_meals": {
+      "cal": 1400,
+      "protein": 48,
+      "fat": 34,
+      "carbs": 235
+    },
+    "vizz_daily_total_with_shake": {
+      "cal": 1700,
+      "protein": 88,
+      "fat": 39,
+      "carbs": 260
+    },
+    "macro_check": "Calorie and carb targets are met. Protein is slightly below target; consider additional protein sources."
   }
 ]

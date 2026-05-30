@@ -1,123 +1,99 @@
 {
-  "date": "2026-05-30 (Saturday)",
-  "date_display": "Saturday, May 30",
-  "date_short": "Sat · May 30",
+  "date": "2026-05-31 (Sunday)",
+  "date_display": "Sunday, May 31",
+  "date_short": "Sun · May 31",
   "generated_label": "Generated last night for today",
   "breakfast": {
-    "dish_hindi": "सूजी उपमा, उबले अंडे",
-    "dish_english": "Semolina Upma with Boiled Eggs",
-    "ingredients_hindi": "सूजी, प्याज, गाजर, मटर, सरसों के बीज, करी पत्ते, हरी मिर्च, नमक, तेल, उबले अंडे",
+    "dish_hindi": "मशरूम परांठा, दही और उबले अंडे",
+    "dish_english": "Mushroom Paratha with Curd and Boiled Eggs",
+    "ingredients_hindi": "गेहूं का आटा, मशरूम, दही, उबले अंडे, मसाले",
     "ingredients_list_hi": [
-      "सूजी",
-      "प्याज",
-      "गाजर",
-      "मटर",
-      "सरसों के बीज",
-      "करी पत्ते",
-      "हरी मिर्च",
-      "नमक",
-      "तेल",
-      "उबले अंडे"
+      "गेहूं का आटा",
+      "मशरूम",
+      "दही",
+      "उबले अंडे",
+      "मसाले"
     ],
     "ingredients_list_en": [
-      "Semolina (Suji)",
-      "Onion",
-      "Carrot",
-      "Peas",
-      "Mustard Seeds",
-      "Curry Leaves",
-      "Green Chilli",
-      "Salt",
-      "Oil",
-      "Boiled Eggs"
+      "Wheat Flour",
+      "Mushrooms",
+      "Curd",
+      "Boiled Eggs",
+      "Spices"
     ],
-    "prep_notes_hi": "सूजी को सुनहरे रंग का भूनें। सब्जियाँ डालें और अच्छी तरह मिलाएं। पानी डालकर पकाएं।",
-    "prep_notes_en": "Roast semolina till golden. Add vegetables and mix well. Add water and cook until done.",
+    "prep_notes_hi": "मशरूम को अच्छे से धोकर बारीक काट लें। आटे में मशरूम मिश्रण भरकर परांठा बेलें।",
+    "prep_notes_en": "Wash and finely chop the mushrooms. Stuff the dough with the mushroom mixture and roll into parathas.",
     "vizz_macros": {
       "cal": 400,
-      "protein": 12,
-      "fat": 8,
-      "carbs": 70
+      "protein": 14,
+      "fat": 12,
+      "carbs": 60
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=upma%20recipe%20hindi%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=mushroom%20paratha%20recipe%20recipe"
   },
   "lunch": {
-    "dish_hindi": "चना मसाला, बासमती चावल, पापड़",
-    "dish_english": "Chana Masala with Basmati Rice and Papad",
-    "ingredients_hindi": "चना, टमाटर, प्याज, अदरक, लहसुन, मसाले, तेल, बासमती चावल, पापड़",
+    "dish_hindi": "चने पुलाव के साथ पापड़",
+    "dish_english": "Chana Pulao with Papad",
+    "ingredients_hindi": "चने, बासमती चावल, पापड़, मसाले",
     "ingredients_list_hi": [
-      "चना",
-      "टमाटर",
-      "प्याज",
-      "अदरक",
-      "लहसुन",
-      "मसाले",
-      "तेल",
+      "चने",
       "बासमती चावल",
-      "पापड़"
+      "पापड़",
+      "मसाले"
     ],
     "ingredients_list_en": [
       "Chickpeas",
-      "Tomato",
-      "Onion",
-      "Ginger",
-      "Garlic",
-      "Spices",
-      "Oil",
       "Basmati Rice",
-      "Papad"
+      "Papad",
+      "Spices"
     ],
-    "prep_notes_hi": "चने को अच्छी तरह से पकाएं ताकि यह नरम हो। यह खाने में पोर्टेबल रहे और माइक्रोवेव में गरम हो सके।",
-    "prep_notes_en": "Cook chickpeas well until soft. Ensure the meal holds well for travel and reheats in a microwave.",
+    "prep_notes_hi": "चने और चावल को मिलाएं। इसे पापड़ के साथ सर्व करें। यह लंच के लिए उपयुक्त है।",
+    "prep_notes_en": "Combine the chickpeas and rice. Serve with papad. Suitable for lunch.",
     "vizz_macros": {
-      "cal": 650,
-      "protein": 22,
-      "fat": 10,
-      "carbs": 110
-    },
-    "youtube_url": "https://www.youtube.com/results?search_query=chana%20masala%20recipe%20recipe"
-  },
-  "dinner": {
-    "dish_hindi": "मखनी पनीर, तंदूरी रोटी",
-    "dish_english": "Paneer Makhani with Tandoori Roti",
-    "ingredients_hindi": "पनीर, टमाटर, मक्खन, क्रीम, मसाले, तंदूरी रोटी",
-    "ingredients_list_hi": [
-      "पनीर",
-      "टमाटर",
-      "मक्खन",
-      "क्रीम",
-      "मसाले",
-      "तंदूरी रोटी"
-    ],
-    "ingredients_list_en": [
-      "Paneer",
-      "Tomato",
-      "Butter",
-      "Cream",
-      "Spices",
-      "Tandoori Roti"
-    ],
-    "prep_notes_hi": "पनीर को टमाटर की ग्रेवी में पकाएं और मसाले डालकर धीमी आंच पर पकने दें। रोटियाँ गरम होकर परोसें।",
-    "prep_notes_en": "Cook paneer in tomato-based gravy, adding spices and let it simmer. Serve warm rotis.",
-    "vizz_macros": {
-      "cal": 650,
-      "protein": 30,
-      "fat": 22,
+      "cal": 450,
+      "protein": 16,
+      "fat": 8,
       "carbs": 80
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=paneer%20makhani%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=chana%20pulao%20recipe%20recipe"
+  },
+  "dinner": {
+    "dish_hindi": "वेज मंचूरियन नूडल्स",
+    "dish_english": "Veg Manchurian Noodles",
+    "ingredients_hindi": "हरी सब्जियां, नूडल्स, सोया सॉस, मसाले",
+    "ingredients_list_hi": [
+      "हरी सब्जियां",
+      "नूडल्स",
+      "सोया सॉस",
+      "मसाले"
+    ],
+    "ingredients_list_en": [
+      "Green Vegetables",
+      "Noodles",
+      "Soy Sauce",
+      "Spices"
+    ],
+    "prep_notes_hi": "वेज मंचूरियन बॉल्स बनाकर नूडल्स में मिलाएं।",
+    "prep_notes_en": "Prepare veg Manchurian balls and mix with noodles.",
+    "vizz_macros": {
+      "cal": 550,
+      "protein": 18,
+      "fat": 14,
+      "carbs": 95
+    },
+    "youtube_url": "https://www.youtube.com/results?search_query=veg%20manchurian%20noodles%20recipe%20recipe"
   },
   "vizz_daily_total_from_meals": {
-    "cal": 1700,
-    "protein": 64,
-    "fat": 40,
-    "carbs": 260
+    "cal": 1400,
+    "protein": 48,
+    "fat": 34,
+    "carbs": 235
   },
   "vizz_daily_total_with_shake": {
-    "cal": 2000,
-    "protein": 104,
-    "fat": 45,
-    "carbs": 285
+    "cal": 1700,
+    "protein": 88,
+    "fat": 39,
+    "carbs": 260
   },
-  "macro_check": "Calories and fats are on target, protein is slightly low, carbs are higher than target."
+  "macro_check": "Calorie and carb targets are met. Protein is slightly below target; consider additional protein sources."
 }
