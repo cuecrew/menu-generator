@@ -1,99 +1,115 @@
 {
-  "date": "2026-05-31 (Sunday)",
-  "date_display": "Sunday, May 31",
-  "date_short": "Sun · May 31",
+  "date": "2026-06-01 (Monday)",
+  "date_display": "Monday, June 1",
+  "date_short": "Mon · Jun 1",
   "generated_label": "Generated last night for today",
   "breakfast": {
-    "dish_hindi": "मशरूम परांठा, दही और उबले अंडे",
-    "dish_english": "Mushroom Paratha with Curd and Boiled Eggs",
-    "ingredients_hindi": "गेहूं का आटा, मशरूम, दही, उबले अंडे, मसाले",
+    "dish_hindi": "ऑट्स पोहा, उबला अंडा",
+    "dish_english": "Oats Poha with Boiled Egg",
+    "ingredients_hindi": "ऑट्स, पोहा, मटर, गाजर, प्याज, धनिया पत्ती, उबला अंडा",
     "ingredients_list_hi": [
-      "गेहूं का आटा",
-      "मशरूम",
-      "दही",
-      "उबले अंडे",
-      "मसाले"
+      "ऑट्स",
+      "पोहा",
+      "मटर",
+      "गाजर",
+      "प्याज",
+      "धनिया पत्ती",
+      "उबला अंडा"
     ],
     "ingredients_list_en": [
-      "Wheat Flour",
-      "Mushrooms",
-      "Curd",
-      "Boiled Eggs",
-      "Spices"
+      "Oats",
+      "Poha (flattened rice)",
+      "Green Peas",
+      "Carrot",
+      "Onion",
+      "Coriander Leaves",
+      "Boiled Egg"
     ],
-    "prep_notes_hi": "मशरूम को अच्छे से धोकर बारीक काट लें। आटे में मशरूम मिश्रण भरकर परांठा बेलें।",
-    "prep_notes_en": "Wash and finely chop the mushrooms. Stuff the dough with the mushroom mixture and roll into parathas.",
+    "prep_notes_hi": "ऑट्स और पोहा को हल्का सा भून लें। सब्जियों को नरम तक पकाएं फिर ऑट्स और पोहा मिलाएं।",
+    "prep_notes_en": "Lightly roast the oats and poha. Cook the vegetables until tender, then mix in oats and poha.",
     "vizz_macros": {
-      "cal": 400,
-      "protein": 14,
-      "fat": 12,
-      "carbs": 60
+      "cal": 370,
+      "protein": 18,
+      "fat": 10,
+      "carbs": 58
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=mushroom%20paratha%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=oats%20poha%20recipe%20recipe"
   },
   "lunch": {
-    "dish_hindi": "चने पुलाव के साथ पापड़",
-    "dish_english": "Chana Pulao with Papad",
-    "ingredients_hindi": "चने, बासमती चावल, पापड़, मसाले",
+    "dish_hindi": "राजमा और चावल, प्याज के स्लाइस",
+    "dish_english": "Rajma with Rice and Onion Slices",
+    "ingredients_hindi": "राजमा, चावल, प्याज, टमाटर, अदरक, लहसुन, मसाले",
     "ingredients_list_hi": [
-      "चने",
-      "बासमती चावल",
-      "पापड़",
+      "राजमा",
+      "चावल",
+      "प्याज",
+      "टमाटर",
+      "अदरक",
+      "लहसुन",
       "मसाले"
     ],
     "ingredients_list_en": [
-      "Chickpeas",
-      "Basmati Rice",
-      "Papad",
+      "Kidney Beans",
+      "Rice",
+      "Onion",
+      "Tomato",
+      "Ginger",
+      "Garlic",
       "Spices"
     ],
-    "prep_notes_hi": "चने और चावल को मिलाएं। इसे पापड़ के साथ सर्व करें। यह लंच के लिए उपयुक्त है।",
-    "prep_notes_en": "Combine the chickpeas and rice. Serve with papad. Suitable for lunch.",
+    "prep_notes_hi": "ढक्कन लगा कर राजमा को पकाएं ताकि यह अच्छे से गल जाए। इसे लंच बॉक्स में पैक करना आसान होता है।",
+    "prep_notes_en": "Cook the rajma under a lid to ensure it softens well. It's easy to pack in a lunchbox.",
     "vizz_macros": {
-      "cal": 450,
-      "protein": 16,
-      "fat": 8,
-      "carbs": 80
+      "cal": 690,
+      "protein": 24,
+      "fat": 6,
+      "carbs": 130
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=chana%20pulao%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=rajma%20chawal%20recipe%20recipe"
   },
   "dinner": {
-    "dish_hindi": "वेज मंचूरियन नूडल्स",
-    "dish_english": "Veg Manchurian Noodles",
-    "ingredients_hindi": "हरी सब्जियां, नूडल्स, सोया सॉस, मसाले",
+    "dish_hindi": "पनीर भुर्जी, रोटी",
+    "dish_english": "Paneer Bhurji with Roti",
+    "ingredients_hindi": "पनीर, शिमला मिर्च, प्याज, टमाटर, धनिया पत्ती, मसाले, आटा",
     "ingredients_list_hi": [
-      "हरी सब्जियां",
-      "नूडल्स",
-      "सोया सॉस",
-      "मसाले"
+      "पनीर",
+      "शिमला मिर्च",
+      "प्याज",
+      "टमाटर",
+      "धनिया पत्ती",
+      "मसाले",
+      "आटा"
     ],
     "ingredients_list_en": [
-      "Green Vegetables",
-      "Noodles",
-      "Soy Sauce",
-      "Spices"
+      "Paneer",
+      "Bell Pepper",
+      "Onion",
+      "Tomato",
+      "Coriander Leaves",
+      "Spices",
+      "Wheat Flour"
     ],
-    "prep_notes_hi": "वेज मंचूरियन बॉल्स बनाकर नूडल्स में मिलाएं।",
-    "prep_notes_en": "Prepare veg Manchurian balls and mix with noodles.",
+    "prep_notes_hi": "शिमला मिर्च और प्याज को पकाएं फिर टमाटर और मसाले डालें। अंत में पनीर मिला लें।",
+    "prep_notes_en": "Cook bell pepper and onion, then add tomatoes and spices. Stir in paneer at the end.",
     "vizz_macros": {
-      "cal": 550,
-      "protein": 18,
-      "fat": 14,
+      "cal": 640,
+      "protein": 30,
+      "fat": 24,
       "carbs": 95
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=veg%20manchurian%20noodles%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=paneer%20bhurji%20recipe%20recipe"
   },
   "vizz_daily_total_from_meals": {
-    "cal": 1400,
-    "protein": 48,
-    "fat": 34,
-    "carbs": 235
+    "cal": 1700,
+    "protein": 72,
+    "fat": 40,
+    "carbs": 283
   },
   "vizz_daily_total_with_shake": {
-    "cal": 1700,
-    "protein": 88,
-    "fat": 39,
-    "carbs": 260
+    "cal": 2000,
+    "protein": 112,
+    "fat": 45,
+    "carbs": 308
   },
-  "macro_check": "Calorie and carb targets are met. Protein is slightly below target; consider additional protein sources."
+  "macro_check": "Calories hit target, protein slightly over target, fat slightly under, carbs slightly over."
 }
