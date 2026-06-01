@@ -2051,5 +2051,142 @@
       "carbs": 308
     },
     "macro_check": "Calories hit target, protein slightly over target, fat slightly under, carbs slightly over."
+  },
+  {
+    "date": "2026-06-02 (Tuesday)",
+    "date_display": "Tuesday, June 2",
+    "date_short": "Tue · Jun 2",
+    "generated_label": "Generated last night for today",
+    "breakfast": {
+      "dish_hindi": "साबूदाना खिचड़ी और उबला हुआ अंडा",
+      "dish_english": "Sabudana Khichdi with Boiled Egg",
+      "ingredients_hindi": "साबूदाना, मूंगफली, आलू, हरी मिर्च, करी पत्ते, जीरा, नींबू, नमक, उबला हुआ अंडा",
+      "ingredients_list_hi": [
+        "साबूदाना",
+        "मूंगफली",
+        "आलू",
+        "हरी मिर्च",
+        "करी पत्ते",
+        "जीरा",
+        "नींबू",
+        "नमक",
+        "उबला हुआ अंडा"
+      ],
+      "ingredients_list_en": [
+        "Sabudana (tapioca pearls)",
+        "Peanuts",
+        "Potato",
+        "Green chilies",
+        "Curry leaves",
+        "Cumin seeds",
+        "Lemon",
+        "Salt",
+        "Boiled Egg"
+      ],
+      "prep_notes_hi": "साबूदाना को भिगो कर रखें ताकि यह अच्छी तरह से फूले। मूंगफली को भूनकर दरदरा पीस लें। आलू को छोटे टुकड़ों में काटें और कुरकुरा होने तक भूनें।",
+      "prep_notes_en": "Soak sabudana well in advance to let it expand properly. Roast and coarsely grind the peanuts. Dice the potatoes and fry them until crispy.",
+      "vizz_macros": {
+        "cal": 520,
+        "protein": 12,
+        "fat": 18,
+        "carbs": 79
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=sabudana%20khichdi%20recipe%20recipe"
+    },
+    "lunch": {
+      "dish_hindi": "पालक पनीर और चपाती",
+      "dish_english": "Palak Paneer with Chapati",
+      "ingredients_hindi": "पालक, पनीर, टमाटर, प्याज, अदरक, लहसुन, हरी मिर्च, गरम मसाला, जीरा, नमक, चपाती",
+      "ingredients_list_hi": [
+        "पालक",
+        "पनीर",
+        "टमाटर",
+        "प्याज",
+        "अदरक",
+        "लहसुन",
+        "हरी मिर्च",
+        "गरम मसाला",
+        "जीरा",
+        "नमक",
+        "चपाती"
+      ],
+      "ingredients_list_en": [
+        "Spinach",
+        "Paneer",
+        "Tomato",
+        "Onion",
+        "Ginger",
+        "Garlic",
+        "Green chilies",
+        "Garam masala",
+        "Cumin seeds",
+        "Salt",
+        "Chapati"
+      ],
+      "prep_notes_hi": "पालक को अच्छी तरह से धोकर उबाल लें। पनीर को हल्का फ्राई करें। यह डिश 4-5 घंटों तक ताजा रहती है और माइक्रोवेव में आसानी से गर्म हो जाती है।",
+      "prep_notes_en": "Thoroughly wash and boil the spinach. Lightly fry the paneer. This dish stays fresh for 4-5 hours and reheats well in a microwave.",
+      "vizz_macros": {
+        "cal": 720,
+        "protein": 30,
+        "fat": 25,
+        "carbs": 85
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=palak%20paneer%20recipe%20recipe"
+    },
+    "dinner": {
+      "dish_hindi": "चाइनीज़ वेज फ्राइड राइस और हक्का नूडल्स",
+      "dish_english": "Chinese Veg Fried Rice with Hakka Noodles",
+      "ingredients_hindi": "बासमती चावल, हक्का नूडल्स, शिमला मिर्च, गाजर, मटर, प्याज, अदरक का पेस्ट, लहसुन, सोया सॉस, विनेगर, नमक, तेल",
+      "ingredients_list_hi": [
+        "बासमती चावल",
+        "हक्का नूडल्स",
+        "शिमला मिर्च",
+        "गाजर",
+        "मटर",
+        "प्याज",
+        "अदरक का पेस्ट",
+        "लहसुन",
+        "सोया सॉस",
+        "विनेगर",
+        "नमक",
+        "तेल"
+      ],
+      "ingredients_list_en": [
+        "Basmati rice",
+        "Hakka noodles",
+        "Bell pepper",
+        "Carrot",
+        "Peas",
+        "Onion",
+        "Ginger paste",
+        "Garlic",
+        "Soy sauce",
+        "Vinegar",
+        "Salt",
+        "Oil"
+      ],
+      "prep_notes_hi": "सब्जियों को समान आकार में काटें ताकि पकने में समान समय लगे। प्याले में अदरक और लहसुन को हल्का भूनें।",
+      "prep_notes_en": "Chop vegetables uniformly to ensure even cooking. Lightly sauté ginger and garlic in a pan.",
+      "vizz_macros": {
+        "cal": 460,
+        "protein": 12,
+        "fat": 10,
+        "carbs": 85
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=veg%20fried%20rice%20recipe%20recipe"
+    },
+    "vizz_daily_total_from_meals": {
+      "cal": 1700,
+      "protein": 54,
+      "fat": 53,
+      "carbs": 249
+    },
+    "vizz_daily_total_with_shake": {
+      "cal": 2000,
+      "protein": 94,
+      "fat": 58,
+      "carbs": 274
+    },
+    "macro_check": "This hits 2000 cal, 94g protein, 58g fat, 274g carbs. Protein slightly below target."
   }
 ]
