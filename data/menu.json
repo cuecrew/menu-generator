@@ -1,137 +1,119 @@
 {
-  "date": "2026-06-02 (Tuesday)",
-  "date_display": "Tuesday, June 2",
-  "date_short": "Tue · Jun 2",
+  "date": "2026-06-03 (Wednesday)",
+  "date_display": "Wednesday, June 3",
+  "date_short": "Wed · Jun 3",
   "generated_label": "Generated last night for today",
   "breakfast": {
-    "dish_hindi": "साबूदाना खिचड़ी और उबला हुआ अंडा",
-    "dish_english": "Sabudana Khichdi with Boiled Egg",
-    "ingredients_hindi": "साबूदाना, मूंगफली, आलू, हरी मिर्च, करी पत्ते, जीरा, नींबू, नमक, उबला हुआ अंडा",
+    "dish_hindi": "अंडा पराठा और दही",
+    "dish_english": "Egg Paratha with Curd",
+    "ingredients_hindi": "गेहूं का आटा, अंडा, दही, हरी मिर्च, धनिया पत्ता, नमक",
     "ingredients_list_hi": [
-      "साबूदाना",
-      "मूंगफली",
-      "आलू",
+      "गेहूं का आटा",
+      "अंडा",
+      "दही",
       "हरी मिर्च",
-      "करी पत्ते",
-      "जीरा",
-      "नींबू",
-      "नमक",
-      "उबला हुआ अंडा"
+      "धनिया पत्ता",
+      "नमक"
     ],
     "ingredients_list_en": [
-      "Sabudana (tapioca pearls)",
-      "Peanuts",
-      "Potato",
+      "Wheat flour",
+      "Egg",
+      "Curd",
       "Green chilies",
-      "Curry leaves",
-      "Cumin seeds",
-      "Lemon",
-      "Salt",
-      "Boiled Egg"
+      "Coriander leaves",
+      "Salt"
     ],
-    "prep_notes_hi": "साबूदाना को भिगो कर रखें ताकि यह अच्छी तरह से फूले। मूंगफली को भूनकर दरदरा पीस लें। आलू को छोटे टुकड़ों में काटें और कुरकुरा होने तक भूनें।",
-    "prep_notes_en": "Soak sabudana well in advance to let it expand properly. Roast and coarsely grind the peanuts. Dice the potatoes and fry them until crispy.",
+    "prep_notes_hi": "पराठे के लिए आटे को नरम गूंथें। अंडे का मिश्रण फैलाएं। धीमी आंच पर सेंकें ताकि पराठा अंदर तक पक जाए।",
+    "prep_notes_en": "Knead the dough to a soft consistency. Spread the egg mixture. Cook on a slow flame to ensure the paratha cooks through.",
     "vizz_macros": {
-      "cal": 520,
-      "protein": 12,
-      "fat": 18,
-      "carbs": 79
+      "cal": 450,
+      "protein": 20,
+      "fat": 12,
+      "carbs": 55
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=sabudana%20khichdi%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=egg%20paratha%20recipe%20hindi%20recipe"
   },
   "lunch": {
-    "dish_hindi": "पालक पनीर और चपाती",
-    "dish_english": "Palak Paneer with Chapati",
-    "ingredients_hindi": "पालक, पनीर, टमाटर, प्याज, अदरक, लहसुन, हरी मिर्च, गरम मसाला, जीरा, नमक, चपाती",
+    "dish_hindi": "मूंग दाल खिचड़ी और चटनी",
+    "dish_english": "Moong Dal Khichdi with Chutney",
+    "ingredients_hindi": "चावल, मूंग दाल, आलू, टमाटर, हरी मिर्च, अदरक, जीरा, हींग, नमक",
     "ingredients_list_hi": [
-      "पालक",
-      "पनीर",
+      "चावल",
+      "मूंग दाल",
+      "आलू",
       "टमाटर",
-      "प्याज",
-      "अदरक",
-      "लहसुन",
       "हरी मिर्च",
-      "गरम मसाला",
+      "अदरक",
       "जीरा",
-      "नमक",
-      "चपाती"
+      "हींग",
+      "नमक"
     ],
     "ingredients_list_en": [
-      "Spinach",
-      "Paneer",
+      "Rice",
+      "Moong dal",
+      "Potatoes",
       "Tomato",
-      "Onion",
-      "Ginger",
-      "Garlic",
       "Green chilies",
-      "Garam masala",
+      "Ginger",
       "Cumin seeds",
-      "Salt",
-      "Chapati"
+      "Asafoetida",
+      "Salt"
     ],
-    "prep_notes_hi": "पालक को अच्छी तरह से धोकर उबाल लें। पनीर को हल्का फ्राई करें। यह डिश 4-5 घंटों तक ताजा रहती है और माइक्रोवेव में आसानी से गर्म हो जाती है।",
-    "prep_notes_en": "Thoroughly wash and boil the spinach. Lightly fry the paneer. This dish stays fresh for 4-5 hours and reheats well in a microwave.",
+    "prep_notes_hi": "खिचड़ी को धीमी आंच पर पकाएं। इसे टिफिन में रखने के लिए थोड़ा सूखा बनाएं ताकि यह अच्छी तरह से यात्रा कर सके।",
+    "prep_notes_en": "Cook the khichdi on a low flame. Make it slightly dry for packing, so it travels well in a tiffin.",
     "vizz_macros": {
-      "cal": 720,
-      "protein": 30,
-      "fat": 25,
-      "carbs": 85
+      "cal": 550,
+      "protein": 22,
+      "fat": 8,
+      "carbs": 95
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=palak%20paneer%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=moong%20dal%20khichdi%20recipe%20recipe"
   },
   "dinner": {
-    "dish_hindi": "चाइनीज़ वेज फ्राइड राइस और हक्का नूडल्स",
-    "dish_english": "Chinese Veg Fried Rice with Hakka Noodles",
-    "ingredients_hindi": "बासमती चावल, हक्का नूडल्स, शिमला मिर्च, गाजर, मटर, प्याज, अदरक का पेस्ट, लहसुन, सोया सॉस, विनेगर, नमक, तेल",
+    "dish_hindi": "पास्ता और हर्ब ब्रेड के साथ मिक्स्ड वेजिटेबल पास्ता",
+    "dish_english": "Mixed Vegetable Pasta with Herb Bread",
+    "ingredients_hindi": "पास्ता, शिमला मिर्च, गाजर, बीन्स, टमाटर सॉस, नमक, काली मिर्च, हर्ब ब्रेड",
     "ingredients_list_hi": [
-      "बासमती चावल",
-      "हक्का नूडल्स",
+      "पास्ता",
       "शिमला मिर्च",
       "गाजर",
-      "मटर",
-      "प्याज",
-      "अदरक का पेस्ट",
-      "लहसुन",
-      "सोया सॉस",
-      "विनेगर",
+      "बीन्स",
+      "टमाटर सॉस",
       "नमक",
-      "तेल"
+      "काली मिर्च",
+      "हर्ब ब्रेड"
     ],
     "ingredients_list_en": [
-      "Basmati rice",
-      "Hakka noodles",
-      "Bell pepper",
-      "Carrot",
-      "Peas",
-      "Onion",
-      "Ginger paste",
-      "Garlic",
-      "Soy sauce",
-      "Vinegar",
+      "Pasta",
+      "Bell peppers",
+      "Carrots",
+      "Beans",
+      "Tomato sauce",
       "Salt",
-      "Oil"
+      "Black pepper",
+      "Herb bread"
     ],
-    "prep_notes_hi": "सब्जियों को समान आकार में काटें ताकि पकने में समान समय लगे। प्याले में अदरक और लहसुन को हल्का भूनें।",
-    "prep_notes_en": "Chop vegetables uniformly to ensure even cooking. Lightly sauté ginger and garlic in a pan.",
+    "prep_notes_hi": "सब्जियों को क्यूब्स में काटें। पास्ता को उबाल कर सब्जियों के साथ मिलाएं। हर्ब ब्रेड को गार्निश के रूप में परोसें।",
+    "prep_notes_en": "Dice the vegetables. Boil the pasta and mix with vegetables. Serve herb bread as a garnish.",
     "vizz_macros": {
-      "cal": 460,
-      "protein": 12,
-      "fat": 10,
-      "carbs": 85
+      "cal": 700,
+      "protein": 18,
+      "fat": 25,
+      "carbs": 90
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=veg%20fried%20rice%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=mixed%20vegetable%20pasta%20recipe%20recipe"
   },
   "vizz_daily_total_from_meals": {
     "cal": 1700,
-    "protein": 54,
-    "fat": 53,
-    "carbs": 249
+    "protein": 60,
+    "fat": 45,
+    "carbs": 240
   },
   "vizz_daily_total_with_shake": {
     "cal": 2000,
-    "protein": 94,
-    "fat": 58,
-    "carbs": 274
+    "protein": 100,
+    "fat": 50,
+    "carbs": 265
   },
-  "macro_check": "This hits 2000 cal, 94g protein, 58g fat, 274g carbs. Protein slightly below target."
+  "macro_check": "Slightly low on protein; overall macros are close to target, with carbs slightly over."
 }
