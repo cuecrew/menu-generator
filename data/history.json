@@ -2307,5 +2307,116 @@
       "carbs": 265
     },
     "macro_check": "Slightly low on protein; overall macros are close to target, with carbs slightly over."
+  },
+  {
+    "date": "2026-06-04 (Thursday)",
+    "date_display": "Thursday, June 4",
+    "date_short": "Thu · Jun 4",
+    "generated_label": "Generated last night for today",
+    "breakfast": {
+      "dish_hindi": "साँवा खिचड़ी, दही",
+      "dish_english": "Samvat Khichdi with Curd",
+      "ingredients_hindi": "साँवा, आलू, हरी मिर्च, दही, घी, नमक",
+      "ingredients_list_hi": [
+        "साँवा",
+        "आलू",
+        "हरी मिर्च",
+        "दही",
+        "घी",
+        "नमक"
+      ],
+      "ingredients_list_en": [
+        "Barnyard Millet",
+        "Potato",
+        "Green Chilli",
+        "Curd",
+        "Ghee",
+        "Salt"
+      ],
+      "prep_notes_hi": "साँवा और आलू को हल्का पकाएं ताकि खिचड़ी फूले। घी और नमक मिलाकर अच्छे से पकाएं।",
+      "prep_notes_en": "Cook the millet and potatoes lightly to allow khichdi to fluff. Add ghee and salt for taste.",
+      "vizz_macros": {
+        "cal": 400,
+        "protein": 12,
+        "fat": 10,
+        "carbs": 70
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=samvat%20khichdi%20recipe%20recipe"
+    },
+    "lunch": {
+      "dish_hindi": "मटर पनीर, रोटी और बूंदी का रायता",
+      "dish_english": "Matar Paneer with Roti and Boondi Raita",
+      "ingredients_hindi": "पनीर, मटर, टमाटर, प्याज, मसाले, गेंहू का आटा, बूंदी, दही",
+      "ingredients_list_hi": [
+        "पनीर",
+        "मटर",
+        "टमाटर",
+        "प्याज",
+        "मसाले",
+        "गेंहू का आटा",
+        "बूंदी",
+        "दही"
+      ],
+      "ingredients_list_en": [
+        "Paneer",
+        "Peas",
+        "Tomato",
+        "Onion",
+        "Spices",
+        "Wheat Flour",
+        "Boondi",
+        "Curd"
+      ],
+      "prep_notes_hi": "मटर पनीर को अच्छे से पकाएं ताकि यह कुछ घंटों तक ताजा रहे। रेफ्रिजरेट करने की जरूरत नहीं।",
+      "prep_notes_en": "Cook Matar Paneer well to keep it fresh for a few hours. No need to refrigerate.",
+      "vizz_macros": {
+        "cal": 650,
+        "protein": 25,
+        "fat": 30,
+        "carbs": 80
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=matar%20paneer%20recipe%20recipe"
+    },
+    "dinner": {
+      "dish_hindi": "उड़द की दाल, जीरा राइस, अचार",
+      "dish_english": "Urad Dal with Jeera Rice and Pickle",
+      "ingredients_hindi": "उड़द की दाल, चावल, जीरा, अचार, मसाले",
+      "ingredients_list_hi": [
+        "उड़द की दाल",
+        "चावल",
+        "जीरा",
+        "अचार",
+        "मसाले"
+      ],
+      "ingredients_list_en": [
+        "Urad Dal",
+        "Rice",
+        "Cumin Seeds",
+        "Pickle",
+        "Spices"
+      ],
+      "prep_notes_hi": "उड़द की दाल को मुलायम और अधिक समय तक पकने दें। जीरा राइस के लिए चावल अच्छे से गलाएं।",
+      "prep_notes_en": "Cook Urad Dal thoroughly to soften it. For Jeera Rice, cook the rice until it is soft.",
+      "vizz_macros": {
+        "cal": 650,
+        "protein": 25,
+        "fat": 10,
+        "carbs": 105
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=urad%20dal%20jeera%20rice%20recipe%20recipe"
+    },
+    "vizz_daily_total_from_meals": {
+      "cal": 1700,
+      "protein": 62,
+      "fat": 50,
+      "carbs": 255
+    },
+    "vizz_daily_total_with_shake": {
+      "cal": 2000,
+      "protein": 102,
+      "fat": 55,
+      "carbs": 280
+    },
+    "macro_check": "Close to target macros but slightly low on protein. Consider additional protein from paneer or legumes."
   }
 ]
