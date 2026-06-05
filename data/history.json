@@ -2559,5 +2559,108 @@
       "carbs": 270
     },
     "macro_check": "Hits overall targets with the shake included. Slightly over carbs, but meets protein and calorie goals."
+  },
+  {
+    "date": "2026-06-06 (Saturday)",
+    "date_display": "Saturday, June 6",
+    "date_short": "Sat · Jun 6",
+    "generated_label": "Generated last night for today",
+    "breakfast": {
+      "dish_hindi": "पालक पुरी और आलू की सब्ज़ी",
+      "dish_english": "Palak Puri with Aloo Sabzi",
+      "ingredients_hindi": "पालक, गेहूं का आटा, आलू, मसाले, तेल",
+      "ingredients_list_hi": [
+        "पालक",
+        "गेहूं का आटा",
+        "आलू",
+        "मसाले",
+        "तेल"
+      ],
+      "ingredients_list_en": [
+        "Spinach",
+        "Wheat flour",
+        "Potatoes",
+        "Spices",
+        "Oil"
+      ],
+      "prep_notes_hi": "पालक को अच्छी तरह काट कर गूंथ लें। आलू को उबाल कर सब्ज़ी तैयार करें।",
+      "prep_notes_en": "Finely chop the spinach and knead it into the dough. Boil potatoes and prepare the sabzi.",
+      "vizz_macros": {
+        "cal": 400,
+        "protein": 10,
+        "fat": 12,
+        "carbs": 70
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=palak%20puri%20aloo%20recipe%20recipe"
+    },
+    "lunch": {
+      "dish_hindi": "भरवा पराठा, दही और अचार",
+      "dish_english": "Stuffed Paratha with Curd and Pickle",
+      "ingredients_hindi": "आटा, आलू, दही, अचार, मसाले",
+      "ingredients_list_hi": [
+        "आटा",
+        "आलू",
+        "दही",
+        "अचार",
+        "मसाले"
+      ],
+      "ingredients_list_en": [
+        "Flour",
+        "Potatoes",
+        "Curd",
+        "Pickle",
+        "Spices"
+      ],
+      "prep_notes_hi": "भरवा पराठा बनाएं और सुनिश्चित करें कि यह अच्छी तरह से पैक हो सके।",
+      "prep_notes_en": "Prepare stuffed paratha, ensuring it can be packed well for travel.",
+      "vizz_macros": {
+        "cal": 600,
+        "protein": 15,
+        "fat": 20,
+        "carbs": 90
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=stuffed%20paratha%20recipe%20recipe"
+    },
+    "dinner": {
+      "dish_hindi": "चौला पनीर बिरयानी और रायता",
+      "dish_english": "Chole Paneer Biryani with Raita",
+      "ingredients_hindi": "चने, पनीर, चावल, मसाले, दही",
+      "ingredients_list_hi": [
+        "चने",
+        "पनीर",
+        "चावल",
+        "मसाले",
+        "दही"
+      ],
+      "ingredients_list_en": [
+        "Chickpeas",
+        "Paneer",
+        "Rice",
+        "Spices",
+        "Curd"
+      ],
+      "prep_notes_hi": "चने को पहले से भिगो लें और फिर पनीर और मसालों के साथ पकाएं।",
+      "prep_notes_en": "Soak chickpeas in advance and cook with paneer and spices.",
+      "vizz_macros": {
+        "cal": 700,
+        "protein": 25,
+        "fat": 15,
+        "carbs": 80
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=chole%20paneer%20biryani%20recipe%20recipe"
+    },
+    "vizz_daily_total_from_meals": {
+      "cal": 1700,
+      "protein": 50,
+      "fat": 47,
+      "carbs": 240
+    },
+    "vizz_daily_total_with_shake": {
+      "cal": 2000,
+      "protein": 90,
+      "fat": 52,
+      "carbs": 265
+    },
+    "macro_check": "The meals provide sufficient calories and carbs. Protein is a bit short (needs 110g); consider adding legumes or lentils."
   }
 ]
