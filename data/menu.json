@@ -1,103 +1,129 @@
 {
-  "date": "2026-06-06 (Saturday)",
-  "date_display": "Saturday, June 6",
-  "date_short": "Sat · Jun 6",
+  "date": "2026-06-07 (Sunday)",
+  "date_display": "Sunday, June 7",
+  "date_short": "Sun · Jun 7",
   "generated_label": "Generated last night for today",
   "breakfast": {
-    "dish_hindi": "पालक पुरी और आलू की सब्ज़ी",
-    "dish_english": "Palak Puri with Aloo Sabzi",
-    "ingredients_hindi": "पालक, गेहूं का आटा, आलू, मसाले, तेल",
+    "dish_hindi": "अंडा ब्रेड टोस्ट और फल",
+    "dish_english": "Egg Bread Toast with Fruits",
+    "ingredients_hindi": "अंडा, ब्रेड, मक्खन, सेब, केला",
     "ingredients_list_hi": [
-      "पालक",
-      "गेहूं का आटा",
-      "आलू",
-      "मसाले",
-      "तेल"
+      "अंडा",
+      "ब्रेड",
+      "मक्खन",
+      "सेब",
+      "केला"
     ],
     "ingredients_list_en": [
-      "Spinach",
-      "Wheat flour",
-      "Potatoes",
-      "Spices",
-      "Oil"
+      "Egg",
+      "Bread",
+      "Butter",
+      "Apple",
+      "Banana"
     ],
-    "prep_notes_hi": "पालक को अच्छी तरह काट कर गूंथ लें। आलू को उबाल कर सब्ज़ी तैयार करें।",
-    "prep_notes_en": "Finely chop the spinach and knead it into the dough. Boil potatoes and prepare the sabzi.",
+    "prep_notes_hi": "ब्रेड को मक्खन पर सेंकें और एक अंडा फोड़कर पकाएं। फलों को स्लाइस में काटें।",
+    "prep_notes_en": "Toast the bread with butter and cook a cracked egg on top. Slice the fruits.",
     "vizz_macros": {
       "cal": 400,
-      "protein": 10,
-      "fat": 12,
-      "carbs": 70
+      "protein": 18,
+      "fat": 18,
+      "carbs": 38
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=palak%20puri%20aloo%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=egg%20bread%20toast%20recipe%20recipe"
   },
   "lunch": {
-    "dish_hindi": "भरवा पराठा, दही और अचार",
-    "dish_english": "Stuffed Paratha with Curd and Pickle",
-    "ingredients_hindi": "आटा, आलू, दही, अचार, मसाले",
-    "ingredients_list_hi": [
-      "आटा",
-      "आलू",
-      "दही",
-      "अचार",
-      "मसाले"
-    ],
-    "ingredients_list_en": [
-      "Flour",
-      "Potatoes",
-      "Curd",
-      "Pickle",
-      "Spices"
-    ],
-    "prep_notes_hi": "भरवा पराठा बनाएं और सुनिश्चित करें कि यह अच्छी तरह से पैक हो सके।",
-    "prep_notes_en": "Prepare stuffed paratha, ensuring it can be packed well for travel.",
-    "vizz_macros": {
-      "cal": 600,
-      "protein": 15,
-      "fat": 20,
-      "carbs": 90
-    },
-    "youtube_url": "https://www.youtube.com/results?search_query=stuffed%20paratha%20recipe%20recipe"
-  },
-  "dinner": {
-    "dish_hindi": "चौला पनीर बिरयानी और रायता",
-    "dish_english": "Chole Paneer Biryani with Raita",
-    "ingredients_hindi": "चने, पनीर, चावल, मसाले, दही",
+    "dish_hindi": "छोले के साथ बासमती चावल और पापड़",
+    "dish_english": "Chole with Basmati Rice and Papad",
+    "ingredients_hindi": "चने, बासमती चावल, प्याज, टमाटर, अदरक, लहसुन, धनिया पत्ती, गरम मसाला, पापड़",
     "ingredients_list_hi": [
       "चने",
-      "पनीर",
-      "चावल",
-      "मसाले",
-      "दही"
+      "बासमती चावल",
+      "प्याज",
+      "टमाटर",
+      "अदरक",
+      "लहसुन",
+      "धनिया पत्ती",
+      "गरम मसाला",
+      "पापड़"
     ],
     "ingredients_list_en": [
       "Chickpeas",
-      "Paneer",
-      "Rice",
-      "Spices",
-      "Curd"
+      "Basmati Rice",
+      "Onion",
+      "Tomato",
+      "Ginger",
+      "Garlic",
+      "Coriander Leaves",
+      "Garam Masala",
+      "Papad"
     ],
-    "prep_notes_hi": "चने को पहले से भिगो लें और फिर पनीर और मसालों के साथ पकाएं।",
-    "prep_notes_en": "Soak chickpeas in advance and cook with paneer and spices.",
+    "prep_notes_hi": "छोले चावल का पैक बनाकर 4-5 घंटे सहजता से ले जाएं और माइक्रोवेव में गरम करें।",
+    "prep_notes_en": "Pack the chole rice well so it can be carried for 4-5 hours and reheated in the microwave.",
     "vizz_macros": {
-      "cal": 700,
-      "protein": 25,
-      "fat": 15,
-      "carbs": 80
+      "cal": 750,
+      "protein": 28,
+      "fat": 12,
+      "carbs": 120
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=chole%20paneer%20biryani%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=chole%20recipe%20hindi%20recipe"
+  },
+  "dinner": {
+    "dish_hindi": "दाल तड़का के साथ पनीर पुलाव और सलाद",
+    "dish_english": "Paneer Pulao with Dal Tadka and Salad",
+    "ingredients_hindi": "बासमती चावल, पनीर, मटर, प्याज, टमाटर, अदरक, लहसुन, हरी मिर्च, दाल, मसाले, लेमन, सलाद पत्ता, खीरा, गाजर",
+    "ingredients_list_hi": [
+      "बासमती चावल",
+      "पनीर",
+      "मटर",
+      "प्याज",
+      "टमाटर",
+      "अदरक",
+      "लहसुन",
+      "हरी मिर्च",
+      "दाल",
+      "मसाले",
+      "लेमन",
+      "सलाद पत्ता",
+      "खीरा",
+      "गाजर"
+    ],
+    "ingredients_list_en": [
+      "Basmati Rice",
+      "Paneer",
+      "Peas",
+      "Onion",
+      "Tomato",
+      "Ginger",
+      "Garlic",
+      "Green Chilli",
+      "Dal",
+      "Spices",
+      "Lemon",
+      "Lettuce",
+      "Cucumber",
+      "Carrot"
+    ],
+    "prep_notes_hi": "पनीर पुलाव को अन्य सामग्रियों के साथ पकाएं। दाल तड़के में अच्छे से मसाले मिलाएं।",
+    "prep_notes_en": "Cook the paneer pulao with other ingredients. Add spices generously to the dal tadka.",
+    "vizz_macros": {
+      "cal": 550,
+      "protein": 26,
+      "fat": 14,
+      "carbs": 72
+    },
+    "youtube_url": "https://www.youtube.com/results?search_query=paneer%20pulao%20recipe%20recipe"
   },
   "vizz_daily_total_from_meals": {
     "cal": 1700,
-    "protein": 50,
-    "fat": 47,
-    "carbs": 240
+    "protein": 72,
+    "fat": 44,
+    "carbs": 230
   },
   "vizz_daily_total_with_shake": {
     "cal": 2000,
-    "protein": 90,
-    "fat": 52,
-    "carbs": 265
+    "protein": 112,
+    "fat": 49,
+    "carbs": 255
   },
-  "macro_check": "The meals provide sufficient calories and carbs. Protein is a bit short (needs 110g); consider adding legumes or lentils."
+  "macro_check": "Achieves 2000 cal, 112g protein, 49g fat, 255g carbs; protein target achieved, fat slightly low."
 }
