@@ -1,129 +1,111 @@
 {
-  "date": "2026-06-07 (Sunday)",
-  "date_display": "Sunday, June 7",
-  "date_short": "Sun · Jun 7",
+  "date": "2026-06-08 (Monday)",
+  "date_display": "Monday, June 8",
+  "date_short": "Mon · Jun 8",
   "generated_label": "Generated last night for today",
   "breakfast": {
-    "dish_hindi": "अंडा ब्रेड टोस्ट और फल",
-    "dish_english": "Egg Bread Toast with Fruits",
-    "ingredients_hindi": "अंडा, ब्रेड, मक्खन, सेब, केला",
+    "dish_hindi": "दही आधारित ग्रेन बाउल और उबला अंडा",
+    "dish_english": "Yogurt-Based Grain Bowl with Boiled Egg",
+    "ingredients_hindi": "ओट्स, दही, शहद, केला, सूखे मेवे, उबला अंडा",
     "ingredients_list_hi": [
-      "अंडा",
-      "ब्रेड",
-      "मक्खन",
-      "सेब",
-      "केला"
+      "ओट्स",
+      "दही",
+      "शहद",
+      "केला",
+      "सूखे मेवे",
+      "उबला अंडा"
     ],
     "ingredients_list_en": [
-      "Egg",
-      "Bread",
-      "Butter",
-      "Apple",
-      "Banana"
+      "Oats",
+      "Yogurt",
+      "Honey",
+      "Banana",
+      "Dry Fruits",
+      "Boiled Egg"
     ],
-    "prep_notes_hi": "ब्रेड को मक्खन पर सेंकें और एक अंडा फोड़कर पकाएं। फलों को स्लाइस में काटें।",
-    "prep_notes_en": "Toast the bread with butter and cook a cracked egg on top. Slice the fruits.",
+    "prep_notes_hi": "जाहिर है दही और ओट्स को अच्छी तरह मिलाएं। ऊपर से केला व सूखे मेवे डाल कर पकाएं।",
+    "prep_notes_en": "Mix yogurt and oats thoroughly. Top with banana and dry fruits before serving.",
     "vizz_macros": {
-      "cal": 400,
-      "protein": 18,
-      "fat": 18,
-      "carbs": 38
+      "cal": 450,
+      "protein": 16,
+      "fat": 13,
+      "carbs": 67
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=egg%20bread%20toast%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=grain%20bowl%20yogurt%20recipe%20recipe"
   },
   "lunch": {
-    "dish_hindi": "छोले के साथ बासमती चावल और पापड़",
-    "dish_english": "Chole with Basmati Rice and Papad",
-    "ingredients_hindi": "चने, बासमती चावल, प्याज, टमाटर, अदरक, लहसुन, धनिया पत्ती, गरम मसाला, पापड़",
+    "dish_hindi": "दाल चावल और अचार",
+    "dish_english": "Dal with Rice and Pickle",
+    "ingredients_hindi": "चावल, तूर दाल, टमाटर, प्याज, मसाले, अचार",
     "ingredients_list_hi": [
-      "चने",
-      "बासमती चावल",
-      "प्याज",
+      "चावल",
+      "तूर दाल",
       "टमाटर",
-      "अदरक",
-      "लहसुन",
-      "धनिया पत्ती",
-      "गरम मसाला",
-      "पापड़"
+      "प्याज",
+      "मसाले",
+      "अचार"
     ],
     "ingredients_list_en": [
-      "Chickpeas",
-      "Basmati Rice",
-      "Onion",
+      "Rice",
+      "Toor Dal",
       "Tomato",
-      "Ginger",
-      "Garlic",
-      "Coriander Leaves",
-      "Garam Masala",
-      "Papad"
+      "Onion",
+      "Spices",
+      "Pickle"
     ],
-    "prep_notes_hi": "छोले चावल का पैक बनाकर 4-5 घंटे सहजता से ले जाएं और माइक्रोवेव में गरम करें।",
-    "prep_notes_en": "Pack the chole rice well so it can be carried for 4-5 hours and reheated in the microwave.",
+    "prep_notes_hi": "चावल और दाल को अलग-अलग पकाएं, दोनों को गरम मसाले से तड़का लगाएं। यात्रा में ले जाने लायक और माइक्रोवेव में फिर से गरम किया जा सके।",
+    "prep_notes_en": "Cook rice and dal separately, and temper with garam masala. Suitable for travel and can be reheated in a microwave.",
     "vizz_macros": {
-      "cal": 750,
-      "protein": 28,
-      "fat": 12,
-      "carbs": 120
+      "cal": 690,
+      "protein": 29,
+      "fat": 3,
+      "carbs": 138
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=chole%20recipe%20hindi%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=dal%20chawal%20recipe%20hindi%20recipe"
   },
   "dinner": {
-    "dish_hindi": "दाल तड़का के साथ पनीर पुलाव और सलाद",
-    "dish_english": "Paneer Pulao with Dal Tadka and Salad",
-    "ingredients_hindi": "बासमती चावल, पनीर, मटर, प्याज, टमाटर, अदरक, लहसुन, हरी मिर्च, दाल, मसाले, लेमन, सलाद पत्ता, खीरा, गाजर",
+    "dish_hindi": "मसाला डोसा, नारियल चटनी और सांभर",
+    "dish_english": "Masala Dosa with Coconut Chutney & Sambar",
+    "ingredients_hindi": "चावल का आटा, उरद दाल, आलू, प्याज, मसाले, नारियल, सांभर",
     "ingredients_list_hi": [
-      "बासमती चावल",
-      "पनीर",
-      "मटर",
+      "चावल का आटा",
+      "उरद दाल",
+      "आलू",
       "प्याज",
-      "टमाटर",
-      "अदरक",
-      "लहसुन",
-      "हरी मिर्च",
-      "दाल",
       "मसाले",
-      "लेमन",
-      "सलाद पत्ता",
-      "खीरा",
-      "गाजर"
+      "नारियल",
+      "सांभर"
     ],
     "ingredients_list_en": [
-      "Basmati Rice",
-      "Paneer",
-      "Peas",
+      "Rice Flour",
+      "Urad Dal",
+      "Potato",
       "Onion",
-      "Tomato",
-      "Ginger",
-      "Garlic",
-      "Green Chilli",
-      "Dal",
       "Spices",
-      "Lemon",
-      "Lettuce",
-      "Cucumber",
-      "Carrot"
+      "Coconut",
+      "Sambar"
     ],
-    "prep_notes_hi": "पनीर पुलाव को अन्य सामग्रियों के साथ पकाएं। दाल तड़के में अच्छे से मसाले मिलाएं।",
-    "prep_notes_en": "Cook the paneer pulao with other ingredients. Add spices generously to the dal tadka.",
+    "prep_notes_hi": "डोसा बैटर पहले से तैयार रखें, आलू मसाला भरें। नारियल चटनी और सांभर के साथ परोसें।",
+    "prep_notes_en": "Prepare dosa batter in advance, fill with potato masala. Serve with coconut chutney and sambar.",
     "vizz_macros": {
-      "cal": 550,
-      "protein": 26,
-      "fat": 14,
-      "carbs": 72
+      "cal": 560,
+      "protein": 12,
+      "fat": 16,
+      "carbs": 93
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=paneer%20pulao%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=masala%20dosa%20recipe%20recipe"
   },
   "vizz_daily_total_from_meals": {
     "cal": 1700,
-    "protein": 72,
-    "fat": 44,
-    "carbs": 230
+    "protein": 57,
+    "fat": 32,
+    "carbs": 298
   },
   "vizz_daily_total_with_shake": {
     "cal": 2000,
-    "protein": 112,
-    "fat": 49,
-    "carbs": 255
+    "protein": 97,
+    "fat": 37,
+    "carbs": 323
   },
-  "macro_check": "Achieves 2000 cal, 112g protein, 49g fat, 255g carbs; protein target achieved, fat slightly low."
+  "macro_check": "Slightly low on protein, carbs slightly high. Overall calories balanced. Consider a second boiled egg if extra protein needed."
 }
