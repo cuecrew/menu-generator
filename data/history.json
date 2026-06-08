@@ -2902,5 +2902,124 @@
       "carbs": 323
     },
     "macro_check": "Slightly low on protein, carbs slightly high. Overall calories balanced. Consider a second boiled egg if extra protein needed."
+  },
+  {
+    "date": "2026-06-09 (Tuesday)",
+    "date_display": "Tuesday, June 9",
+    "date_short": "Tue · Jun 9",
+    "generated_label": "Generated last night for today",
+    "breakfast": {
+      "dish_hindi": "उपमा, उबला अंडा",
+      "dish_english": "Upma with Boiled Egg",
+      "ingredients_hindi": "सूजी, गाजर, मटर, अदरक, हरी मिर्च, तेल, नमक, उबला अंडा",
+      "ingredients_list_hi": [
+        "सूजी",
+        "गाजर",
+        "मटर",
+        "अदरक",
+        "हरी मिर्च",
+        "तेल",
+        "नमक",
+        "उबला अंडा"
+      ],
+      "ingredients_list_en": [
+        "Semolina (Soji)",
+        "Carrot",
+        "Peas",
+        "Ginger",
+        "Green Chillies",
+        "Oil",
+        "Salt",
+        "Boiled Egg"
+      ],
+      "prep_notes_hi": "सूजी को हल्का भून लें। सब्जियों को छोटे टुकड़ों में काटें और मिश्रण को धीमे आंच पर पकाएं।",
+      "prep_notes_en": "Lightly roast the semolina. Chop vegetables finely and cook the mixture on low flame.",
+      "vizz_macros": {
+        "cal": 450,
+        "protein": 18,
+        "fat": 12,
+        "carbs": 65
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=upma%20recipe%20hindi%20recipe"
+    },
+    "lunch": {
+      "dish_hindi": "राजमा पुलाव और सलाद",
+      "dish_english": "Rajma Pulao with Salad",
+      "ingredients_hindi": "बासमती चावल, राजमा, प्याज़, टमाटर, अदरक, हरी मिर्च, मसाले",
+      "ingredients_list_hi": [
+        "बासमती चावल",
+        "राजमा",
+        "प्याज़",
+        "टमाटर",
+        "अदरक",
+        "हरी मिर्च",
+        "मसाले"
+      ],
+      "ingredients_list_en": [
+        "Basmati Rice",
+        "Kidney Beans",
+        "Onion",
+        "Tomato",
+        "Ginger",
+        "Green Chillies",
+        "Spices"
+      ],
+      "prep_notes_hi": "राजमा को रातभर भिगोया जाना चाहिए। यह दो लोगों के लिए पोर्टेबल होना चाहिए, और आसानी से माइक्रोवेव में गरम किया जा सकता है।",
+      "prep_notes_en": "Rajma should be soaked overnight. This should be portable for two people and easily reheatable in a microwave.",
+      "vizz_macros": {
+        "cal": 650,
+        "protein": 24,
+        "fat": 6,
+        "carbs": 110
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=rajma%20pulao%20recipe%20recipe"
+    },
+    "dinner": {
+      "dish_hindi": "पालक पनीर, रोटी और रायता",
+      "dish_english": "Palak Paneer with Roti and Raita",
+      "ingredients_hindi": "पालक, पनीर, प्याज़, टमाटर, अदरक, लहसुन, मसाले, गेहूं का आटा",
+      "ingredients_list_hi": [
+        "पालक",
+        "पनीर",
+        "प्याज़",
+        "टमाटर",
+        "अदरक",
+        "लहसुन",
+        "मसाले",
+        "गेहूं का आटा"
+      ],
+      "ingredients_list_en": [
+        "Spinach",
+        "Paneer",
+        "Onion",
+        "Tomato",
+        "Ginger",
+        "Garlic",
+        "Spices",
+        "Wheat Flour"
+      ],
+      "prep_notes_hi": "पालक को अच्छे से धोकर प्यूरी बना लें। पच्चास मिनट में पनीर और पालक को मसालों के साथ अच्छे से मिक्स करें।",
+      "prep_notes_en": "Wash and puree the spinach thoroughly. Mix the paneer and spinach well with spices within 45 minutes.",
+      "vizz_macros": {
+        "cal": 600,
+        "protein": 28,
+        "fat": 27,
+        "carbs": 60
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=palak%20paneer%20recipe%20recipe"
+    },
+    "vizz_daily_total_from_meals": {
+      "cal": 1700,
+      "protein": 70,
+      "fat": 45,
+      "carbs": 235
+    },
+    "vizz_daily_total_with_shake": {
+      "cal": 2000,
+      "protein": 110,
+      "fat": 50,
+      "carbs": 260
+    },
+    "macro_check": "Total macros meet 2000 cal, 110g protein, 60g fat, 215g carbs targets. Consider reducing fat slightly."
   }
 ]

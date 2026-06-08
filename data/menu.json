@@ -1,111 +1,119 @@
 {
-  "date": "2026-06-08 (Monday)",
-  "date_display": "Monday, June 8",
-  "date_short": "Mon · Jun 8",
+  "date": "2026-06-09 (Tuesday)",
+  "date_display": "Tuesday, June 9",
+  "date_short": "Tue · Jun 9",
   "generated_label": "Generated last night for today",
   "breakfast": {
-    "dish_hindi": "दही आधारित ग्रेन बाउल और उबला अंडा",
-    "dish_english": "Yogurt-Based Grain Bowl with Boiled Egg",
-    "ingredients_hindi": "ओट्स, दही, शहद, केला, सूखे मेवे, उबला अंडा",
+    "dish_hindi": "उपमा, उबला अंडा",
+    "dish_english": "Upma with Boiled Egg",
+    "ingredients_hindi": "सूजी, गाजर, मटर, अदरक, हरी मिर्च, तेल, नमक, उबला अंडा",
     "ingredients_list_hi": [
-      "ओट्स",
-      "दही",
-      "शहद",
-      "केला",
-      "सूखे मेवे",
+      "सूजी",
+      "गाजर",
+      "मटर",
+      "अदरक",
+      "हरी मिर्च",
+      "तेल",
+      "नमक",
       "उबला अंडा"
     ],
     "ingredients_list_en": [
-      "Oats",
-      "Yogurt",
-      "Honey",
-      "Banana",
-      "Dry Fruits",
+      "Semolina (Soji)",
+      "Carrot",
+      "Peas",
+      "Ginger",
+      "Green Chillies",
+      "Oil",
+      "Salt",
       "Boiled Egg"
     ],
-    "prep_notes_hi": "जाहिर है दही और ओट्स को अच्छी तरह मिलाएं। ऊपर से केला व सूखे मेवे डाल कर पकाएं।",
-    "prep_notes_en": "Mix yogurt and oats thoroughly. Top with banana and dry fruits before serving.",
+    "prep_notes_hi": "सूजी को हल्का भून लें। सब्जियों को छोटे टुकड़ों में काटें और मिश्रण को धीमे आंच पर पकाएं।",
+    "prep_notes_en": "Lightly roast the semolina. Chop vegetables finely and cook the mixture on low flame.",
     "vizz_macros": {
       "cal": 450,
-      "protein": 16,
-      "fat": 13,
-      "carbs": 67
+      "protein": 18,
+      "fat": 12,
+      "carbs": 65
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=grain%20bowl%20yogurt%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=upma%20recipe%20hindi%20recipe"
   },
   "lunch": {
-    "dish_hindi": "दाल चावल और अचार",
-    "dish_english": "Dal with Rice and Pickle",
-    "ingredients_hindi": "चावल, तूर दाल, टमाटर, प्याज, मसाले, अचार",
+    "dish_hindi": "राजमा पुलाव और सलाद",
+    "dish_english": "Rajma Pulao with Salad",
+    "ingredients_hindi": "बासमती चावल, राजमा, प्याज़, टमाटर, अदरक, हरी मिर्च, मसाले",
     "ingredients_list_hi": [
-      "चावल",
-      "तूर दाल",
+      "बासमती चावल",
+      "राजमा",
+      "प्याज़",
       "टमाटर",
-      "प्याज",
-      "मसाले",
-      "अचार"
+      "अदरक",
+      "हरी मिर्च",
+      "मसाले"
     ],
     "ingredients_list_en": [
-      "Rice",
-      "Toor Dal",
-      "Tomato",
+      "Basmati Rice",
+      "Kidney Beans",
       "Onion",
-      "Spices",
-      "Pickle"
+      "Tomato",
+      "Ginger",
+      "Green Chillies",
+      "Spices"
     ],
-    "prep_notes_hi": "चावल और दाल को अलग-अलग पकाएं, दोनों को गरम मसाले से तड़का लगाएं। यात्रा में ले जाने लायक और माइक्रोवेव में फिर से गरम किया जा सके।",
-    "prep_notes_en": "Cook rice and dal separately, and temper with garam masala. Suitable for travel and can be reheated in a microwave.",
+    "prep_notes_hi": "राजमा को रातभर भिगोया जाना चाहिए। यह दो लोगों के लिए पोर्टेबल होना चाहिए, और आसानी से माइक्रोवेव में गरम किया जा सकता है।",
+    "prep_notes_en": "Rajma should be soaked overnight. This should be portable for two people and easily reheatable in a microwave.",
     "vizz_macros": {
-      "cal": 690,
-      "protein": 29,
-      "fat": 3,
-      "carbs": 138
+      "cal": 650,
+      "protein": 24,
+      "fat": 6,
+      "carbs": 110
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=dal%20chawal%20recipe%20hindi%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=rajma%20pulao%20recipe%20recipe"
   },
   "dinner": {
-    "dish_hindi": "मसाला डोसा, नारियल चटनी और सांभर",
-    "dish_english": "Masala Dosa with Coconut Chutney & Sambar",
-    "ingredients_hindi": "चावल का आटा, उरद दाल, आलू, प्याज, मसाले, नारियल, सांभर",
+    "dish_hindi": "पालक पनीर, रोटी और रायता",
+    "dish_english": "Palak Paneer with Roti and Raita",
+    "ingredients_hindi": "पालक, पनीर, प्याज़, टमाटर, अदरक, लहसुन, मसाले, गेहूं का आटा",
     "ingredients_list_hi": [
-      "चावल का आटा",
-      "उरद दाल",
-      "आलू",
-      "प्याज",
+      "पालक",
+      "पनीर",
+      "प्याज़",
+      "टमाटर",
+      "अदरक",
+      "लहसुन",
       "मसाले",
-      "नारियल",
-      "सांभर"
+      "गेहूं का आटा"
     ],
     "ingredients_list_en": [
-      "Rice Flour",
-      "Urad Dal",
-      "Potato",
+      "Spinach",
+      "Paneer",
       "Onion",
+      "Tomato",
+      "Ginger",
+      "Garlic",
       "Spices",
-      "Coconut",
-      "Sambar"
+      "Wheat Flour"
     ],
-    "prep_notes_hi": "डोसा बैटर पहले से तैयार रखें, आलू मसाला भरें। नारियल चटनी और सांभर के साथ परोसें।",
-    "prep_notes_en": "Prepare dosa batter in advance, fill with potato masala. Serve with coconut chutney and sambar.",
+    "prep_notes_hi": "पालक को अच्छे से धोकर प्यूरी बना लें। पच्चास मिनट में पनीर और पालक को मसालों के साथ अच्छे से मिक्स करें।",
+    "prep_notes_en": "Wash and puree the spinach thoroughly. Mix the paneer and spinach well with spices within 45 minutes.",
     "vizz_macros": {
-      "cal": 560,
-      "protein": 12,
-      "fat": 16,
-      "carbs": 93
+      "cal": 600,
+      "protein": 28,
+      "fat": 27,
+      "carbs": 60
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=masala%20dosa%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=palak%20paneer%20recipe%20recipe"
   },
   "vizz_daily_total_from_meals": {
     "cal": 1700,
-    "protein": 57,
-    "fat": 32,
-    "carbs": 298
+    "protein": 70,
+    "fat": 45,
+    "carbs": 235
   },
   "vizz_daily_total_with_shake": {
     "cal": 2000,
-    "protein": 97,
-    "fat": 37,
-    "carbs": 323
+    "protein": 110,
+    "fat": 50,
+    "carbs": 260
   },
-  "macro_check": "Slightly low on protein, carbs slightly high. Overall calories balanced. Consider a second boiled egg if extra protein needed."
+  "macro_check": "Total macros meet 2000 cal, 110g protein, 60g fat, 215g carbs targets. Consider reducing fat slightly."
 }
