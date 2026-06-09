@@ -1,119 +1,125 @@
 {
-  "date": "2026-06-09 (Tuesday)",
-  "date_display": "Tuesday, June 9",
-  "date_short": "Tue · Jun 9",
+  "date": "2026-06-10 (Wednesday)",
+  "date_display": "Wednesday, June 10",
+  "date_short": "Wed · Jun 10",
   "generated_label": "Generated last night for today",
   "breakfast": {
-    "dish_hindi": "उपमा, उबला अंडा",
-    "dish_english": "Upma with Boiled Egg",
-    "ingredients_hindi": "सूजी, गाजर, मटर, अदरक, हरी मिर्च, तेल, नमक, उबला अंडा",
+    "dish_hindi": "अंडा सैंडविच, चाय",
+    "dish_english": "Egg Sandwich with Tea",
+    "ingredients_hindi": "ब्रेड, उबला अंडा, मेयोनेज़, काली मिर्च, नमक, चाय पत्ती, दूध, चीनी",
     "ingredients_list_hi": [
-      "सूजी",
-      "गाजर",
-      "मटर",
-      "अदरक",
-      "हरी मिर्च",
-      "तेल",
+      "ब्रेड",
+      "उबला अंडा",
+      "मेयोनेज़",
+      "काली मिर्च",
       "नमक",
-      "उबला अंडा"
+      "चाय पत्ती",
+      "दूध",
+      "चीनी"
     ],
     "ingredients_list_en": [
-      "Semolina (Soji)",
-      "Carrot",
-      "Peas",
-      "Ginger",
-      "Green Chillies",
-      "Oil",
+      "Bread",
+      "Boiled Egg",
+      "Mayonnaise",
+      "Black Pepper",
       "Salt",
-      "Boiled Egg"
+      "Tea Leaves",
+      "Milk",
+      "Sugar"
     ],
-    "prep_notes_hi": "सूजी को हल्का भून लें। सब्जियों को छोटे टुकड़ों में काटें और मिश्रण को धीमे आंच पर पकाएं।",
-    "prep_notes_en": "Lightly roast the semolina. Chop vegetables finely and cook the mixture on low flame.",
+    "prep_notes_hi": "उबले हुए अंडों को छोटे टुकड़ों में काटें। अंडे, मेयोनेज़, काली मिर्च, और नमक को ब्रेड पर फैलाएं।",
+    "prep_notes_en": "Chop the boiled eggs into small pieces. Spread eggs, mayonnaise, black pepper, and salt on the bread.",
     "vizz_macros": {
-      "cal": 450,
+      "cal": 350,
       "protein": 18,
       "fat": 12,
-      "carbs": 65
+      "carbs": 40
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=upma%20recipe%20hindi%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=egg%20sandwich%20recipe%20recipe"
   },
   "lunch": {
-    "dish_hindi": "राजमा पुलाव और सलाद",
-    "dish_english": "Rajma Pulao with Salad",
-    "ingredients_hindi": "बासमती चावल, राजमा, प्याज़, टमाटर, अदरक, हरी मिर्च, मसाले",
+    "dish_hindi": "वेज पनीर पिलाफ, दही",
+    "dish_english": "Vegetable Paneer Pulao with Yogurt",
+    "ingredients_hindi": "बासमती चावल, पनीर, मिक्स सब्जियाँ, प्याज, टमाटर, जीरा, हल्दी, नमक, दही",
     "ingredients_list_hi": [
       "बासमती चावल",
-      "राजमा",
-      "प्याज़",
+      "पनीर",
+      "मिक्स सब्जियाँ",
+      "प्याज",
       "टमाटर",
-      "अदरक",
-      "हरी मिर्च",
-      "मसाले"
+      "जीरा",
+      "हल्दी",
+      "नमक",
+      "दही"
     ],
     "ingredients_list_en": [
       "Basmati Rice",
-      "Kidney Beans",
+      "Paneer",
+      "Mixed Vegetables",
       "Onion",
       "Tomato",
-      "Ginger",
-      "Green Chillies",
-      "Spices"
+      "Cumin Seeds",
+      "Turmeric",
+      "Salt",
+      "Yogurt"
     ],
-    "prep_notes_hi": "राजमा को रातभर भिगोया जाना चाहिए। यह दो लोगों के लिए पोर्टेबल होना चाहिए, और आसानी से माइक्रोवेव में गरम किया जा सकता है।",
-    "prep_notes_en": "Rajma should be soaked overnight. This should be portable for two people and easily reheatable in a microwave.",
+    "prep_notes_hi": "पुलाव को मध्यम आंच पर पकाएं ताकि सब्जियाँ ठीक से पक जाएं। इसको ऑफिस में ले जा सकते हैं और गरम भी कर सकते हैं।",
+    "prep_notes_en": "Cook the pulao on medium heat to ensure the vegetables are cooked well. It travels and reheats well for office.",
     "vizz_macros": {
-      "cal": 650,
-      "protein": 24,
-      "fat": 6,
-      "carbs": 110
+      "cal": 500,
+      "protein": 22,
+      "fat": 18,
+      "carbs": 55
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=rajma%20pulao%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=vegetable%20paneer%20pulao%20recipe"
   },
   "dinner": {
-    "dish_hindi": "पालक पनीर, रोटी और रायता",
-    "dish_english": "Palak Paneer with Roti and Raita",
-    "ingredients_hindi": "पालक, पनीर, प्याज़, टमाटर, अदरक, लहसुन, मसाले, गेहूं का आटा",
+    "dish_hindi": "मिक्स वेज करी, चपाती, आचार",
+    "dish_english": "Mixed Vegetable Curry with Chapati and Pickle",
+    "ingredients_hindi": "मिक्स सब्जियाँ, प्याज, टमाटर, लहसुन, अदरक, गरम मसाला, नमक, गेहूं का आटा, आचार",
     "ingredients_list_hi": [
-      "पालक",
-      "पनीर",
-      "प्याज़",
+      "मिक्स सब्जियाँ",
+      "प्याज",
       "टमाटर",
-      "अदरक",
       "लहसुन",
-      "मसाले",
-      "गेहूं का आटा"
+      "अदरक",
+      "गरम मसाला",
+      "नमक",
+      "गेहूं का आटा",
+      "आचार"
     ],
     "ingredients_list_en": [
-      "Spinach",
-      "Paneer",
+      "Mixed Vegetables",
       "Onion",
       "Tomato",
-      "Ginger",
       "Garlic",
-      "Spices",
-      "Wheat Flour"
+      "Ginger",
+      "Garam Masala",
+      "Salt",
+      "Wheat Flour",
+      "Pickle"
     ],
-    "prep_notes_hi": "पालक को अच्छे से धोकर प्यूरी बना लें। पच्चास मिनट में पनीर और पालक को मसालों के साथ अच्छे से मिक्स करें।",
-    "prep_notes_en": "Wash and puree the spinach thoroughly. Mix the paneer and spinach well with spices within 45 minutes.",
+    "prep_notes_hi": "सब्जियों को अच्छे से धोकर काटें और धीमी आंच पर मसालों के साथ पकाएं।",
+    "prep_notes_en": "Wash and chop the vegetables thoroughly, and cook with spices on low heat.",
     "vizz_macros": {
-      "cal": 600,
-      "protein": 28,
-      "fat": 27,
-      "carbs": 60
+      "cal": 550,
+      "protein": 15,
+      "fat": 15,
+      "carbs": 75
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=palak%20paneer%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=mixed%20vegetable%20curry%20recipe"
   },
   "vizz_daily_total_from_meals": {
-    "cal": 1700,
-    "protein": 70,
+    "cal": 1400,
+    "protein": 55,
     "fat": 45,
-    "carbs": 235
+    "carbs": 170
   },
   "vizz_daily_total_with_shake": {
-    "cal": 2000,
-    "protein": 110,
+    "cal": 1700,
+    "protein": 95,
     "fat": 50,
-    "carbs": 260
+    "carbs": 195
   },
-  "macro_check": "Total macros meet 2000 cal, 110g protein, 60g fat, 215g carbs targets. Consider reducing fat slightly."
+  "macro_check": "This plan hits 1700 cal / 95g protein / 50g fat / 195g carbs. It's low on protein and carbs. Consider adding a small snack or increase portion sizes."
 }

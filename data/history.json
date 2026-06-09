@@ -3021,5 +3021,130 @@
       "carbs": 260
     },
     "macro_check": "Total macros meet 2000 cal, 110g protein, 60g fat, 215g carbs targets. Consider reducing fat slightly."
+  },
+  {
+    "date": "2026-06-10 (Wednesday)",
+    "date_display": "Wednesday, June 10",
+    "date_short": "Wed · Jun 10",
+    "generated_label": "Generated last night for today",
+    "breakfast": {
+      "dish_hindi": "अंडा सैंडविच, चाय",
+      "dish_english": "Egg Sandwich with Tea",
+      "ingredients_hindi": "ब्रेड, उबला अंडा, मेयोनेज़, काली मिर्च, नमक, चाय पत्ती, दूध, चीनी",
+      "ingredients_list_hi": [
+        "ब्रेड",
+        "उबला अंडा",
+        "मेयोनेज़",
+        "काली मिर्च",
+        "नमक",
+        "चाय पत्ती",
+        "दूध",
+        "चीनी"
+      ],
+      "ingredients_list_en": [
+        "Bread",
+        "Boiled Egg",
+        "Mayonnaise",
+        "Black Pepper",
+        "Salt",
+        "Tea Leaves",
+        "Milk",
+        "Sugar"
+      ],
+      "prep_notes_hi": "उबले हुए अंडों को छोटे टुकड़ों में काटें। अंडे, मेयोनेज़, काली मिर्च, और नमक को ब्रेड पर फैलाएं।",
+      "prep_notes_en": "Chop the boiled eggs into small pieces. Spread eggs, mayonnaise, black pepper, and salt on the bread.",
+      "vizz_macros": {
+        "cal": 350,
+        "protein": 18,
+        "fat": 12,
+        "carbs": 40
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=egg%20sandwich%20recipe%20recipe"
+    },
+    "lunch": {
+      "dish_hindi": "वेज पनीर पिलाफ, दही",
+      "dish_english": "Vegetable Paneer Pulao with Yogurt",
+      "ingredients_hindi": "बासमती चावल, पनीर, मिक्स सब्जियाँ, प्याज, टमाटर, जीरा, हल्दी, नमक, दही",
+      "ingredients_list_hi": [
+        "बासमती चावल",
+        "पनीर",
+        "मिक्स सब्जियाँ",
+        "प्याज",
+        "टमाटर",
+        "जीरा",
+        "हल्दी",
+        "नमक",
+        "दही"
+      ],
+      "ingredients_list_en": [
+        "Basmati Rice",
+        "Paneer",
+        "Mixed Vegetables",
+        "Onion",
+        "Tomato",
+        "Cumin Seeds",
+        "Turmeric",
+        "Salt",
+        "Yogurt"
+      ],
+      "prep_notes_hi": "पुलाव को मध्यम आंच पर पकाएं ताकि सब्जियाँ ठीक से पक जाएं। इसको ऑफिस में ले जा सकते हैं और गरम भी कर सकते हैं।",
+      "prep_notes_en": "Cook the pulao on medium heat to ensure the vegetables are cooked well. It travels and reheats well for office.",
+      "vizz_macros": {
+        "cal": 500,
+        "protein": 22,
+        "fat": 18,
+        "carbs": 55
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=vegetable%20paneer%20pulao%20recipe"
+    },
+    "dinner": {
+      "dish_hindi": "मिक्स वेज करी, चपाती, आचार",
+      "dish_english": "Mixed Vegetable Curry with Chapati and Pickle",
+      "ingredients_hindi": "मिक्स सब्जियाँ, प्याज, टमाटर, लहसुन, अदरक, गरम मसाला, नमक, गेहूं का आटा, आचार",
+      "ingredients_list_hi": [
+        "मिक्स सब्जियाँ",
+        "प्याज",
+        "टमाटर",
+        "लहसुन",
+        "अदरक",
+        "गरम मसाला",
+        "नमक",
+        "गेहूं का आटा",
+        "आचार"
+      ],
+      "ingredients_list_en": [
+        "Mixed Vegetables",
+        "Onion",
+        "Tomato",
+        "Garlic",
+        "Ginger",
+        "Garam Masala",
+        "Salt",
+        "Wheat Flour",
+        "Pickle"
+      ],
+      "prep_notes_hi": "सब्जियों को अच्छे से धोकर काटें और धीमी आंच पर मसालों के साथ पकाएं।",
+      "prep_notes_en": "Wash and chop the vegetables thoroughly, and cook with spices on low heat.",
+      "vizz_macros": {
+        "cal": 550,
+        "protein": 15,
+        "fat": 15,
+        "carbs": 75
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=mixed%20vegetable%20curry%20recipe"
+    },
+    "vizz_daily_total_from_meals": {
+      "cal": 1400,
+      "protein": 55,
+      "fat": 45,
+      "carbs": 170
+    },
+    "vizz_daily_total_with_shake": {
+      "cal": 1700,
+      "protein": 95,
+      "fat": 50,
+      "carbs": 195
+    },
+    "macro_check": "This plan hits 1700 cal / 95g protein / 50g fat / 195g carbs. It's low on protein and carbs. Consider adding a small snack or increase portion sizes."
   }
 ]
