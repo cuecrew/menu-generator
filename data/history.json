@@ -3146,5 +3146,112 @@
       "carbs": 195
     },
     "macro_check": "This plan hits 1700 cal / 95g protein / 50g fat / 195g carbs. It's low on protein and carbs. Consider adding a small snack or increase portion sizes."
+  },
+  {
+    "date": "2026-06-11 (Thursday)",
+    "date_display": "Thursday, June 11",
+    "date_short": "Thu · Jun 11",
+    "generated_label": "Generated last night for today",
+    "breakfast": {
+      "dish_hindi": "छोले-कुल्चे और उबला अंडा",
+      "dish_english": "Chole Kulcha and Boiled Egg",
+      "ingredients_hindi": "छोले, कुल्चा, उबला अंडा, प्याज, टमाटर, मसाले",
+      "ingredients_list_hi": [
+        "छोले",
+        "कुल्चा",
+        "उबला अंडा",
+        "प्याज",
+        "टमाटर",
+        "मसाले"
+      ],
+      "ingredients_list_en": [
+        "Chickpeas",
+        "Kulcha",
+        "Boiled Egg",
+        "Onion",
+        "Tomato",
+        "Spices"
+      ],
+      "prep_notes_hi": "छोले को प्रेशर कुकर में पकाएं। कुल्चा को हल्की आंच पर सेंकें। अंडे उबालें और छिलके उतारें।",
+      "prep_notes_en": "Cook the chickpeas in a pressure cooker. Toast the kulcha lightly on a pan. Boil the eggs and peel them.",
+      "vizz_macros": {
+        "cal": 500,
+        "protein": 20,
+        "fat": 15,
+        "carbs": 75
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=chole%20kulcha%20recipe%20hindi%20recipe"
+    },
+    "lunch": {
+      "dish_hindi": "तवा पराठा और मिक्स सब्जी",
+      "dish_english": "Tawa Paratha with Mixed Vegetable",
+      "ingredients_hindi": "गेहूं का आटा, मिक्स सब्जी, घी, मसाले",
+      "ingredients_list_hi": [
+        "गेहूं का आटा",
+        "मिक्स सब्जी",
+        "घी",
+        "मसाले"
+      ],
+      "ingredients_list_en": [
+        "Wheat Flour",
+        "Mixed Vegetables",
+        "Ghee",
+        "Spices"
+      ],
+      "prep_notes_hi": "पराठे को तवे पर धीमी आंच पर तलें। सब्जियों को मध्यम आंच पर पकाएं ताकि वे ओवरकुक न हों। इसे दोपहर के लिए ले जाएं और दोबारा गर्म करें।",
+      "prep_notes_en": "Cook the parathas on a griddle over low heat. Cook the vegetables on medium heat so they don't overcook. Carry this for lunch and reheat.",
+      "vizz_macros": {
+        "cal": 650,
+        "protein": 15,
+        "fat": 25,
+        "carbs": 85
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=mixed%20vegetable%20paratha%20recipe%20recipe"
+    },
+    "dinner": {
+      "dish_hindi": "राजमा पुलाव, दही और पापड़",
+      "dish_english": "Rajma Pulao with Curd and Papad",
+      "ingredients_hindi": "राजमा, चावल, प्याज, टमाटर, मसाले, दही, पापड़",
+      "ingredients_list_hi": [
+        "राजमा",
+        "चावल",
+        "प्याज",
+        "टमाटर",
+        "मसाले",
+        "दही",
+        "पापड़"
+      ],
+      "ingredients_list_en": [
+        "Kidney Beans",
+        "Rice",
+        "Onion",
+        "Tomato",
+        "Spices",
+        "Curd",
+        "Papad"
+      ],
+      "prep_notes_hi": "राजमा को पहले से उबालकर पुलाव में मिलाएं। सभी मसालों को अच्छे से पकाएं। दही और पापड़ साथ परोसें।",
+      "prep_notes_en": "Boil kidney beans in advance and mix with rice. Cook all spices well. Serve with curd and papad.",
+      "vizz_macros": {
+        "cal": 550,
+        "protein": 15,
+        "fat": 10,
+        "carbs": 90
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=rajma%20pulao%20recipe%20hindi%20recipe"
+    },
+    "vizz_daily_total_from_meals": {
+      "cal": 1700,
+      "protein": 50,
+      "fat": 50,
+      "carbs": 250
+    },
+    "vizz_daily_total_with_shake": {
+      "cal": 2000,
+      "protein": 90,
+      "fat": 55,
+      "carbs": 275
+    },
+    "macro_check": "Carbs are slightly over. Protein target not fully met; consider addition of a small lentil salad with lunch."
   }
 ]
