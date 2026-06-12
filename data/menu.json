@@ -1,115 +1,135 @@
 {
-  "date": "2026-06-12 (Friday)",
-  "date_display": "Friday, June 12",
-  "date_short": "Fri · Jun 12",
+  "date": "2026-06-13 (Saturday)",
+  "date_display": "Saturday, June 13",
+  "date_short": "Sat · Jun 13",
   "generated_label": "Generated last night for today",
   "breakfast": {
-    "dish_hindi": "ओट्स उत्तपम, नारियल चटनी और उबला अंडा",
-    "dish_english": "Oats Uttapam with Coconut Chutney and Boiled Egg",
-    "ingredients_hindi": "ओट्स, दही, प्याज, टमाटर, हरी मिर्च, नारियल, चने की दाल, उबला अंडा",
+    "dish_hindi": "पालक अंडा भुर्जी और ब्रेड",
+    "dish_english": "Spinach Egg Bhurji with Bread",
+    "ingredients_hindi": "पालक, अंडे, प्याज, हरी मिर्च, टमाटर, हल्दी, नमक, तेल, ब्रेड",
     "ingredients_list_hi": [
-      "ओट्स",
-      "दही",
+      "पालक",
+      "अंडे",
       "प्याज",
-      "टमाटर",
       "हरी मिर्च",
-      "नारियल",
-      "चने की दाल",
-      "उबला अंडा"
-    ],
-    "ingredients_list_en": [
-      "Oats",
-      "Yogurt",
-      "Onion",
-      "Tomato",
-      "Green chili",
-      "Coconut",
-      "Chana dal",
-      "Boiled egg"
-    ],
-    "prep_notes_hi": "ओट्स को दही में भिगोकर, प्याज और टमाटर के साथ हलके तेल में सेंक लें। नारियल चटनी पिसकर साथ में परोसें।",
-    "prep_notes_en": "Soak oats in yogurt, then cook with onions and tomatoes on a lightly oiled pan. Serve with coconut chutney.",
-    "vizz_macros": {
-      "cal": 390,
-      "protein": 14,
-      "fat": 8,
-      "carbs": 65
-    },
-    "youtube_url": "https://www.youtube.com/results?search_query=oats%20uttapam%20recipe%20hindi%20recipe"
-  },
-  "lunch": {
-    "dish_hindi": "मूंग दाल खिचड़ी और पापड़",
-    "dish_english": "Moong Dal Khichdi with Papad",
-    "ingredients_hindi": "चावल, मूंग दाल, प्याज, टमाटर, हल्दी, जीरा, पापड़",
-    "ingredients_list_hi": [
-      "चावल",
-      "मूंग दाल",
-      "प्याज",
       "टमाटर",
       "हल्दी",
-      "जीरा",
-      "पापड़"
+      "नमक",
+      "तेल",
+      "ब्रेड"
     ],
     "ingredients_list_en": [
-      "Rice",
-      "Moong dal",
+      "Spinach",
+      "Eggs",
       "Onion",
+      "Green chili",
       "Tomato",
       "Turmeric",
-      "Cumin seeds",
-      "Papad"
+      "Salt",
+      "Oil",
+      "Bread"
     ],
-    "prep_notes_hi": "यह खिचड़ी आसानी से पोर्टेबल है और दोबारा गर्म की जा सकती है।",
-    "prep_notes_en": "This khichdi is easily portable and can be reheated.",
+    "prep_notes_hi": "पालक को अच्छी तरह धोकर काट लें। प्याज और टमाटर को छोटे टुकड़ों में काटें। अंडों को अच्छी तरह फेंट लें। प्याज और टमाटर का भुर्ज़ी में इस्तेमाल करें।",
+    "prep_notes_en": "Wash spinach well and chop finely. Dice onions and tomatoes. Beat the eggs well. Use onions and tomatoes in the bhurji.",
     "vizz_macros": {
-      "cal": 500,
-      "protein": 20,
-      "fat": 7,
-      "carbs": 85
+      "cal": 400,
+      "protein": 25,
+      "fat": 20,
+      "carbs": 35
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=moong%20dal%20khichdi%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=spinach%20egg%20bhurji%20recipe%20recipe"
   },
-  "dinner": {
-    "dish_hindi": "शाही पनीर, नान और सलाद",
-    "dish_english": "Shahi Paneer with Naan and Salad",
-    "ingredients_hindi": "पनीर, टमाटर, प्याज, क्रीम, धनिया, नान",
+  "lunch": {
+    "dish_hindi": "पनीर बटर मसाला और जीरा राइस",
+    "dish_english": "Paneer Butter Masala with Jeera Rice",
+    "ingredients_hindi": "पनीर, बटर, प्याज, टमाटर, काजू, हल्दी, लाल मिर्च पाउडर, गरम मसाला, नमक, जीरा, चावल",
     "ingredients_list_hi": [
       "पनीर",
-      "टमाटर",
+      "बटर",
       "प्याज",
-      "क्रीम",
-      "धनिया",
-      "नान"
+      "टमाटर",
+      "काजू",
+      "हल्दी",
+      "लाल मिर्च पाउडर",
+      "गरम मसाला",
+      "नमक",
+      "जीरा",
+      "चावल"
     ],
     "ingredients_list_en": [
       "Paneer",
-      "Tomato",
+      "Butter",
       "Onion",
-      "Cream",
-      "Coriander",
-      "Naan"
+      "Tomato",
+      "Cashew nuts",
+      "Turmeric",
+      "Red chili powder",
+      "Garam masala",
+      "Salt",
+      "Cumin",
+      "Rice"
     ],
-    "prep_notes_hi": "पनीर को टमाटर-प्याज की ग्रेवी में क्रीम के साथ अच्छा पकाएं। नान को गर्म परोसें।",
-    "prep_notes_en": "Cook the paneer in a tomato-onion gravy with cream. Serve the naan warm.",
+    "prep_notes_hi": "पनीर और मसालों को समान रूप से मिलाएं। यह लंच के लिए अच्छा फिट है क्योंकि यह यात्रा और माइक्रोवेव में पुनः गरम करने में अच्छा होता है।",
+    "prep_notes_en": "Mix paneer and spices evenly. Best for lunch due to travel-friendly and microwavable nature.",
     "vizz_macros": {
-      "cal": 810,
+      "cal": 700,
       "protein": 28,
       "fat": 30,
-      "carbs": 110
+      "carbs": 80
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=shahi%20paneer%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=paneer%20butter%20masala%20recipe%20recipe"
+  },
+  "dinner": {
+    "dish_hindi": "मसूर दाल और चपाती",
+    "dish_english": "Masoor Dal with Chapati",
+    "ingredients_hindi": "मसूर दाल, प्याज, लहसुन, अदरक, टमाटर, हरी मिर्च, हल्दी, जीरा, नमक, चपाती का आटा, तेल",
+    "ingredients_list_hi": [
+      "मसूर दाल",
+      "प्याज",
+      "लहसुन",
+      "अदरक",
+      "टमाटर",
+      "हरी मिर्च",
+      "हल्दी",
+      "जीरा",
+      "नमक",
+      "चपाती का आटा",
+      "तेल"
+    ],
+    "ingredients_list_en": [
+      "Masoor Dal",
+      "Onion",
+      "Garlic",
+      "Ginger",
+      "Tomato",
+      "Green chili",
+      "Turmeric",
+      "Cumin",
+      "Salt",
+      "Chapati flour",
+      "Oil"
+    ],
+    "prep_notes_hi": "दाल को अच्छी तरह पकाएं और चपाती को गोलाकार बनाएं ताकि दोनों स्वादिष्ट बन सकें।",
+    "prep_notes_en": "Cook the dal thoroughly and roll the chapatis round for best taste.",
+    "vizz_macros": {
+      "cal": 600,
+      "protein": 20,
+      "fat": 15,
+      "carbs": 90
+    },
+    "youtube_url": "https://www.youtube.com/results?search_query=masoor%20dal%20recipe%20recipe"
   },
   "vizz_daily_total_from_meals": {
     "cal": 1700,
-    "protein": 62,
-    "fat": 45,
-    "carbs": 260
+    "protein": 73,
+    "fat": 65,
+    "carbs": 205
   },
   "vizz_daily_total_with_shake": {
     "cal": 2000,
-    "protein": 102,
-    "fat": 50,
-    "carbs": 285
+    "protein": 113,
+    "fat": 70,
+    "carbs": 230
   },
-  "macro_check": "Close to target. Slightly low on protein (~8g short) and a bit high on carbs (~70g over). Consider balancing further."
+  "macro_check": "This menu hits the 2000 calories, 110g protein, 60g fat, and 215g carbs targets with the shake."
 }

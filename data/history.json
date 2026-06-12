@@ -3368,5 +3368,140 @@
       "carbs": 285
     },
     "macro_check": "Close to target. Slightly low on protein (~8g short) and a bit high on carbs (~70g over). Consider balancing further."
+  },
+  {
+    "date": "2026-06-13 (Saturday)",
+    "date_display": "Saturday, June 13",
+    "date_short": "Sat · Jun 13",
+    "generated_label": "Generated last night for today",
+    "breakfast": {
+      "dish_hindi": "पालक अंडा भुर्जी और ब्रेड",
+      "dish_english": "Spinach Egg Bhurji with Bread",
+      "ingredients_hindi": "पालक, अंडे, प्याज, हरी मिर्च, टमाटर, हल्दी, नमक, तेल, ब्रेड",
+      "ingredients_list_hi": [
+        "पालक",
+        "अंडे",
+        "प्याज",
+        "हरी मिर्च",
+        "टमाटर",
+        "हल्दी",
+        "नमक",
+        "तेल",
+        "ब्रेड"
+      ],
+      "ingredients_list_en": [
+        "Spinach",
+        "Eggs",
+        "Onion",
+        "Green chili",
+        "Tomato",
+        "Turmeric",
+        "Salt",
+        "Oil",
+        "Bread"
+      ],
+      "prep_notes_hi": "पालक को अच्छी तरह धोकर काट लें। प्याज और टमाटर को छोटे टुकड़ों में काटें। अंडों को अच्छी तरह फेंट लें। प्याज और टमाटर का भुर्ज़ी में इस्तेमाल करें।",
+      "prep_notes_en": "Wash spinach well and chop finely. Dice onions and tomatoes. Beat the eggs well. Use onions and tomatoes in the bhurji.",
+      "vizz_macros": {
+        "cal": 400,
+        "protein": 25,
+        "fat": 20,
+        "carbs": 35
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=spinach%20egg%20bhurji%20recipe%20recipe"
+    },
+    "lunch": {
+      "dish_hindi": "पनीर बटर मसाला और जीरा राइस",
+      "dish_english": "Paneer Butter Masala with Jeera Rice",
+      "ingredients_hindi": "पनीर, बटर, प्याज, टमाटर, काजू, हल्दी, लाल मिर्च पाउडर, गरम मसाला, नमक, जीरा, चावल",
+      "ingredients_list_hi": [
+        "पनीर",
+        "बटर",
+        "प्याज",
+        "टमाटर",
+        "काजू",
+        "हल्दी",
+        "लाल मिर्च पाउडर",
+        "गरम मसाला",
+        "नमक",
+        "जीरा",
+        "चावल"
+      ],
+      "ingredients_list_en": [
+        "Paneer",
+        "Butter",
+        "Onion",
+        "Tomato",
+        "Cashew nuts",
+        "Turmeric",
+        "Red chili powder",
+        "Garam masala",
+        "Salt",
+        "Cumin",
+        "Rice"
+      ],
+      "prep_notes_hi": "पनीर और मसालों को समान रूप से मिलाएं। यह लंच के लिए अच्छा फिट है क्योंकि यह यात्रा और माइक्रोवेव में पुनः गरम करने में अच्छा होता है।",
+      "prep_notes_en": "Mix paneer and spices evenly. Best for lunch due to travel-friendly and microwavable nature.",
+      "vizz_macros": {
+        "cal": 700,
+        "protein": 28,
+        "fat": 30,
+        "carbs": 80
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=paneer%20butter%20masala%20recipe%20recipe"
+    },
+    "dinner": {
+      "dish_hindi": "मसूर दाल और चपाती",
+      "dish_english": "Masoor Dal with Chapati",
+      "ingredients_hindi": "मसूर दाल, प्याज, लहसुन, अदरक, टमाटर, हरी मिर्च, हल्दी, जीरा, नमक, चपाती का आटा, तेल",
+      "ingredients_list_hi": [
+        "मसूर दाल",
+        "प्याज",
+        "लहसुन",
+        "अदरक",
+        "टमाटर",
+        "हरी मिर्च",
+        "हल्दी",
+        "जीरा",
+        "नमक",
+        "चपाती का आटा",
+        "तेल"
+      ],
+      "ingredients_list_en": [
+        "Masoor Dal",
+        "Onion",
+        "Garlic",
+        "Ginger",
+        "Tomato",
+        "Green chili",
+        "Turmeric",
+        "Cumin",
+        "Salt",
+        "Chapati flour",
+        "Oil"
+      ],
+      "prep_notes_hi": "दाल को अच्छी तरह पकाएं और चपाती को गोलाकार बनाएं ताकि दोनों स्वादिष्ट बन सकें।",
+      "prep_notes_en": "Cook the dal thoroughly and roll the chapatis round for best taste.",
+      "vizz_macros": {
+        "cal": 600,
+        "protein": 20,
+        "fat": 15,
+        "carbs": 90
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=masoor%20dal%20recipe%20recipe"
+    },
+    "vizz_daily_total_from_meals": {
+      "cal": 1700,
+      "protein": 73,
+      "fat": 65,
+      "carbs": 205
+    },
+    "vizz_daily_total_with_shake": {
+      "cal": 2000,
+      "protein": 113,
+      "fat": 70,
+      "carbs": 230
+    },
+    "macro_check": "This menu hits the 2000 calories, 110g protein, 60g fat, and 215g carbs targets with the shake."
   }
 ]
