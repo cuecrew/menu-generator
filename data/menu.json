@@ -1,113 +1,133 @@
 {
-  "date": "2026-06-14 (Sunday)",
-  "date_display": "Sunday, June 14",
-  "date_short": "Sun · Jun 14",
+  "date": "2026-06-15 (Monday)",
+  "date_display": "Monday, June 15",
+  "date_short": "Mon · Jun 15",
   "generated_label": "Generated last night for today",
   "breakfast": {
-    "dish_hindi": "मसाला ओट्स और उबला अंडा",
-    "dish_english": "Masala Oats with Boiled Egg",
-    "ingredients_hindi": "ओट्स, टमाटर, प्याज, हरी मिर्च, गरम मसाला, नमक, उबला अंडा",
+    "dish_hindi": "पोहा, दही, उबला अंडा (विज्ज और फ्लैटमेट-2 के लिए)",
+    "dish_english": "Poha with Curd & Boiled Egg (for Vizz and Flatmate-2)",
+    "ingredients_hindi": "पोहा, मूँगफली, हरी मिर्च, सरसों के बीज, करी पत्ता, प्याज, हल्दी, नमक, चीनी, नींबू का रस, दही, उबला अंडा",
     "ingredients_list_hi": [
-      "ओट्स",
-      "टमाटर",
-      "प्याज",
+      "पोहा",
+      "मूँगफली",
       "हरी मिर्च",
-      "गरम मसाला",
+      "सरसों के बीज",
+      "करी पत्ता",
+      "प्याज",
+      "हल्दी",
       "नमक",
+      "चीनी",
+      "नींबू का रस",
+      "दही",
       "उबला अंडा"
     ],
     "ingredients_list_en": [
-      "Oats",
-      "Tomato",
-      "Onion",
+      "Poha (flattened rice)",
+      "Peanuts",
       "Green Chili",
-      "Garam Masala",
+      "Mustard Seeds",
+      "Curry Leaves",
+      "Onion",
+      "Turmeric",
       "Salt",
+      "Sugar",
+      "Lemon Juice",
+      "Curd",
       "Boiled Egg"
     ],
-    "prep_notes_hi": "सब्जियों को बारीक काट कर ओट्स के साथ पकाएं। अच्छी तरह मिलाकर बिना गीला किए गाढ़ा मसाला बनाएं।",
-    "prep_notes_en": "Chop the vegetables finely and cook with oats. Mix well to make a thick masala without making it soggy.",
+    "prep_notes_hi": "पोहा को पानी में भिगोकर अतिरिक्त पानी निकाल दें। इसमें मूँगफली और मसाले डालकर भूनें। अंत में नींबू का रस मिलाएं और दही के साथ परोसें।",
+    "prep_notes_en": "Soak poha in water and drain excess. Saute with peanuts and spices. Finish with lemon juice and serve with curd.",
     "vizz_macros": {
-      "cal": 370,
+      "cal": 500,
       "protein": 18,
-      "fat": 10,
-      "carbs": 60
+      "fat": 15,
+      "carbs": 75
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=masala%20oats%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=poha%20recipe%20hindi%20recipe"
   },
   "lunch": {
-    "dish_hindi": "वेजिटेबल बिरयानी और रायता",
-    "dish_english": "Vegetable Biryani with Raita",
-    "ingredients_hindi": "चावल, मिश्रित सब्जियाँ, बिरयानी मसाला, दही, खीरा, नमक",
+    "dish_hindi": "पनीर भुर्जी पराठा",
+    "dish_english": "Paneer Bhurji Paratha",
+    "ingredients_hindi": "मैदा, पनीर, प्याज, टमाटर, हरी मिर्च, हल्दी, धनिया पाउडर, नमक, तेल",
     "ingredients_list_hi": [
-      "चावल",
-      "मिश्रित सब्जियाँ",
-      "बिरयानी मसाला",
-      "दही",
-      "खीरा",
-      "नमक"
+      "मैदा",
+      "पनीर",
+      "प्याज",
+      "टमाटर",
+      "हरी मिर्च",
+      "हल्दी",
+      "धनिया पाउडर",
+      "नमक",
+      "तेल"
     ],
     "ingredients_list_en": [
-      "Rice",
-      "Mixed Vegetables",
-      "Biryani Masala",
-      "Curd",
-      "Cucumber",
-      "Salt"
+      "Wheat Flour",
+      "Paneer",
+      "Onion",
+      "Tomato",
+      "Green Chili",
+      "Turmeric",
+      "Coriander Powder",
+      "Salt",
+      "Oil"
     ],
-    "prep_notes_hi": "बिरयानी को पूरी तरह पकाकर सही मसालों के साथ बनाएं। इसे लंबे समय तक रखने के लिए पर्याप्त सुगंधित बनाएं ताकि यह अच्छी तरह से यात्रा और पुनः गरम हो सके।",
-    "prep_notes_en": "Cook the biryani fully with the right spices. Make it aromatic enough to hold well while traveling and reheating.",
+    "prep_notes_hi": "पनीर भुर्जी को ठंडा करके पराठे में स्टफ करें। सेवन के समय गरम करने के लिए उपयुक्त।",
+    "prep_notes_en": "Cool the paneer bhurji and stuff into the paratha. Suitable for reheating before consumption.",
     "vizz_macros": {
-      "cal": 450,
-      "protein": 9,
-      "fat": 8,
-      "carbs": 78
+      "cal": 700,
+      "protein": 40,
+      "fat": 30,
+      "carbs": 80
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=vegetable%20biryani%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=paneer%20paratha%20recipe%20recipe"
   },
   "dinner": {
-    "dish_hindi": "मूंग दाल और रोटी, सलाद",
-    "dish_english": "Moong Dal with Roti and Salad",
-    "ingredients_hindi": "मूंग दाल, गेहूं का आटा, टमाटर, प्याज, हरी मिर्च, खीरा, मसाले",
+    "dish_hindi": "चने मसाला, रोटी और रायता",
+    "dish_english": "Chana Masala with Roti & Raita",
+    "ingredients_hindi": "काबुली चने, टमाटर, प्याज, अदरक-लहसुन का पेस्ट, जीरा, गरम मसाला, धनिया पाउडर, नमक, दही",
     "ingredients_list_hi": [
-      "मूंग दाल",
-      "गेहूं का आटा",
+      "काबुली चने",
       "टमाटर",
       "प्याज",
-      "हरी मिर्च",
-      "खीरा",
-      "मसाले"
+      "अदरक-लहसुन का पेस्ट",
+      "जीरा",
+      "गरम मसाला",
+      "धनिया पाउडर",
+      "नमक",
+      "दही"
     ],
     "ingredients_list_en": [
-      "Moong Dal",
-      "Wheat Flour",
+      "Chickpeas",
       "Tomato",
       "Onion",
-      "Green Chili",
-      "Cucumber",
-      "Spices"
+      "Ginger-Garlic Paste",
+      "Cumin Seeds",
+      "Garam Masala",
+      "Coriander Powder",
+      "Salt",
+      "Curd"
     ],
-    "prep_notes_hi": "मूंग दाल को पहले भिगोएं और तब तक पकाएं जब तक कि यह नरम न हो जाए। रोटी को ताज़ा सेंकें। सलाद के लिए सब्जियों को काटकर ताज़ा परोसें।",
-    "prep_notes_en": "Soak moong dal before cooking until soft. Cook fresh roti. Chop vegetables and serve fresh for the salad.",
+    "prep_notes_hi": "चना को रात भर भिगोकर रखें। मसालों के साथ अच्छी तरह उबालें। रोटी और रायता के साथ गरमागरम परोसें।",
+    "prep_notes_en": "Soak chickpeas overnight. Boil with spices thoroughly. Serve hot with roti and raita.",
     "vizz_macros": {
-      "cal": 410,
+      "cal": 500,
       "protein": 16,
-      "fat": 8,
-      "carbs": 70
+      "fat": 10,
+      "carbs": 80
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=moong%20dal%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=chana%20masala%20recipe%20recipe"
   },
   "vizz_daily_total_from_meals": {
-    "cal": 1230,
-    "protein": 43,
-    "fat": 26,
-    "carbs": 208
+    "cal": 1700,
+    "protein": 74,
+    "fat": 55,
+    "carbs": 235
   },
   "vizz_daily_total_with_shake": {
-    "cal": 1530,
-    "protein": 83,
-    "fat": 31,
-    "carbs": 233
+    "cal": 2000,
+    "protein": 114,
+    "fat": 60,
+    "carbs": 260
   },
-  "macro_check": "Protein and fat targets are under; meals need more concentrated protein sources."
+  "macro_check": "Calories, protein, fat, and carbs are sufficient with shake included. Slightly exceeding the carb target."
 }
