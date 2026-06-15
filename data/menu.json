@@ -1,133 +1,133 @@
 {
-  "date": "2026-06-15 (Monday)",
-  "date_display": "Monday, June 15",
-  "date_short": "Mon · Jun 15",
+  "date": "2026-06-16 (Tuesday)",
+  "date_display": "Tuesday, June 16",
+  "date_short": "Tue · Jun 16",
   "generated_label": "Generated last night for today",
   "breakfast": {
-    "dish_hindi": "पोहा, दही, उबला अंडा (विज्ज और फ्लैटमेट-2 के लिए)",
-    "dish_english": "Poha with Curd & Boiled Egg (for Vizz and Flatmate-2)",
-    "ingredients_hindi": "पोहा, मूँगफली, हरी मिर्च, सरसों के बीज, करी पत्ता, प्याज, हल्दी, नमक, चीनी, नींबू का रस, दही, उबला अंडा",
+    "dish_hindi": "वेगेबल उपमा, मूंगफली की चटनी के साथ",
+    "dish_english": "Vegetable Upma with Peanut Chutney",
+    "ingredients_hindi": "सूजी, मूँगफली, प्याज़, टमाटर, हरी मिर्च, अदरक, करी पत्ते, सरसों के दाने, घी, नमक",
     "ingredients_list_hi": [
-      "पोहा",
+      "सूजी",
       "मूँगफली",
-      "हरी मिर्च",
-      "सरसों के बीज",
-      "करी पत्ता",
-      "प्याज",
-      "हल्दी",
-      "नमक",
-      "चीनी",
-      "नींबू का रस",
-      "दही",
-      "उबला अंडा"
-    ],
-    "ingredients_list_en": [
-      "Poha (flattened rice)",
-      "Peanuts",
-      "Green Chili",
-      "Mustard Seeds",
-      "Curry Leaves",
-      "Onion",
-      "Turmeric",
-      "Salt",
-      "Sugar",
-      "Lemon Juice",
-      "Curd",
-      "Boiled Egg"
-    ],
-    "prep_notes_hi": "पोहा को पानी में भिगोकर अतिरिक्त पानी निकाल दें। इसमें मूँगफली और मसाले डालकर भूनें। अंत में नींबू का रस मिलाएं और दही के साथ परोसें।",
-    "prep_notes_en": "Soak poha in water and drain excess. Saute with peanuts and spices. Finish with lemon juice and serve with curd.",
-    "vizz_macros": {
-      "cal": 500,
-      "protein": 18,
-      "fat": 15,
-      "carbs": 75
-    },
-    "youtube_url": "https://www.youtube.com/results?search_query=poha%20recipe%20hindi%20recipe"
-  },
-  "lunch": {
-    "dish_hindi": "पनीर भुर्जी पराठा",
-    "dish_english": "Paneer Bhurji Paratha",
-    "ingredients_hindi": "मैदा, पनीर, प्याज, टमाटर, हरी मिर्च, हल्दी, धनिया पाउडर, नमक, तेल",
-    "ingredients_list_hi": [
-      "मैदा",
-      "पनीर",
-      "प्याज",
+      "प्याज़",
       "टमाटर",
       "हरी मिर्च",
-      "हल्दी",
-      "धनिया पाउडर",
-      "नमक",
-      "तेल"
+      "अदरक",
+      "करी पत्ते",
+      "सरसों के दाने",
+      "घी",
+      "नमक"
     ],
     "ingredients_list_en": [
-      "Wheat Flour",
-      "Paneer",
+      "Semolina",
+      "Peanuts",
       "Onion",
       "Tomato",
       "Green Chili",
-      "Turmeric",
-      "Coriander Powder",
-      "Salt",
-      "Oil"
+      "Ginger",
+      "Curry Leaves",
+      "Mustard Seeds",
+      "Ghee",
+      "Salt"
     ],
-    "prep_notes_hi": "पनीर भुर्जी को ठंडा करके पराठे में स्टफ करें। सेवन के समय गरम करने के लिए उपयुक्त।",
-    "prep_notes_en": "Cool the paneer bhurji and stuff into the paratha. Suitable for reheating before consumption.",
+    "prep_notes_hi": "सूजी को हल्का सा भून लें। सब्जियाँ और मसाले डालकर पकाएँ, अंत में घी डालें।",
+    "prep_notes_en": "Lightly roast the semolina. Cook with vegetables and spices, finishing with ghee.",
     "vizz_macros": {
-      "cal": 700,
-      "protein": 40,
-      "fat": 30,
-      "carbs": 80
+      "cal": 350,
+      "protein": 10,
+      "fat": 8,
+      "carbs": 60
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=paneer%20paratha%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=veg%20upma%20recipe%20recipe"
   },
-  "dinner": {
-    "dish_hindi": "चने मसाला, रोटी और रायता",
-    "dish_english": "Chana Masala with Roti & Raita",
-    "ingredients_hindi": "काबुली चने, टमाटर, प्याज, अदरक-लहसुन का पेस्ट, जीरा, गरम मसाला, धनिया पाउडर, नमक, दही",
+  "lunch": {
+    "dish_hindi": "तोरई की सब्जी, फुल्के के साथ",
+    "dish_english": "Ridged Gourd Curry with Chapati",
+    "ingredients_hindi": "तोरई, टमाटर, प्याज़, अदरक-लहसुन का पेस्ट, हल्दी, लाल मिर्च पाउडर, धनिया पाउडर, जीरा, नमक, तेल, आटा",
     "ingredients_list_hi": [
-      "काबुली चने",
+      "तोरई",
       "टमाटर",
-      "प्याज",
+      "प्याज़",
       "अदरक-लहसुन का पेस्ट",
-      "जीरा",
-      "गरम मसाला",
+      "हल्दी",
+      "लाल मिर्च पाउडर",
       "धनिया पाउडर",
+      "जीरा",
       "नमक",
-      "दही"
+      "तेल",
+      "आटा"
     ],
     "ingredients_list_en": [
-      "Chickpeas",
+      "Ridged Gourd",
       "Tomato",
       "Onion",
       "Ginger-Garlic Paste",
-      "Cumin Seeds",
-      "Garam Masala",
+      "Turmeric",
+      "Red Chili Powder",
       "Coriander Powder",
+      "Cumin Seeds",
       "Salt",
-      "Curd"
+      "Oil",
+      "Wheat Flour"
     ],
-    "prep_notes_hi": "चना को रात भर भिगोकर रखें। मसालों के साथ अच्छी तरह उबालें। रोटी और रायता के साथ गरमागरम परोसें।",
-    "prep_notes_en": "Soak chickpeas overnight. Boil with spices thoroughly. Serve hot with roti and raita.",
+    "prep_notes_hi": "सब्जी को हल्के मसलों में पकाएँ। ये लंच बॉक्स में रखना आसान है और इसे माइक्रोवेव में गरम किया जा सकता है।",
+    "prep_notes_en": "Cook the gourd with mild spices. Easy to pack for lunch and reheats well in the microwave.",
     "vizz_macros": {
-      "cal": 500,
-      "protein": 16,
-      "fat": 10,
-      "carbs": 80
+      "cal": 480,
+      "protein": 15,
+      "fat": 12,
+      "carbs": 85
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=chana%20masala%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=ridged%20gourd%20curry%20chapati%20recipe"
+  },
+  "dinner": {
+    "dish_hindi": "पास्ता अल्फ्रेडो, गार्लिक ब्रेड के साथ",
+    "dish_english": "Pasta Alfredo with Garlic Bread",
+    "ingredients_hindi": "पास्ता, क्रीम, दूध, मक्खन, लहसुन, काली मिर्च, नमक, ब्रेड, हरा धनिया",
+    "ingredients_list_hi": [
+      "पास्ता",
+      "क्रीम",
+      "दूध",
+      "मक्खन",
+      "लहसुन",
+      "काली मिर्च",
+      "नमक",
+      "ब्रेड",
+      "हरा धनिया"
+    ],
+    "ingredients_list_en": [
+      "Pasta",
+      "Cream",
+      "Milk",
+      "Butter",
+      "Garlic",
+      "Black Pepper",
+      "Salt",
+      "Bread",
+      "Coriander Leaves"
+    ],
+    "prep_notes_hi": "पास्ता को क्रीम और मक्खन के साथ पकाएँ। गार्लिक ब्रेड को ओवन में हल्का सेंक लें।",
+    "prep_notes_en": "Cook pasta with cream and butter. Lightly bake the garlic bread in the oven.",
+    "vizz_macros": {
+      "cal": 550,
+      "protein": 15,
+      "fat": 25,
+      "carbs": 70
+    },
+    "youtube_url": "https://www.youtube.com/results?search_query=alfredo%20pasta%20recipe%20recipe"
   },
   "vizz_daily_total_from_meals": {
-    "cal": 1700,
-    "protein": 74,
-    "fat": 55,
-    "carbs": 235
+    "cal": 1380,
+    "protein": 40,
+    "fat": 45,
+    "carbs": 215
   },
   "vizz_daily_total_with_shake": {
-    "cal": 2000,
-    "protein": 114,
-    "fat": 60,
-    "carbs": 260
+    "cal": 1680,
+    "protein": 80,
+    "fat": 50,
+    "carbs": 240
   },
-  "macro_check": "Calories, protein, fat, and carbs are sufficient with shake included. Slightly exceeding the carb target."
+  "macro_check": "Close to target, but protein is slightly low (30g short). Increase protein in meals if needed."
 }

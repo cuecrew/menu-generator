@@ -5,119 +5,6 @@
     "date_short": "Tue · May 19",
     "generated_label": "Generated last night for today",
     "breakfast": {
-      "dish_hindi": "अंडा भुर्जी और टोस्ट",
-      "dish_english": "Egg Bhurji and Toast",
-      "ingredients_hindi": "अंडा, प्याज, टमाटर, हरी मिर्च, मक्खन, ब्रेड",
-      "ingredients_list_hi": [
-        "अंडा",
-        "प्याज",
-        "टमाटर",
-        "हरी मिर्च",
-        "मक्खन",
-        "ब्रेड"
-      ],
-      "ingredients_list_en": [
-        "Egg",
-        "Onion",
-        "Tomato",
-        "Green chili",
-        "Butter",
-        "Bread"
-      ],
-      "prep_notes_hi": "अंडा भुर्जी बनाने के लिए अंडे को फेंटकर सब्जियों के साथ पकाएं। इसे मसालों के साथ अच्छे से मिलाएं।",
-      "prep_notes_en": "Whisk the eggs and cook them with vegetables to make egg bhurji. Mix well with spices.",
-      "vizz_macros": {
-        "cal": 400,
-        "protein": 20,
-        "fat": 15,
-        "carbs": 30
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=egg%20bhurji%20recipe%20recipe"
-    },
-    "lunch": {
-      "dish_hindi": "राजमा चावल और पापड़",
-      "dish_english": "Rajma Rice and Papad",
-      "ingredients_hindi": "राजमा, चावल, अदरक, लहसुन, प्याज, टमाटर, मसाले, पापड़",
-      "ingredients_list_hi": [
-        "राजमा",
-        "चावल",
-        "अदरक",
-        "लहसुन",
-        "प्याज",
-        "टमाटर",
-        "मसाले",
-        "पापड़"
-      ],
-      "ingredients_list_en": [
-        "Kidney beans",
-        "Rice",
-        "Ginger",
-        "Garlic",
-        "Onion",
-        "Tomato",
-        "Spices",
-        "Papad"
-      ],
-      "prep_notes_hi": "राजमा को पहले से भिगोकर पकाएं। यह यात्रा के लिए उपयुक्त है और माइक्रोवेव में दोबारा गरम किया जा सकता है।",
-      "prep_notes_en": "Soak the kidney beans before cooking. Suitable for travel and reheating in microwave.",
-      "vizz_macros": {
-        "cal": 600,
-        "protein": 20,
-        "fat": 10,
-        "carbs": 95
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=rajma%20rice%20recipe%20recipe"
-    },
-    "dinner": {
-      "dish_hindi": "मिक्स्ड सब्ज़ी और रोटी",
-      "dish_english": "Mixed Vegetable and Roti",
-      "ingredients_hindi": "गाजर, मटर, गोभी, आलू, मसाले, रोटी",
-      "ingredients_list_hi": [
-        "गाजर",
-        "मटर",
-        "गोभी",
-        "आलू",
-        "मसाले",
-        "रोटी"
-      ],
-      "ingredients_list_en": [
-        "Carrot",
-        "Peas",
-        "Cauliflower",
-        "Potato",
-        "Spices",
-        "Roti"
-      ],
-      "prep_notes_hi": "सब्जियों को एक साथ डालकर अच्छी तरह से पकाएं। स्वाद को बढ़ाने के लिए मसालों का उपयोग करें।",
-      "prep_notes_en": "Combine vegetables and cook thoroughly. Use spices to enhance flavor.",
-      "vizz_macros": {
-        "cal": 700,
-        "protein": 30,
-        "fat": 20,
-        "carbs": 75
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=mixed%20veg%20sabzi%20recipe%20recipe"
-    },
-    "vizz_daily_total_from_meals": {
-      "cal": 1700,
-      "protein": 70,
-      "fat": 45,
-      "carbs": 200
-    },
-    "vizz_daily_total_with_shake": {
-      "cal": 2000,
-      "protein": 110,
-      "fat": 50,
-      "carbs": 225
-    },
-    "macro_check": "Hits target of 2000 cal, 110g protein, 60g fat, and 215g carbs with slight excess in carbs."
-  },
-  {
-    "date": "2026-05-19 (Tuesday)",
-    "date_display": "Tuesday, May 19",
-    "date_short": "Tue · May 19",
-    "generated_label": "Generated last night for today",
-    "breakfast": {
       "dish_hindi": "मसाला ओट्स, अंडा, मक्खन टोस्ट",
       "dish_english": "Masala Oats with Egg and Buttered Toast",
       "ingredients_hindi": "ओट्स, पानी, हरी मटर, गाजर, मक्खन, नमक, मिर्च पाउडर, अंडा, ब्रेड",
@@ -3630,5 +3517,138 @@
       "carbs": 260
     },
     "macro_check": "Calories, protein, fat, and carbs are sufficient with shake included. Slightly exceeding the carb target."
+  },
+  {
+    "date": "2026-06-16 (Tuesday)",
+    "date_display": "Tuesday, June 16",
+    "date_short": "Tue · Jun 16",
+    "generated_label": "Generated last night for today",
+    "breakfast": {
+      "dish_hindi": "वेगेबल उपमा, मूंगफली की चटनी के साथ",
+      "dish_english": "Vegetable Upma with Peanut Chutney",
+      "ingredients_hindi": "सूजी, मूँगफली, प्याज़, टमाटर, हरी मिर्च, अदरक, करी पत्ते, सरसों के दाने, घी, नमक",
+      "ingredients_list_hi": [
+        "सूजी",
+        "मूँगफली",
+        "प्याज़",
+        "टमाटर",
+        "हरी मिर्च",
+        "अदरक",
+        "करी पत्ते",
+        "सरसों के दाने",
+        "घी",
+        "नमक"
+      ],
+      "ingredients_list_en": [
+        "Semolina",
+        "Peanuts",
+        "Onion",
+        "Tomato",
+        "Green Chili",
+        "Ginger",
+        "Curry Leaves",
+        "Mustard Seeds",
+        "Ghee",
+        "Salt"
+      ],
+      "prep_notes_hi": "सूजी को हल्का सा भून लें। सब्जियाँ और मसाले डालकर पकाएँ, अंत में घी डालें।",
+      "prep_notes_en": "Lightly roast the semolina. Cook with vegetables and spices, finishing with ghee.",
+      "vizz_macros": {
+        "cal": 350,
+        "protein": 10,
+        "fat": 8,
+        "carbs": 60
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=veg%20upma%20recipe%20recipe"
+    },
+    "lunch": {
+      "dish_hindi": "तोरई की सब्जी, फुल्के के साथ",
+      "dish_english": "Ridged Gourd Curry with Chapati",
+      "ingredients_hindi": "तोरई, टमाटर, प्याज़, अदरक-लहसुन का पेस्ट, हल्दी, लाल मिर्च पाउडर, धनिया पाउडर, जीरा, नमक, तेल, आटा",
+      "ingredients_list_hi": [
+        "तोरई",
+        "टमाटर",
+        "प्याज़",
+        "अदरक-लहसुन का पेस्ट",
+        "हल्दी",
+        "लाल मिर्च पाउडर",
+        "धनिया पाउडर",
+        "जीरा",
+        "नमक",
+        "तेल",
+        "आटा"
+      ],
+      "ingredients_list_en": [
+        "Ridged Gourd",
+        "Tomato",
+        "Onion",
+        "Ginger-Garlic Paste",
+        "Turmeric",
+        "Red Chili Powder",
+        "Coriander Powder",
+        "Cumin Seeds",
+        "Salt",
+        "Oil",
+        "Wheat Flour"
+      ],
+      "prep_notes_hi": "सब्जी को हल्के मसलों में पकाएँ। ये लंच बॉक्स में रखना आसान है और इसे माइक्रोवेव में गरम किया जा सकता है।",
+      "prep_notes_en": "Cook the gourd with mild spices. Easy to pack for lunch and reheats well in the microwave.",
+      "vizz_macros": {
+        "cal": 480,
+        "protein": 15,
+        "fat": 12,
+        "carbs": 85
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=ridged%20gourd%20curry%20chapati%20recipe"
+    },
+    "dinner": {
+      "dish_hindi": "पास्ता अल्फ्रेडो, गार्लिक ब्रेड के साथ",
+      "dish_english": "Pasta Alfredo with Garlic Bread",
+      "ingredients_hindi": "पास्ता, क्रीम, दूध, मक्खन, लहसुन, काली मिर्च, नमक, ब्रेड, हरा धनिया",
+      "ingredients_list_hi": [
+        "पास्ता",
+        "क्रीम",
+        "दूध",
+        "मक्खन",
+        "लहसुन",
+        "काली मिर्च",
+        "नमक",
+        "ब्रेड",
+        "हरा धनिया"
+      ],
+      "ingredients_list_en": [
+        "Pasta",
+        "Cream",
+        "Milk",
+        "Butter",
+        "Garlic",
+        "Black Pepper",
+        "Salt",
+        "Bread",
+        "Coriander Leaves"
+      ],
+      "prep_notes_hi": "पास्ता को क्रीम और मक्खन के साथ पकाएँ। गार्लिक ब्रेड को ओवन में हल्का सेंक लें।",
+      "prep_notes_en": "Cook pasta with cream and butter. Lightly bake the garlic bread in the oven.",
+      "vizz_macros": {
+        "cal": 550,
+        "protein": 15,
+        "fat": 25,
+        "carbs": 70
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=alfredo%20pasta%20recipe%20recipe"
+    },
+    "vizz_daily_total_from_meals": {
+      "cal": 1380,
+      "protein": 40,
+      "fat": 45,
+      "carbs": 215
+    },
+    "vizz_daily_total_with_shake": {
+      "cal": 1680,
+      "protein": 80,
+      "fat": 50,
+      "carbs": 240
+    },
+    "macro_check": "Close to target, but protein is slightly low (30g short). Increase protein in meals if needed."
   }
 ]
