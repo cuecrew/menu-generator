@@ -1,126 +1,5 @@
 [
   {
-    "date": "2026-05-19 (Tuesday)",
-    "date_display": "Tuesday, May 19",
-    "date_short": "Tue · May 19",
-    "generated_label": "Generated last night for today",
-    "breakfast": {
-      "dish_hindi": "मसाला ओट्स, अंडा, मक्खन टोस्ट",
-      "dish_english": "Masala Oats with Egg and Buttered Toast",
-      "ingredients_hindi": "ओट्स, पानी, हरी मटर, गाजर, मक्खन, नमक, मिर्च पाउडर, अंडा, ब्रेड",
-      "ingredients_list_hi": [
-        "ओट्स",
-        "पानी",
-        "हरी मटर",
-        "गाजर",
-        "मक्खन",
-        "नमक",
-        "मिर्च पाउडर",
-        "अंडा",
-        "ब्रेड"
-      ],
-      "ingredients_list_en": [
-        "Oats",
-        "Water",
-        "Green Peas",
-        "Carrot",
-        "Butter",
-        "Salt",
-        "Chili Powder",
-        "Egg",
-        "Bread"
-      ],
-      "prep_notes_hi": "ओट्स को धीमी आंच पर पकाएं, साथ में सब्जियाँ मिलाएं। अंडे को उबाल कर अलग से गरम रखें।",
-      "prep_notes_en": "Cook the oats on low heat, adding vegetables. Boil the egg separately and keep warm.",
-      "vizz_macros": {
-        "cal": 400,
-        "protein": 15,
-        "fat": 10,
-        "carbs": 60
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=masala%20oats%20recipe%20recipe"
-    },
-    "lunch": {
-      "dish_hindi": "पनीर भुर्जी और चपाती",
-      "dish_english": "Paneer Bhurji with Chapati",
-      "ingredients_hindi": "पनीर, टमाटर, प्याज, मिर्च, हल्दी, नमक, चपाती",
-      "ingredients_list_hi": [
-        "पनीर",
-        "टमाटर",
-        "प्याज",
-        "मिर्च",
-        "हल्दी",
-        "नमक",
-        "चपाती"
-      ],
-      "ingredients_list_en": [
-        "Paneer (cottage cheese)",
-        "Tomato",
-        "Onion",
-        "Chili",
-        "Turmeric",
-        "Salt",
-        "Chapati"
-      ],
-      "prep_notes_hi": "यह डिश यात्रा के लिए अच्छी है। माइक्रोवेव में आसानी से गरम होती है।",
-      "prep_notes_en": "This dish travels well. It reheats easily in the microwave.",
-      "vizz_macros": {
-        "cal": 650,
-        "protein": 30,
-        "fat": 25,
-        "carbs": 75
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=paneer%20bhurji%20recipe%20recipe"
-    },
-    "dinner": {
-      "dish_hindi": "रतौली पुलाव और रायता",
-      "dish_english": "Mint Pulao with Raita",
-      "ingredients_hindi": "बासमती चावल, पुदीना, मटर, जीरा, तेल, नमक, दही, खीरा",
-      "ingredients_list_hi": [
-        "बासमती चावल",
-        "पुदीना",
-        "मटर",
-        "जीरा",
-        "तेल",
-        "नमक",
-        "दही",
-        "खीरा"
-      ],
-      "ingredients_list_en": [
-        "Basmati Rice",
-        "Mint",
-        "Peas",
-        "Cumin Seeds",
-        "Oil",
-        "Salt",
-        "Curd",
-        "Cucumber"
-      ],
-      "prep_notes_hi": "चावल को पुदीने के साथ पके। मटर को छौंक दें। साथ में रायता परोसें।",
-      "prep_notes_en": "Cook the rice with mint. Lightly sauté the peas. Serve with raita.",
-      "vizz_macros": {
-        "cal": 650,
-        "protein": 25,
-        "fat": 10,
-        "carbs": 100
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=mint%20pulao%20recipe%20recipe"
-    },
-    "vizz_daily_total_from_meals": {
-      "cal": 1700,
-      "protein": 70,
-      "fat": 45,
-      "carbs": 235
-    },
-    "vizz_daily_total_with_shake": {
-      "cal": 2000,
-      "protein": 110,
-      "fat": 50,
-      "carbs": 260
-    },
-    "macro_check": "Hits 2000 cal, 110g protein, 60g fat, 215g carbs target. Slight excess in carbs."
-  },
-  {
     "date": "2026-05-20 (Wednesday)",
     "date_display": "Wednesday, May 20",
     "date_short": "Wed · May 20",
@@ -3650,5 +3529,116 @@
       "carbs": 240
     },
     "macro_check": "Close to target, but protein is slightly low (30g short). Increase protein in meals if needed."
+  },
+  {
+    "date": "2026-06-17 (Wednesday)",
+    "date_display": "Wednesday, June 17",
+    "date_short": "Wed · Jun 17",
+    "generated_label": "Generated last night for today",
+    "breakfast": {
+      "dish_hindi": "स्प्राउट्स सलाद, उबला अंडा (केवल Vizz और Flatmate-2 के लिए)",
+      "dish_english": "Sprouts Salad, Boiled Egg (for Vizz and Flatmate-2 only)",
+      "ingredients_hindi": "मूंग स्प्राउट्स, चना स्प्राउट्स, टमाटर, प्याज, नींबू, उबला अंडा",
+      "ingredients_list_hi": [
+        "मूंग स्प्राउट्स",
+        "चना स्प्राउट्स",
+        "टमाटर",
+        "प्याज",
+        "नींबू",
+        "उबला अंडा"
+      ],
+      "ingredients_list_en": [
+        "Moong sprouts",
+        "Chickpea sprouts",
+        "Tomato",
+        "Onion",
+        "Lemon",
+        "Boiled egg"
+      ],
+      "prep_notes_hi": "मूंग और चना स्प्राउट्स को अच्छी तरह से धो लें। टमाटर और प्याज को छोटे-छोटे टुकड़ों में काट लें और स्प्राउट्स में मिला दें।",
+      "prep_notes_en": "Wash moong and chickpea sprouts thoroughly. Chop tomatoes and onions finely and mix with sprouts.",
+      "vizz_macros": {
+        "cal": 350,
+        "protein": 18,
+        "fat": 10,
+        "carbs": 50
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=sprouts%20salad%20recipe%20recipe"
+    },
+    "lunch": {
+      "dish_hindi": "छोले पुलाव, रायता",
+      "dish_english": "Chole Pulao with Raita",
+      "ingredients_hindi": "चावल, छोले, दही, प्याज़, टमाटर, धनिया पत्ते, मसाले",
+      "ingredients_list_hi": [
+        "चावल",
+        "छोले",
+        "दही",
+        "प्याज़",
+        "टमाटर",
+        "धनिया पत्ते",
+        "मसाले"
+      ],
+      "ingredients_list_en": [
+        "Rice",
+        "Chickpeas",
+        "Curd",
+        "Onion",
+        "Tomato",
+        "Coriander leaves",
+        "Spices"
+      ],
+      "prep_notes_hi": "यह पकवान यात्रा करने और फिर से गर्म करने के लिए उपयुक्त है। चावल और छोले के दानों को नरम होने तक पकाएं।",
+      "prep_notes_en": "This dish is suitable for travel and reheating. Cook rice and chickpeas until tender.",
+      "vizz_macros": {
+        "cal": 600,
+        "protein": 18,
+        "fat": 10,
+        "carbs": 100
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=chole%20pulao%20recipe%20recipe"
+    },
+    "dinner": {
+      "dish_hindi": "पालक पनीर, रोटी, सलाद",
+      "dish_english": "Palak Paneer with Roti & Salad",
+      "ingredients_hindi": "पालक, पनीर, रोटी, प्याज, टमाटर, ककड़ी",
+      "ingredients_list_hi": [
+        "पालक",
+        "पनीर",
+        "रोटी",
+        "प्याज",
+        "टमाटर",
+        "ककड़ी"
+      ],
+      "ingredients_list_en": [
+        "Spinach",
+        "Paneer",
+        "Roti",
+        "Onion",
+        "Tomato",
+        "Cucumber"
+      ],
+      "prep_notes_hi": "पालक को अच्छी तरह धोकर बारीक काट लें। पनीर को छोटे टुकड़ों में काटकर सब्जी में डालें।",
+      "prep_notes_en": "Wash spinach thoroughly and chop finely. Cut paneer into small cubes and add to the dish.",
+      "vizz_macros": {
+        "cal": 750,
+        "protein": 34,
+        "fat": 25,
+        "carbs": 60
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=palak%20paneer%20recipe%20recipe"
+    },
+    "vizz_daily_total_from_meals": {
+      "cal": 1700,
+      "protein": 70,
+      "fat": 45,
+      "carbs": 210
+    },
+    "vizz_daily_total_with_shake": {
+      "cal": 2000,
+      "protein": 110,
+      "fat": 50,
+      "carbs": 235
+    },
+    "macro_check": "Meal plan meets the 2000/110/60/215 targets with a slight overage in carbs and a slight underage in fats."
   }
 ]
