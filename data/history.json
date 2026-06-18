@@ -1,114 +1,5 @@
 [
   {
-    "date": "2026-05-20 (Wednesday)",
-    "date_display": "Wednesday, May 20",
-    "date_short": "Wed · May 20",
-    "generated_label": "Generated last night for today",
-    "breakfast": {
-      "dish_hindi": "दलिया और उबला अंडा",
-      "dish_english": "Dalia with Boiled Egg",
-      "ingredients_hindi": "दलिया, पानी, दूध, उबला अंडा",
-      "ingredients_list_hi": [
-        "दलिया",
-        "पानी",
-        "दूध",
-        "उबला अंडा"
-      ],
-      "ingredients_list_en": [
-        "Dalia (broken wheat)",
-        "Water",
-        "Milk",
-        "Boiled Egg"
-      ],
-      "prep_notes_hi": "दलिया को पानी में उबालें और दूध मिलाएं। उबला अंडा अलग से परोसें।",
-      "prep_notes_en": "Boil dalia in water and add milk. Serve boiled egg separately.",
-      "vizz_macros": {
-        "cal": 380,
-        "protein": 14,
-        "fat": 7,
-        "carbs": 62
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=dalia%20recipe%20hindi%20recipe"
-    },
-    "lunch": {
-      "dish_hindi": "पालक पनीर और फुल्का",
-      "dish_english": "Palak Paneer with Phulka",
-      "ingredients_hindi": "पालक, पनीर, प्याज, टमाटर, अदरक, लहसुन, मसाले, गेंहू का आटा",
-      "ingredients_list_hi": [
-        "पालक",
-        "पनीर",
-        "प्याज",
-        "टमाटर",
-        "अदरक",
-        "लहसुन",
-        "मसाले",
-        "आटा"
-      ],
-      "ingredients_list_en": [
-        "Spinach",
-        "Paneer",
-        "Onion",
-        "Tomato",
-        "Ginger",
-        "Garlic",
-        "Spices",
-        "Wheat flour"
-      ],
-      "prep_notes_hi": "पालक पकाकर पीस लें, फिर पनीर के साथ पकाएं। यह यात्रा और पुनः गर्म करने के लिए उपयुक्त है।",
-      "prep_notes_en": "Cook and puree spinach, then cook with paneer. Suitable for travel and reheating.",
-      "vizz_macros": {
-        "cal": 690,
-        "protein": 30,
-        "fat": 25,
-        "carbs": 90
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=palak%20paneer%20recipe%20recipe"
-    },
-    "dinner": {
-      "dish_hindi": "सोया चंक्स बिरयानी और रायता",
-      "dish_english": "Soya Chunks Biryani with Raita",
-      "ingredients_hindi": "सोया चंक्स, बासमती चावल, मसाले, दही, प्याज, टमाटर",
-      "ingredients_list_hi": [
-        "सोया चंक्स",
-        "बासमती चावल",
-        "मसाले",
-        "दही",
-        "प्याज",
-        "टमाटर"
-      ],
-      "ingredients_list_en": [
-        "Soya Chunks",
-        "Basmati Rice",
-        "Spices",
-        "Yogurt",
-        "Onion",
-        "Tomato"
-      ],
-      "prep_notes_hi": "सोया चंक्स को पहले भिगो दें, फिर मसालों के साथ पकाएं। चावल के साथ परत करें।",
-      "prep_notes_en": "Soak soya chunks, cook with spices, and layer with rice.",
-      "vizz_macros": {
-        "cal": 530,
-        "protein": 26,
-        "fat": 12,
-        "carbs": 80
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=soya%20chunks%20biryani%20recipe%20recipe"
-    },
-    "vizz_daily_total_from_meals": {
-      "cal": 1600,
-      "protein": 70,
-      "fat": 44,
-      "carbs": 232
-    },
-    "vizz_daily_total_with_shake": {
-      "cal": 1900,
-      "protein": 110,
-      "fat": 49,
-      "carbs": 257
-    },
-    "macro_check": "Hits protein and carb targets with shake. Slightly below calorie goal."
-  },
-  {
     "date": "2026-05-21 (Thursday)",
     "date_display": "Thursday, May 21",
     "date_short": "Thu · May 21",
@@ -3638,5 +3529,120 @@
       "carbs": 225
     },
     "macro_check": "Protein slightly low; consider extra dal or paneer in dinner to hit 110g target. Calories, fat, and carbs within range."
+  },
+  {
+    "date": "2026-06-19 (Friday)",
+    "date_display": "Friday, June 19",
+    "date_short": "Fri · Jun 19",
+    "generated_label": "Generated last night for today",
+    "breakfast": {
+      "dish_hindi": "अलू परांठा, दही, उबला अंडा (Vizz और Flatmate-2 के लिए)",
+      "dish_english": "Aloo Paratha with Curd and Boiled Egg (for Vizz and Flatmate-2)",
+      "ingredients_hindi": "आटा, आलू, धनिया, हरा मिर्च, जीरा, दही, अंडा",
+      "ingredients_list_hi": [
+        "आटा",
+        "आलू",
+        "धनिया",
+        "हरा मिर्च",
+        "जीरा",
+        "दही",
+        "अंडा"
+      ],
+      "ingredients_list_en": [
+        "Wheat Flour",
+        "Potatoes",
+        "Coriander",
+        "Green Chili",
+        "Cumin Seeds",
+        "Curd",
+        "Egg"
+      ],
+      "prep_notes_hi": "आलू को अच्छे से मैश करके मसाले मिलाएं। परांठे को मध्यम आंच पर सेकें और इसे ताज़े दही के साथ परोसें।",
+      "prep_notes_en": "Mash potatoes well and mix with spices. Cook parathas on medium heat and serve with fresh curd.",
+      "vizz_macros": {
+        "cal": 400,
+        "protein": 10,
+        "fat": 15,
+        "carbs": 55
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=aloo%20paratha%20recipe%20hindi%20recipe"
+    },
+    "lunch": {
+      "dish_hindi": "राजमा चावल, रायता",
+      "dish_english": "Rajma with Rice and Raita",
+      "ingredients_hindi": "राजमा, चावल, दही, जीरा, धनिया, मिर्च पाउडर, नमक",
+      "ingredients_list_hi": [
+        "राजमा",
+        "चावल",
+        "दही",
+        "जीरा",
+        "धनिया",
+        "मिर्च पाउडर",
+        "नमक"
+      ],
+      "ingredients_list_en": [
+        "Kidney Beans",
+        "Rice",
+        "Curd",
+        "Cumin",
+        "Coriander",
+        "Chili Powder",
+        "Salt"
+      ],
+      "prep_notes_hi": "राजमा को रात भर भिगो दें। अच्छे से पकाएं ताकि यह नरम हो और इसे चावल के साथ परोसें। यात्रा और दोबारा गरम करने के अनुकूल।",
+      "prep_notes_en": "Soak kidney beans overnight. Cook well until soft and serve with rice. Suitable for transport and reheating.",
+      "vizz_macros": {
+        "cal": 650,
+        "protein": 25,
+        "fat": 8,
+        "carbs": 120
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=rajma%20rice%20recipe%20hindi%20recipe"
+    },
+    "dinner": {
+      "dish_hindi": "पनीर टिका मसाला, रोटी, प्याज का सलाद",
+      "dish_english": "Paneer Tikka Masala with Roti and Onion Salad",
+      "ingredients_hindi": "पनीर, टमाटर, प्याज, शिमला मिर्च, अदरक, लहसुन, मसाले",
+      "ingredients_list_hi": [
+        "पनीर",
+        "टमाटर",
+        "प्याज",
+        "शिमला मिर्च",
+        "अदरक",
+        "लहसुन",
+        "मसाले"
+      ],
+      "ingredients_list_en": [
+        "Paneer",
+        "Tomatoes",
+        "Onion",
+        "Bell Pepper",
+        "Ginger",
+        "Garlic",
+        "Spices"
+      ],
+      "prep_notes_hi": "पनीर को मसालों के साथ मैरिनेट करें और फिर धीमी आंच पर पकाएं। इसे ताज़ी रोटी और सलाद के साथ परोसें।",
+      "prep_notes_en": "Marinate paneer with spices and cook on low flame. Serve with fresh roti and salad.",
+      "vizz_macros": {
+        "cal": 650,
+        "protein": 35,
+        "fat": 25,
+        "carbs": 50
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=paneer%20tikka%20masala%20recipe%20recipe"
+    },
+    "vizz_daily_total_from_meals": {
+      "cal": 1700,
+      "protein": 70,
+      "fat": 48,
+      "carbs": 225
+    },
+    "vizz_daily_total_with_shake": {
+      "cal": 2000,
+      "protein": 110,
+      "fat": 53,
+      "carbs": 250
+    },
+    "macro_check": "This plan hits the target of 2000 cal, 110g protein, 60g fat, 215g carbs with a minor excess in carbs and slight shortage in fat."
   }
 ]
