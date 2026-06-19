@@ -1,116 +1,5 @@
 [
   {
-    "date": "2026-05-21 (Thursday)",
-    "date_display": "Thursday, May 21",
-    "date_short": "Thu · May 21",
-    "generated_label": "Generated last night for today",
-    "breakfast": {
-      "dish_hindi": "ऐलो टोस्ट और उबला अंडा",
-      "dish_english": "Aloo Toast Sandwich with Boiled Egg",
-      "ingredients_hindi": "ब्रेड स्लाइस, आलू, प्याज, हरा धनिया, मसाले, उबला अंडा, मक्खन",
-      "ingredients_list_hi": [
-        "ब्रेड स्लाइस",
-        "आलू",
-        "प्याज",
-        "हरा धनिया",
-        "मसाले",
-        "उबला अंडा",
-        "मक्खन"
-      ],
-      "ingredients_list_en": [
-        "Bread slices",
-        "Potato",
-        "Onion",
-        "Coriander leaves",
-        "Spices",
-        "Boiled egg",
-        "Butter"
-      ],
-      "prep_notes_hi": "आलू को मसाले और प्याज के साथ मिक्स करें और ब्रेड पर लगाएं। मक्खन लगाएं और तवे पर टोस्ट करें।",
-      "prep_notes_en": "Mix potatoes with spices and onions, spread on bread, apply butter, and toast on a pan.",
-      "vizz_macros": {
-        "cal": 420,
-        "protein": 12,
-        "fat": 18,
-        "carbs": 50
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=aloo%20toast%20sandwich%20recipe%20recipe"
-    },
-    "lunch": {
-      "dish_hindi": "सब्जी पुलाव, दही और अचार",
-      "dish_english": "Vegetable Pulao with Curd and Pickle",
-      "ingredients_hindi": "बासमती चावल, सब्जियाँ, जीरा, भारतीय मसाले, दही, अचार",
-      "ingredients_list_hi": [
-        "बासमती चावल",
-        "सब्जियाँ",
-        "जीरा",
-        "भारतीय मसाले",
-        "दही",
-        "अचार"
-      ],
-      "ingredients_list_en": [
-        "Basmati rice",
-        "Vegetables",
-        "Cumin seeds",
-        "Indian spices",
-        "Curd",
-        "Pickle"
-      ],
-      "prep_notes_hi": "यह पुलाव आसानी से यात्रा कर सकता है और माइक्रोवेव में गरम हो सकता है।",
-      "prep_notes_en": "This pulao packs well for travel and can be reheated in a microwave.",
-      "vizz_macros": {
-        "cal": 500,
-        "protein": 10,
-        "fat": 9,
-        "carbs": 90
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=vegetable%20pulao%20recipe%20recipe"
-    },
-    "dinner": {
-      "dish_hindi": "मिक्स वेज करी और रोटी",
-      "dish_english": "Mixed Vegetable Curry with Roti",
-      "ingredients_hindi": "मिश्रित सब्जियाँ, टमाटर, प्याज, अदरक-लहसुन पेस्ट, मसाले, गेहूं का आटा",
-      "ingredients_list_hi": [
-        "मिश्रित सब्जियाँ",
-        "टमाटर",
-        "प्याज",
-        "अदरक-लहसुन पेस्ट",
-        "मसाले",
-        "गेहूं का आटा"
-      ],
-      "ingredients_list_en": [
-        "Mixed vegetables",
-        "Tomato",
-        "Onion",
-        "Ginger-garlic paste",
-        "Spices",
-        "Wheat flour"
-      ],
-      "prep_notes_hi": "सब्जियों को मसालों के साथ अच्छे से पकाएं। रोटी को तवे पर फुल्का कर सकते हैं।",
-      "prep_notes_en": "Cook the vegetables well with spices. Rotis can be puffed on the pan.",
-      "vizz_macros": {
-        "cal": 480,
-        "protein": 18,
-        "fat": 18,
-        "carbs": 70
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=mixed%20veg%20curry%20roti%20recipe%20recipe"
-    },
-    "vizz_daily_total_from_meals": {
-      "cal": 1400,
-      "protein": 40,
-      "fat": 45,
-      "carbs": 210
-    },
-    "vizz_daily_total_with_shake": {
-      "cal": 1700,
-      "protein": 80,
-      "fat": 50,
-      "carbs": 235
-    },
-    "macro_check": "The meals plus shake closely meet daily targets for calories and carbs but fall short on protein by about 30g."
-  },
-  {
     "date": "2026-05-22 (Friday)",
     "date_display": "Friday, May 22",
     "date_short": "Fri · May 22",
@@ -3644,5 +3533,114 @@
       "carbs": 250
     },
     "macro_check": "This plan hits the target of 2000 cal, 110g protein, 60g fat, 215g carbs with a minor excess in carbs and slight shortage in fat."
+  },
+  {
+    "date": "2026-06-20 (Saturday)",
+    "date_display": "Saturday, June 20",
+    "date_short": "Sat · Jun 20",
+    "generated_label": "Generated last night for today",
+    "breakfast": {
+      "dish_hindi": "पनीर पराठा, दही, उबला अंडा (केवल विज्ज और रूममेट-2 के लिए)",
+      "dish_english": "Paneer Paratha with Curd, Boiled Egg (for Vizz and Flatmate-2 only)",
+      "ingredients_hindi": "गेंहू का आटा, पनीर, हरा धनिया, दही, तेल, नमक, उबला अंडा",
+      "ingredients_list_hi": [
+        "गेंहू का आटा",
+        "पनीर",
+        "हरा धनिया",
+        "दही",
+        "तेल",
+        "नमक",
+        "उबला अंडा"
+      ],
+      "ingredients_list_en": [
+        "Wheat flour",
+        "Paneer",
+        "Coriander leaves",
+        "Curd",
+        "Oil",
+        "Salt",
+        "Boiled egg"
+      ],
+      "prep_notes_hi": "पनीर को अच्छे से कद्दूकस कर लें और आटे में मिलाएं। ध्यान रखें की आटा नरम हो। तवे पर मध्यम आंच पर पराठा पकाएं।",
+      "prep_notes_en": "Grate the paneer finely and mix it into the dough. Ensure the dough is soft. Cook the paratha on a medium flame on the tawa.",
+      "vizz_macros": {
+        "cal": 450,
+        "protein": 22,
+        "fat": 16,
+        "carbs": 43
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=paneer%20paratha%20recipe%20recipe"
+    },
+    "lunch": {
+      "dish_hindi": "बेसन का चीला, टमाटर की चटनी",
+      "dish_english": "Besan Cheela with Tomato Chutney",
+      "ingredients_hindi": "बेसन, हरी मिर्च, टमाटर, हरा धनिया, जीरा, तेल",
+      "ingredients_list_hi": [
+        "बेसन",
+        "हरी मिर्च",
+        "टमाटर",
+        "हरा धनिया",
+        "जीरा",
+        "तेल"
+      ],
+      "ingredients_list_en": [
+        "Besan (gram flour)",
+        "Green chili",
+        "Tomato",
+        "Coriander leaves",
+        "Cumin seeds",
+        "Oil"
+      ],
+      "prep_notes_hi": "चीला को पतला फैलाएं और दोनों तरफ से कुरकुरे होने तक पकाएं। टमाटर चटनी के लिए सभी सामग्रियों को पीस लें। पैक करने पर ठंडा होने दें।",
+      "prep_notes_en": "Spread the cheela thinly and cook until crispy on both sides. For tomato chutney, blend all ingredients. Allow to cool before packing.",
+      "vizz_macros": {
+        "cal": 350,
+        "protein": 14,
+        "fat": 15,
+        "carbs": 38
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=besan%20cheela%20recipe%20recipe"
+    },
+    "dinner": {
+      "dish_hindi": "सोया चंक्स करी, चावल, खीरे का रायता",
+      "dish_english": "Soya Chunks Curry with Rice & Cucumber Raita",
+      "ingredients_hindi": "सोया चंक्स, चावल, खीरा, दही, मसाले",
+      "ingredients_list_hi": [
+        "सोया चंक्स",
+        "चावल",
+        "खीरा",
+        "दही",
+        "मसाले"
+      ],
+      "ingredients_list_en": [
+        "Soya chunks",
+        "Rice",
+        "Cucumber",
+        "Curd",
+        "Spices"
+      ],
+      "prep_notes_hi": "सोया चंक्स को पानी में भिगोकर निचोड़ लें और मसालों के साथ पकाएं। चावल को पकाकर लेकिन पेस्ट्री करें। खीरे का रायता साथ दें।",
+      "prep_notes_en": "Soak the soya chunks in water, squeeze out excess, and cook with spices. Cook rice but let it remain fluffy. Serve with cucumber raita.",
+      "vizz_macros": {
+        "cal": 510,
+        "protein": 34,
+        "fat": 14,
+        "carbs": 72
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=soya%20chunks%20curry%20recipe%20recipe"
+    },
+    "vizz_daily_total_from_meals": {
+      "cal": 1310,
+      "protein": 70,
+      "fat": 45,
+      "carbs": 153
+    },
+    "vizz_daily_total_with_shake": {
+      "cal": 1610,
+      "protein": 110,
+      "fat": 50,
+      "carbs": 178
+    },
+    "macro_check": "Falls short in calories and carbs; protein target met."
   }
 ]
