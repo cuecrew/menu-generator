@@ -1,109 +1,129 @@
 {
-  "date": "2026-06-20 (Saturday)",
-  "date_display": "Saturday, June 20",
-  "date_short": "Sat · Jun 20",
+  "date": "2026-06-21 (Sunday)",
+  "date_display": "Sunday, June 21",
+  "date_short": "Sun · Jun 21",
   "generated_label": "Generated last night for today",
   "breakfast": {
-    "dish_hindi": "पनीर पराठा, दही, उबला अंडा (केवल विज्ज और रूममेट-2 के लिए)",
-    "dish_english": "Paneer Paratha with Curd, Boiled Egg (for Vizz and Flatmate-2 only)",
-    "ingredients_hindi": "गेंहू का आटा, पनीर, हरा धनिया, दही, तेल, नमक, उबला अंडा",
+    "dish_hindi": "पालक पराठा, दही, उबला हुआ अंडा (केवल विज्ज और फ्लैटमेट-2 के लिए)",
+    "dish_english": "Palak Paratha with Curd & Boiled Egg (for Vizz and Flatmate-2 only)",
+    "ingredients_hindi": "पालक, गेहूं का आटा, दही, उबला हुआ अंडा, अजवाइन, जीरा, नमक",
     "ingredients_list_hi": [
-      "गेंहू का आटा",
-      "पनीर",
-      "हरा धनिया",
+      "पालक",
+      "गेहूं का आटा",
       "दही",
-      "तेल",
-      "नमक",
-      "उबला अंडा"
-    ],
-    "ingredients_list_en": [
-      "Wheat flour",
-      "Paneer",
-      "Coriander leaves",
-      "Curd",
-      "Oil",
-      "Salt",
-      "Boiled egg"
-    ],
-    "prep_notes_hi": "पनीर को अच्छे से कद्दूकस कर लें और आटे में मिलाएं। ध्यान रखें की आटा नरम हो। तवे पर मध्यम आंच पर पराठा पकाएं।",
-    "prep_notes_en": "Grate the paneer finely and mix it into the dough. Ensure the dough is soft. Cook the paratha on a medium flame on the tawa.",
-    "vizz_macros": {
-      "cal": 450,
-      "protein": 22,
-      "fat": 16,
-      "carbs": 43
-    },
-    "youtube_url": "https://www.youtube.com/results?search_query=paneer%20paratha%20recipe%20recipe"
-  },
-  "lunch": {
-    "dish_hindi": "बेसन का चीला, टमाटर की चटनी",
-    "dish_english": "Besan Cheela with Tomato Chutney",
-    "ingredients_hindi": "बेसन, हरी मिर्च, टमाटर, हरा धनिया, जीरा, तेल",
-    "ingredients_list_hi": [
-      "बेसन",
-      "हरी मिर्च",
-      "टमाटर",
-      "हरा धनिया",
+      "उबला हुआ अंडा",
+      "अजवाइन",
       "जीरा",
-      "तेल"
+      "नमक"
     ],
     "ingredients_list_en": [
-      "Besan (gram flour)",
-      "Green chili",
-      "Tomato",
-      "Coriander leaves",
-      "Cumin seeds",
-      "Oil"
+      "Spinach",
+      "Wheat Flour",
+      "Curd",
+      "Boiled Egg",
+      "Carom Seeds",
+      "Cumin Seeds",
+      "Salt"
     ],
-    "prep_notes_hi": "चीला को पतला फैलाएं और दोनों तरफ से कुरकुरे होने तक पकाएं। टमाटर चटनी के लिए सभी सामग्रियों को पीस लें। पैक करने पर ठंडा होने दें।",
-    "prep_notes_en": "Spread the cheela thinly and cook until crispy on both sides. For tomato chutney, blend all ingredients. Allow to cool before packing.",
+    "prep_notes_hi": "पालक को बारीक काटकर आटे में मिलाएं। इसे नरम आटा बनाएं और पराठे बेलें। मध्यम आंच पर पकाएं और दही के साथ परोसें।",
+    "prep_notes_en": "Finely chop spinach and mix into the dough. Knead into a soft dough and roll out parathas. Cook on medium flame and serve with curd.",
     "vizz_macros": {
       "cal": 350,
-      "protein": 14,
-      "fat": 15,
-      "carbs": 38
+      "protein": 12,
+      "fat": 9,
+      "carbs": 55
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=besan%20cheela%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=palak%20paratha%20recipe%20recipe"
   },
-  "dinner": {
-    "dish_hindi": "सोया चंक्स करी, चावल, खीरे का रायता",
-    "dish_english": "Soya Chunks Curry with Rice & Cucumber Raita",
-    "ingredients_hindi": "सोया चंक्स, चावल, खीरा, दही, मसाले",
+  "lunch": {
+    "dish_hindi": "चना पुलाव और आचार",
+    "dish_english": "Chana Pulao with Pickle",
+    "ingredients_hindi": "बासमती चावल, काले चने, प्याज, टमाटर, अदरक, लहसुन, हरी मिर्च, जीरा, तेजपत्ता, गरम मसाला, नमक",
     "ingredients_list_hi": [
-      "सोया चंक्स",
-      "चावल",
-      "खीरा",
-      "दही",
-      "मसाले"
+      "बासमती चावल",
+      "काले चने",
+      "प्याज",
+      "टमाटर",
+      "अदरक",
+      "लहसुन",
+      "हरी मिर्च",
+      "जीरा",
+      "तेजपत्ता",
+      "गरम मसाला",
+      "नमक"
     ],
     "ingredients_list_en": [
-      "Soya chunks",
-      "Rice",
-      "Cucumber",
-      "Curd",
-      "Spices"
+      "Basmati Rice",
+      "Black Chickpeas",
+      "Onion",
+      "Tomato",
+      "Ginger",
+      "Garlic",
+      "Green Chili",
+      "Cumin Seeds",
+      "Bay Leaf",
+      "Garam Masala",
+      "Salt"
     ],
-    "prep_notes_hi": "सोया चंक्स को पानी में भिगोकर निचोड़ लें और मसालों के साथ पकाएं। चावल को पकाकर लेकिन पेस्ट्री करें। खीरे का रायता साथ दें।",
-    "prep_notes_en": "Soak the soya chunks in water, squeeze out excess, and cook with spices. Cook rice but let it remain fluffy. Serve with cucumber raita.",
+    "prep_notes_hi": "चावल पकाते समय चने मिला दें। यह लंच के लिए सही है, इसे गर्म करने में आसानी होगी।",
+    "prep_notes_en": "Add chickpeas while cooking rice. It's perfect for lunch and reheats well.",
     "vizz_macros": {
-      "cal": 510,
-      "protein": 34,
-      "fat": 14,
-      "carbs": 72
+      "cal": 450,
+      "protein": 15,
+      "fat": 8,
+      "carbs": 80
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=soya%20chunks%20curry%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=chana%20pulao%20recipe%20recipe"
+  },
+  "dinner": {
+    "dish_hindi": "तोफू स्टर फ्राई, चपाती और पपीता सलाद",
+    "dish_english": "Tofu Stir Fry with Chapati & Papaya Salad",
+    "ingredients_hindi": "तोफू, ब्रोकली, बेल मिर्च, सोया सॉस, अदरक, लहसुन, चपाती, पपीता, नींबू, शहद",
+    "ingredients_list_hi": [
+      "तोफू",
+      "ब्रोकली",
+      "बेल मिर्च",
+      "सोया सॉस",
+      "अदरक",
+      "लहसुन",
+      "चपाती",
+      "पपीता",
+      "नींबू",
+      "शहद"
+    ],
+    "ingredients_list_en": [
+      "Tofu",
+      "Broccoli",
+      "Bell Pepper",
+      "Soy Sauce",
+      "Ginger",
+      "Garlic",
+      "Chapati",
+      "Papaya",
+      "Lemon",
+      "Honey"
+    ],
+    "prep_notes_hi": "तोफू और सब्जियों को जल्दी से हिलाकर तला जाए। चपाती के साथ गरमा गरम परोसें।",
+    "prep_notes_en": "Quickly stir fry the tofu and vegetables. Serve hot with chapati.",
+    "vizz_macros": {
+      "cal": 400,
+      "protein": 18,
+      "fat": 10,
+      "carbs": 60
+    },
+    "youtube_url": "https://www.youtube.com/results?search_query=tofu%20stir%20fry%20recipe%20recipe"
   },
   "vizz_daily_total_from_meals": {
-    "cal": 1310,
-    "protein": 70,
-    "fat": 45,
-    "carbs": 153
+    "cal": 1200,
+    "protein": 45,
+    "fat": 27,
+    "carbs": 195
   },
   "vizz_daily_total_with_shake": {
-    "cal": 1610,
-    "protein": 110,
-    "fat": 50,
-    "carbs": 178
+    "cal": 1500,
+    "protein": 85,
+    "fat": 32,
+    "carbs": 220
   },
-  "macro_check": "Falls short in calories and carbs; protein target met."
+  "macro_check": "Protein intake falls short; consider adding a small dal/sprout salad to boost protein."
 }

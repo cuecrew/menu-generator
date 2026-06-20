@@ -1,132 +1,5 @@
 [
   {
-    "date": "2026-05-22 (Friday)",
-    "date_display": "Friday, May 22",
-    "date_short": "Fri · May 22",
-    "generated_label": "Generated last night for today",
-    "breakfast": {
-      "dish_hindi": "सब्जी पराठा और उबला अंडा",
-      "dish_english": "Vegetable Paratha with Boiled Egg",
-      "ingredients_hindi": "गेहूं का आटा, आलू, मटर, गाजर, धनिया, गरम मसाला, नमक, अंडा",
-      "ingredients_list_hi": [
-        "गेहूं का आटा",
-        "आलू",
-        "मटर",
-        "गाजर",
-        "धनिया",
-        "गरम मसाला",
-        "नमक",
-        "अंडा"
-      ],
-      "ingredients_list_en": [
-        "Whole wheat flour",
-        "Potato",
-        "Peas",
-        "Carrot",
-        "Coriander",
-        "Garam masala",
-        "Salt",
-        "Egg"
-      ],
-      "prep_notes_hi": "सारी सब्ज़ियों को काटकर हलका पकाएं, फिर पराठा बेलते समय भरावन का ध्यान रखें।",
-      "prep_notes_en": "Chop all vegetables and slightly cook them; be careful while stuffing and rolling the paratha.",
-      "vizz_macros": {
-        "cal": 400,
-        "protein": 15,
-        "fat": 15,
-        "carbs": 50
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=vegetable%20paratha%20recipe%20recipe"
-    },
-    "lunch": {
-      "dish_hindi": "राजमा चावल, प्याज़ का सलाद और अचार",
-      "dish_english": "Rajma with Rice, Onion Salad & Pickle",
-      "ingredients_hindi": "राजमा, बासमती चावल, प्याज, टमाटर, अदरक, लहसुन, धनिया, गरम मसाला, नमक, अचार",
-      "ingredients_list_hi": [
-        "राजमा",
-        "बासमती चावल",
-        "प्याज",
-        "टमाटर",
-        "अदरक",
-        "लहसुन",
-        "धनिया",
-        "गरम मसाला",
-        "नमक",
-        "अचार"
-      ],
-      "ingredients_list_en": [
-        "Kidney beans",
-        "Basmati rice",
-        "Onion",
-        "Tomato",
-        "Ginger",
-        "Garlic",
-        "Coriander",
-        "Garam masala",
-        "Salt",
-        "Pickle"
-      ],
-      "prep_notes_hi": "उचित समय के लिए राजमा को भिगोकर पकाएं। यह दोपहर के खाने के लिए अच्छे से यात्रा करता है और माइक्रोवेव में गरम किया जा सकता है।",
-      "prep_notes_en": "Soak kidney beans adequately before cooking. This travels well for lunch and can be reheated in the microwave.",
-      "vizz_macros": {
-        "cal": 550,
-        "protein": 20,
-        "fat": 7,
-        "carbs": 95
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=rajma%20chawal%20recipe%20recipe"
-    },
-    "dinner": {
-      "dish_hindi": "वेज़ नूडल्स और मंचूरियन",
-      "dish_english": "Veg Noodles & Manchurian",
-      "ingredients_hindi": "हक्का नूडल्स, गोभी, शिमला मिर्च, गाजर, अदरक, लहसुन, सोया सॉस, सिरका, मिर्च पाउडर",
-      "ingredients_list_hi": [
-        "हक्का नूडल्स",
-        "गोभी",
-        "शिमला मिर्च",
-        "गाजर",
-        "अदरक",
-        "लहसुन",
-        "सोया सॉस",
-        "सिरका",
-        "मिर्च पाउडर"
-      ],
-      "ingredients_list_en": [
-        "Hakka noodles",
-        "Cabbage",
-        "Capsicum",
-        "Carrot",
-        "Ginger",
-        "Garlic",
-        "Soy sauce",
-        "Vinegar",
-        "Chili powder"
-      ],
-      "prep_notes_hi": "सब्जियों को पतला काटकर तलें और नूडल्स के साथ अच्छी तरह मिलाएं। स्वाद के अनुसार मसाले डालें।",
-      "prep_notes_en": "Thinly slice and fry the vegetables, mixing well with the noodles. Adjust spices to taste.",
-      "vizz_macros": {
-        "cal": 450,
-        "protein": 12,
-        "fat": 10,
-        "carbs": 75
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=veg%20noodles%20manchurian%20recipe%20recipe"
-    },
-    "vizz_daily_total_from_meals": {
-      "cal": 1400,
-      "protein": 47,
-      "fat": 32,
-      "carbs": 220
-    },
-    "vizz_daily_total_with_shake": {
-      "cal": 1700,
-      "protein": 87,
-      "fat": 37,
-      "carbs": 245
-    },
-    "macro_check": "Targets missed in fat and protein; consider adding more paneer or lentils to compensate."
-  },
-  {
     "date": "2026-05-23 (Saturday)",
     "date_display": "Saturday, May 23",
     "date_short": "Sat · May 23",
@@ -3642,5 +3515,134 @@
       "carbs": 178
     },
     "macro_check": "Falls short in calories and carbs; protein target met."
+  },
+  {
+    "date": "2026-06-21 (Sunday)",
+    "date_display": "Sunday, June 21",
+    "date_short": "Sun · Jun 21",
+    "generated_label": "Generated last night for today",
+    "breakfast": {
+      "dish_hindi": "पालक पराठा, दही, उबला हुआ अंडा (केवल विज्ज और फ्लैटमेट-2 के लिए)",
+      "dish_english": "Palak Paratha with Curd & Boiled Egg (for Vizz and Flatmate-2 only)",
+      "ingredients_hindi": "पालक, गेहूं का आटा, दही, उबला हुआ अंडा, अजवाइन, जीरा, नमक",
+      "ingredients_list_hi": [
+        "पालक",
+        "गेहूं का आटा",
+        "दही",
+        "उबला हुआ अंडा",
+        "अजवाइन",
+        "जीरा",
+        "नमक"
+      ],
+      "ingredients_list_en": [
+        "Spinach",
+        "Wheat Flour",
+        "Curd",
+        "Boiled Egg",
+        "Carom Seeds",
+        "Cumin Seeds",
+        "Salt"
+      ],
+      "prep_notes_hi": "पालक को बारीक काटकर आटे में मिलाएं। इसे नरम आटा बनाएं और पराठे बेलें। मध्यम आंच पर पकाएं और दही के साथ परोसें।",
+      "prep_notes_en": "Finely chop spinach and mix into the dough. Knead into a soft dough and roll out parathas. Cook on medium flame and serve with curd.",
+      "vizz_macros": {
+        "cal": 350,
+        "protein": 12,
+        "fat": 9,
+        "carbs": 55
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=palak%20paratha%20recipe%20recipe"
+    },
+    "lunch": {
+      "dish_hindi": "चना पुलाव और आचार",
+      "dish_english": "Chana Pulao with Pickle",
+      "ingredients_hindi": "बासमती चावल, काले चने, प्याज, टमाटर, अदरक, लहसुन, हरी मिर्च, जीरा, तेजपत्ता, गरम मसाला, नमक",
+      "ingredients_list_hi": [
+        "बासमती चावल",
+        "काले चने",
+        "प्याज",
+        "टमाटर",
+        "अदरक",
+        "लहसुन",
+        "हरी मिर्च",
+        "जीरा",
+        "तेजपत्ता",
+        "गरम मसाला",
+        "नमक"
+      ],
+      "ingredients_list_en": [
+        "Basmati Rice",
+        "Black Chickpeas",
+        "Onion",
+        "Tomato",
+        "Ginger",
+        "Garlic",
+        "Green Chili",
+        "Cumin Seeds",
+        "Bay Leaf",
+        "Garam Masala",
+        "Salt"
+      ],
+      "prep_notes_hi": "चावल पकाते समय चने मिला दें। यह लंच के लिए सही है, इसे गर्म करने में आसानी होगी।",
+      "prep_notes_en": "Add chickpeas while cooking rice. It's perfect for lunch and reheats well.",
+      "vizz_macros": {
+        "cal": 450,
+        "protein": 15,
+        "fat": 8,
+        "carbs": 80
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=chana%20pulao%20recipe%20recipe"
+    },
+    "dinner": {
+      "dish_hindi": "तोफू स्टर फ्राई, चपाती और पपीता सलाद",
+      "dish_english": "Tofu Stir Fry with Chapati & Papaya Salad",
+      "ingredients_hindi": "तोफू, ब्रोकली, बेल मिर्च, सोया सॉस, अदरक, लहसुन, चपाती, पपीता, नींबू, शहद",
+      "ingredients_list_hi": [
+        "तोफू",
+        "ब्रोकली",
+        "बेल मिर्च",
+        "सोया सॉस",
+        "अदरक",
+        "लहसुन",
+        "चपाती",
+        "पपीता",
+        "नींबू",
+        "शहद"
+      ],
+      "ingredients_list_en": [
+        "Tofu",
+        "Broccoli",
+        "Bell Pepper",
+        "Soy Sauce",
+        "Ginger",
+        "Garlic",
+        "Chapati",
+        "Papaya",
+        "Lemon",
+        "Honey"
+      ],
+      "prep_notes_hi": "तोफू और सब्जियों को जल्दी से हिलाकर तला जाए। चपाती के साथ गरमा गरम परोसें।",
+      "prep_notes_en": "Quickly stir fry the tofu and vegetables. Serve hot with chapati.",
+      "vizz_macros": {
+        "cal": 400,
+        "protein": 18,
+        "fat": 10,
+        "carbs": 60
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=tofu%20stir%20fry%20recipe%20recipe"
+    },
+    "vizz_daily_total_from_meals": {
+      "cal": 1200,
+      "protein": 45,
+      "fat": 27,
+      "carbs": 195
+    },
+    "vizz_daily_total_with_shake": {
+      "cal": 1500,
+      "protein": 85,
+      "fat": 32,
+      "carbs": 220
+    },
+    "macro_check": "Protein intake falls short; consider adding a small dal/sprout salad to boost protein."
   }
 ]
