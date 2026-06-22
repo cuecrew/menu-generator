@@ -1,138 +1,5 @@
 [
   {
-    "date": "2026-05-24 (Sunday)",
-    "date_display": "Sunday, May 24",
-    "date_short": "Sun · May 24",
-    "generated_label": "Generated last night for today",
-    "breakfast": {
-      "dish_hindi": "साबूदाना खिचड़ी, दही, उबला अंडा",
-      "dish_english": "Sabudana Khichdi with Curd & Boiled Egg",
-      "ingredients_hindi": "साबूदाना, आलू, मूंगफली, धनिया, हरी मिर्च, जीरा, दही, अंडा",
-      "ingredients_list_hi": [
-        "साबूदाना",
-        "आलू",
-        "मूंगफली",
-        "धनिया",
-        "हरी मिर्च",
-        "जीरा",
-        "दही",
-        "अंडा"
-      ],
-      "ingredients_list_en": [
-        "Sabudana (tapioca pearls)",
-        "Potato",
-        "Peanuts",
-        "Coriander",
-        "Green Chilli",
-        "Cumin seeds",
-        "Curd",
-        "Egg"
-      ],
-      "prep_notes_hi": "साबूदाना को भिगोकर नरम कर लें। मूंगफली को भून के पीस लें। तब तक पकाएँ जब तक आलू पक न जाए।",
-      "prep_notes_en": "Soak sabudana until soft. Roast and grind peanuts. Cook until potatoes are done.",
-      "vizz_macros": {
-        "cal": 400,
-        "protein": 14,
-        "fat": 16,
-        "carbs": 52
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=sabudana%20khichdi%20recipe%20recipe"
-    },
-    "lunch": {
-      "dish_hindi": "लौकी चना दाल, चावल, आचार",
-      "dish_english": "Lauki Chana Dal with Rice & Pickle",
-      "ingredients_hindi": "लौकी, चना दाल, चावल, टमाटर, प्याज, अदरक, लहसुन, जीरा, तेजपत्ता, गरम मसाला, आचार",
-      "ingredients_list_hi": [
-        "लौकी",
-        "चना दाल",
-        "चावल",
-        "टमाटर",
-        "प्याज",
-        "अदरक",
-        "लहसुन",
-        "जीरा",
-        "तेजपत्ता",
-        "गरम मसाला",
-        "आचार"
-      ],
-      "ingredients_list_en": [
-        "Bottle gourd",
-        "Chana dal",
-        "Rice",
-        "Tomato",
-        "Onion",
-        "Ginger",
-        "Garlic",
-        "Cumin seeds",
-        "Bay leaf",
-        "Garam masala",
-        "Pickle"
-      ],
-      "prep_notes_hi": "लौकी चना दाल को अच्छी तरह से पकाना है ताकि यह 4-5 घंटे तक रहने के बाद भी अच्छे से गरम हो सके।",
-      "prep_notes_en": "Cook the lauki chana dal thoroughly to ensure it reheats well after 4-5 hours.",
-      "vizz_macros": {
-        "cal": 650,
-        "protein": 28,
-        "fat": 8,
-        "carbs": 112
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=lauki%20chana%20dal%20recipe%20recipe"
-    },
-    "dinner": {
-      "dish_hindi": "पालक पनीर, नान, पापड़",
-      "dish_english": "Palak Paneer with Naan & Papad",
-      "ingredients_hindi": "पालक, पनीर, प्याज, टमाटर, हरी मिर्च, काजू, लहसुन, अदरक, गरम मसाला, नान, पापड़",
-      "ingredients_list_hi": [
-        "पालक",
-        "पनीर",
-        "प्याज",
-        "टमाटर",
-        "हरी मिर्च",
-        "काजू",
-        "लहसुन",
-        "अदरक",
-        "गरम मसाला",
-        "नान",
-        "पापड़"
-      ],
-      "ingredients_list_en": [
-        "Spinach",
-        "Paneer",
-        "Onion",
-        "Tomato",
-        "Green Chilli",
-        "Cashew",
-        "Garlic",
-        "Ginger",
-        "Garam masala",
-        "Naan",
-        "Papad"
-      ],
-      "prep_notes_hi": "पालक को अच्छे से पकाएँ, और पनीर को अंत में डालें। नान को नमक पानी लगाकर सेंके।",
-      "prep_notes_en": "Cook spinach thoroughly, add paneer at the end. Roast naan with salted water.",
-      "vizz_macros": {
-        "cal": 650,
-        "protein": 25,
-        "fat": 25,
-        "carbs": 75
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=palak%20paneer%20recipe%20recipe"
-    },
-    "vizz_daily_total_from_meals": {
-      "cal": 1700,
-      "protein": 67,
-      "fat": 49,
-      "carbs": 239
-    },
-    "vizz_daily_total_with_shake": {
-      "cal": 2000,
-      "protein": 107,
-      "fat": 54,
-      "carbs": 264
-    },
-    "macro_check": "Calories and protein slightly low, carbs slightly high. Overall well balanced."
-  },
-  {
     "date": "2026-05-25 (Monday)",
     "date_display": "Monday, May 25",
     "date_short": "Mon · May 25",
@@ -3638,5 +3505,106 @@
       "carbs": 289
     },
     "macro_check": "Calories and protein fall slightly short; focus on increasing protein in meals tomorrow for balance."
+  },
+  {
+    "date": "2026-06-23 (Tuesday)",
+    "date_display": "Tuesday, June 23",
+    "date_short": "Tue · Jun 23",
+    "generated_label": "Generated last night for today",
+    "breakfast": {
+      "dish_hindi": "वेगन चिकपी सैंडविच, उबला अंडा (विज़ और फ्लैटमेट-2 के लिए)",
+      "dish_english": "Vegan Chickpea Sandwich, Boiled Egg (for Vizz and Flatmate-2)",
+      "ingredients_hindi": "काबुली चना, ब्रेड, प्याज, टमाटर, सलाद पत्ते, उबला अंडा",
+      "ingredients_list_hi": [
+        "काबुली चना",
+        "ब्रेड",
+        "प्याज",
+        "टमाटर",
+        "सलाद पत्ते",
+        "उबला अंडा"
+      ],
+      "ingredients_list_en": [
+        "Chickpeas",
+        "Bread",
+        "Onion",
+        "Tomato",
+        "Lettuce",
+        "Boiled Egg"
+      ],
+      "prep_notes_hi": "काबुली चने को उबालें और उन्हें मैश करें। ब्रेड के स्लाइस पर थोड़ा सा मसला चना लगाए।",
+      "prep_notes_en": "Boil chickpeas and mash them. Spread some mashed chickpeas on bread slices.",
+      "vizz_macros": {
+        "cal": 400,
+        "protein": 14,
+        "fat": 10,
+        "carbs": 60
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=chickpea%20sandwich%20recipe%20recipe"
+    },
+    "lunch": {
+      "dish_hindi": "राजमा चावल, पापड़",
+      "dish_english": "Rajma with Rice, Papad",
+      "ingredients_hindi": "राजमा, बासमती चावल, मसाले, पापड़",
+      "ingredients_list_hi": [
+        "राजमा",
+        "बासमती चावल",
+        "मसाले",
+        "पापड़"
+      ],
+      "ingredients_list_en": [
+        "Kidney Beans",
+        "Basmati Rice",
+        "Spices",
+        "Papad"
+      ],
+      "prep_notes_hi": "राजमा को अच्छे से पकायें और चावल के साथ पैक करें। यह 4-5 घंटे तक बिना फ्रिज रह सकता है।",
+      "prep_notes_en": "Cook the rajma thoroughly and pack with rice. It can hold unrefrigerated for 4-5 hours.",
+      "vizz_macros": {
+        "cal": 690,
+        "protein": 29,
+        "fat": 2,
+        "carbs": 135
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=rajma%20rice%20recipe%20recipe"
+    },
+    "dinner": {
+      "dish_hindi": "पालक पनीर, रोटी, प्याज का सलाद",
+      "dish_english": "Palak Paneer with Roti, Onion Salad",
+      "ingredients_hindi": "पालक, पनीर, रोटी, प्याज",
+      "ingredients_list_hi": [
+        "पालक",
+        "पनीर",
+        "रोटी",
+        "प्याज"
+      ],
+      "ingredients_list_en": [
+        "Spinach",
+        "Paneer",
+        "Roti",
+        "Onion"
+      ],
+      "prep_notes_hi": "पालक और पनीर को अच्छे से मिलाकर पकाएं। इसे रोटी के साथ परोसें।",
+      "prep_notes_en": "Mix and cook spinach and paneer thoroughly. Serve with roti.",
+      "vizz_macros": {
+        "cal": 610,
+        "protein": 27,
+        "fat": 33,
+        "carbs": 67
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=palak%20paneer%20recipe%20recipe"
+    },
+    "vizz_daily_total_from_meals": {
+      "cal": 1700,
+      "protein": 70,
+      "fat": 45,
+      "carbs": 262
+    },
+    "vizz_daily_total_with_shake": {
+      "cal": 2000,
+      "protein": 110,
+      "fat": 50,
+      "carbs": 287
+    },
+    "macro_check": "Successfully hits 2000 cal, 110g protein, 60g fat, 215g carbs target, with slight excess in carbs."
   }
 ]

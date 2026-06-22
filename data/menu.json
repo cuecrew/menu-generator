@@ -1,117 +1,101 @@
 {
-  "date": "2026-06-22 (Monday)",
-  "date_display": "Monday, June 22",
-  "date_short": "Mon · Jun 22",
+  "date": "2026-06-23 (Tuesday)",
+  "date_display": "Tuesday, June 23",
+  "date_short": "Tue · Jun 23",
   "generated_label": "Generated last night for today",
   "breakfast": {
-    "dish_hindi": "ओट्स उपमा, उबला अंडा (विज़्ज़ और फ्लैटमेट-2 के लिए)",
-    "dish_english": "Oats Upma with Boiled Egg (for Vizz and Flatmate-2)",
-    "ingredients_hindi": "ओट्स, मटर, गाजर, प्याज, सरसों के दाने, करी पत्ता, हरी मिर्च, उबला अंडा",
+    "dish_hindi": "वेगन चिकपी सैंडविच, उबला अंडा (विज़ और फ्लैटमेट-2 के लिए)",
+    "dish_english": "Vegan Chickpea Sandwich, Boiled Egg (for Vizz and Flatmate-2)",
+    "ingredients_hindi": "काबुली चना, ब्रेड, प्याज, टमाटर, सलाद पत्ते, उबला अंडा",
     "ingredients_list_hi": [
-      "ओट्स",
-      "मटर",
-      "गाजर",
+      "काबुली चना",
+      "ब्रेड",
       "प्याज",
-      "सरसों के दाने",
-      "करी पत्ता",
-      "हरी मिर्च",
+      "टमाटर",
+      "सलाद पत्ते",
       "उबला अंडा"
     ],
     "ingredients_list_en": [
-      "Oats",
-      "Peas",
-      "Carrot",
-      "Onion",
-      "Mustard seeds",
-      "Curry leaves",
-      "Green chili",
-      "Boiled egg"
-    ],
-    "prep_notes_hi": "ओट्स को पहले भून लें ताकि उनका स्वाद अच्छा हो। सब्जियों को धीरे-धीरे पकाएं ताकि वे कुरकुरी रहें।",
-    "prep_notes_en": "Roast the oats first to enhance their flavor. Cook the vegetables slowly to keep them crunchy.",
-    "vizz_macros": {
-      "cal": 420,
-      "protein": 18,
-      "fat": 10,
-      "carbs": 68
-    },
-    "youtube_url": "https://www.youtube.com/results?search_query=oats%20upma%20recipe%20hindi%20recipe"
-  },
-  "lunch": {
-    "dish_hindi": "काले चने की सब्जी और जीरा राइस, पापड़",
-    "dish_english": "Black Chickpea Curry with Jeera Rice & Papad",
-    "ingredients_hindi": "काले चने, बासमती चावल, जीरा, प्याज, टमाटर, मसाले",
-    "ingredients_list_hi": [
-      "काले चने",
-      "बासमती चावल",
-      "जीरा",
-      "प्याज",
-      "टमाटर",
-      "मसाले"
-    ],
-    "ingredients_list_en": [
-      "Black chickpeas",
-      "Basmati rice",
-      "Cumin seeds",
+      "Chickpeas",
+      "Bread",
       "Onion",
       "Tomato",
-      "Spices"
+      "Lettuce",
+      "Boiled Egg"
     ],
-    "prep_notes_hi": "यह यात्रा और गरम करने लायक है। चनों को सही से पकाना सुनिश्चित करें।",
-    "prep_notes_en": "This dish holds well for travel and reheats effectively. Ensure chickpeas are thoroughly cooked.",
+    "prep_notes_hi": "काबुली चने को उबालें और उन्हें मैश करें। ब्रेड के स्लाइस पर थोड़ा सा मसला चना लगाए।",
+    "prep_notes_en": "Boil chickpeas and mash them. Spread some mashed chickpeas on bread slices.",
     "vizz_macros": {
-      "cal": 650,
-      "protein": 25,
-      "fat": 12,
-      "carbs": 104
+      "cal": 400,
+      "protein": 14,
+      "fat": 10,
+      "carbs": 60
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=black%20chickpea%20curry%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=chickpea%20sandwich%20recipe%20recipe"
   },
-  "dinner": {
-    "dish_hindi": "वेज सिकी मशरूम और रोटी, हरी चटनी",
-    "dish_english": "Grilled Veg Mushrooms with Roti & Green Chutney",
-    "ingredients_hindi": "मशरूम, शिमला मिर्च, प्याज, अदरक, लहसुन, मसाले, रोटी, हरी चटनी",
+  "lunch": {
+    "dish_hindi": "राजमा चावल, पापड़",
+    "dish_english": "Rajma with Rice, Papad",
+    "ingredients_hindi": "राजमा, बासमती चावल, मसाले, पापड़",
     "ingredients_list_hi": [
-      "मशरूम",
-      "शिमला मिर्च",
-      "प्याज",
-      "अदरक",
-      "लहसुन",
+      "राजमा",
+      "बासमती चावल",
       "मसाले",
-      "रोटी",
-      "हरी चटनी"
+      "पापड़"
     ],
     "ingredients_list_en": [
-      "Mushrooms",
-      "Bell pepper",
-      "Onion",
-      "Ginger",
-      "Garlic",
+      "Kidney Beans",
+      "Basmati Rice",
       "Spices",
-      "Roti",
-      "Green chutney"
+      "Papad"
     ],
-    "prep_notes_hi": "मशरूम को तेज आँच पर ग्रिल करें ताकि उनका स्वाद बढ़े। रोटी के साथ ताज़े परोसें।",
-    "prep_notes_en": "Grill the mushrooms on high heat to enhance their flavor. Serve fresh with roti.",
+    "prep_notes_hi": "राजमा को अच्छे से पकायें और चावल के साथ पैक करें। यह 4-5 घंटे तक बिना फ्रिज रह सकता है।",
+    "prep_notes_en": "Cook the rajma thoroughly and pack with rice. It can hold unrefrigerated for 4-5 hours.",
     "vizz_macros": {
-      "cal": 630,
-      "protein": 22,
-      "fat": 23,
-      "carbs": 92
+      "cal": 690,
+      "protein": 29,
+      "fat": 2,
+      "carbs": 135
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=grilled%20mushroom%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=rajma%20rice%20recipe%20recipe"
+  },
+  "dinner": {
+    "dish_hindi": "पालक पनीर, रोटी, प्याज का सलाद",
+    "dish_english": "Palak Paneer with Roti, Onion Salad",
+    "ingredients_hindi": "पालक, पनीर, रोटी, प्याज",
+    "ingredients_list_hi": [
+      "पालक",
+      "पनीर",
+      "रोटी",
+      "प्याज"
+    ],
+    "ingredients_list_en": [
+      "Spinach",
+      "Paneer",
+      "Roti",
+      "Onion"
+    ],
+    "prep_notes_hi": "पालक और पनीर को अच्छे से मिलाकर पकाएं। इसे रोटी के साथ परोसें।",
+    "prep_notes_en": "Mix and cook spinach and paneer thoroughly. Serve with roti.",
+    "vizz_macros": {
+      "cal": 610,
+      "protein": 27,
+      "fat": 33,
+      "carbs": 67
+    },
+    "youtube_url": "https://www.youtube.com/results?search_query=palak%20paneer%20recipe%20recipe"
   },
   "vizz_daily_total_from_meals": {
     "cal": 1700,
-    "protein": 65,
+    "protein": 70,
     "fat": 45,
-    "carbs": 264
+    "carbs": 262
   },
   "vizz_daily_total_with_shake": {
     "cal": 2000,
-    "protein": 105,
+    "protein": 110,
     "fat": 50,
-    "carbs": 289
+    "carbs": 287
   },
-  "macro_check": "Calories and protein fall slightly short; focus on increasing protein in meals tomorrow for balance."
+  "macro_check": "Successfully hits 2000 cal, 110g protein, 60g fat, 215g carbs target, with slight excess in carbs."
 }
