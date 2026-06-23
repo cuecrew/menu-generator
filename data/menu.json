@@ -1,101 +1,103 @@
 {
-  "date": "2026-06-23 (Tuesday)",
-  "date_display": "Tuesday, June 23",
-  "date_short": "Tue · Jun 23",
+  "date": "2026-06-24 (Wednesday)",
+  "date_display": "Wednesday, June 24",
+  "date_short": "Wed · Jun 24",
   "generated_label": "Generated last night for today",
   "breakfast": {
-    "dish_hindi": "वेगन चिकपी सैंडविच, उबला अंडा (विज़ और फ्लैटमेट-2 के लिए)",
-    "dish_english": "Vegan Chickpea Sandwich, Boiled Egg (for Vizz and Flatmate-2)",
-    "ingredients_hindi": "काबुली चना, ब्रेड, प्याज, टमाटर, सलाद पत्ते, उबला अंडा",
+    "dish_hindi": "दही पराठा और उबला अंडा (केवल Vizz और Flatmate-2 के लिए)",
+    "dish_english": "Curd Paratha & Boiled Egg (for Vizz and Flatmate-2 only)",
+    "ingredients_hindi": "गेहूं का आटा, दही, नमक, उबला अंडा",
     "ingredients_list_hi": [
-      "काबुली चना",
-      "ब्रेड",
-      "प्याज",
-      "टमाटर",
-      "सलाद पत्ते",
+      "गेहूं का आटा",
+      "दही",
+      "नमक",
       "उबला अंडा"
     ],
     "ingredients_list_en": [
-      "Chickpeas",
-      "Bread",
-      "Onion",
-      "Tomato",
-      "Lettuce",
+      "Wheat Flour",
+      "Curd",
+      "Salt",
       "Boiled Egg"
     ],
-    "prep_notes_hi": "काबुली चने को उबालें और उन्हें मैश करें। ब्रेड के स्लाइस पर थोड़ा सा मसला चना लगाए।",
-    "prep_notes_en": "Boil chickpeas and mash them. Spread some mashed chickpeas on bread slices.",
+    "prep_notes_hi": "दही और आटा अच्छी तरह मिलाएं। नरम और गोलेदार पराठा बनाएं।",
+    "prep_notes_en": "Mix curd and flour well. Make soft and flaky paratha.",
     "vizz_macros": {
-      "cal": 400,
-      "protein": 14,
-      "fat": 10,
-      "carbs": 60
+      "cal": 350,
+      "protein": 12,
+      "fat": 11,
+      "carbs": 40
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=chickpea%20sandwich%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=curd%20paratha%20recipe%20recipe"
   },
   "lunch": {
-    "dish_hindi": "राजमा चावल, पापड़",
-    "dish_english": "Rajma with Rice, Papad",
-    "ingredients_hindi": "राजमा, बासमती चावल, मसाले, पापड़",
+    "dish_hindi": "तुवर दाल के साथ भात, अचार",
+    "dish_english": "Toor Dal with Rice, Pickle",
+    "ingredients_hindi": "तुवर दाल, चावल, अचार, जीरा, हल्दी",
     "ingredients_list_hi": [
-      "राजमा",
-      "बासमती चावल",
-      "मसाले",
-      "पापड़"
+      "तुवर दाल",
+      "चावल",
+      "अचार",
+      "जीरा",
+      "हल्दी"
     ],
     "ingredients_list_en": [
-      "Kidney Beans",
-      "Basmati Rice",
-      "Spices",
-      "Papad"
+      "Toor Dal",
+      "Rice",
+      "Pickle",
+      "Cumin Seeds",
+      "Turmeric"
     ],
-    "prep_notes_hi": "राजमा को अच्छे से पकायें और चावल के साथ पैक करें। यह 4-5 घंटे तक बिना फ्रिज रह सकता है।",
-    "prep_notes_en": "Cook the rajma thoroughly and pack with rice. It can hold unrefrigerated for 4-5 hours.",
+    "prep_notes_hi": "यह अच्छे से यात्रा कर सकता है और माइक्रोवेव में गरम करें।",
+    "prep_notes_en": "This travels well and can be reheated in a microwave.",
     "vizz_macros": {
       "cal": 690,
-      "protein": 29,
-      "fat": 2,
-      "carbs": 135
+      "protein": 25,
+      "fat": 3,
+      "carbs": 133
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=rajma%20rice%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=toor%20dal%20recipe%20recipe"
   },
   "dinner": {
-    "dish_hindi": "पालक पनीर, रोटी, प्याज का सलाद",
-    "dish_english": "Palak Paneer with Roti, Onion Salad",
-    "ingredients_hindi": "पालक, पनीर, रोटी, प्याज",
+    "dish_hindi": "मिश्रित सब्जी के साथ रसियन सलाद और तंदूरी रोटी",
+    "dish_english": "Mixed Veg Russian Salad with Tandoori Roti",
+    "ingredients_hindi": "शिमला मिर्च, गाजर, मटर, आलू, मेयोनीज़, तंदूरी रोटी",
     "ingredients_list_hi": [
-      "पालक",
-      "पनीर",
-      "रोटी",
-      "प्याज"
+      "शिमला मिर्च",
+      "गाजर",
+      "मटर",
+      "आलू",
+      "मेयोनीज़",
+      "तंदूरी रोटी"
     ],
     "ingredients_list_en": [
-      "Spinach",
-      "Paneer",
-      "Roti",
-      "Onion"
+      "Capsicum",
+      "Carrot",
+      "Peas",
+      "Potato",
+      "Mayonnaise",
+      "Tandoori Roti"
     ],
-    "prep_notes_hi": "पालक और पनीर को अच्छे से मिलाकर पकाएं। इसे रोटी के साथ परोसें।",
-    "prep_notes_en": "Mix and cook spinach and paneer thoroughly. Serve with roti.",
+    "prep_notes_hi": "सब्जियों को उबालें और ठंडा करें; मेयोनीज़ में मिलाएं। तंदूरी रोटी गरम परोसें।",
+    "prep_notes_en": "Boil and cool veggies; mix with mayonnaise. Serve tandoori roti hot.",
     "vizz_macros": {
-      "cal": 610,
-      "protein": 27,
-      "fat": 33,
-      "carbs": 67
+      "cal": 650,
+      "protein": 12,
+      "fat": 15,
+      "carbs": 107
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=palak%20paneer%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=russian%20salad%20recipe%20recipe"
   },
   "vizz_daily_total_from_meals": {
-    "cal": 1700,
-    "protein": 70,
-    "fat": 45,
-    "carbs": 262
+    "cal": 1690,
+    "protein": 49,
+    "fat": 29,
+    "carbs": 280
   },
   "vizz_daily_total_with_shake": {
-    "cal": 2000,
-    "protein": 110,
-    "fat": 50,
-    "carbs": 287
+    "cal": 1990,
+    "protein": 89,
+    "fat": 34,
+    "carbs": 305
   },
-  "macro_check": "Successfully hits 2000 cal, 110g protein, 60g fat, 215g carbs target, with slight excess in carbs."
+  "macro_check": "Falling short on protein by 21g and excess carbs by 90g. Consider adding lentils or paneer."
 }
