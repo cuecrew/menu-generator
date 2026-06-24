@@ -1,103 +1,115 @@
 {
-  "date": "2026-06-24 (Wednesday)",
-  "date_display": "Wednesday, June 24",
-  "date_short": "Wed · Jun 24",
+  "date": "2026-06-25 (Thursday)",
+  "date_display": "Thursday, June 25",
+  "date_short": "Thu · Jun 25",
   "generated_label": "Generated last night for today",
   "breakfast": {
-    "dish_hindi": "दही पराठा और उबला अंडा (केवल Vizz और Flatmate-2 के लिए)",
-    "dish_english": "Curd Paratha & Boiled Egg (for Vizz and Flatmate-2 only)",
-    "ingredients_hindi": "गेहूं का आटा, दही, नमक, उबला अंडा",
+    "dish_hindi": "दही इडली और उबला अंडा (विज्ज और फ्लैटमेट-2 के लिए)",
+    "dish_english": "Curd Idli with Boiled Egg (for Vizz and Flatmate-2)",
+    "ingredients_hindi": "इडली बैटर, दही, नमक, करी पत्ते, सरसों के बीज, तेल, उबला अंडा",
     "ingredients_list_hi": [
-      "गेहूं का आटा",
+      "इडली बैटर",
       "दही",
       "नमक",
+      "करी पत्ते",
+      "सरसों के बीज",
+      "तेल",
       "उबला अंडा"
     ],
     "ingredients_list_en": [
-      "Wheat Flour",
+      "Idli Batter",
       "Curd",
       "Salt",
+      "Curry Leaves",
+      "Mustard Seeds",
+      "Oil",
       "Boiled Egg"
     ],
-    "prep_notes_hi": "दही और आटा अच्छी तरह मिलाएं। नरम और गोलेदार पराठा बनाएं।",
-    "prep_notes_en": "Mix curd and flour well. Make soft and flaky paratha.",
+    "prep_notes_hi": "इडली को मुलायम बने रहने के लिए दही में डालें। तड़का के लिए सरसों के बीज और करी पत्ते का उपयोग करें।",
+    "prep_notes_en": "Soak idlis in curd to keep them soft. Use mustard seeds and curry leaves for tempering.",
     "vizz_macros": {
-      "cal": 350,
-      "protein": 12,
-      "fat": 11,
-      "carbs": 40
+      "cal": 400,
+      "protein": 10,
+      "fat": 15,
+      "carbs": 55
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=curd%20paratha%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=curd%20idli%20recipe%20recipe"
   },
   "lunch": {
-    "dish_hindi": "तुवर दाल के साथ भात, अचार",
-    "dish_english": "Toor Dal with Rice, Pickle",
-    "ingredients_hindi": "तुवर दाल, चावल, अचार, जीरा, हल्दी",
+    "dish_hindi": "अवियल के साथ नारियल चावल और पापड़",
+    "dish_english": "Coconut Rice with Avial & Papad",
+    "ingredients_hindi": "चावल, नारियल का दूध, सब्जियाँ, नारियल, हरी मिर्च, जीरा, पापड़",
     "ingredients_list_hi": [
-      "तुवर दाल",
       "चावल",
-      "अचार",
+      "नारियल का दूध",
+      "सब्जियाँ",
+      "नारियल",
+      "हरी मिर्च",
       "जीरा",
-      "हल्दी"
+      "पापड़"
     ],
     "ingredients_list_en": [
-      "Toor Dal",
       "Rice",
-      "Pickle",
+      "Coconut Milk",
+      "Vegetables",
+      "Coconut",
+      "Green Chili",
       "Cumin Seeds",
-      "Turmeric"
+      "Papad"
     ],
-    "prep_notes_hi": "यह अच्छे से यात्रा कर सकता है और माइक्रोवेव में गरम करें।",
-    "prep_notes_en": "This travels well and can be reheated in a microwave.",
+    "prep_notes_hi": "यह खाने का आइटम यात्रा के लिए अच्छा है और इसे माइक्रोवेव में आसानी से गर्म किया जा सकता है।",
+    "prep_notes_en": "This dish travels well and can be easily reheated in the microwave.",
     "vizz_macros": {
-      "cal": 690,
-      "protein": 25,
-      "fat": 3,
-      "carbs": 133
+      "cal": 600,
+      "protein": 12,
+      "fat": 22,
+      "carbs": 88
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=toor%20dal%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=coconut%20rice%20avial%20recipe%20recipe"
   },
   "dinner": {
-    "dish_hindi": "मिश्रित सब्जी के साथ रसियन सलाद और तंदूरी रोटी",
-    "dish_english": "Mixed Veg Russian Salad with Tandoori Roti",
-    "ingredients_hindi": "शिमला मिर्च, गाजर, मटर, आलू, मेयोनीज़, तंदूरी रोटी",
+    "dish_hindi": "काबुली चने का सलाद, आलू के पराठे और टमाटर की चटनी",
+    "dish_english": "Chickpea Salad, Aloo Paratha with Tomato Chutney",
+    "ingredients_hindi": "काबुली चना, आलू, आटा, टमाटर, प्याज, हरा धनिया, मसाले",
     "ingredients_list_hi": [
-      "शिमला मिर्च",
-      "गाजर",
-      "मटर",
+      "काबुली चना",
       "आलू",
-      "मेयोनीज़",
-      "तंदूरी रोटी"
+      "आटा",
+      "टमाटर",
+      "प्याज",
+      "हरा धनिया",
+      "मसाले"
     ],
     "ingredients_list_en": [
-      "Capsicum",
-      "Carrot",
-      "Peas",
+      "Chickpeas",
       "Potato",
-      "Mayonnaise",
-      "Tandoori Roti"
+      "Flour",
+      "Tomato",
+      "Onion",
+      "Cilantro",
+      "Spices"
     ],
-    "prep_notes_hi": "सब्जियों को उबालें और ठंडा करें; मेयोनीज़ में मिलाएं। तंदूरी रोटी गरम परोसें।",
-    "prep_notes_en": "Boil and cool veggies; mix with mayonnaise. Serve tandoori roti hot.",
+    "prep_notes_hi": "आलू पराठे को आलू के मसालेदार मिश्रण से भरें और तेल में कुरकुरा गरम करें।",
+    "prep_notes_en": "Stuff the paratha with a spicy potato mixture and cook until crispy on a hot skillet.",
     "vizz_macros": {
-      "cal": 650,
-      "protein": 12,
-      "fat": 15,
-      "carbs": 107
+      "cal": 700,
+      "protein": 20,
+      "fat": 25,
+      "carbs": 100
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=russian%20salad%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=chickpea%20salad%20aloo%20paratha%20recipe"
   },
   "vizz_daily_total_from_meals": {
-    "cal": 1690,
-    "protein": 49,
-    "fat": 29,
-    "carbs": 280
+    "cal": 1700,
+    "protein": 42,
+    "fat": 62,
+    "carbs": 243
   },
   "vizz_daily_total_with_shake": {
-    "cal": 1990,
-    "protein": 89,
-    "fat": 34,
-    "carbs": 305
+    "cal": 2000,
+    "protein": 82,
+    "fat": 67,
+    "carbs": 268
   },
-  "macro_check": "Falling short on protein by 21g and excess carbs by 90g. Consider adding lentils or paneer."
+  "macro_check": "Protein a bit low (~28g below target); fat and carbs slightly over. Consider adding another protein source."
 }
