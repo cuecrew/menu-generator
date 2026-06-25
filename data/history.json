@@ -1,132 +1,5 @@
 [
   {
-    "date": "2026-05-27 (Wednesday)",
-    "date_display": "Wednesday, May 27",
-    "date_short": "Wed · May 27",
-    "generated_label": "Generated last night for today",
-    "breakfast": {
-      "dish_hindi": "मूंग दाल चिल्ला, धनिया चटनी और उबला अंडा",
-      "dish_english": "Moong Dal Chilla with Coriander Chutney and Boiled Egg",
-      "ingredients_hindi": "मूंग दाल, हरी मिर्च, अदरक, धनिया, नमक, तेल, उबला अंडा",
-      "ingredients_list_hi": [
-        "मूंग दाल",
-        "हरी मिर्च",
-        "अदरक",
-        "धनिया",
-        "नमक",
-        "तेल",
-        "उबला अंडा"
-      ],
-      "ingredients_list_en": [
-        "Moong Dal",
-        "Green Chili",
-        "Ginger",
-        "Coriander",
-        "Salt",
-        "Oil",
-        "Boiled Egg"
-      ],
-      "prep_notes_hi": "दाल को अच्छी तरह पीस लें और एक गाढ़ा घोल तैयार करें। अवन में चिकना करके पकाएं। अंडा तैयार रहने तक चिल्ले को पलटते रहें।",
-      "prep_notes_en": "Grind the dal to a smooth paste and make a thick batter. Cook on a greased pan. Keep flipping the chillas until the egg is ready.",
-      "vizz_macros": {
-        "cal": 350,
-        "protein": 18,
-        "fat": 8,
-        "carbs": 45
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=moong%20dal%20chilla%20recipe%20recipe"
-    },
-    "lunch": {
-      "dish_hindi": "राजमा चावल और प्याज का सलाद",
-      "dish_english": "Rajma with Rice and Onion Salad",
-      "ingredients_hindi": "राजमा, चावल, प्याज, टमाटर, अदरक लहसुन पेस्ट, गरम मसाला, जीरा, तेल, नमक",
-      "ingredients_list_hi": [
-        "राजमा",
-        "चावल",
-        "प्याज",
-        "टमाटर",
-        "अदरक लहसुन पेस्ट",
-        "गरम मसाला",
-        "जीरा",
-        "तेल",
-        "नमक"
-      ],
-      "ingredients_list_en": [
-        "Kidney Beans",
-        "Rice",
-        "Onion",
-        "Tomato",
-        "Ginger Garlic Paste",
-        "Garam Masala",
-        "Cumin",
-        "Oil",
-        "Salt"
-      ],
-      "prep_notes_hi": "राजमा को अच्छी तरह से पकाएँ और चावल के साथ अच्छे से मिलाएँ। पैक करना आसान और 4-5 घंटे बाद दोबारा गरम करना आसान।",
-      "prep_notes_en": "Cook the kidney beans thoroughly and mix well with rice. Easy to pack and reheat after 4-5 hours.",
-      "vizz_macros": {
-        "cal": 700,
-        "protein": 24,
-        "fat": 10,
-        "carbs": 125
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=rajma%20chawal%20recipe%20hindi%20recipe"
-    },
-    "dinner": {
-      "dish_hindi": "मिक्स वेज स्टर-फ्राय, चपाती और पापड़",
-      "dish_english": "Mixed Vegetable Stir-Fry with Chapati and Papad",
-      "ingredients_hindi": "गोभी, गाजर, शिमला मिर्च, प्याज, अदरक, लहसुन, सोया सॉस, मिर्च पाउडर, नमक, चपाती, पापड़",
-      "ingredients_list_hi": [
-        "गोभी",
-        "गाजर",
-        "शिमला मिर्च",
-        "प्याज",
-        "अदरक",
-        "लहसुन",
-        "सोया सॉस",
-        "मिर्च पाउडर",
-        "नमक",
-        "चपाती",
-        "पापड़"
-      ],
-      "ingredients_list_en": [
-        "Cauliflower",
-        "Carrot",
-        "Capsicum",
-        "Onion",
-        "Ginger",
-        "Garlic",
-        "Soy Sauce",
-        "Chili Powder",
-        "Salt",
-        "Chapati",
-        "Papad"
-      ],
-      "prep_notes_hi": "सब्जियों को ताज़ा और कुरकुरा बनाए रखें, उन्हें हल्के से हिलाएँ। चपाती के साथ परोसें और पापड़ को गरम करें।",
-      "prep_notes_en": "Keep the vegetables fresh and crunchy by lightly stirring them. Serve with chapati and heat the papad.",
-      "vizz_macros": {
-        "cal": 650,
-        "protein": 18,
-        "fat": 12,
-        "carbs": 90
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=veg%20stir%20fry%20recipe%20hindi%20recipe"
-    },
-    "vizz_daily_total_from_meals": {
-      "cal": 1700,
-      "protein": 60,
-      "fat": 30,
-      "carbs": 260
-    },
-    "vizz_daily_total_with_shake": {
-      "cal": 2000,
-      "protein": 100,
-      "fat": 35,
-      "carbs": 285
-    },
-    "macro_check": "Calories and carbs slightly exceed; protein falls short of 110g. Consider increasing protein variety throughout the day."
-  },
-  {
     "date": "2026-05-28 (Thursday)",
     "date_display": "Thursday, May 28",
     "date_short": "Thu · May 28",
@@ -3580,5 +3453,138 @@
       "carbs": 268
     },
     "macro_check": "Protein a bit low (~28g below target); fat and carbs slightly over. Consider adding another protein source."
+  },
+  {
+    "date": "2026-06-26 (Friday)",
+    "date_display": "Friday, June 26",
+    "date_short": "Fri · Jun 26",
+    "generated_label": "Generated last night for today",
+    "breakfast": {
+      "dish_hindi": "उपमा, उबला अंडा (केवल Vizz और Flatmate-2 के लिए)",
+      "dish_english": "Upma, Boiled Egg (for Vizz and Flatmate-2 only)",
+      "ingredients_hindi": "सूजी, सरसों के बीज, कड़ी पत्ते, मटर, गाजर, हरी मिर्च, प्याज, नमक, तेल, उबला अंडा",
+      "ingredients_list_hi": [
+        "सूजी",
+        "सरसों के बीज",
+        "कड़ी पत्ते",
+        "मटर",
+        "गाजर",
+        "हरी मिर्च",
+        "प्याज",
+        "नमक",
+        "तेल",
+        "उबला अंडा"
+      ],
+      "ingredients_list_en": [
+        "Semolina",
+        "Mustard seeds",
+        "Curry leaves",
+        "Peas",
+        "Carrot",
+        "Green chilies",
+        "Onion",
+        "Salt",
+        "Oil",
+        "Boiled egg"
+      ],
+      "prep_notes_hi": "सूजी को भून कर पकाएँ। धनिया पत्ती से सजायें। उबले अंडे को अलग से परोसें।",
+      "prep_notes_en": "Roast semolina before cooking. Garnish with coriander leaves. Serve boiled eggs separately.",
+      "vizz_macros": {
+        "cal": 400,
+        "protein": 12,
+        "fat": 15,
+        "carbs": 55
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=upma%20recipe%20hindi%20recipe"
+    },
+    "lunch": {
+      "dish_hindi": "चने की दाल के साथ ज़ीरा राइस, पापड़",
+      "dish_english": "Chana Dal with Jeera Rice, Papad",
+      "ingredients_hindi": "चने की दाल, चावल, जीरा, प्याज, टमाटर, हल्दी, नमक, तेल, पापड़",
+      "ingredients_list_hi": [
+        "चने की दाल",
+        "चावल",
+        "जीरा",
+        "प्याज",
+        "टमाटर",
+        "हल्दी",
+        "नमक",
+        "तेल",
+        "पापड़"
+      ],
+      "ingredients_list_en": [
+        "Chana dal",
+        "Rice",
+        "Cumin seeds",
+        "Onion",
+        "Tomato",
+        "Turmeric",
+        "Salt",
+        "Oil",
+        "Papad"
+      ],
+      "prep_notes_hi": "चने की दाल को अलग से पकाएँ और फिर चावल बनाएं। यह भोजन यात्रा के लिए अच्छा है और माइक्रोवेव में फिर से गर्म किया जा सकता है।",
+      "prep_notes_en": "Cook chana dal separately and then prepare rice. This meal is travel-friendly and can be reheated in a microwave.",
+      "vizz_macros": {
+        "cal": 600,
+        "protein": 20,
+        "fat": 10,
+        "carbs": 100
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=chana%20dal%20jeera%20rice%20recipe"
+    },
+    "dinner": {
+      "dish_hindi": "पनीर बटर मसाला के साथ पराठा, खीरा-टमाटर का सलाद",
+      "dish_english": "Paneer Butter Masala with Paratha, Cucumber-Tomato Salad",
+      "ingredients_hindi": "पनीर, टमाटर, प्याज, अदरक-लहसुन का पेस्ट, मक्खन, क्रीम, गरम मसाला, नमक, पराठा, खीरा, टमाटर",
+      "ingredients_list_hi": [
+        "पनीर",
+        "टमाटर",
+        "प्याज",
+        "अदरक-लहसुन का पेस्ट",
+        "मक्खन",
+        "क्रीम",
+        "गरम मसाला",
+        "नमक",
+        "पराठा",
+        "खीरा",
+        "टमाटर"
+      ],
+      "ingredients_list_en": [
+        "Paneer",
+        "Tomato",
+        "Onion",
+        "Ginger-garlic paste",
+        "Butter",
+        "Cream",
+        "Garam Masala",
+        "Salt",
+        "Paratha",
+        "Cucumber",
+        "Tomato"
+      ],
+      "prep_notes_hi": "प्याज और टमाटर अच्छे से पकाकर, मसाले डालें और पनीर मिलाएँ। ताज़ा सलाद के साथ परोसें।",
+      "prep_notes_en": "Cook onions and tomatoes well, add spices and mix paneer. Serve with fresh salad.",
+      "vizz_macros": {
+        "cal": 700,
+        "protein": 30,
+        "fat": 20,
+        "carbs": 70
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=paneer%20butter%20masala%20recipe"
+    },
+    "vizz_daily_total_from_meals": {
+      "cal": 1700,
+      "protein": 62,
+      "fat": 45,
+      "carbs": 225
+    },
+    "vizz_daily_total_with_shake": {
+      "cal": 2000,
+      "protein": 102,
+      "fat": 50,
+      "carbs": 250
+    },
+    "macro_check": "Calories and carbohydrates are on target. Protein slightly below target, at 102g. Fat on target."
   }
 ]

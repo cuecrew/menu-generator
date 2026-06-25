@@ -1,115 +1,133 @@
 {
-  "date": "2026-06-25 (Thursday)",
-  "date_display": "Thursday, June 25",
-  "date_short": "Thu · Jun 25",
+  "date": "2026-06-26 (Friday)",
+  "date_display": "Friday, June 26",
+  "date_short": "Fri · Jun 26",
   "generated_label": "Generated last night for today",
   "breakfast": {
-    "dish_hindi": "दही इडली और उबला अंडा (विज्ज और फ्लैटमेट-2 के लिए)",
-    "dish_english": "Curd Idli with Boiled Egg (for Vizz and Flatmate-2)",
-    "ingredients_hindi": "इडली बैटर, दही, नमक, करी पत्ते, सरसों के बीज, तेल, उबला अंडा",
+    "dish_hindi": "उपमा, उबला अंडा (केवल Vizz और Flatmate-2 के लिए)",
+    "dish_english": "Upma, Boiled Egg (for Vizz and Flatmate-2 only)",
+    "ingredients_hindi": "सूजी, सरसों के बीज, कड़ी पत्ते, मटर, गाजर, हरी मिर्च, प्याज, नमक, तेल, उबला अंडा",
     "ingredients_list_hi": [
-      "इडली बैटर",
-      "दही",
-      "नमक",
-      "करी पत्ते",
+      "सूजी",
       "सरसों के बीज",
+      "कड़ी पत्ते",
+      "मटर",
+      "गाजर",
+      "हरी मिर्च",
+      "प्याज",
+      "नमक",
       "तेल",
       "उबला अंडा"
     ],
     "ingredients_list_en": [
-      "Idli Batter",
-      "Curd",
+      "Semolina",
+      "Mustard seeds",
+      "Curry leaves",
+      "Peas",
+      "Carrot",
+      "Green chilies",
+      "Onion",
       "Salt",
-      "Curry Leaves",
-      "Mustard Seeds",
       "Oil",
-      "Boiled Egg"
+      "Boiled egg"
     ],
-    "prep_notes_hi": "इडली को मुलायम बने रहने के लिए दही में डालें। तड़का के लिए सरसों के बीज और करी पत्ते का उपयोग करें।",
-    "prep_notes_en": "Soak idlis in curd to keep them soft. Use mustard seeds and curry leaves for tempering.",
+    "prep_notes_hi": "सूजी को भून कर पकाएँ। धनिया पत्ती से सजायें। उबले अंडे को अलग से परोसें।",
+    "prep_notes_en": "Roast semolina before cooking. Garnish with coriander leaves. Serve boiled eggs separately.",
     "vizz_macros": {
       "cal": 400,
-      "protein": 10,
+      "protein": 12,
       "fat": 15,
       "carbs": 55
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=curd%20idli%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=upma%20recipe%20hindi%20recipe"
   },
   "lunch": {
-    "dish_hindi": "अवियल के साथ नारियल चावल और पापड़",
-    "dish_english": "Coconut Rice with Avial & Papad",
-    "ingredients_hindi": "चावल, नारियल का दूध, सब्जियाँ, नारियल, हरी मिर्च, जीरा, पापड़",
+    "dish_hindi": "चने की दाल के साथ ज़ीरा राइस, पापड़",
+    "dish_english": "Chana Dal with Jeera Rice, Papad",
+    "ingredients_hindi": "चने की दाल, चावल, जीरा, प्याज, टमाटर, हल्दी, नमक, तेल, पापड़",
     "ingredients_list_hi": [
+      "चने की दाल",
       "चावल",
-      "नारियल का दूध",
-      "सब्जियाँ",
-      "नारियल",
-      "हरी मिर्च",
       "जीरा",
+      "प्याज",
+      "टमाटर",
+      "हल्दी",
+      "नमक",
+      "तेल",
       "पापड़"
     ],
     "ingredients_list_en": [
+      "Chana dal",
       "Rice",
-      "Coconut Milk",
-      "Vegetables",
-      "Coconut",
-      "Green Chili",
-      "Cumin Seeds",
+      "Cumin seeds",
+      "Onion",
+      "Tomato",
+      "Turmeric",
+      "Salt",
+      "Oil",
       "Papad"
     ],
-    "prep_notes_hi": "यह खाने का आइटम यात्रा के लिए अच्छा है और इसे माइक्रोवेव में आसानी से गर्म किया जा सकता है।",
-    "prep_notes_en": "This dish travels well and can be easily reheated in the microwave.",
+    "prep_notes_hi": "चने की दाल को अलग से पकाएँ और फिर चावल बनाएं। यह भोजन यात्रा के लिए अच्छा है और माइक्रोवेव में फिर से गर्म किया जा सकता है।",
+    "prep_notes_en": "Cook chana dal separately and then prepare rice. This meal is travel-friendly and can be reheated in a microwave.",
     "vizz_macros": {
       "cal": 600,
-      "protein": 12,
-      "fat": 22,
-      "carbs": 88
-    },
-    "youtube_url": "https://www.youtube.com/results?search_query=coconut%20rice%20avial%20recipe%20recipe"
-  },
-  "dinner": {
-    "dish_hindi": "काबुली चने का सलाद, आलू के पराठे और टमाटर की चटनी",
-    "dish_english": "Chickpea Salad, Aloo Paratha with Tomato Chutney",
-    "ingredients_hindi": "काबुली चना, आलू, आटा, टमाटर, प्याज, हरा धनिया, मसाले",
-    "ingredients_list_hi": [
-      "काबुली चना",
-      "आलू",
-      "आटा",
-      "टमाटर",
-      "प्याज",
-      "हरा धनिया",
-      "मसाले"
-    ],
-    "ingredients_list_en": [
-      "Chickpeas",
-      "Potato",
-      "Flour",
-      "Tomato",
-      "Onion",
-      "Cilantro",
-      "Spices"
-    ],
-    "prep_notes_hi": "आलू पराठे को आलू के मसालेदार मिश्रण से भरें और तेल में कुरकुरा गरम करें।",
-    "prep_notes_en": "Stuff the paratha with a spicy potato mixture and cook until crispy on a hot skillet.",
-    "vizz_macros": {
-      "cal": 700,
       "protein": 20,
-      "fat": 25,
+      "fat": 10,
       "carbs": 100
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=chickpea%20salad%20aloo%20paratha%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=chana%20dal%20jeera%20rice%20recipe"
+  },
+  "dinner": {
+    "dish_hindi": "पनीर बटर मसाला के साथ पराठा, खीरा-टमाटर का सलाद",
+    "dish_english": "Paneer Butter Masala with Paratha, Cucumber-Tomato Salad",
+    "ingredients_hindi": "पनीर, टमाटर, प्याज, अदरक-लहसुन का पेस्ट, मक्खन, क्रीम, गरम मसाला, नमक, पराठा, खीरा, टमाटर",
+    "ingredients_list_hi": [
+      "पनीर",
+      "टमाटर",
+      "प्याज",
+      "अदरक-लहसुन का पेस्ट",
+      "मक्खन",
+      "क्रीम",
+      "गरम मसाला",
+      "नमक",
+      "पराठा",
+      "खीरा",
+      "टमाटर"
+    ],
+    "ingredients_list_en": [
+      "Paneer",
+      "Tomato",
+      "Onion",
+      "Ginger-garlic paste",
+      "Butter",
+      "Cream",
+      "Garam Masala",
+      "Salt",
+      "Paratha",
+      "Cucumber",
+      "Tomato"
+    ],
+    "prep_notes_hi": "प्याज और टमाटर अच्छे से पकाकर, मसाले डालें और पनीर मिलाएँ। ताज़ा सलाद के साथ परोसें।",
+    "prep_notes_en": "Cook onions and tomatoes well, add spices and mix paneer. Serve with fresh salad.",
+    "vizz_macros": {
+      "cal": 700,
+      "protein": 30,
+      "fat": 20,
+      "carbs": 70
+    },
+    "youtube_url": "https://www.youtube.com/results?search_query=paneer%20butter%20masala%20recipe"
   },
   "vizz_daily_total_from_meals": {
     "cal": 1700,
-    "protein": 42,
-    "fat": 62,
-    "carbs": 243
+    "protein": 62,
+    "fat": 45,
+    "carbs": 225
   },
   "vizz_daily_total_with_shake": {
     "cal": 2000,
-    "protein": 82,
-    "fat": 67,
-    "carbs": 268
+    "protein": 102,
+    "fat": 50,
+    "carbs": 250
   },
-  "macro_check": "Protein a bit low (~28g below target); fat and carbs slightly over. Consider adding another protein source."
+  "macro_check": "Calories and carbohydrates are on target. Protein slightly below target, at 102g. Fat on target."
 }
