@@ -1,126 +1,5 @@
 [
   {
-    "date": "2026-05-29 (Friday)",
-    "date_display": "Friday, May 29",
-    "date_short": "Fri · May 29",
-    "generated_label": "Generated last night for today",
-    "breakfast": {
-      "dish_hindi": "औट्स उपमा और उबला अंडा",
-      "dish_english": "Oats Upma with Boiled Egg",
-      "ingredients_hindi": "औट्स, गाजर, मटर, प्याज, हरी मिर्च, करी पत्ता, मूँगफली, सरसों के बीज, उबला अंडा",
-      "ingredients_list_hi": [
-        "औट्स",
-        "गाजर",
-        "मटर",
-        "प्याज",
-        "हरी मिर्च",
-        "करी पत्ता",
-        "मूँगफली",
-        "सरसों के बीज",
-        "उबला अंडा"
-      ],
-      "ingredients_list_en": [
-        "Oats",
-        "Carrot",
-        "Peas",
-        "Onion",
-        "Green Chili",
-        "Curry Leaves",
-        "Peanuts",
-        "Mustard Seeds",
-        "Boiled Egg"
-      ],
-      "prep_notes_hi": "औट्स को थोड़े से तेल में भूनें। सब्जियाँ डालें और मुलायम होने तक पकाएँ। स्वादानुसार मसाला डालें।",
-      "prep_notes_en": "Dry roast the oats in a little oil. Add vegetables and cook until soft. Season with spices to taste.",
-      "vizz_macros": {
-        "cal": 370,
-        "protein": 18,
-        "fat": 12,
-        "carbs": 52
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=oats%20upma%20recipe%20recipe"
-    },
-    "lunch": {
-      "dish_hindi": "पालक वाले चावल और दाल तड़का",
-      "dish_english": "Spinach Rice with Dal Tadka",
-      "ingredients_hindi": "बासमती चावल, पालक, जीरा, टमाटर, दाल, हल्दी, लाल मिर्च पाउडर, घी",
-      "ingredients_list_hi": [
-        "बासमती चावल",
-        "पालक",
-        "जीरा",
-        "टमाटर",
-        "दाल",
-        "हल्दी",
-        "लाल मिर्च पाउडर",
-        "घी"
-      ],
-      "ingredients_list_en": [
-        "Basmati Rice",
-        "Spinach",
-        "Cumin Seeds",
-        "Tomato",
-        "Dal",
-        "Turmeric",
-        "Red Chilli Powder",
-        "Ghee"
-      ],
-      "prep_notes_hi": "पालक वाले चावल और दाल को गर्म, माइक्रोवेव में आसानी से दोबारा गरम किया जा सके। अल्प वसा में पकाएँ।",
-      "prep_notes_en": "Spinach rice and dal should be easily reheatable in a microwave. Cook with minimal oil.",
-      "vizz_macros": {
-        "cal": 700,
-        "protein": 25,
-        "fat": 12,
-        "carbs": 110
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=spinach%20rice%20dal%20tadka%20recipe"
-    },
-    "dinner": {
-      "dish_hindi": "पास्ता सैलेड और पनीर टिक्का",
-      "dish_english": "Pasta Salad with Paneer Tikka",
-      "ingredients_hindi": "पास्ता, शिमला मिर्च, चेरी टमाटर, जैतून का तेल, नींबु का रस, पनीर, हरी चटनी मसाला",
-      "ingredients_list_hi": [
-        "पास्ता",
-        "शिमला मिर्च",
-        "चेरी टमाटर",
-        "जैतून का तेल",
-        "नींबु का रस",
-        "पनीर",
-        "हरी चटनी मसाला"
-      ],
-      "ingredients_list_en": [
-        "Pasta",
-        "Bell Pepper",
-        "Cherry Tomatoes",
-        "Olive Oil",
-        "Lemon Juice",
-        "Paneer",
-        "Green Chutney Masala"
-      ],
-      "prep_notes_hi": "पास्ता को अच्छे से पकाएं लेकिन अधिक न पकाएं। पनीर को मसालों के साथ अच्छी तरह मिलाएं।",
-      "prep_notes_en": "Cook pasta to al dente. Coat paneer well with spices.",
-      "vizz_macros": {
-        "cal": 630,
-        "protein": 27,
-        "fat": 22,
-        "carbs": 88
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=pasta%20salad%20paneer%20tikka%20recipe"
-    },
-    "vizz_daily_total_from_meals": {
-      "cal": 1700,
-      "protein": 70,
-      "fat": 46,
-      "carbs": 250
-    },
-    "vizz_daily_total_with_shake": {
-      "cal": 2000,
-      "protein": 110,
-      "fat": 51,
-      "carbs": 275
-    },
-    "macro_check": "Calories and protein meet target. Fat slightly below target. Carbs slightly above target."
-  },
-  {
     "date": "2026-05-30 (Saturday)",
     "date_display": "Saturday, May 30",
     "date_short": "Sat · May 30",
@@ -3610,5 +3489,140 @@
       "carbs": 305
     },
     "macro_check": "Calories and protein targets achieved; carbs are slightly over. Fat is under target but acceptable."
+  },
+  {
+    "date": "2026-06-28 (Sunday)",
+    "date_display": "Sunday, June 28",
+    "date_short": "Sun · Jun 28",
+    "generated_label": "Generated last night for today",
+    "breakfast": {
+      "dish_hindi": "पालक थेपला, उबला अंडा (केवल Vizz और Flatmate-2 के लिए)",
+      "dish_english": "Spinach Thepla, Boiled Egg (for Vizz and Flatmate-2 only)",
+      "ingredients_hindi": "गेहूं का आटा, पालक, हरी मिर्च, अदरक, हल्दी, जीरा, नमक, तेल, उबला अंडा",
+      "ingredients_list_hi": [
+        "गेहूं का आटा",
+        "पालक",
+        "हरी मिर्च",
+        "अदरक",
+        "हल्दी",
+        "जीरा",
+        "नमक",
+        "तेल",
+        "उबला अंडा"
+      ],
+      "ingredients_list_en": [
+        "Whole Wheat Flour",
+        "Spinach",
+        "Green Chili",
+        "Ginger",
+        "Turmeric",
+        "Cumin",
+        "Salt",
+        "Oil",
+        "Boiled Egg"
+      ],
+      "prep_notes_hi": "आटा गूंदने समय पालक, अदरक और मिर्च को बारीक काटें। थेपला बेलें और हल्के आँच पर तवे पर पकाएं।",
+      "prep_notes_en": "While kneading the dough, finely chop spinach, ginger, and chili. Roll theplas and cook on a low flame on a griddle.",
+      "vizz_macros": {
+        "cal": 450,
+        "protein": 16,
+        "fat": 12,
+        "carbs": 65
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=spinach%20thepla%20recipe%20recipe"
+    },
+    "lunch": {
+      "dish_hindi": "पनीर टिक्का, लच्छा पराठा और पुदीने की चटनी",
+      "dish_english": "Paneer Tikka with Laccha Paratha & Mint Chutney",
+      "ingredients_hindi": "पनीर, दही, लाल मिर्च पाउडर, गरम मसाला, अदरक-लहसुन पेस्ट, धनिया पाउडर, नमक, तेल, गेहूं का आटा, मक्खन, पुदीना, हरी मिर्च",
+      "ingredients_list_hi": [
+        "पनीर",
+        "दही",
+        "लाल मिर्च पाउडर",
+        "गरम मसाला",
+        "अदरक-लहसुन पेस्ट",
+        "धनिया पाउडर",
+        "नमक",
+        "तेल",
+        "गेहूं का आटा",
+        "मक्खन",
+        "पुदीना",
+        "हरी मिर्च"
+      ],
+      "ingredients_list_en": [
+        "Paneer",
+        "Yogurt",
+        "Red Chili Powder",
+        "Garam Masala",
+        "Ginger-Garlic Paste",
+        "Coriander Powder",
+        "Salt",
+        "Oil",
+        "Whole Wheat Flour",
+        "Butter",
+        "Mint",
+        "Green Chili"
+      ],
+      "prep_notes_hi": "पनीर टिक्का अच्छा पकाना सुनिश्चित करें ताकि यह यात्रा में भी सुरक्षित रहे और माइक्रोवेव में आसानी से गर्म हो सके।",
+      "prep_notes_en": "Ensure the paneer tikka is well-cooked to make it safe for travel and easy to reheat in a microwave.",
+      "vizz_macros": {
+        "cal": 700,
+        "protein": 35,
+        "fat": 35,
+        "carbs": 60
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=paneer%20tikka%20with%20paratha%20recipe"
+    },
+    "dinner": {
+      "dish_hindi": "मसूर दाल मसाला, चावल, और पापड़",
+      "dish_english": "Masoor Dal Masala with Rice & Papad",
+      "ingredients_hindi": "मसूर दाल, चावल, प्याज, टमाटर, हल्दी, लाल मिर्च पाउडर, गरम मसाला, नमक, तेल, पापड़",
+      "ingredients_list_hi": [
+        "मसूर दाल",
+        "चावल",
+        "प्याज",
+        "टमाटर",
+        "हल्दी",
+        "लाल मिर्च पाउडर",
+        "गरम मसाला",
+        "नमक",
+        "तेल",
+        "पापड़"
+      ],
+      "ingredients_list_en": [
+        "Masoor Dal",
+        "Rice",
+        "Onion",
+        "Tomato",
+        "Turmeric",
+        "Red Chili Powder",
+        "Garam Masala",
+        "Salt",
+        "Oil",
+        "Papad"
+      ],
+      "prep_notes_hi": "दाल को अच्छे से पकाएं ताकि यह मुलायम हो जाए। अंत में तड़का लगाने पर अच्छा स्वाद आएगा।",
+      "prep_notes_en": "Cook the dal thoroughly so it becomes soft. Adding the tempering at the end enhances the flavor.",
+      "vizz_macros": {
+        "cal": 550,
+        "protein": 19,
+        "fat": 10,
+        "carbs": 95
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=masoor%20dal%20recipe%20recipe"
+    },
+    "vizz_daily_total_from_meals": {
+      "cal": 1700,
+      "protein": 70,
+      "fat": 57,
+      "carbs": 220
+    },
+    "vizz_daily_total_with_shake": {
+      "cal": 2000,
+      "protein": 110,
+      "fat": 62,
+      "carbs": 245
+    },
+    "macro_check": "Calories, protein, fat, and carbs for Vizz hit the targets with slight carb surplus."
   }
 ]

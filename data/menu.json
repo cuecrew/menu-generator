@@ -1,151 +1,135 @@
 {
-  "date": "2026-06-27 (Saturday)",
-  "date_display": "Saturday, June 27",
-  "date_short": "Sat · Jun 27",
+  "date": "2026-06-28 (Sunday)",
+  "date_display": "Sunday, June 28",
+  "date_short": "Sun · Jun 28",
   "generated_label": "Generated last night for today",
   "breakfast": {
-    "dish_hindi": "सब्जियों का ओट्स पोहा, उबला अंडा (विज़्ज़ और फ़्लैटमेट-2 के लिए)",
-    "dish_english": "Vegetable Oats Poha, Boiled Egg (for Vizz and Flatmate-2)",
-    "ingredients_hindi": "ओट्स, पोहा, मटर, गाजर, प्याज, हरी मिर्च, कड़ी पत्ता, राई, हल्दी, नमक, तेल, उबला अंडा",
+    "dish_hindi": "पालक थेपला, उबला अंडा (केवल Vizz और Flatmate-2 के लिए)",
+    "dish_english": "Spinach Thepla, Boiled Egg (for Vizz and Flatmate-2 only)",
+    "ingredients_hindi": "गेहूं का आटा, पालक, हरी मिर्च, अदरक, हल्दी, जीरा, नमक, तेल, उबला अंडा",
     "ingredients_list_hi": [
-      "ओट्स",
-      "पोहा",
-      "मटर",
-      "गाजर",
-      "प्याज",
+      "गेहूं का आटा",
+      "पालक",
       "हरी मिर्च",
-      "कड़ी पत्ता",
-      "राई",
+      "अदरक",
       "हल्दी",
+      "जीरा",
       "नमक",
       "तेल",
       "उबला अंडा"
     ],
     "ingredients_list_en": [
-      "Oats",
-      "Flattened rice (Poha)",
-      "Peas",
-      "Carrot",
-      "Onion",
-      "Green chili",
-      "Curry leaves",
-      "Mustard seeds",
+      "Whole Wheat Flour",
+      "Spinach",
+      "Green Chili",
+      "Ginger",
       "Turmeric",
+      "Cumin",
       "Salt",
       "Oil",
-      "Boiled egg"
+      "Boiled Egg"
     ],
-    "prep_notes_hi": "सबसे पहले ओट्स और पोहा को हल्के से भिगो दें। एक कड़ाही में तेल गरम करें, राई और कड़ी पत्ता डालें। प्याज और सब्जियां मिलाएं। भुना हुआ ओट्स और पोहा डालें, मसाले डालें और मिलाएं।",
-    "prep_notes_en": "First, lightly soak oats and poha. Heat oil in a pan, add mustard seeds and curry leaves. Add onions and vegetables. Add soaked oats and poha, season with spices, and mix well.",
+    "prep_notes_hi": "आटा गूंदने समय पालक, अदरक और मिर्च को बारीक काटें। थेपला बेलें और हल्के आँच पर तवे पर पकाएं।",
+    "prep_notes_en": "While kneading the dough, finely chop spinach, ginger, and chili. Roll theplas and cook on a low flame on a griddle.",
     "vizz_macros": {
-      "cal": 370,
-      "protein": 18,
+      "cal": 450,
+      "protein": 16,
       "fat": 12,
-      "carbs": 56
+      "carbs": 65
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=oats%20poha%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=spinach%20thepla%20recipe%20recipe"
   },
   "lunch": {
-    "dish_hindi": "राजमा चावल और प्याज का सलाद",
-    "dish_english": "Rajma with Rice and Onion Salad",
-    "ingredients_hindi": "राजमा, बासमती चावल, प्याज, टमाटर, अदरक, लहसुन, जीरा, हल्दी, मिर्च पाउडर, धनिया पाउडर, गरम मसाला, नमक, तेल",
+    "dish_hindi": "पनीर टिक्का, लच्छा पराठा और पुदीने की चटनी",
+    "dish_english": "Paneer Tikka with Laccha Paratha & Mint Chutney",
+    "ingredients_hindi": "पनीर, दही, लाल मिर्च पाउडर, गरम मसाला, अदरक-लहसुन पेस्ट, धनिया पाउडर, नमक, तेल, गेहूं का आटा, मक्खन, पुदीना, हरी मिर्च",
     "ingredients_list_hi": [
-      "राजमा",
-      "बासमती चावल",
-      "प्याज",
-      "टमाटर",
-      "अदरक",
-      "लहसुन",
-      "जीरा",
-      "हल्दी",
-      "मिर्च पाउडर",
-      "धनिया पाउडर",
+      "पनीर",
+      "दही",
+      "लाल मिर्च पाउडर",
       "गरम मसाला",
-      "नमक",
-      "तेल"
-    ],
-    "ingredients_list_en": [
-      "Kidney beans",
-      "Basmati rice",
-      "Onion",
-      "Tomato",
-      "Ginger",
-      "Garlic",
-      "Cumin seeds",
-      "Turmeric",
-      "Chili powder",
-      "Coriander powder",
-      "Garam masala",
-      "Salt",
-      "Oil"
-    ],
-    "prep_notes_hi": "यह व्यंजन यात्रा के लिए अनुकूल है और 5 घंटे तक ताजगी बनाए रखता है। माइक्रोवेव में दोबारा गरम करने पर स्वाद और बनावट बनी रहेगी।",
-    "prep_notes_en": "This dish is travel-friendly and retains freshness for up to 5 hours. It reheats well in the microwave, maintaining its taste and texture.",
-    "vizz_macros": {
-      "cal": 700,
-      "protein": 27,
-      "fat": 7,
-      "carbs": 130
-    },
-    "youtube_url": "https://www.youtube.com/results?search_query=rajma%20chawal%20recipe%20recipe"
-  },
-  "dinner": {
-    "dish_hindi": "तोफू मसाला करी, रोटी, दही",
-    "dish_english": "Tofu Masala Curry, Roti, Yogurt",
-    "ingredients_hindi": "तोफू, प्याज, टमाटर, हरी मिर्च, अदरक, लहसुन, गरम मसाला, हल्दी, मिर्च पाउडर, धनिया पाउडर, नमक, तेल, गेहूं का आटा, दही",
-    "ingredients_list_hi": [
-      "तोफू",
-      "प्याज",
-      "टमाटर",
-      "हरी मिर्च",
-      "अदरक",
-      "लहसुन",
-      "गरम मसाला",
-      "हल्दी",
-      "मिर्च पाउडर",
+      "अदरक-लहसुन पेस्ट",
       "धनिया पाउडर",
       "नमक",
       "तेल",
       "गेहूं का आटा",
-      "दही"
+      "मक्खन",
+      "पुदीना",
+      "हरी मिर्च"
     ],
     "ingredients_list_en": [
-      "Tofu",
-      "Onion",
-      "Tomato",
-      "Green chili",
-      "Ginger",
-      "Garlic",
-      "Garam masala",
-      "Turmeric",
-      "Chili powder",
-      "Coriander powder",
+      "Paneer",
+      "Yogurt",
+      "Red Chili Powder",
+      "Garam Masala",
+      "Ginger-Garlic Paste",
+      "Coriander Powder",
       "Salt",
       "Oil",
-      "Wheat flour",
-      "Yogurt"
+      "Whole Wheat Flour",
+      "Butter",
+      "Mint",
+      "Green Chili"
     ],
-    "prep_notes_hi": "तोफू को छोटे क्यूब्स में काटें और हल्का सा फ्राई करें। फिर मसालेदार ग्रेवी बनाएं और उसमें तोफू डालें। सर्व के समय गर्म रोटी और दही के साथ परोसें।",
-    "prep_notes_en": "Cut tofu into small cubes and lightly fry it. Prepare a spicy gravy and add the tofu. Serve hot with roti and yogurt.",
+    "prep_notes_hi": "पनीर टिक्का अच्छा पकाना सुनिश्चित करें ताकि यह यात्रा में भी सुरक्षित रहे और माइक्रोवेव में आसानी से गर्म हो सके।",
+    "prep_notes_en": "Ensure the paneer tikka is well-cooked to make it safe for travel and easy to reheat in a microwave.",
     "vizz_macros": {
-      "cal": 630,
-      "protein": 25,
-      "fat": 15,
-      "carbs": 94
+      "cal": 700,
+      "protein": 35,
+      "fat": 35,
+      "carbs": 60
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=tofu%20masala%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=paneer%20tikka%20with%20paratha%20recipe"
+  },
+  "dinner": {
+    "dish_hindi": "मसूर दाल मसाला, चावल, और पापड़",
+    "dish_english": "Masoor Dal Masala with Rice & Papad",
+    "ingredients_hindi": "मसूर दाल, चावल, प्याज, टमाटर, हल्दी, लाल मिर्च पाउडर, गरम मसाला, नमक, तेल, पापड़",
+    "ingredients_list_hi": [
+      "मसूर दाल",
+      "चावल",
+      "प्याज",
+      "टमाटर",
+      "हल्दी",
+      "लाल मिर्च पाउडर",
+      "गरम मसाला",
+      "नमक",
+      "तेल",
+      "पापड़"
+    ],
+    "ingredients_list_en": [
+      "Masoor Dal",
+      "Rice",
+      "Onion",
+      "Tomato",
+      "Turmeric",
+      "Red Chili Powder",
+      "Garam Masala",
+      "Salt",
+      "Oil",
+      "Papad"
+    ],
+    "prep_notes_hi": "दाल को अच्छे से पकाएं ताकि यह मुलायम हो जाए। अंत में तड़का लगाने पर अच्छा स्वाद आएगा।",
+    "prep_notes_en": "Cook the dal thoroughly so it becomes soft. Adding the tempering at the end enhances the flavor.",
+    "vizz_macros": {
+      "cal": 550,
+      "protein": 19,
+      "fat": 10,
+      "carbs": 95
+    },
+    "youtube_url": "https://www.youtube.com/results?search_query=masoor%20dal%20recipe%20recipe"
   },
   "vizz_daily_total_from_meals": {
     "cal": 1700,
     "protein": 70,
-    "fat": 34,
-    "carbs": 280
+    "fat": 57,
+    "carbs": 220
   },
   "vizz_daily_total_with_shake": {
     "cal": 2000,
     "protein": 110,
-    "fat": 39,
-    "carbs": 305
+    "fat": 62,
+    "carbs": 245
   },
-  "macro_check": "Calories and protein targets achieved; carbs are slightly over. Fat is under target but acceptable."
+  "macro_check": "Calories, protein, fat, and carbs for Vizz hit the targets with slight carb surplus."
 }
