@@ -1,135 +1,127 @@
 {
-  "date": "2026-06-28 (Sunday)",
-  "date_display": "Sunday, June 28",
-  "date_short": "Sun · Jun 28",
+  "date": "2026-06-29 (Monday)",
+  "date_display": "Monday, June 29",
+  "date_short": "Mon · Jun 29",
   "generated_label": "Generated last night for today",
   "breakfast": {
-    "dish_hindi": "पालक थेपला, उबला अंडा (केवल Vizz और Flatmate-2 के लिए)",
-    "dish_english": "Spinach Thepla, Boiled Egg (for Vizz and Flatmate-2 only)",
-    "ingredients_hindi": "गेहूं का आटा, पालक, हरी मिर्च, अदरक, हल्दी, जीरा, नमक, तेल, उबला अंडा",
+    "dish_hindi": "बेगन बर्पता, पके हुए अंडे (विज्ज़ और फ्लैटमेट-2 के लिए)",
+    "dish_english": "Baingan Bharta with Toast, Boiled Egg (for Vizz and Flatmate-2)",
+    "ingredients_hindi": "बैंगन, प्याज, टमाटर, अदरक, लहसुन, हरी मिर्च, ताज़ा धनीया, टोस्ट ब्रेड",
     "ingredients_list_hi": [
-      "गेहूं का आटा",
-      "पालक",
-      "हरी मिर्च",
+      "बैंगन",
+      "प्याज",
+      "टमाटर",
       "अदरक",
-      "हल्दी",
-      "जीरा",
-      "नमक",
-      "तेल",
-      "उबला अंडा"
+      "लहसुन",
+      "हरी मिर्च",
+      "ताज़ा धनीया",
+      "टोस्ट ब्रेड"
     ],
     "ingredients_list_en": [
-      "Whole Wheat Flour",
-      "Spinach",
-      "Green Chili",
+      "Eggplant",
+      "Onion",
+      "Tomato",
       "Ginger",
-      "Turmeric",
-      "Cumin",
-      "Salt",
-      "Oil",
-      "Boiled Egg"
+      "Garlic",
+      "Green chili",
+      "Fresh coriander",
+      "Toast bread"
     ],
-    "prep_notes_hi": "आटा गूंदने समय पालक, अदरक और मिर्च को बारीक काटें। थेपला बेलें और हल्के आँच पर तवे पर पकाएं।",
-    "prep_notes_en": "While kneading the dough, finely chop spinach, ginger, and chili. Roll theplas and cook on a low flame on a griddle.",
+    "prep_notes_hi": "बैंगन को भूनकर छीलें और फिर मसाला सब्ज़ियों के साथ पकाएं। धनीया डालकर परोसें।",
+    "prep_notes_en": "Roast the eggplant, peel and mash it. Cook with the spice mixture and serve with coriander.",
     "vizz_macros": {
-      "cal": 450,
-      "protein": 16,
+      "cal": 350,
+      "protein": 10,
       "fat": 12,
-      "carbs": 65
+      "carbs": 45
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=spinach%20thepla%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=baingan%20bharta%20recipe%20recipe"
   },
   "lunch": {
-    "dish_hindi": "पनीर टिक्का, लच्छा पराठा और पुदीने की चटनी",
-    "dish_english": "Paneer Tikka with Laccha Paratha & Mint Chutney",
-    "ingredients_hindi": "पनीर, दही, लाल मिर्च पाउडर, गरम मसाला, अदरक-लहसुन पेस्ट, धनिया पाउडर, नमक, तेल, गेहूं का आटा, मक्खन, पुदीना, हरी मिर्च",
+    "dish_hindi": "पालक चने के साथ पुलाव, दही",
+    "dish_english": "Spinach Chickpea Pulao with Yogurt",
+    "ingredients_hindi": "बासमती चावल, पालक, चने, प्याज, अदरक, लहसुन, हरी मिर्च, गरम मसाला, दही",
+    "ingredients_list_hi": [
+      "बासमती चावल",
+      "पालक",
+      "चना",
+      "प्याज",
+      "अदरक",
+      "लहसुन",
+      "हरी मिर्च",
+      "गरम मसाला",
+      "दही"
+    ],
+    "ingredients_list_en": [
+      "Basmati rice",
+      "Spinach",
+      "Chickpeas",
+      "Onion",
+      "Ginger",
+      "Garlic",
+      "Green chili",
+      "Garam masala",
+      "Yogurt"
+    ],
+    "prep_notes_hi": "इस प्रस्तर को यात्रा और गर्म करके खाने में आसानी होती है। यह यात्रा और माइक्रोवेव में गरम करने के लिए भी उपयुक्त है।",
+    "prep_notes_en": "This dish is convenient for travel and reheating. Suitable for transport and microwave reheating.",
+    "vizz_macros": {
+      "cal": 620,
+      "protein": 20,
+      "fat": 15,
+      "carbs": 95
+    },
+    "youtube_url": "https://www.youtube.com/results?search_query=spinach%20chickpea%20pulao%20recipe"
+  },
+  "dinner": {
+    "dish_hindi": "पनीर भूर्जी, रोटी, रायता",
+    "dish_english": "Paneer Bhurji with Roti and Raita",
+    "ingredients_hindi": "पनीर, प्याज, टमाटर, शिमला मिर्च, लहसुन, अदरक, गरम मसाला, जीरा, रोटी, दही",
     "ingredients_list_hi": [
       "पनीर",
-      "दही",
-      "लाल मिर्च पाउडर",
+      "प्याज",
+      "टमाटर",
+      "शिमला मिर्च",
+      "लहसुन",
+      "अदरक",
       "गरम मसाला",
-      "अदरक-लहसुन पेस्ट",
-      "धनिया पाउडर",
-      "नमक",
-      "तेल",
-      "गेहूं का आटा",
-      "मक्खन",
-      "पुदीना",
-      "हरी मिर्च"
+      "जीरा",
+      "रोटी",
+      "दही"
     ],
     "ingredients_list_en": [
       "Paneer",
-      "Yogurt",
-      "Red Chili Powder",
-      "Garam Masala",
-      "Ginger-Garlic Paste",
-      "Coriander Powder",
-      "Salt",
-      "Oil",
-      "Whole Wheat Flour",
-      "Butter",
-      "Mint",
-      "Green Chili"
-    ],
-    "prep_notes_hi": "पनीर टिक्का अच्छा पकाना सुनिश्चित करें ताकि यह यात्रा में भी सुरक्षित रहे और माइक्रोवेव में आसानी से गर्म हो सके।",
-    "prep_notes_en": "Ensure the paneer tikka is well-cooked to make it safe for travel and easy to reheat in a microwave.",
-    "vizz_macros": {
-      "cal": 700,
-      "protein": 35,
-      "fat": 35,
-      "carbs": 60
-    },
-    "youtube_url": "https://www.youtube.com/results?search_query=paneer%20tikka%20with%20paratha%20recipe"
-  },
-  "dinner": {
-    "dish_hindi": "मसूर दाल मसाला, चावल, और पापड़",
-    "dish_english": "Masoor Dal Masala with Rice & Papad",
-    "ingredients_hindi": "मसूर दाल, चावल, प्याज, टमाटर, हल्दी, लाल मिर्च पाउडर, गरम मसाला, नमक, तेल, पापड़",
-    "ingredients_list_hi": [
-      "मसूर दाल",
-      "चावल",
-      "प्याज",
-      "टमाटर",
-      "हल्दी",
-      "लाल मिर्च पाउडर",
-      "गरम मसाला",
-      "नमक",
-      "तेल",
-      "पापड़"
-    ],
-    "ingredients_list_en": [
-      "Masoor Dal",
-      "Rice",
       "Onion",
       "Tomato",
-      "Turmeric",
-      "Red Chili Powder",
-      "Garam Masala",
-      "Salt",
-      "Oil",
-      "Papad"
+      "Bell pepper",
+      "Garlic",
+      "Ginger",
+      "Garam masala",
+      "Cumin seeds",
+      "Roti",
+      "Yogurt"
     ],
-    "prep_notes_hi": "दाल को अच्छे से पकाएं ताकि यह मुलायम हो जाए। अंत में तड़का लगाने पर अच्छा स्वाद आएगा।",
-    "prep_notes_en": "Cook the dal thoroughly so it becomes soft. Adding the tempering at the end enhances the flavor.",
+    "prep_notes_hi": "पनीर को सब्ज़ियों के साथ जल्दी पकाकर इसे रोटी के साथ परोसें।",
+    "prep_notes_en": "Quickly cook paneer with vegetables and serve with roti.",
     "vizz_macros": {
-      "cal": 550,
-      "protein": 19,
-      "fat": 10,
-      "carbs": 95
+      "cal": 730,
+      "protein": 42,
+      "fat": 18,
+      "carbs": 60
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=masoor%20dal%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=paneer%20bhurji%20recipe%20recipe"
   },
   "vizz_daily_total_from_meals": {
     "cal": 1700,
-    "protein": 70,
-    "fat": 57,
-    "carbs": 220
+    "protein": 72,
+    "fat": 45,
+    "carbs": 200
   },
   "vizz_daily_total_with_shake": {
     "cal": 2000,
-    "protein": 110,
-    "fat": 62,
-    "carbs": 245
+    "protein": 112,
+    "fat": 50,
+    "carbs": 225
   },
-  "macro_check": "Calories, protein, fat, and carbs for Vizz hit the targets with slight carb surplus."
+  "macro_check": "Meals plus shake meet 2000/110/60/215 target; protein slightly exceeds."
 }

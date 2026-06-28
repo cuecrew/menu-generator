@@ -1,128 +1,5 @@
 [
   {
-    "date": "2026-05-30 (Saturday)",
-    "date_display": "Saturday, May 30",
-    "date_short": "Sat · May 30",
-    "generated_label": "Generated last night for today",
-    "breakfast": {
-      "dish_hindi": "सूजी उपमा, उबले अंडे",
-      "dish_english": "Semolina Upma with Boiled Eggs",
-      "ingredients_hindi": "सूजी, प्याज, गाजर, मटर, सरसों के बीज, करी पत्ते, हरी मिर्च, नमक, तेल, उबले अंडे",
-      "ingredients_list_hi": [
-        "सूजी",
-        "प्याज",
-        "गाजर",
-        "मटर",
-        "सरसों के बीज",
-        "करी पत्ते",
-        "हरी मिर्च",
-        "नमक",
-        "तेल",
-        "उबले अंडे"
-      ],
-      "ingredients_list_en": [
-        "Semolina (Suji)",
-        "Onion",
-        "Carrot",
-        "Peas",
-        "Mustard Seeds",
-        "Curry Leaves",
-        "Green Chilli",
-        "Salt",
-        "Oil",
-        "Boiled Eggs"
-      ],
-      "prep_notes_hi": "सूजी को सुनहरे रंग का भूनें। सब्जियाँ डालें और अच्छी तरह मिलाएं। पानी डालकर पकाएं।",
-      "prep_notes_en": "Roast semolina till golden. Add vegetables and mix well. Add water and cook until done.",
-      "vizz_macros": {
-        "cal": 400,
-        "protein": 12,
-        "fat": 8,
-        "carbs": 70
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=upma%20recipe%20hindi%20recipe"
-    },
-    "lunch": {
-      "dish_hindi": "चना मसाला, बासमती चावल, पापड़",
-      "dish_english": "Chana Masala with Basmati Rice and Papad",
-      "ingredients_hindi": "चना, टमाटर, प्याज, अदरक, लहसुन, मसाले, तेल, बासमती चावल, पापड़",
-      "ingredients_list_hi": [
-        "चना",
-        "टमाटर",
-        "प्याज",
-        "अदरक",
-        "लहसुन",
-        "मसाले",
-        "तेल",
-        "बासमती चावल",
-        "पापड़"
-      ],
-      "ingredients_list_en": [
-        "Chickpeas",
-        "Tomato",
-        "Onion",
-        "Ginger",
-        "Garlic",
-        "Spices",
-        "Oil",
-        "Basmati Rice",
-        "Papad"
-      ],
-      "prep_notes_hi": "चने को अच्छी तरह से पकाएं ताकि यह नरम हो। यह खाने में पोर्टेबल रहे और माइक्रोवेव में गरम हो सके।",
-      "prep_notes_en": "Cook chickpeas well until soft. Ensure the meal holds well for travel and reheats in a microwave.",
-      "vizz_macros": {
-        "cal": 650,
-        "protein": 22,
-        "fat": 10,
-        "carbs": 110
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=chana%20masala%20recipe%20recipe"
-    },
-    "dinner": {
-      "dish_hindi": "मखनी पनीर, तंदूरी रोटी",
-      "dish_english": "Paneer Makhani with Tandoori Roti",
-      "ingredients_hindi": "पनीर, टमाटर, मक्खन, क्रीम, मसाले, तंदूरी रोटी",
-      "ingredients_list_hi": [
-        "पनीर",
-        "टमाटर",
-        "मक्खन",
-        "क्रीम",
-        "मसाले",
-        "तंदूरी रोटी"
-      ],
-      "ingredients_list_en": [
-        "Paneer",
-        "Tomato",
-        "Butter",
-        "Cream",
-        "Spices",
-        "Tandoori Roti"
-      ],
-      "prep_notes_hi": "पनीर को टमाटर की ग्रेवी में पकाएं और मसाले डालकर धीमी आंच पर पकने दें। रोटियाँ गरम होकर परोसें।",
-      "prep_notes_en": "Cook paneer in tomato-based gravy, adding spices and let it simmer. Serve warm rotis.",
-      "vizz_macros": {
-        "cal": 650,
-        "protein": 30,
-        "fat": 22,
-        "carbs": 80
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=paneer%20makhani%20recipe%20recipe"
-    },
-    "vizz_daily_total_from_meals": {
-      "cal": 1700,
-      "protein": 64,
-      "fat": 40,
-      "carbs": 260
-    },
-    "vizz_daily_total_with_shake": {
-      "cal": 2000,
-      "protein": 104,
-      "fat": 45,
-      "carbs": 285
-    },
-    "macro_check": "Calories and fats are on target, protein is slightly low, carbs are higher than target."
-  },
-  {
     "date": "2026-05-31 (Sunday)",
     "date_display": "Sunday, May 31",
     "date_short": "Sun · May 31",
@@ -3624,5 +3501,132 @@
       "carbs": 245
     },
     "macro_check": "Calories, protein, fat, and carbs for Vizz hit the targets with slight carb surplus."
+  },
+  {
+    "date": "2026-06-29 (Monday)",
+    "date_display": "Monday, June 29",
+    "date_short": "Mon · Jun 29",
+    "generated_label": "Generated last night for today",
+    "breakfast": {
+      "dish_hindi": "बेगन बर्पता, पके हुए अंडे (विज्ज़ और फ्लैटमेट-2 के लिए)",
+      "dish_english": "Baingan Bharta with Toast, Boiled Egg (for Vizz and Flatmate-2)",
+      "ingredients_hindi": "बैंगन, प्याज, टमाटर, अदरक, लहसुन, हरी मिर्च, ताज़ा धनीया, टोस्ट ब्रेड",
+      "ingredients_list_hi": [
+        "बैंगन",
+        "प्याज",
+        "टमाटर",
+        "अदरक",
+        "लहसुन",
+        "हरी मिर्च",
+        "ताज़ा धनीया",
+        "टोस्ट ब्रेड"
+      ],
+      "ingredients_list_en": [
+        "Eggplant",
+        "Onion",
+        "Tomato",
+        "Ginger",
+        "Garlic",
+        "Green chili",
+        "Fresh coriander",
+        "Toast bread"
+      ],
+      "prep_notes_hi": "बैंगन को भूनकर छीलें और फिर मसाला सब्ज़ियों के साथ पकाएं। धनीया डालकर परोसें।",
+      "prep_notes_en": "Roast the eggplant, peel and mash it. Cook with the spice mixture and serve with coriander.",
+      "vizz_macros": {
+        "cal": 350,
+        "protein": 10,
+        "fat": 12,
+        "carbs": 45
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=baingan%20bharta%20recipe%20recipe"
+    },
+    "lunch": {
+      "dish_hindi": "पालक चने के साथ पुलाव, दही",
+      "dish_english": "Spinach Chickpea Pulao with Yogurt",
+      "ingredients_hindi": "बासमती चावल, पालक, चने, प्याज, अदरक, लहसुन, हरी मिर्च, गरम मसाला, दही",
+      "ingredients_list_hi": [
+        "बासमती चावल",
+        "पालक",
+        "चना",
+        "प्याज",
+        "अदरक",
+        "लहसुन",
+        "हरी मिर्च",
+        "गरम मसाला",
+        "दही"
+      ],
+      "ingredients_list_en": [
+        "Basmati rice",
+        "Spinach",
+        "Chickpeas",
+        "Onion",
+        "Ginger",
+        "Garlic",
+        "Green chili",
+        "Garam masala",
+        "Yogurt"
+      ],
+      "prep_notes_hi": "इस प्रस्तर को यात्रा और गर्म करके खाने में आसानी होती है। यह यात्रा और माइक्रोवेव में गरम करने के लिए भी उपयुक्त है।",
+      "prep_notes_en": "This dish is convenient for travel and reheating. Suitable for transport and microwave reheating.",
+      "vizz_macros": {
+        "cal": 620,
+        "protein": 20,
+        "fat": 15,
+        "carbs": 95
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=spinach%20chickpea%20pulao%20recipe"
+    },
+    "dinner": {
+      "dish_hindi": "पनीर भूर्जी, रोटी, रायता",
+      "dish_english": "Paneer Bhurji with Roti and Raita",
+      "ingredients_hindi": "पनीर, प्याज, टमाटर, शिमला मिर्च, लहसुन, अदरक, गरम मसाला, जीरा, रोटी, दही",
+      "ingredients_list_hi": [
+        "पनीर",
+        "प्याज",
+        "टमाटर",
+        "शिमला मिर्च",
+        "लहसुन",
+        "अदरक",
+        "गरम मसाला",
+        "जीरा",
+        "रोटी",
+        "दही"
+      ],
+      "ingredients_list_en": [
+        "Paneer",
+        "Onion",
+        "Tomato",
+        "Bell pepper",
+        "Garlic",
+        "Ginger",
+        "Garam masala",
+        "Cumin seeds",
+        "Roti",
+        "Yogurt"
+      ],
+      "prep_notes_hi": "पनीर को सब्ज़ियों के साथ जल्दी पकाकर इसे रोटी के साथ परोसें।",
+      "prep_notes_en": "Quickly cook paneer with vegetables and serve with roti.",
+      "vizz_macros": {
+        "cal": 730,
+        "protein": 42,
+        "fat": 18,
+        "carbs": 60
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=paneer%20bhurji%20recipe%20recipe"
+    },
+    "vizz_daily_total_from_meals": {
+      "cal": 1700,
+      "protein": 72,
+      "fat": 45,
+      "carbs": 200
+    },
+    "vizz_daily_total_with_shake": {
+      "cal": 2000,
+      "protein": 112,
+      "fat": 50,
+      "carbs": 225
+    },
+    "macro_check": "Meals plus shake meet 2000/110/60/215 target; protein slightly exceeds."
   }
 ]
