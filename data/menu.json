@@ -1,127 +1,111 @@
 {
-  "date": "2026-06-29 (Monday)",
-  "date_display": "Monday, June 29",
-  "date_short": "Mon · Jun 29",
+  "date": "2026-06-30 (Tuesday)",
+  "date_display": "Tuesday, June 30",
+  "date_short": "Tue · Jun 30",
   "generated_label": "Generated last night for today",
   "breakfast": {
-    "dish_hindi": "बेगन बर्पता, पके हुए अंडे (विज्ज़ और फ्लैटमेट-2 के लिए)",
-    "dish_english": "Baingan Bharta with Toast, Boiled Egg (for Vizz and Flatmate-2)",
-    "ingredients_hindi": "बैंगन, प्याज, टमाटर, अदरक, लहसुन, हरी मिर्च, ताज़ा धनीया, टोस्ट ब्रेड",
+    "dish_hindi": "उपमा, उबला अंडा (केवल Vizz और Flatmate-2 के लिए)",
+    "dish_english": "Upma, Boiled Egg (for Vizz and Flatmate-2 only)",
+    "ingredients_hindi": "सूजी, प्याज, हरी मिर्च, सरसों के दाने, करी पत्ता",
     "ingredients_list_hi": [
-      "बैंगन",
+      "सूजी",
       "प्याज",
-      "टमाटर",
-      "अदरक",
-      "लहसुन",
       "हरी मिर्च",
-      "ताज़ा धनीया",
-      "टोस्ट ब्रेड"
+      "सरसों के दाने",
+      "करी पत्ता"
     ],
     "ingredients_list_en": [
-      "Eggplant",
+      "Semolina (Suji)",
       "Onion",
-      "Tomato",
-      "Ginger",
-      "Garlic",
-      "Green chili",
-      "Fresh coriander",
-      "Toast bread"
+      "Green Chili",
+      "Mustard Seeds",
+      "Curry Leaves"
     ],
-    "prep_notes_hi": "बैंगन को भूनकर छीलें और फिर मसाला सब्ज़ियों के साथ पकाएं। धनीया डालकर परोसें।",
-    "prep_notes_en": "Roast the eggplant, peel and mash it. Cook with the spice mixture and serve with coriander.",
+    "prep_notes_hi": "सूजी को पहले सूखा भूने। प्याज और हरी मिर्च को हल्का तलें। तब तक पकाएं जब तक सूजी नरम न हो जाए।",
+    "prep_notes_en": "Dry roast the semolina first. Lightly fry the onions and green chilies. Cook until the semolina is soft.",
     "vizz_macros": {
-      "cal": 350,
-      "protein": 10,
-      "fat": 12,
-      "carbs": 45
+      "cal": 300,
+      "protein": 8,
+      "fat": 6,
+      "carbs": 50
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=baingan%20bharta%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=upma%20recipe%20hindi%20recipe"
   },
   "lunch": {
-    "dish_hindi": "पालक चने के साथ पुलाव, दही",
-    "dish_english": "Spinach Chickpea Pulao with Yogurt",
-    "ingredients_hindi": "बासमती चावल, पालक, चने, प्याज, अदरक, लहसुन, हरी मिर्च, गरम मसाला, दही",
+    "dish_hindi": "चना दाल बिरयानी, दही",
+    "dish_english": "Chana Dal Biryani with Yogurt",
+    "ingredients_hindi": "बासमती चावल, चना दाल, प्याज, टमाटर, गरम मसाला, दही",
     "ingredients_list_hi": [
       "बासमती चावल",
-      "पालक",
-      "चना",
-      "प्याज",
-      "अदरक",
-      "लहसुन",
-      "हरी मिर्च",
-      "गरम मसाला",
-      "दही"
-    ],
-    "ingredients_list_en": [
-      "Basmati rice",
-      "Spinach",
-      "Chickpeas",
-      "Onion",
-      "Ginger",
-      "Garlic",
-      "Green chili",
-      "Garam masala",
-      "Yogurt"
-    ],
-    "prep_notes_hi": "इस प्रस्तर को यात्रा और गर्म करके खाने में आसानी होती है। यह यात्रा और माइक्रोवेव में गरम करने के लिए भी उपयुक्त है।",
-    "prep_notes_en": "This dish is convenient for travel and reheating. Suitable for transport and microwave reheating.",
-    "vizz_macros": {
-      "cal": 620,
-      "protein": 20,
-      "fat": 15,
-      "carbs": 95
-    },
-    "youtube_url": "https://www.youtube.com/results?search_query=spinach%20chickpea%20pulao%20recipe"
-  },
-  "dinner": {
-    "dish_hindi": "पनीर भूर्जी, रोटी, रायता",
-    "dish_english": "Paneer Bhurji with Roti and Raita",
-    "ingredients_hindi": "पनीर, प्याज, टमाटर, शिमला मिर्च, लहसुन, अदरक, गरम मसाला, जीरा, रोटी, दही",
-    "ingredients_list_hi": [
-      "पनीर",
+      "चना दाल",
       "प्याज",
       "टमाटर",
-      "शिमला मिर्च",
-      "लहसुन",
-      "अदरक",
       "गरम मसाला",
-      "जीरा",
-      "रोटी",
       "दही"
     ],
     "ingredients_list_en": [
-      "Paneer",
+      "Basmati Rice",
+      "Chana Dal (Split Chickpeas)",
       "Onion",
       "Tomato",
-      "Bell pepper",
-      "Garlic",
-      "Ginger",
-      "Garam masala",
-      "Cumin seeds",
-      "Roti",
+      "Garam Masala",
       "Yogurt"
     ],
-    "prep_notes_hi": "पनीर को सब्ज़ियों के साथ जल्दी पकाकर इसे रोटी के साथ परोसें।",
-    "prep_notes_en": "Quickly cook paneer with vegetables and serve with roti.",
+    "prep_notes_hi": "यह एक सूखा पकवान है और यात्रा के लिए उपयुक्त है। माइक्रोवेव में आसानी से गरम किया जा सकता है।",
+    "prep_notes_en": "This is a dry dish suitable for travel. It can be easily reheated in a microwave.",
     "vizz_macros": {
-      "cal": 730,
-      "protein": 42,
-      "fat": 18,
-      "carbs": 60
+      "cal": 500,
+      "protein": 18,
+      "fat": 8,
+      "carbs": 85
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=paneer%20bhurji%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=chana%20dal%20biryani%20recipe%20recipe"
+  },
+  "dinner": {
+    "dish_hindi": "पालक पनीर, रोटी, आम का अचार",
+    "dish_english": "Palak Paneer, Roti, Mango Pickle",
+    "ingredients_hindi": "पालक, पनीर, प्याज, हरी मिर्च, अदरक, लहसुन, गरम मसाला, रोटी",
+    "ingredients_list_hi": [
+      "पालक",
+      "पनीर",
+      "प्याज",
+      "हरी मिर्च",
+      "अदरक",
+      "लहसुन",
+      "गरम मसाला",
+      "रोटी"
+    ],
+    "ingredients_list_en": [
+      "Spinach",
+      "Paneer",
+      "Onion",
+      "Green Chili",
+      "Ginger",
+      "Garlic",
+      "Garam Masala",
+      "Roti"
+    ],
+    "prep_notes_hi": "पालक को हल्का उबालें और उसे पीस लें। पनीर को हल्का भूने और मसाले मिलाकर पकाएं।",
+    "prep_notes_en": "Blanch the spinach lightly and blend it. Lightly fry the paneer and cook it with spices.",
+    "vizz_macros": {
+      "cal": 600,
+      "protein": 25,
+      "fat": 15,
+      "carbs": 65
+    },
+    "youtube_url": "https://www.youtube.com/results?search_query=palak%20paneer%20recipe%20recipe"
   },
   "vizz_daily_total_from_meals": {
-    "cal": 1700,
-    "protein": 72,
-    "fat": 45,
+    "cal": 1400,
+    "protein": 51,
+    "fat": 29,
     "carbs": 200
   },
   "vizz_daily_total_with_shake": {
-    "cal": 2000,
-    "protein": 112,
-    "fat": 50,
+    "cal": 1700,
+    "protein": 91,
+    "fat": 34,
     "carbs": 225
   },
-  "macro_check": "Meals plus shake meet 2000/110/60/215 target; protein slightly exceeds."
+  "macro_check": "Falls short on protein; needs ~19g more to hit the target."
 }

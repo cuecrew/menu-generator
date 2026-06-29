@@ -1,104 +1,5 @@
 [
   {
-    "date": "2026-05-31 (Sunday)",
-    "date_display": "Sunday, May 31",
-    "date_short": "Sun · May 31",
-    "generated_label": "Generated last night for today",
-    "breakfast": {
-      "dish_hindi": "मशरूम परांठा, दही और उबले अंडे",
-      "dish_english": "Mushroom Paratha with Curd and Boiled Eggs",
-      "ingredients_hindi": "गेहूं का आटा, मशरूम, दही, उबले अंडे, मसाले",
-      "ingredients_list_hi": [
-        "गेहूं का आटा",
-        "मशरूम",
-        "दही",
-        "उबले अंडे",
-        "मसाले"
-      ],
-      "ingredients_list_en": [
-        "Wheat Flour",
-        "Mushrooms",
-        "Curd",
-        "Boiled Eggs",
-        "Spices"
-      ],
-      "prep_notes_hi": "मशरूम को अच्छे से धोकर बारीक काट लें। आटे में मशरूम मिश्रण भरकर परांठा बेलें।",
-      "prep_notes_en": "Wash and finely chop the mushrooms. Stuff the dough with the mushroom mixture and roll into parathas.",
-      "vizz_macros": {
-        "cal": 400,
-        "protein": 14,
-        "fat": 12,
-        "carbs": 60
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=mushroom%20paratha%20recipe%20recipe"
-    },
-    "lunch": {
-      "dish_hindi": "चने पुलाव के साथ पापड़",
-      "dish_english": "Chana Pulao with Papad",
-      "ingredients_hindi": "चने, बासमती चावल, पापड़, मसाले",
-      "ingredients_list_hi": [
-        "चने",
-        "बासमती चावल",
-        "पापड़",
-        "मसाले"
-      ],
-      "ingredients_list_en": [
-        "Chickpeas",
-        "Basmati Rice",
-        "Papad",
-        "Spices"
-      ],
-      "prep_notes_hi": "चने और चावल को मिलाएं। इसे पापड़ के साथ सर्व करें। यह लंच के लिए उपयुक्त है।",
-      "prep_notes_en": "Combine the chickpeas and rice. Serve with papad. Suitable for lunch.",
-      "vizz_macros": {
-        "cal": 450,
-        "protein": 16,
-        "fat": 8,
-        "carbs": 80
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=chana%20pulao%20recipe%20recipe"
-    },
-    "dinner": {
-      "dish_hindi": "वेज मंचूरियन नूडल्स",
-      "dish_english": "Veg Manchurian Noodles",
-      "ingredients_hindi": "हरी सब्जियां, नूडल्स, सोया सॉस, मसाले",
-      "ingredients_list_hi": [
-        "हरी सब्जियां",
-        "नूडल्स",
-        "सोया सॉस",
-        "मसाले"
-      ],
-      "ingredients_list_en": [
-        "Green Vegetables",
-        "Noodles",
-        "Soy Sauce",
-        "Spices"
-      ],
-      "prep_notes_hi": "वेज मंचूरियन बॉल्स बनाकर नूडल्स में मिलाएं।",
-      "prep_notes_en": "Prepare veg Manchurian balls and mix with noodles.",
-      "vizz_macros": {
-        "cal": 550,
-        "protein": 18,
-        "fat": 14,
-        "carbs": 95
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=veg%20manchurian%20noodles%20recipe%20recipe"
-    },
-    "vizz_daily_total_from_meals": {
-      "cal": 1400,
-      "protein": 48,
-      "fat": 34,
-      "carbs": 235
-    },
-    "vizz_daily_total_with_shake": {
-      "cal": 1700,
-      "protein": 88,
-      "fat": 39,
-      "carbs": 260
-    },
-    "macro_check": "Calorie and carb targets are met. Protein is slightly below target; consider additional protein sources."
-  },
-  {
     "date": "2026-06-01 (Monday)",
     "date_display": "Monday, June 1",
     "date_short": "Mon · Jun 1",
@@ -3628,5 +3529,116 @@
       "carbs": 225
     },
     "macro_check": "Meals plus shake meet 2000/110/60/215 target; protein slightly exceeds."
+  },
+  {
+    "date": "2026-06-30 (Tuesday)",
+    "date_display": "Tuesday, June 30",
+    "date_short": "Tue · Jun 30",
+    "generated_label": "Generated last night for today",
+    "breakfast": {
+      "dish_hindi": "उपमा, उबला अंडा (केवल Vizz और Flatmate-2 के लिए)",
+      "dish_english": "Upma, Boiled Egg (for Vizz and Flatmate-2 only)",
+      "ingredients_hindi": "सूजी, प्याज, हरी मिर्च, सरसों के दाने, करी पत्ता",
+      "ingredients_list_hi": [
+        "सूजी",
+        "प्याज",
+        "हरी मिर्च",
+        "सरसों के दाने",
+        "करी पत्ता"
+      ],
+      "ingredients_list_en": [
+        "Semolina (Suji)",
+        "Onion",
+        "Green Chili",
+        "Mustard Seeds",
+        "Curry Leaves"
+      ],
+      "prep_notes_hi": "सूजी को पहले सूखा भूने। प्याज और हरी मिर्च को हल्का तलें। तब तक पकाएं जब तक सूजी नरम न हो जाए।",
+      "prep_notes_en": "Dry roast the semolina first. Lightly fry the onions and green chilies. Cook until the semolina is soft.",
+      "vizz_macros": {
+        "cal": 300,
+        "protein": 8,
+        "fat": 6,
+        "carbs": 50
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=upma%20recipe%20hindi%20recipe"
+    },
+    "lunch": {
+      "dish_hindi": "चना दाल बिरयानी, दही",
+      "dish_english": "Chana Dal Biryani with Yogurt",
+      "ingredients_hindi": "बासमती चावल, चना दाल, प्याज, टमाटर, गरम मसाला, दही",
+      "ingredients_list_hi": [
+        "बासमती चावल",
+        "चना दाल",
+        "प्याज",
+        "टमाटर",
+        "गरम मसाला",
+        "दही"
+      ],
+      "ingredients_list_en": [
+        "Basmati Rice",
+        "Chana Dal (Split Chickpeas)",
+        "Onion",
+        "Tomato",
+        "Garam Masala",
+        "Yogurt"
+      ],
+      "prep_notes_hi": "यह एक सूखा पकवान है और यात्रा के लिए उपयुक्त है। माइक्रोवेव में आसानी से गरम किया जा सकता है।",
+      "prep_notes_en": "This is a dry dish suitable for travel. It can be easily reheated in a microwave.",
+      "vizz_macros": {
+        "cal": 500,
+        "protein": 18,
+        "fat": 8,
+        "carbs": 85
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=chana%20dal%20biryani%20recipe%20recipe"
+    },
+    "dinner": {
+      "dish_hindi": "पालक पनीर, रोटी, आम का अचार",
+      "dish_english": "Palak Paneer, Roti, Mango Pickle",
+      "ingredients_hindi": "पालक, पनीर, प्याज, हरी मिर्च, अदरक, लहसुन, गरम मसाला, रोटी",
+      "ingredients_list_hi": [
+        "पालक",
+        "पनीर",
+        "प्याज",
+        "हरी मिर्च",
+        "अदरक",
+        "लहसुन",
+        "गरम मसाला",
+        "रोटी"
+      ],
+      "ingredients_list_en": [
+        "Spinach",
+        "Paneer",
+        "Onion",
+        "Green Chili",
+        "Ginger",
+        "Garlic",
+        "Garam Masala",
+        "Roti"
+      ],
+      "prep_notes_hi": "पालक को हल्का उबालें और उसे पीस लें। पनीर को हल्का भूने और मसाले मिलाकर पकाएं।",
+      "prep_notes_en": "Blanch the spinach lightly and blend it. Lightly fry the paneer and cook it with spices.",
+      "vizz_macros": {
+        "cal": 600,
+        "protein": 25,
+        "fat": 15,
+        "carbs": 65
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=palak%20paneer%20recipe%20recipe"
+    },
+    "vizz_daily_total_from_meals": {
+      "cal": 1400,
+      "protein": 51,
+      "fat": 29,
+      "carbs": 200
+    },
+    "vizz_daily_total_with_shake": {
+      "cal": 1700,
+      "protein": 91,
+      "fat": 34,
+      "carbs": 225
+    },
+    "macro_check": "Falls short on protein; needs ~19g more to hit the target."
   }
 ]
