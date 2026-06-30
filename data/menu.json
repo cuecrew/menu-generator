@@ -1,111 +1,101 @@
 {
-  "date": "2026-06-30 (Tuesday)",
-  "date_display": "Tuesday, June 30",
-  "date_short": "Tue · Jun 30",
+  "date": "2026-07-01 (Wednesday)",
+  "date_display": "Wednesday, July 1",
+  "date_short": "Wed · Jul 1",
   "generated_label": "Generated last night for today",
   "breakfast": {
-    "dish_hindi": "उपमा, उबला अंडा (केवल Vizz और Flatmate-2 के लिए)",
-    "dish_english": "Upma, Boiled Egg (for Vizz and Flatmate-2 only)",
-    "ingredients_hindi": "सूजी, प्याज, हरी मिर्च, सरसों के दाने, करी पत्ता",
+    "dish_hindi": "मसाला ओट्स, उबला हुआ अंडा",
+    "dish_english": "Masala Oats, Boiled Egg",
+    "ingredients_hindi": "ओट्स, सब्जियाँ, मसाला, उबला हुआ अंडा",
     "ingredients_list_hi": [
-      "सूजी",
-      "प्याज",
-      "हरी मिर्च",
-      "सरसों के दाने",
-      "करी पत्ता"
+      "ओट्स",
+      "सब्जियाँ",
+      "मसाला",
+      "उबला हुआ अंडा"
     ],
     "ingredients_list_en": [
-      "Semolina (Suji)",
-      "Onion",
-      "Green Chili",
-      "Mustard Seeds",
-      "Curry Leaves"
+      "Oats",
+      "Vegetables",
+      "Spices",
+      "Boiled Egg"
     ],
-    "prep_notes_hi": "सूजी को पहले सूखा भूने। प्याज और हरी मिर्च को हल्का तलें। तब तक पकाएं जब तक सूजी नरम न हो जाए।",
-    "prep_notes_en": "Dry roast the semolina first. Lightly fry the onions and green chilies. Cook until the semolina is soft.",
+    "prep_notes_hi": "सब्जियों को ओट्स के साथ अच्छे से पकाएं। स्वाद बढ़ाने के लिए ताजा मसाले डालें।",
+    "prep_notes_en": "Cook vegetables well with the oats. Add fresh spices for enhanced flavor.",
     "vizz_macros": {
-      "cal": 300,
-      "protein": 8,
-      "fat": 6,
-      "carbs": 50
+      "cal": 370,
+      "protein": 18,
+      "fat": 10,
+      "carbs": 52
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=upma%20recipe%20hindi%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=masala%20oats%20recipe%20recipe"
   },
   "lunch": {
-    "dish_hindi": "चना दाल बिरयानी, दही",
-    "dish_english": "Chana Dal Biryani with Yogurt",
-    "ingredients_hindi": "बासमती चावल, चना दाल, प्याज, टमाटर, गरम मसाला, दही",
+    "dish_hindi": "राजमा चावल, हरी चटनी",
+    "dish_english": "Rajma with Rice, Green Chutney",
+    "ingredients_hindi": "राजमा, चावल, टमाटर, मसाला, हरी चटनी",
     "ingredients_list_hi": [
-      "बासमती चावल",
-      "चना दाल",
-      "प्याज",
+      "राजमा",
+      "चावल",
       "टमाटर",
-      "गरम मसाला",
-      "दही"
+      "मसाला",
+      "हरी चटनी"
     ],
     "ingredients_list_en": [
-      "Basmati Rice",
-      "Chana Dal (Split Chickpeas)",
-      "Onion",
+      "Kidney Beans",
+      "Rice",
       "Tomato",
-      "Garam Masala",
-      "Yogurt"
+      "Spices",
+      "Green Chutney"
     ],
-    "prep_notes_hi": "यह एक सूखा पकवान है और यात्रा के लिए उपयुक्त है। माइक्रोवेव में आसानी से गरम किया जा सकता है।",
-    "prep_notes_en": "This is a dry dish suitable for travel. It can be easily reheated in a microwave.",
+    "prep_notes_hi": "राजमा और चावल अलग-अलग पका कर अच्छे से पैक करें। दिन में गरम करके खा सकते हैं।",
+    "prep_notes_en": "Cook rajma and rice separately and pack well. Can be reheated during the day.",
     "vizz_macros": {
-      "cal": 500,
-      "protein": 18,
-      "fat": 8,
-      "carbs": 85
+      "cal": 690,
+      "protein": 32,
+      "fat": 7,
+      "carbs": 130
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=chana%20dal%20biryani%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=rajma%20recipe%20recipe"
   },
   "dinner": {
-    "dish_hindi": "पालक पनीर, रोटी, आम का अचार",
-    "dish_english": "Palak Paneer, Roti, Mango Pickle",
-    "ingredients_hindi": "पालक, पनीर, प्याज, हरी मिर्च, अदरक, लहसुन, गरम मसाला, रोटी",
+    "dish_hindi": "पनीर मसाला और लच्छा पराठा, कटा प्याज",
+    "dish_english": "Paneer Masala with Laccha Paratha, Sliced Onion",
+    "ingredients_hindi": "पनीर, मसाले, घी, आटा, प्याज",
     "ingredients_list_hi": [
-      "पालक",
       "पनीर",
-      "प्याज",
-      "हरी मिर्च",
-      "अदरक",
-      "लहसुन",
-      "गरम मसाला",
-      "रोटी"
+      "मसाले",
+      "घी",
+      "आटा",
+      "प्याज"
     ],
     "ingredients_list_en": [
-      "Spinach",
       "Paneer",
-      "Onion",
-      "Green Chili",
-      "Ginger",
-      "Garlic",
-      "Garam Masala",
-      "Roti"
+      "Spices",
+      "Ghee",
+      "Wheat Flour",
+      "Onion"
     ],
-    "prep_notes_hi": "पालक को हल्का उबालें और उसे पीस लें। पनीर को हल्का भूने और मसाले मिलाकर पकाएं।",
-    "prep_notes_en": "Blanch the spinach lightly and blend it. Lightly fry the paneer and cook it with spices.",
+    "prep_notes_hi": "पनीर को मसालों में अच्छी तरह से पकाएं और पराठा गोल आकार में बेलें।",
+    "prep_notes_en": "Cook the paneer well with spices and roll paratha into round shapes.",
     "vizz_macros": {
-      "cal": 600,
-      "protein": 25,
-      "fat": 15,
-      "carbs": 65
+      "cal": 640,
+      "protein": 20,
+      "fat": 30,
+      "carbs": 60
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=palak%20paneer%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=paneer%20masala%20recipe%20recipe"
   },
   "vizz_daily_total_from_meals": {
-    "cal": 1400,
-    "protein": 51,
-    "fat": 29,
-    "carbs": 200
+    "cal": 1700,
+    "protein": 70,
+    "fat": 47,
+    "carbs": 242
   },
   "vizz_daily_total_with_shake": {
-    "cal": 1700,
-    "protein": 91,
-    "fat": 34,
-    "carbs": 225
+    "cal": 2000,
+    "protein": 110,
+    "fat": 52,
+    "carbs": 267
   },
-  "macro_check": "Falls short on protein; needs ~19g more to hit the target."
+  "macro_check": "Protein and calorie targets are met with shake included. Carbs are slightly exceeded by 52g."
 }
