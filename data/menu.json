@@ -1,101 +1,123 @@
 {
-  "date": "2026-07-01 (Wednesday)",
-  "date_display": "Wednesday, July 1",
-  "date_short": "Wed · Jul 1",
+  "date": "2026-07-02 (Thursday)",
+  "date_display": "Thursday, July 2",
+  "date_short": "Thu · Jul 2",
   "generated_label": "Generated last night for today",
   "breakfast": {
-    "dish_hindi": "मसाला ओट्स, उबला हुआ अंडा",
-    "dish_english": "Masala Oats, Boiled Egg",
-    "ingredients_hindi": "ओट्स, सब्जियाँ, मसाला, उबला हुआ अंडा",
+    "dish_hindi": "वेजिटेबल दलिया, उबला अंडा (Vizz और Flatmate-2 के लिए)",
+    "dish_english": "Vegetable Dalia, Boiled Egg (for Vizz and Flatmate-2)",
+    "ingredients_hindi": "दलिया, गाजर, मटर, शिमला मिर्च, प्याज, हरी मिर्च, अदरक, नमक, उबला अंडा",
     "ingredients_list_hi": [
-      "ओट्स",
-      "सब्जियाँ",
-      "मसाला",
-      "उबला हुआ अंडा"
+      "दलिया",
+      "गाजर",
+      "मटर",
+      "शिमला मिर्च",
+      "प्याज",
+      "हरी मिर्च",
+      "अदरक",
+      "नमक",
+      "उबला अंडा"
     ],
     "ingredients_list_en": [
-      "Oats",
-      "Vegetables",
-      "Spices",
+      "Dalia (broken wheat)",
+      "Carrot",
+      "Green Peas",
+      "Bell Pepper",
+      "Onion",
+      "Green Chilli",
+      "Ginger",
+      "Salt",
       "Boiled Egg"
     ],
-    "prep_notes_hi": "सब्जियों को ओट्स के साथ अच्छे से पकाएं। स्वाद बढ़ाने के लिए ताजा मसाले डालें।",
-    "prep_notes_en": "Cook vegetables well with the oats. Add fresh spices for enhanced flavor.",
+    "prep_notes_hi": "दलिया को अच्छे से धो लें और सब्जियों के साथ धीमी आंच पर पकाएं। स्वादयीन बनाने के लिए नमक मिलाएं।",
+    "prep_notes_en": "Rinse the dalia well and cook with vegetables on low heat. Add salt to taste for flavor.",
     "vizz_macros": {
-      "cal": 370,
-      "protein": 18,
-      "fat": 10,
-      "carbs": 52
+      "cal": 320,
+      "protein": 14,
+      "fat": 7,
+      "carbs": 54
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=masala%20oats%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=vegetable%20dalia%20recipe%20recipe"
   },
   "lunch": {
-    "dish_hindi": "राजमा चावल, हरी चटनी",
-    "dish_english": "Rajma with Rice, Green Chutney",
-    "ingredients_hindi": "राजमा, चावल, टमाटर, मसाला, हरी चटनी",
+    "dish_hindi": "नींबू चावल, रायता",
+    "dish_english": "Lemon Rice with Raita",
+    "ingredients_hindi": "बासमती चावल, नींबू, मूँगफली, सरसों के दाने, करी पत्ता, हरी मिर्च, अदरक, रायता सामग्री",
     "ingredients_list_hi": [
-      "राजमा",
-      "चावल",
-      "टमाटर",
-      "मसाला",
-      "हरी चटनी"
+      "बासमती चावल",
+      "नींबू",
+      "मूँगफली",
+      "सरसों के दाने",
+      "करी पत्ता",
+      "हरी मिर्च",
+      "अदरक",
+      "रायता सामग्री"
     ],
     "ingredients_list_en": [
-      "Kidney Beans",
-      "Rice",
-      "Tomato",
-      "Spices",
-      "Green Chutney"
+      "Basmati Rice",
+      "Lemon",
+      "Peanuts",
+      "Mustard Seeds",
+      "Curry Leaves",
+      "Green Chilli",
+      "Ginger",
+      "Raita Ingredients"
     ],
-    "prep_notes_hi": "राजमा और चावल अलग-अलग पका कर अच्छे से पैक करें। दिन में गरम करके खा सकते हैं।",
-    "prep_notes_en": "Cook rajma and rice separately and pack well. Can be reheated during the day.",
+    "prep_notes_hi": "यह चावल लंच के लिए अच्छी तरह से यात्रा कर सकता है और गरम किया जा सकता है। चावल को नींबू के रस और तड़के के साथ मिलाएं।",
+    "prep_notes_en": "This rice travels well for lunch and can be reheated. Mix rice with lemon juice and tempering.",
     "vizz_macros": {
-      "cal": 690,
-      "protein": 32,
-      "fat": 7,
-      "carbs": 130
+      "cal": 450,
+      "protein": 9,
+      "fat": 12,
+      "carbs": 78
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=rajma%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=lemon%20rice%20recipe%20recipe"
   },
   "dinner": {
-    "dish_hindi": "पनीर मसाला और लच्छा पराठा, कटा प्याज",
-    "dish_english": "Paneer Masala with Laccha Paratha, Sliced Onion",
-    "ingredients_hindi": "पनीर, मसाले, घी, आटा, प्याज",
+    "dish_hindi": "मटर पनीर करी, चपाती",
+    "dish_english": "Matar Paneer Curry with Chapati",
+    "ingredients_hindi": "पनीर, मटर, टमाटर, प्याज, अदरक-लहसुन पेस्ट, लाल मिर्च पाउडर, गरम मसाला, चपाती सामग्री",
     "ingredients_list_hi": [
       "पनीर",
-      "मसाले",
-      "घी",
-      "आटा",
-      "प्याज"
+      "मटर",
+      "टमाटर",
+      "प्याज",
+      "अदरक-लहसुन पेस्ट",
+      "लाल मिर्च पाउडर",
+      "गरम मसाला",
+      "चपाती सामग्री"
     ],
     "ingredients_list_en": [
       "Paneer",
-      "Spices",
-      "Ghee",
-      "Wheat Flour",
-      "Onion"
+      "Green Peas",
+      "Tomato",
+      "Onion",
+      "Ginger-Garlic Paste",
+      "Red Chilli Powder",
+      "Garam Masala",
+      "Chapati Ingredients"
     ],
-    "prep_notes_hi": "पनीर को मसालों में अच्छी तरह से पकाएं और पराठा गोल आकार में बेलें।",
-    "prep_notes_en": "Cook the paneer well with spices and roll paratha into round shapes.",
+    "prep_notes_hi": "प्याज, अदरक-लहसुन पेस्ट को तेल में भूनें, फिर टमाटर और मसाले डालें। पनीर और मटर को मिलाएं और धीमी आंच पर पकाएं।",
+    "prep_notes_en": "Saute onion, ginger-garlic paste in oil, then add tomatoes and spices. Mix paneer and peas, cook on low heat.",
     "vizz_macros": {
-      "cal": 640,
+      "cal": 620,
       "protein": 20,
-      "fat": 30,
-      "carbs": 60
+      "fat": 22,
+      "carbs": 80
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=paneer%20masala%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=matar%20paneer%20curry%20recipe%20recipe"
   },
   "vizz_daily_total_from_meals": {
-    "cal": 1700,
-    "protein": 70,
-    "fat": 47,
-    "carbs": 242
+    "cal": 1390,
+    "protein": 43,
+    "fat": 41,
+    "carbs": 212
   },
   "vizz_daily_total_with_shake": {
-    "cal": 2000,
-    "protein": 110,
-    "fat": 52,
-    "carbs": 267
+    "cal": 1690,
+    "protein": 83,
+    "fat": 46,
+    "carbs": 237
   },
-  "macro_check": "Protein and calorie targets are met with shake included. Carbs are slightly exceeded by 52g."
+  "macro_check": "Hits carbs target; protein slightly low, total calories below needed."
 }

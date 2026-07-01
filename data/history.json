@@ -1,142 +1,5 @@
 [
   {
-    "date": "2026-06-02 (Tuesday)",
-    "date_display": "Tuesday, June 2",
-    "date_short": "Tue · Jun 2",
-    "generated_label": "Generated last night for today",
-    "breakfast": {
-      "dish_hindi": "साबूदाना खिचड़ी और उबला हुआ अंडा",
-      "dish_english": "Sabudana Khichdi with Boiled Egg",
-      "ingredients_hindi": "साबूदाना, मूंगफली, आलू, हरी मिर्च, करी पत्ते, जीरा, नींबू, नमक, उबला हुआ अंडा",
-      "ingredients_list_hi": [
-        "साबूदाना",
-        "मूंगफली",
-        "आलू",
-        "हरी मिर्च",
-        "करी पत्ते",
-        "जीरा",
-        "नींबू",
-        "नमक",
-        "उबला हुआ अंडा"
-      ],
-      "ingredients_list_en": [
-        "Sabudana (tapioca pearls)",
-        "Peanuts",
-        "Potato",
-        "Green chilies",
-        "Curry leaves",
-        "Cumin seeds",
-        "Lemon",
-        "Salt",
-        "Boiled Egg"
-      ],
-      "prep_notes_hi": "साबूदाना को भिगो कर रखें ताकि यह अच्छी तरह से फूले। मूंगफली को भूनकर दरदरा पीस लें। आलू को छोटे टुकड़ों में काटें और कुरकुरा होने तक भूनें।",
-      "prep_notes_en": "Soak sabudana well in advance to let it expand properly. Roast and coarsely grind the peanuts. Dice the potatoes and fry them until crispy.",
-      "vizz_macros": {
-        "cal": 520,
-        "protein": 12,
-        "fat": 18,
-        "carbs": 79
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=sabudana%20khichdi%20recipe%20recipe"
-    },
-    "lunch": {
-      "dish_hindi": "पालक पनीर और चपाती",
-      "dish_english": "Palak Paneer with Chapati",
-      "ingredients_hindi": "पालक, पनीर, टमाटर, प्याज, अदरक, लहसुन, हरी मिर्च, गरम मसाला, जीरा, नमक, चपाती",
-      "ingredients_list_hi": [
-        "पालक",
-        "पनीर",
-        "टमाटर",
-        "प्याज",
-        "अदरक",
-        "लहसुन",
-        "हरी मिर्च",
-        "गरम मसाला",
-        "जीरा",
-        "नमक",
-        "चपाती"
-      ],
-      "ingredients_list_en": [
-        "Spinach",
-        "Paneer",
-        "Tomato",
-        "Onion",
-        "Ginger",
-        "Garlic",
-        "Green chilies",
-        "Garam masala",
-        "Cumin seeds",
-        "Salt",
-        "Chapati"
-      ],
-      "prep_notes_hi": "पालक को अच्छी तरह से धोकर उबाल लें। पनीर को हल्का फ्राई करें। यह डिश 4-5 घंटों तक ताजा रहती है और माइक्रोवेव में आसानी से गर्म हो जाती है।",
-      "prep_notes_en": "Thoroughly wash and boil the spinach. Lightly fry the paneer. This dish stays fresh for 4-5 hours and reheats well in a microwave.",
-      "vizz_macros": {
-        "cal": 720,
-        "protein": 30,
-        "fat": 25,
-        "carbs": 85
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=palak%20paneer%20recipe%20recipe"
-    },
-    "dinner": {
-      "dish_hindi": "चाइनीज़ वेज फ्राइड राइस और हक्का नूडल्स",
-      "dish_english": "Chinese Veg Fried Rice with Hakka Noodles",
-      "ingredients_hindi": "बासमती चावल, हक्का नूडल्स, शिमला मिर्च, गाजर, मटर, प्याज, अदरक का पेस्ट, लहसुन, सोया सॉस, विनेगर, नमक, तेल",
-      "ingredients_list_hi": [
-        "बासमती चावल",
-        "हक्का नूडल्स",
-        "शिमला मिर्च",
-        "गाजर",
-        "मटर",
-        "प्याज",
-        "अदरक का पेस्ट",
-        "लहसुन",
-        "सोया सॉस",
-        "विनेगर",
-        "नमक",
-        "तेल"
-      ],
-      "ingredients_list_en": [
-        "Basmati rice",
-        "Hakka noodles",
-        "Bell pepper",
-        "Carrot",
-        "Peas",
-        "Onion",
-        "Ginger paste",
-        "Garlic",
-        "Soy sauce",
-        "Vinegar",
-        "Salt",
-        "Oil"
-      ],
-      "prep_notes_hi": "सब्जियों को समान आकार में काटें ताकि पकने में समान समय लगे। प्याले में अदरक और लहसुन को हल्का भूनें।",
-      "prep_notes_en": "Chop vegetables uniformly to ensure even cooking. Lightly sauté ginger and garlic in a pan.",
-      "vizz_macros": {
-        "cal": 460,
-        "protein": 12,
-        "fat": 10,
-        "carbs": 85
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=veg%20fried%20rice%20recipe%20recipe"
-    },
-    "vizz_daily_total_from_meals": {
-      "cal": 1700,
-      "protein": 54,
-      "fat": 53,
-      "carbs": 249
-    },
-    "vizz_daily_total_with_shake": {
-      "cal": 2000,
-      "protein": 94,
-      "fat": 58,
-      "carbs": 274
-    },
-    "macro_check": "This hits 2000 cal, 94g protein, 58g fat, 274g carbs. Protein slightly below target."
-  },
-  {
     "date": "2026-06-03 (Wednesday)",
     "date_display": "Wednesday, June 3",
     "date_short": "Wed · Jun 3",
@@ -3626,5 +3489,128 @@
       "carbs": 267
     },
     "macro_check": "Protein and calorie targets are met with shake included. Carbs are slightly exceeded by 52g."
+  },
+  {
+    "date": "2026-07-02 (Thursday)",
+    "date_display": "Thursday, July 2",
+    "date_short": "Thu · Jul 2",
+    "generated_label": "Generated last night for today",
+    "breakfast": {
+      "dish_hindi": "वेजिटेबल दलिया, उबला अंडा (Vizz और Flatmate-2 के लिए)",
+      "dish_english": "Vegetable Dalia, Boiled Egg (for Vizz and Flatmate-2)",
+      "ingredients_hindi": "दलिया, गाजर, मटर, शिमला मिर्च, प्याज, हरी मिर्च, अदरक, नमक, उबला अंडा",
+      "ingredients_list_hi": [
+        "दलिया",
+        "गाजर",
+        "मटर",
+        "शिमला मिर्च",
+        "प्याज",
+        "हरी मिर्च",
+        "अदरक",
+        "नमक",
+        "उबला अंडा"
+      ],
+      "ingredients_list_en": [
+        "Dalia (broken wheat)",
+        "Carrot",
+        "Green Peas",
+        "Bell Pepper",
+        "Onion",
+        "Green Chilli",
+        "Ginger",
+        "Salt",
+        "Boiled Egg"
+      ],
+      "prep_notes_hi": "दलिया को अच्छे से धो लें और सब्जियों के साथ धीमी आंच पर पकाएं। स्वादयीन बनाने के लिए नमक मिलाएं।",
+      "prep_notes_en": "Rinse the dalia well and cook with vegetables on low heat. Add salt to taste for flavor.",
+      "vizz_macros": {
+        "cal": 320,
+        "protein": 14,
+        "fat": 7,
+        "carbs": 54
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=vegetable%20dalia%20recipe%20recipe"
+    },
+    "lunch": {
+      "dish_hindi": "नींबू चावल, रायता",
+      "dish_english": "Lemon Rice with Raita",
+      "ingredients_hindi": "बासमती चावल, नींबू, मूँगफली, सरसों के दाने, करी पत्ता, हरी मिर्च, अदरक, रायता सामग्री",
+      "ingredients_list_hi": [
+        "बासमती चावल",
+        "नींबू",
+        "मूँगफली",
+        "सरसों के दाने",
+        "करी पत्ता",
+        "हरी मिर्च",
+        "अदरक",
+        "रायता सामग्री"
+      ],
+      "ingredients_list_en": [
+        "Basmati Rice",
+        "Lemon",
+        "Peanuts",
+        "Mustard Seeds",
+        "Curry Leaves",
+        "Green Chilli",
+        "Ginger",
+        "Raita Ingredients"
+      ],
+      "prep_notes_hi": "यह चावल लंच के लिए अच्छी तरह से यात्रा कर सकता है और गरम किया जा सकता है। चावल को नींबू के रस और तड़के के साथ मिलाएं।",
+      "prep_notes_en": "This rice travels well for lunch and can be reheated. Mix rice with lemon juice and tempering.",
+      "vizz_macros": {
+        "cal": 450,
+        "protein": 9,
+        "fat": 12,
+        "carbs": 78
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=lemon%20rice%20recipe%20recipe"
+    },
+    "dinner": {
+      "dish_hindi": "मटर पनीर करी, चपाती",
+      "dish_english": "Matar Paneer Curry with Chapati",
+      "ingredients_hindi": "पनीर, मटर, टमाटर, प्याज, अदरक-लहसुन पेस्ट, लाल मिर्च पाउडर, गरम मसाला, चपाती सामग्री",
+      "ingredients_list_hi": [
+        "पनीर",
+        "मटर",
+        "टमाटर",
+        "प्याज",
+        "अदरक-लहसुन पेस्ट",
+        "लाल मिर्च पाउडर",
+        "गरम मसाला",
+        "चपाती सामग्री"
+      ],
+      "ingredients_list_en": [
+        "Paneer",
+        "Green Peas",
+        "Tomato",
+        "Onion",
+        "Ginger-Garlic Paste",
+        "Red Chilli Powder",
+        "Garam Masala",
+        "Chapati Ingredients"
+      ],
+      "prep_notes_hi": "प्याज, अदरक-लहसुन पेस्ट को तेल में भूनें, फिर टमाटर और मसाले डालें। पनीर और मटर को मिलाएं और धीमी आंच पर पकाएं।",
+      "prep_notes_en": "Saute onion, ginger-garlic paste in oil, then add tomatoes and spices. Mix paneer and peas, cook on low heat.",
+      "vizz_macros": {
+        "cal": 620,
+        "protein": 20,
+        "fat": 22,
+        "carbs": 80
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=matar%20paneer%20curry%20recipe%20recipe"
+    },
+    "vizz_daily_total_from_meals": {
+      "cal": 1390,
+      "protein": 43,
+      "fat": 41,
+      "carbs": 212
+    },
+    "vizz_daily_total_with_shake": {
+      "cal": 1690,
+      "protein": 83,
+      "fat": 46,
+      "carbs": 237
+    },
+    "macro_check": "Hits carbs target; protein slightly low, total calories below needed."
   }
 ]
