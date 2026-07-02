@@ -1,124 +1,5 @@
 [
   {
-    "date": "2026-06-03 (Wednesday)",
-    "date_display": "Wednesday, June 3",
-    "date_short": "Wed · Jun 3",
-    "generated_label": "Generated last night for today",
-    "breakfast": {
-      "dish_hindi": "अंडा पराठा और दही",
-      "dish_english": "Egg Paratha with Curd",
-      "ingredients_hindi": "गेहूं का आटा, अंडा, दही, हरी मिर्च, धनिया पत्ता, नमक",
-      "ingredients_list_hi": [
-        "गेहूं का आटा",
-        "अंडा",
-        "दही",
-        "हरी मिर्च",
-        "धनिया पत्ता",
-        "नमक"
-      ],
-      "ingredients_list_en": [
-        "Wheat flour",
-        "Egg",
-        "Curd",
-        "Green chilies",
-        "Coriander leaves",
-        "Salt"
-      ],
-      "prep_notes_hi": "पराठे के लिए आटे को नरम गूंथें। अंडे का मिश्रण फैलाएं। धीमी आंच पर सेंकें ताकि पराठा अंदर तक पक जाए।",
-      "prep_notes_en": "Knead the dough to a soft consistency. Spread the egg mixture. Cook on a slow flame to ensure the paratha cooks through.",
-      "vizz_macros": {
-        "cal": 450,
-        "protein": 20,
-        "fat": 12,
-        "carbs": 55
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=egg%20paratha%20recipe%20hindi%20recipe"
-    },
-    "lunch": {
-      "dish_hindi": "मूंग दाल खिचड़ी और चटनी",
-      "dish_english": "Moong Dal Khichdi with Chutney",
-      "ingredients_hindi": "चावल, मूंग दाल, आलू, टमाटर, हरी मिर्च, अदरक, जीरा, हींग, नमक",
-      "ingredients_list_hi": [
-        "चावल",
-        "मूंग दाल",
-        "आलू",
-        "टमाटर",
-        "हरी मिर्च",
-        "अदरक",
-        "जीरा",
-        "हींग",
-        "नमक"
-      ],
-      "ingredients_list_en": [
-        "Rice",
-        "Moong dal",
-        "Potatoes",
-        "Tomato",
-        "Green chilies",
-        "Ginger",
-        "Cumin seeds",
-        "Asafoetida",
-        "Salt"
-      ],
-      "prep_notes_hi": "खिचड़ी को धीमी आंच पर पकाएं। इसे टिफिन में रखने के लिए थोड़ा सूखा बनाएं ताकि यह अच्छी तरह से यात्रा कर सके।",
-      "prep_notes_en": "Cook the khichdi on a low flame. Make it slightly dry for packing, so it travels well in a tiffin.",
-      "vizz_macros": {
-        "cal": 550,
-        "protein": 22,
-        "fat": 8,
-        "carbs": 95
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=moong%20dal%20khichdi%20recipe%20recipe"
-    },
-    "dinner": {
-      "dish_hindi": "पास्ता और हर्ब ब्रेड के साथ मिक्स्ड वेजिटेबल पास्ता",
-      "dish_english": "Mixed Vegetable Pasta with Herb Bread",
-      "ingredients_hindi": "पास्ता, शिमला मिर्च, गाजर, बीन्स, टमाटर सॉस, नमक, काली मिर्च, हर्ब ब्रेड",
-      "ingredients_list_hi": [
-        "पास्ता",
-        "शिमला मिर्च",
-        "गाजर",
-        "बीन्स",
-        "टमाटर सॉस",
-        "नमक",
-        "काली मिर्च",
-        "हर्ब ब्रेड"
-      ],
-      "ingredients_list_en": [
-        "Pasta",
-        "Bell peppers",
-        "Carrots",
-        "Beans",
-        "Tomato sauce",
-        "Salt",
-        "Black pepper",
-        "Herb bread"
-      ],
-      "prep_notes_hi": "सब्जियों को क्यूब्स में काटें। पास्ता को उबाल कर सब्जियों के साथ मिलाएं। हर्ब ब्रेड को गार्निश के रूप में परोसें।",
-      "prep_notes_en": "Dice the vegetables. Boil the pasta and mix with vegetables. Serve herb bread as a garnish.",
-      "vizz_macros": {
-        "cal": 700,
-        "protein": 18,
-        "fat": 25,
-        "carbs": 90
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=mixed%20vegetable%20pasta%20recipe%20recipe"
-    },
-    "vizz_daily_total_from_meals": {
-      "cal": 1700,
-      "protein": 60,
-      "fat": 45,
-      "carbs": 240
-    },
-    "vizz_daily_total_with_shake": {
-      "cal": 2000,
-      "protein": 100,
-      "fat": 50,
-      "carbs": 265
-    },
-    "macro_check": "Slightly low on protein; overall macros are close to target, with carbs slightly over."
-  },
-  {
     "date": "2026-06-04 (Thursday)",
     "date_display": "Thursday, June 4",
     "date_short": "Thu · Jun 4",
@@ -3612,5 +3493,142 @@
       "carbs": 237
     },
     "macro_check": "Hits carbs target; protein slightly low, total calories below needed."
+  },
+  {
+    "date": "2026-07-03 (Friday)",
+    "date_display": "Friday, July 3",
+    "date_short": "Fri · Jul 3",
+    "generated_label": "Generated last night for today",
+    "breakfast": {
+      "dish_hindi": "चना मूँगफली उपमा, उबला अंडा",
+      "dish_english": "Chana Peanut Upma with Boiled Egg",
+      "ingredients_hindi": "सूजी, चना, मूँगफली, प्याज, गाजर, मटर, सरसों के बीज, करी पत्ते, हल्दी, नमक, उबला अंडा",
+      "ingredients_list_hi": [
+        "सूजी",
+        "चना",
+        "मूँगफली",
+        "प्याज",
+        "गाजर",
+        "मटर",
+        "सरसों के बीज",
+        "करी पत्ते",
+        "हल्दी",
+        "नमक",
+        "उबला अंडा"
+      ],
+      "ingredients_list_en": [
+        "Semolina",
+        "Chana",
+        "Peanuts",
+        "Onion",
+        "Carrot",
+        "Peas",
+        "Mustard seeds",
+        "Curry leaves",
+        "Turmeric",
+        "Salt",
+        "Boiled Egg"
+      ],
+      "prep_notes_hi": "सबसे पहले चने और मूँगफली को भून लें। फिर प्याज और मसालों का तड़का लगाएं। सब्जियाँ मिलाएं और सूजी में पकाएं।",
+      "prep_notes_en": "First, roast the chana and peanuts. Then, sauté onions with spices. Add vegetables and cook with semolina.",
+      "vizz_macros": {
+        "cal": 420,
+        "protein": 14,
+        "fat": 17,
+        "carbs": 56
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=chana%20peanut%20upma%20recipe%20recipe"
+    },
+    "lunch": {
+      "dish_hindi": "काळा चना चावल, दही",
+      "dish_english": "Kala Chana Rice with Yogurt",
+      "ingredients_hindi": "काळा चना, चावल, प्याज, टमाटर, अदरक-लहसुन पेस्ट, हल्दी, गरम मसाला, नमक, दही",
+      "ingredients_list_hi": [
+        "काळा चना",
+        "चावल",
+        "प्याज",
+        "टमाटर",
+        "अदरक-लहसुन पेस्ट",
+        "हल्दी",
+        "गरम मसाला",
+        "नमक",
+        "दही"
+      ],
+      "ingredients_list_en": [
+        "Black chickpea",
+        "Rice",
+        "Onion",
+        "Tomato",
+        "Ginger-garlic paste",
+        "Turmeric",
+        "Garam masala",
+        "Salt",
+        "Yogurt"
+      ],
+      "prep_notes_hi": "काळा चना और चावल को धीमी आँच पर मसालों के साथ पकाएं। यह यात्रा के अनुकूल है और गरम करने योग्य है।",
+      "prep_notes_en": "Cook black chickpeas and rice on a slow flame with spices. It is travel-friendly and reheatable.",
+      "vizz_macros": {
+        "cal": 540,
+        "protein": 20,
+        "fat": 8,
+        "carbs": 94
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=kala%20chana%20rice%20recipe%20recipe"
+    },
+    "dinner": {
+      "dish_hindi": "पनीर भुर्जी, लच्छा पराठा, प्याज का सलाद",
+      "dish_english": "Paneer Bhurji with Laccha Paratha and Onion Salad",
+      "ingredients_hindi": "पनीर, प्याज, टमाटर, शिमला मिर्च, हरी मिर्च, अदरक, जीरा, गरम मसाला, हल्दी, नमक, पराठा, प्याज",
+      "ingredients_list_hi": [
+        "पनीर",
+        "प्याज",
+        "टमाटर",
+        "शिमला मिर्च",
+        "हरी मिर्च",
+        "अदरक",
+        "जीरा",
+        "गरम मसाला",
+        "हल्दी",
+        "नमक",
+        "पराठा",
+        "प्याज"
+      ],
+      "ingredients_list_en": [
+        "Paneer",
+        "Onion",
+        "Tomato",
+        "Capsicum",
+        "Green chili",
+        "Ginger",
+        "Cumin seeds",
+        "Garam masala",
+        "Turmeric",
+        "Salt",
+        "Paratha",
+        "Onion"
+      ],
+      "prep_notes_hi": "प्याज और मसालों को अच्छी तरह से भूनें। पनीर को तोड़कर मिलाएं और सब्जियाँ कच्ची न रहें।",
+      "prep_notes_en": "Sauté onions and spices well. Crumble and mix paneer, ensuring the vegetables are not raw.",
+      "vizz_macros": {
+        "cal": 740,
+        "protein": 36,
+        "fat": 30,
+        "carbs": 91
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=paneer%20bhurji%20recipe%20recipe"
+    },
+    "vizz_daily_total_from_meals": {
+      "cal": 1700,
+      "protein": 70,
+      "fat": 55,
+      "carbs": 241
+    },
+    "vizz_daily_total_with_shake": {
+      "cal": 2000,
+      "protein": 110,
+      "fat": 60,
+      "carbs": 266
+    },
+    "macro_check": "Calories, protein, and fat targets are met with slight overage in carbohydrates."
   }
 ]

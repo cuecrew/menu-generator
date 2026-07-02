@@ -1,123 +1,137 @@
 {
-  "date": "2026-07-02 (Thursday)",
-  "date_display": "Thursday, July 2",
-  "date_short": "Thu · Jul 2",
+  "date": "2026-07-03 (Friday)",
+  "date_display": "Friday, July 3",
+  "date_short": "Fri · Jul 3",
   "generated_label": "Generated last night for today",
   "breakfast": {
-    "dish_hindi": "वेजिटेबल दलिया, उबला अंडा (Vizz और Flatmate-2 के लिए)",
-    "dish_english": "Vegetable Dalia, Boiled Egg (for Vizz and Flatmate-2)",
-    "ingredients_hindi": "दलिया, गाजर, मटर, शिमला मिर्च, प्याज, हरी मिर्च, अदरक, नमक, उबला अंडा",
+    "dish_hindi": "चना मूँगफली उपमा, उबला अंडा",
+    "dish_english": "Chana Peanut Upma with Boiled Egg",
+    "ingredients_hindi": "सूजी, चना, मूँगफली, प्याज, गाजर, मटर, सरसों के बीज, करी पत्ते, हल्दी, नमक, उबला अंडा",
     "ingredients_list_hi": [
-      "दलिया",
+      "सूजी",
+      "चना",
+      "मूँगफली",
+      "प्याज",
       "गाजर",
       "मटर",
-      "शिमला मिर्च",
-      "प्याज",
-      "हरी मिर्च",
-      "अदरक",
+      "सरसों के बीज",
+      "करी पत्ते",
+      "हल्दी",
       "नमक",
       "उबला अंडा"
     ],
     "ingredients_list_en": [
-      "Dalia (broken wheat)",
-      "Carrot",
-      "Green Peas",
-      "Bell Pepper",
+      "Semolina",
+      "Chana",
+      "Peanuts",
       "Onion",
-      "Green Chilli",
-      "Ginger",
+      "Carrot",
+      "Peas",
+      "Mustard seeds",
+      "Curry leaves",
+      "Turmeric",
       "Salt",
       "Boiled Egg"
     ],
-    "prep_notes_hi": "दलिया को अच्छे से धो लें और सब्जियों के साथ धीमी आंच पर पकाएं। स्वादयीन बनाने के लिए नमक मिलाएं।",
-    "prep_notes_en": "Rinse the dalia well and cook with vegetables on low heat. Add salt to taste for flavor.",
+    "prep_notes_hi": "सबसे पहले चने और मूँगफली को भून लें। फिर प्याज और मसालों का तड़का लगाएं। सब्जियाँ मिलाएं और सूजी में पकाएं।",
+    "prep_notes_en": "First, roast the chana and peanuts. Then, sauté onions with spices. Add vegetables and cook with semolina.",
     "vizz_macros": {
-      "cal": 320,
+      "cal": 420,
       "protein": 14,
-      "fat": 7,
-      "carbs": 54
+      "fat": 17,
+      "carbs": 56
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=vegetable%20dalia%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=chana%20peanut%20upma%20recipe%20recipe"
   },
   "lunch": {
-    "dish_hindi": "नींबू चावल, रायता",
-    "dish_english": "Lemon Rice with Raita",
-    "ingredients_hindi": "बासमती चावल, नींबू, मूँगफली, सरसों के दाने, करी पत्ता, हरी मिर्च, अदरक, रायता सामग्री",
+    "dish_hindi": "काळा चना चावल, दही",
+    "dish_english": "Kala Chana Rice with Yogurt",
+    "ingredients_hindi": "काळा चना, चावल, प्याज, टमाटर, अदरक-लहसुन पेस्ट, हल्दी, गरम मसाला, नमक, दही",
     "ingredients_list_hi": [
-      "बासमती चावल",
-      "नींबू",
-      "मूँगफली",
-      "सरसों के दाने",
-      "करी पत्ता",
-      "हरी मिर्च",
-      "अदरक",
-      "रायता सामग्री"
+      "काळा चना",
+      "चावल",
+      "प्याज",
+      "टमाटर",
+      "अदरक-लहसुन पेस्ट",
+      "हल्दी",
+      "गरम मसाला",
+      "नमक",
+      "दही"
     ],
     "ingredients_list_en": [
-      "Basmati Rice",
-      "Lemon",
-      "Peanuts",
-      "Mustard Seeds",
-      "Curry Leaves",
-      "Green Chilli",
-      "Ginger",
-      "Raita Ingredients"
+      "Black chickpea",
+      "Rice",
+      "Onion",
+      "Tomato",
+      "Ginger-garlic paste",
+      "Turmeric",
+      "Garam masala",
+      "Salt",
+      "Yogurt"
     ],
-    "prep_notes_hi": "यह चावल लंच के लिए अच्छी तरह से यात्रा कर सकता है और गरम किया जा सकता है। चावल को नींबू के रस और तड़के के साथ मिलाएं।",
-    "prep_notes_en": "This rice travels well for lunch and can be reheated. Mix rice with lemon juice and tempering.",
+    "prep_notes_hi": "काळा चना और चावल को धीमी आँच पर मसालों के साथ पकाएं। यह यात्रा के अनुकूल है और गरम करने योग्य है।",
+    "prep_notes_en": "Cook black chickpeas and rice on a slow flame with spices. It is travel-friendly and reheatable.",
     "vizz_macros": {
-      "cal": 450,
-      "protein": 9,
-      "fat": 12,
-      "carbs": 78
+      "cal": 540,
+      "protein": 20,
+      "fat": 8,
+      "carbs": 94
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=lemon%20rice%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=kala%20chana%20rice%20recipe%20recipe"
   },
   "dinner": {
-    "dish_hindi": "मटर पनीर करी, चपाती",
-    "dish_english": "Matar Paneer Curry with Chapati",
-    "ingredients_hindi": "पनीर, मटर, टमाटर, प्याज, अदरक-लहसुन पेस्ट, लाल मिर्च पाउडर, गरम मसाला, चपाती सामग्री",
+    "dish_hindi": "पनीर भुर्जी, लच्छा पराठा, प्याज का सलाद",
+    "dish_english": "Paneer Bhurji with Laccha Paratha and Onion Salad",
+    "ingredients_hindi": "पनीर, प्याज, टमाटर, शिमला मिर्च, हरी मिर्च, अदरक, जीरा, गरम मसाला, हल्दी, नमक, पराठा, प्याज",
     "ingredients_list_hi": [
       "पनीर",
-      "मटर",
-      "टमाटर",
       "प्याज",
-      "अदरक-लहसुन पेस्ट",
-      "लाल मिर्च पाउडर",
+      "टमाटर",
+      "शिमला मिर्च",
+      "हरी मिर्च",
+      "अदरक",
+      "जीरा",
       "गरम मसाला",
-      "चपाती सामग्री"
+      "हल्दी",
+      "नमक",
+      "पराठा",
+      "प्याज"
     ],
     "ingredients_list_en": [
       "Paneer",
-      "Green Peas",
-      "Tomato",
       "Onion",
-      "Ginger-Garlic Paste",
-      "Red Chilli Powder",
-      "Garam Masala",
-      "Chapati Ingredients"
+      "Tomato",
+      "Capsicum",
+      "Green chili",
+      "Ginger",
+      "Cumin seeds",
+      "Garam masala",
+      "Turmeric",
+      "Salt",
+      "Paratha",
+      "Onion"
     ],
-    "prep_notes_hi": "प्याज, अदरक-लहसुन पेस्ट को तेल में भूनें, फिर टमाटर और मसाले डालें। पनीर और मटर को मिलाएं और धीमी आंच पर पकाएं।",
-    "prep_notes_en": "Saute onion, ginger-garlic paste in oil, then add tomatoes and spices. Mix paneer and peas, cook on low heat.",
+    "prep_notes_hi": "प्याज और मसालों को अच्छी तरह से भूनें। पनीर को तोड़कर मिलाएं और सब्जियाँ कच्ची न रहें।",
+    "prep_notes_en": "Sauté onions and spices well. Crumble and mix paneer, ensuring the vegetables are not raw.",
     "vizz_macros": {
-      "cal": 620,
-      "protein": 20,
-      "fat": 22,
-      "carbs": 80
+      "cal": 740,
+      "protein": 36,
+      "fat": 30,
+      "carbs": 91
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=matar%20paneer%20curry%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=paneer%20bhurji%20recipe%20recipe"
   },
   "vizz_daily_total_from_meals": {
-    "cal": 1390,
-    "protein": 43,
-    "fat": 41,
-    "carbs": 212
+    "cal": 1700,
+    "protein": 70,
+    "fat": 55,
+    "carbs": 241
   },
   "vizz_daily_total_with_shake": {
-    "cal": 1690,
-    "protein": 83,
-    "fat": 46,
-    "carbs": 237
+    "cal": 2000,
+    "protein": 110,
+    "fat": 60,
+    "carbs": 266
   },
-  "macro_check": "Hits carbs target; protein slightly low, total calories below needed."
+  "macro_check": "Calories, protein, and fat targets are met with slight overage in carbohydrates."
 }
