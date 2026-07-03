@@ -1,137 +1,115 @@
 {
-  "date": "2026-07-03 (Friday)",
-  "date_display": "Friday, July 3",
-  "date_short": "Fri · Jul 3",
+  "date": "2026-07-04 (Saturday)",
+  "date_display": "Saturday, July 4",
+  "date_short": "Sat · Jul 4",
   "generated_label": "Generated last night for today",
   "breakfast": {
-    "dish_hindi": "चना मूँगफली उपमा, उबला अंडा",
-    "dish_english": "Chana Peanut Upma with Boiled Egg",
-    "ingredients_hindi": "सूजी, चना, मूँगफली, प्याज, गाजर, मटर, सरसों के बीज, करी पत्ते, हल्दी, नमक, उबला अंडा",
+    "dish_hindi": "पोहा, उबला अंडा (विज्ज और फ़्लैटमेट-2 के लिए)",
+    "dish_english": "Poha with Boiled Egg (for Vizz and Flatmate-2)",
+    "ingredients_hindi": "पोहा, प्याज, हरी मिर्च, मूंगफली, नमक, हल्दी, करी पत्ता, उबला अंडा",
     "ingredients_list_hi": [
-      "सूजी",
-      "चना",
-      "मूँगफली",
+      "पोहा",
       "प्याज",
-      "गाजर",
-      "मटर",
-      "सरसों के बीज",
-      "करी पत्ते",
-      "हल्दी",
+      "हरी मिर्च",
+      "मूंगफली",
       "नमक",
+      "हल्दी",
+      "करी पत्ता",
       "उबला अंडा"
     ],
     "ingredients_list_en": [
-      "Semolina",
-      "Chana",
-      "Peanuts",
+      "Poha (flattened rice)",
       "Onion",
-      "Carrot",
-      "Peas",
-      "Mustard seeds",
-      "Curry leaves",
-      "Turmeric",
+      "Green Chili",
+      "Peanuts",
       "Salt",
+      "Turmeric",
+      "Curry Leaves",
       "Boiled Egg"
     ],
-    "prep_notes_hi": "सबसे पहले चने और मूँगफली को भून लें। फिर प्याज और मसालों का तड़का लगाएं। सब्जियाँ मिलाएं और सूजी में पकाएं।",
-    "prep_notes_en": "First, roast the chana and peanuts. Then, sauté onions with spices. Add vegetables and cook with semolina.",
+    "prep_notes_hi": "पोहा धोकर चिनिंत करें। मूंगफली भूनकर बाकी सामग्रियों के साथ मिलाएं। अच्छी तरह पकाएं और गरमागरम परोसें।",
+    "prep_notes_en": "Rinse the poha and drain. Roast the peanuts and mix with other ingredients. Cook thoroughly and serve hot.",
     "vizz_macros": {
-      "cal": 420,
-      "protein": 14,
-      "fat": 17,
-      "carbs": 56
+      "cal": 380,
+      "protein": 12,
+      "fat": 11,
+      "carbs": 55
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=chana%20peanut%20upma%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=poha%20recipe%20hindi%20recipe"
   },
   "lunch": {
-    "dish_hindi": "काळा चना चावल, दही",
-    "dish_english": "Kala Chana Rice with Yogurt",
-    "ingredients_hindi": "काळा चना, चावल, प्याज, टमाटर, अदरक-लहसुन पेस्ट, हल्दी, गरम मसाला, नमक, दही",
+    "dish_hindi": "किम्वा पुलाव, टमाटर की चटनी",
+    "dish_english": "Quinoa Pulao with Tomato Chutney",
+    "ingredients_hindi": "क्विनोआ, सब्जियाँ, मसाले, टमाटर, हरी मिर्च, अदरक, लहसुन",
     "ingredients_list_hi": [
-      "काळा चना",
-      "चावल",
-      "प्याज",
+      "क्विनोआ",
+      "सब्जियाँ",
+      "मसाले",
       "टमाटर",
-      "अदरक-लहसुन पेस्ट",
-      "हल्दी",
-      "गरम मसाला",
-      "नमक",
-      "दही"
-    ],
-    "ingredients_list_en": [
-      "Black chickpea",
-      "Rice",
-      "Onion",
-      "Tomato",
-      "Ginger-garlic paste",
-      "Turmeric",
-      "Garam masala",
-      "Salt",
-      "Yogurt"
-    ],
-    "prep_notes_hi": "काळा चना और चावल को धीमी आँच पर मसालों के साथ पकाएं। यह यात्रा के अनुकूल है और गरम करने योग्य है।",
-    "prep_notes_en": "Cook black chickpeas and rice on a slow flame with spices. It is travel-friendly and reheatable.",
-    "vizz_macros": {
-      "cal": 540,
-      "protein": 20,
-      "fat": 8,
-      "carbs": 94
-    },
-    "youtube_url": "https://www.youtube.com/results?search_query=kala%20chana%20rice%20recipe%20recipe"
-  },
-  "dinner": {
-    "dish_hindi": "पनीर भुर्जी, लच्छा पराठा, प्याज का सलाद",
-    "dish_english": "Paneer Bhurji with Laccha Paratha and Onion Salad",
-    "ingredients_hindi": "पनीर, प्याज, टमाटर, शिमला मिर्च, हरी मिर्च, अदरक, जीरा, गरम मसाला, हल्दी, नमक, पराठा, प्याज",
-    "ingredients_list_hi": [
-      "पनीर",
-      "प्याज",
-      "टमाटर",
-      "शिमला मिर्च",
       "हरी मिर्च",
       "अदरक",
-      "जीरा",
-      "गरम मसाला",
-      "हल्दी",
-      "नमक",
-      "पराठा",
-      "प्याज"
+      "लहसुन"
     ],
     "ingredients_list_en": [
-      "Paneer",
-      "Onion",
+      "Quinoa",
+      "Vegetables",
+      "Spices",
       "Tomato",
-      "Capsicum",
-      "Green chili",
+      "Green Chili",
       "Ginger",
-      "Cumin seeds",
-      "Garam masala",
-      "Turmeric",
-      "Salt",
-      "Paratha",
-      "Onion"
+      "Garlic"
     ],
-    "prep_notes_hi": "प्याज और मसालों को अच्छी तरह से भूनें। पनीर को तोड़कर मिलाएं और सब्जियाँ कच्ची न रहें।",
-    "prep_notes_en": "Sauté onions and spices well. Crumble and mix paneer, ensuring the vegetables are not raw.",
+    "prep_notes_hi": "क्विनोआ को मसालों में मिलाकर सब्जियों के साथ पकाएं। टमाटर की चटनी के साथ परोसें। यह भोजन यात्रा के लिए उपयुक्त है और माइक्रोवेव में गरम किया जा सकता है।",
+    "prep_notes_en": "Cook quinoa with spices and vegetables. Serve with tomato chutney. Suitable for travel and can be reheated in the microwave.",
     "vizz_macros": {
-      "cal": 740,
-      "protein": 36,
-      "fat": 30,
-      "carbs": 91
+      "cal": 450,
+      "protein": 15,
+      "fat": 10,
+      "carbs": 75
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=paneer%20bhurji%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=quinoa%20pulao%20recipe%20recipe"
+  },
+  "dinner": {
+    "dish_hindi": "मिस्सी रोटी, बीन करी, मिक्स आचार",
+    "dish_english": "Missi Roti with Bean Curry and Mixed Pickle",
+    "ingredients_hindi": "बेसन, गेहूं का आटा, राजमा, मसाले, तेल, मिक्स आचार",
+    "ingredients_list_hi": [
+      "बेसन",
+      "गेहूं का आटा",
+      "राजमा",
+      "मसाले",
+      "तेल",
+      "मिक्स आचार"
+    ],
+    "ingredients_list_en": [
+      "Chickpea Flour",
+      "Wheat Flour",
+      "Kidney Beans",
+      "Spices",
+      "Oil",
+      "Mixed Pickle"
+    ],
+    "prep_notes_hi": "राजमा को मसालों में पकाएं। मिस्सी रोटी बनाने के लिए आटा मिलाएं और पकाएं। आचार के साथ परोसें।",
+    "prep_notes_en": "Cook kidney beans with spices. Mix flours to make missi roti and cook. Serve with pickle.",
+    "vizz_macros": {
+      "cal": 480,
+      "protein": 18,
+      "fat": 23,
+      "carbs": 65
+    },
+    "youtube_url": "https://www.youtube.com/results?search_query=missi%20roti%20bean%20curry%20recipe"
   },
   "vizz_daily_total_from_meals": {
-    "cal": 1700,
-    "protein": 70,
-    "fat": 55,
-    "carbs": 241
+    "cal": 1310,
+    "protein": 45,
+    "fat": 44,
+    "carbs": 195
   },
   "vizz_daily_total_with_shake": {
-    "cal": 2000,
-    "protein": 110,
-    "fat": 60,
-    "carbs": 266
+    "cal": 1610,
+    "protein": 85,
+    "fat": 49,
+    "carbs": 220
   },
-  "macro_check": "Calories, protein, and fat targets are met with slight overage in carbohydrates."
+  "macro_check": "Calories slightly lower; protein is sufficient. Carbs hit the target but minor protein gap remains."
 }
