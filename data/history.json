@@ -1,146 +1,5 @@
 [
   {
-    "date": "2026-06-05 (Friday)",
-    "date_display": "Friday, June 5",
-    "date_short": "Fri · Jun 5",
-    "generated_label": "Generated last night for today",
-    "breakfast": {
-      "dish_hindi": "ओट्स उपमा और उबला अंडा",
-      "dish_english": "Oats Upma with Boiled Egg",
-      "ingredients_hindi": "ओट्स, प्याज, गाजर, मटर, शिमला मिर्च, अदरक, हल्दी, सरसों के दाने, नमक, पानी, उबला अंडा",
-      "ingredients_list_hi": [
-        "ओट्स",
-        "प्याज",
-        "गाजर",
-        "मटर",
-        "शिमला मिर्च",
-        "अदरक",
-        "हल्दी",
-        "सरसों के दाने",
-        "नमक",
-        "पानी",
-        "उबला अंडा"
-      ],
-      "ingredients_list_en": [
-        "Oats",
-        "Onion",
-        "Carrot",
-        "Peas",
-        "Bell Pepper",
-        "Ginger",
-        "Turmeric",
-        "Mustard Seeds",
-        "Salt",
-        "Water",
-        "Boiled Egg"
-      ],
-      "prep_notes_hi": "ओट्स को मसालों और सब्जियों के साथ अच्छी तरह भूनें। हल्का पानी डालकर इसे ढककर पकाएं। उबला अंडा अलग से परोसें।",
-      "prep_notes_en": "Roast the oats well with spices and vegetables. Add a little water and cover to cook. Serve boiled egg separately.",
-      "vizz_macros": {
-        "cal": 370,
-        "protein": 18,
-        "fat": 15,
-        "carbs": 45
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=oats%20upma%20recipe%20recipe"
-    },
-    "lunch": {
-      "dish_hindi": "राजमा चावल और पापड़",
-      "dish_english": "Rajma with Rice and Papad",
-      "ingredients_hindi": "राजमा, चावल, प्याज, टमाटर, अदरक, लहसुन, गरम मसाला, हल्दी, तेल, नमक, पानी, पापड़",
-      "ingredients_list_hi": [
-        "राजमा",
-        "चावल",
-        "प्याज",
-        "टमाटर",
-        "अदरक",
-        "लहसुन",
-        "गरम मसाला",
-        "हल्दी",
-        "तेल",
-        "नमक",
-        "पानी",
-        "पापड़"
-      ],
-      "ingredients_list_en": [
-        "Rajma (Kidney Beans)",
-        "Rice",
-        "Onion",
-        "Tomato",
-        "Ginger",
-        "Garlic",
-        "Garam Masala",
-        "Turmeric",
-        "Oil",
-        "Salt",
-        "Water",
-        "Papad"
-      ],
-      "prep_notes_hi": "राजमा और चावल को अलग-अलग पकाएं। राजमा को भूनकर उसकी ग्रेवी तैयार करें। यह लंच ट्रैवल और रीहीट के लिए उपयुक्त है।",
-      "prep_notes_en": "Cook rajma and rice separately. Prepare rajma gravy by sauteing it. This lunch is suitable for travel and reheating.",
-      "vizz_macros": {
-        "cal": 740,
-        "protein": 26,
-        "fat": 8,
-        "carbs": 130
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=rajma%20chawal%20recipe%20recipe"
-    },
-    "dinner": {
-      "dish_hindi": "पनीर तवा मसाला और रोटी",
-      "dish_english": "Paneer Tawa Masala with Roti",
-      "ingredients_hindi": "पनीर, प्याज, टमाटर, शिमला मिर्च, धनिया पाउडर, लाल मिर्च पाउडर, गरम मसाला, जीरा, तेल, नमक, रोटी",
-      "ingredients_list_hi": [
-        "पनीर",
-        "प्याज",
-        "टमाटर",
-        "शिमला मिर्च",
-        "धनिया पाउडर",
-        "लाल मिर्च पाउडर",
-        "गरम मसाला",
-        "जीरा",
-        "तेल",
-        "नमक",
-        "रोटी"
-      ],
-      "ingredients_list_en": [
-        "Paneer",
-        "Onion",
-        "Tomato",
-        "Bell Pepper",
-        "Coriander Powder",
-        "Red Chili Powder",
-        "Garam Masala",
-        "Cumin Seeds",
-        "Oil",
-        "Salt",
-        "Roti"
-      ],
-      "prep_notes_hi": "पनीर और सब्जियों को तवे पर मसालों के साथ हल्का भूनें। गरम गरम रोटी के साथ परोसें।",
-      "prep_notes_en": "Lightly sauté paneer and vegetables with spices on tawa. Serve hot with roti.",
-      "vizz_macros": {
-        "cal": 590,
-        "protein": 27,
-        "fat": 24,
-        "carbs": 70
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=paneer%20tawa%20masala%20recipe%20recipe"
-    },
-    "vizz_daily_total_from_meals": {
-      "cal": 1700,
-      "protein": 71,
-      "fat": 47,
-      "carbs": 245
-    },
-    "vizz_daily_total_with_shake": {
-      "cal": 2000,
-      "protein": 111,
-      "fat": 52,
-      "carbs": 270
-    },
-    "macro_check": "Hits overall targets with the shake included. Slightly over carbs, but meets protein and calorie goals."
-  },
-  {
     "date": "2026-06-06 (Saturday)",
     "date_display": "Saturday, June 6",
     "date_short": "Sat · Jun 6",
@@ -3634,5 +3493,110 @@
       "carbs": 220
     },
     "macro_check": "Calories slightly lower; protein is sufficient. Carbs hit the target but minor protein gap remains."
+  },
+  {
+    "date": "2026-07-05 (Sunday)",
+    "date_display": "Sunday, July 5",
+    "date_short": "Sun · Jul 5",
+    "generated_label": "Generated last night for today",
+    "breakfast": {
+      "dish_hindi": "मसाला ओट्स, उबला अंडा (विज और फ्लैटमेट-2 के लिए)",
+      "dish_english": "Masala Oats with Boiled Egg (for Vizz and Flatmate-2)",
+      "ingredients_hindi": "ओट्स, पानी, सब्जियों, मसाले, अंडा (विज और फ्लैटमेट-2 के लिए)",
+      "ingredients_list_hi": [
+        "ओट्स",
+        "पानी",
+        "सब्जियाँ",
+        "मसाले",
+        "अंडा"
+      ],
+      "ingredients_list_en": [
+        "Oats",
+        "Water",
+        "Vegetables",
+        "Spices",
+        "Egg"
+      ],
+      "prep_notes_hi": "ओट्स को सब्जियों और मसालों के साथ अच्छे से पकाएँ। उबालते समय ध्यान रखें कि ओट्स गाढ़े होने चाहिए।",
+      "prep_notes_en": "Cook the oats well with vegetables and spices. Ensure the oats are thick while boiling.",
+      "vizz_macros": {
+        "cal": 350,
+        "protein": 12,
+        "fat": 10,
+        "carbs": 55
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=masala%20oats%20recipe%20hindi%20recipe"
+    },
+    "lunch": {
+      "dish_hindi": "राजमा चावल, प्याज का सलाद",
+      "dish_english": "Rajma Rice with Onion Salad",
+      "ingredients_hindi": "राजमा, चावल, प्याज, मसाले",
+      "ingredients_list_hi": [
+        "राजमा",
+        "चावल",
+        "प्याज",
+        "मसाले"
+      ],
+      "ingredients_list_en": [
+        "Kidney Beans",
+        "Rice",
+        "Onion",
+        "Spices"
+      ],
+      "prep_notes_hi": "राजमा और चावल को अच्छी तरह पकाएँ ताकि यह घंटों तक पॉटेबल रहे। माइक्रोवेव में फिर से गर्म करें।",
+      "prep_notes_en": "Cook the rajma and rice thoroughly so it remains portable for hours. Reheat in microwave.",
+      "vizz_macros": {
+        "cal": 690,
+        "protein": 16,
+        "fat": 4,
+        "carbs": 145
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=rajma%20rice%20recipe%20recipe"
+    },
+    "dinner": {
+      "dish_hindi": "शाही पनीर, रोटी, ककड़ी रायता",
+      "dish_english": "Shahi Paneer with Roti and Cucumber Raita",
+      "ingredients_hindi": "पनीर, टमाटर, क्रीम, मसाले, गेहूं का आटा, ककड़ी, दही",
+      "ingredients_list_hi": [
+        "पनीर",
+        "टमाटर",
+        "क्रीम",
+        "मसाले",
+        "गेहूं का आटा",
+        "ककड़ी",
+        "दही"
+      ],
+      "ingredients_list_en": [
+        "Paneer",
+        "Tomato",
+        "Cream",
+        "Spices",
+        "Wheat Flour",
+        "Cucumber",
+        "Yogurt"
+      ],
+      "prep_notes_hi": "पनीर को टमाटर और मसालों के साथ अच्छी तरह पकाएँ। क्रीम से शाही स्वाद का ध्यान रखें।",
+      "prep_notes_en": "Cook the paneer with tomatoes and spices thoroughly. Ensure the creamy royal flavor.",
+      "vizz_macros": {
+        "cal": 660,
+        "protein": 24,
+        "fat": 25,
+        "carbs": 84
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=shahi%20paneer%20recipe%20recipe"
+    },
+    "vizz_daily_total_from_meals": {
+      "cal": 1700,
+      "protein": 52,
+      "fat": 39,
+      "carbs": 284
+    },
+    "vizz_daily_total_with_shake": {
+      "cal": 2000,
+      "protein": 92,
+      "fat": 44,
+      "carbs": 309
+    },
+    "macro_check": "This menu hits the target calories and carbs with the shake. Protein is slightly under target."
   }
 ]

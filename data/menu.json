@@ -1,115 +1,105 @@
 {
-  "date": "2026-07-04 (Saturday)",
-  "date_display": "Saturday, July 4",
-  "date_short": "Sat · Jul 4",
+  "date": "2026-07-05 (Sunday)",
+  "date_display": "Sunday, July 5",
+  "date_short": "Sun · Jul 5",
   "generated_label": "Generated last night for today",
   "breakfast": {
-    "dish_hindi": "पोहा, उबला अंडा (विज्ज और फ़्लैटमेट-2 के लिए)",
-    "dish_english": "Poha with Boiled Egg (for Vizz and Flatmate-2)",
-    "ingredients_hindi": "पोहा, प्याज, हरी मिर्च, मूंगफली, नमक, हल्दी, करी पत्ता, उबला अंडा",
+    "dish_hindi": "मसाला ओट्स, उबला अंडा (विज और फ्लैटमेट-2 के लिए)",
+    "dish_english": "Masala Oats with Boiled Egg (for Vizz and Flatmate-2)",
+    "ingredients_hindi": "ओट्स, पानी, सब्जियों, मसाले, अंडा (विज और फ्लैटमेट-2 के लिए)",
     "ingredients_list_hi": [
-      "पोहा",
-      "प्याज",
-      "हरी मिर्च",
-      "मूंगफली",
-      "नमक",
-      "हल्दी",
-      "करी पत्ता",
-      "उबला अंडा"
-    ],
-    "ingredients_list_en": [
-      "Poha (flattened rice)",
-      "Onion",
-      "Green Chili",
-      "Peanuts",
-      "Salt",
-      "Turmeric",
-      "Curry Leaves",
-      "Boiled Egg"
-    ],
-    "prep_notes_hi": "पोहा धोकर चिनिंत करें। मूंगफली भूनकर बाकी सामग्रियों के साथ मिलाएं। अच्छी तरह पकाएं और गरमागरम परोसें।",
-    "prep_notes_en": "Rinse the poha and drain. Roast the peanuts and mix with other ingredients. Cook thoroughly and serve hot.",
-    "vizz_macros": {
-      "cal": 380,
-      "protein": 12,
-      "fat": 11,
-      "carbs": 55
-    },
-    "youtube_url": "https://www.youtube.com/results?search_query=poha%20recipe%20hindi%20recipe"
-  },
-  "lunch": {
-    "dish_hindi": "किम्वा पुलाव, टमाटर की चटनी",
-    "dish_english": "Quinoa Pulao with Tomato Chutney",
-    "ingredients_hindi": "क्विनोआ, सब्जियाँ, मसाले, टमाटर, हरी मिर्च, अदरक, लहसुन",
-    "ingredients_list_hi": [
-      "क्विनोआ",
+      "ओट्स",
+      "पानी",
       "सब्जियाँ",
       "मसाले",
-      "टमाटर",
-      "हरी मिर्च",
-      "अदरक",
-      "लहसुन"
+      "अंडा"
     ],
     "ingredients_list_en": [
-      "Quinoa",
+      "Oats",
+      "Water",
       "Vegetables",
       "Spices",
-      "Tomato",
-      "Green Chili",
-      "Ginger",
-      "Garlic"
+      "Egg"
     ],
-    "prep_notes_hi": "क्विनोआ को मसालों में मिलाकर सब्जियों के साथ पकाएं। टमाटर की चटनी के साथ परोसें। यह भोजन यात्रा के लिए उपयुक्त है और माइक्रोवेव में गरम किया जा सकता है।",
-    "prep_notes_en": "Cook quinoa with spices and vegetables. Serve with tomato chutney. Suitable for travel and can be reheated in the microwave.",
+    "prep_notes_hi": "ओट्स को सब्जियों और मसालों के साथ अच्छे से पकाएँ। उबालते समय ध्यान रखें कि ओट्स गाढ़े होने चाहिए।",
+    "prep_notes_en": "Cook the oats well with vegetables and spices. Ensure the oats are thick while boiling.",
     "vizz_macros": {
-      "cal": 450,
-      "protein": 15,
+      "cal": 350,
+      "protein": 12,
       "fat": 10,
-      "carbs": 75
+      "carbs": 55
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=quinoa%20pulao%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=masala%20oats%20recipe%20hindi%20recipe"
   },
-  "dinner": {
-    "dish_hindi": "मिस्सी रोटी, बीन करी, मिक्स आचार",
-    "dish_english": "Missi Roti with Bean Curry and Mixed Pickle",
-    "ingredients_hindi": "बेसन, गेहूं का आटा, राजमा, मसाले, तेल, मिक्स आचार",
+  "lunch": {
+    "dish_hindi": "राजमा चावल, प्याज का सलाद",
+    "dish_english": "Rajma Rice with Onion Salad",
+    "ingredients_hindi": "राजमा, चावल, प्याज, मसाले",
     "ingredients_list_hi": [
-      "बेसन",
-      "गेहूं का आटा",
       "राजमा",
-      "मसाले",
-      "तेल",
-      "मिक्स आचार"
+      "चावल",
+      "प्याज",
+      "मसाले"
     ],
     "ingredients_list_en": [
-      "Chickpea Flour",
-      "Wheat Flour",
       "Kidney Beans",
-      "Spices",
-      "Oil",
-      "Mixed Pickle"
+      "Rice",
+      "Onion",
+      "Spices"
     ],
-    "prep_notes_hi": "राजमा को मसालों में पकाएं। मिस्सी रोटी बनाने के लिए आटा मिलाएं और पकाएं। आचार के साथ परोसें।",
-    "prep_notes_en": "Cook kidney beans with spices. Mix flours to make missi roti and cook. Serve with pickle.",
+    "prep_notes_hi": "राजमा और चावल को अच्छी तरह पकाएँ ताकि यह घंटों तक पॉटेबल रहे। माइक्रोवेव में फिर से गर्म करें।",
+    "prep_notes_en": "Cook the rajma and rice thoroughly so it remains portable for hours. Reheat in microwave.",
     "vizz_macros": {
-      "cal": 480,
-      "protein": 18,
-      "fat": 23,
-      "carbs": 65
+      "cal": 690,
+      "protein": 16,
+      "fat": 4,
+      "carbs": 145
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=missi%20roti%20bean%20curry%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=rajma%20rice%20recipe%20recipe"
+  },
+  "dinner": {
+    "dish_hindi": "शाही पनीर, रोटी, ककड़ी रायता",
+    "dish_english": "Shahi Paneer with Roti and Cucumber Raita",
+    "ingredients_hindi": "पनीर, टमाटर, क्रीम, मसाले, गेहूं का आटा, ककड़ी, दही",
+    "ingredients_list_hi": [
+      "पनीर",
+      "टमाटर",
+      "क्रीम",
+      "मसाले",
+      "गेहूं का आटा",
+      "ककड़ी",
+      "दही"
+    ],
+    "ingredients_list_en": [
+      "Paneer",
+      "Tomato",
+      "Cream",
+      "Spices",
+      "Wheat Flour",
+      "Cucumber",
+      "Yogurt"
+    ],
+    "prep_notes_hi": "पनीर को टमाटर और मसालों के साथ अच्छी तरह पकाएँ। क्रीम से शाही स्वाद का ध्यान रखें।",
+    "prep_notes_en": "Cook the paneer with tomatoes and spices thoroughly. Ensure the creamy royal flavor.",
+    "vizz_macros": {
+      "cal": 660,
+      "protein": 24,
+      "fat": 25,
+      "carbs": 84
+    },
+    "youtube_url": "https://www.youtube.com/results?search_query=shahi%20paneer%20recipe%20recipe"
   },
   "vizz_daily_total_from_meals": {
-    "cal": 1310,
-    "protein": 45,
-    "fat": 44,
-    "carbs": 195
+    "cal": 1700,
+    "protein": 52,
+    "fat": 39,
+    "carbs": 284
   },
   "vizz_daily_total_with_shake": {
-    "cal": 1610,
-    "protein": 85,
-    "fat": 49,
-    "carbs": 220
+    "cal": 2000,
+    "protein": 92,
+    "fat": 44,
+    "carbs": 309
   },
-  "macro_check": "Calories slightly lower; protein is sufficient. Carbs hit the target but minor protein gap remains."
+  "macro_check": "This menu hits the target calories and carbs with the shake. Protein is slightly under target."
 }
