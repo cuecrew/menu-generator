@@ -1,105 +1,119 @@
 {
-  "date": "2026-07-05 (Sunday)",
-  "date_display": "Sunday, July 5",
-  "date_short": "Sun · Jul 5",
+  "date": "2026-07-06 (Monday)",
+  "date_display": "Monday, July 6",
+  "date_short": "Mon · Jul 6",
   "generated_label": "Generated last night for today",
   "breakfast": {
-    "dish_hindi": "मसाला ओट्स, उबला अंडा (विज और फ्लैटमेट-2 के लिए)",
-    "dish_english": "Masala Oats with Boiled Egg (for Vizz and Flatmate-2)",
-    "ingredients_hindi": "ओट्स, पानी, सब्जियों, मसाले, अंडा (विज और फ्लैटमेट-2 के लिए)",
+    "dish_hindi": "दही पोहे और उबला अंडा (विज़ और फ्लैटमेट-2 के लिए)",
+    "dish_english": "Dahi Poha with Boiled Egg (for Vizz and Flatmate-2)",
+    "ingredients_hindi": "पोहा, दही, हरा धनिया, मूँगफली, नमक, तेल, उबला अंडा",
     "ingredients_list_hi": [
-      "ओट्स",
-      "पानी",
-      "सब्जियाँ",
-      "मसाले",
-      "अंडा"
+      "पोहा",
+      "दही",
+      "हरा धनिया",
+      "मूँगफली",
+      "नमक",
+      "तेल",
+      "उबला अंडा"
     ],
     "ingredients_list_en": [
-      "Oats",
-      "Water",
-      "Vegetables",
-      "Spices",
-      "Egg"
+      "Poha (flattened rice)",
+      "Curd (yogurt)",
+      "Coriander",
+      "Peanuts",
+      "Salt",
+      "Oil",
+      "Boiled Egg"
     ],
-    "prep_notes_hi": "ओट्स को सब्जियों और मसालों के साथ अच्छे से पकाएँ। उबालते समय ध्यान रखें कि ओट्स गाढ़े होने चाहिए।",
-    "prep_notes_en": "Cook the oats well with vegetables and spices. Ensure the oats are thick while boiling.",
+    "prep_notes_hi": "पोहा को हल्के हाथ से धोकर भिगो लें। मूँगफली को तड़का लगाकर दही में मिला लें।",
+    "prep_notes_en": "Rinse and soak poha gently. Add roasted peanuts to the curd.",
     "vizz_macros": {
-      "cal": 350,
-      "protein": 12,
-      "fat": 10,
-      "carbs": 55
+      "cal": 380,
+      "protein": 14,
+      "fat": 12,
+      "carbs": 56
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=masala%20oats%20recipe%20hindi%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=dahi%20poha%20recipe%20recipe"
   },
   "lunch": {
-    "dish_hindi": "राजमा चावल, प्याज का सलाद",
-    "dish_english": "Rajma Rice with Onion Salad",
-    "ingredients_hindi": "राजमा, चावल, प्याज, मसाले",
+    "dish_hindi": "सब्जी पुलाव और पुदीना रायता",
+    "dish_english": "Vegetable Pulao with Mint Raita",
+    "ingredients_hindi": "चावल, मिक्स सब्जियाँ, पुदीना, दही, जीरा, हरी मिर्च, नमक, तेल",
     "ingredients_list_hi": [
-      "राजमा",
       "चावल",
-      "प्याज",
-      "मसाले"
+      "मिक्स सब्जियाँ",
+      "पुदीना",
+      "दही",
+      "जीरा",
+      "हरी मिर्च",
+      "नमक",
+      "तेल"
     ],
     "ingredients_list_en": [
-      "Kidney Beans",
       "Rice",
-      "Onion",
-      "Spices"
+      "Mixed Vegetables",
+      "Mint",
+      "Yogurt",
+      "Cumin Seeds",
+      "Green Chili",
+      "Salt",
+      "Oil"
     ],
-    "prep_notes_hi": "राजमा और चावल को अच्छी तरह पकाएँ ताकि यह घंटों तक पॉटेबल रहे। माइक्रोवेव में फिर से गर्म करें।",
-    "prep_notes_en": "Cook the rajma and rice thoroughly so it remains portable for hours. Reheat in microwave.",
+    "prep_notes_hi": "चावल को अच्छे से धोकर कूकर में पकाएं। यह डिश माइक्रोवेव में गरम करने योग्य होनी चाहिए।",
+    "prep_notes_en": "Wash rice thoroughly and cook in a pressure cooker. This dish should be microwave reheatable.",
     "vizz_macros": {
-      "cal": 690,
-      "protein": 16,
-      "fat": 4,
-      "carbs": 145
+      "cal": 420,
+      "protein": 9,
+      "fat": 10,
+      "carbs": 79
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=rajma%20rice%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=vegetable%20pulao%20recipe%20recipe"
   },
   "dinner": {
-    "dish_hindi": "शाही पनीर, रोटी, ककड़ी रायता",
-    "dish_english": "Shahi Paneer with Roti and Cucumber Raita",
-    "ingredients_hindi": "पनीर, टमाटर, क्रीम, मसाले, गेहूं का आटा, ककड़ी, दही",
+    "dish_hindi": "पास्ता सलाद और गार्लिक ब्रेड",
+    "dish_english": "Pasta Salad with Garlic Bread",
+    "ingredients_hindi": "पास्ता, टमाटर, खीरा, शिमला मिर्च, जैतून, जैतून का तेल, लहसुन, ब्रेड",
     "ingredients_list_hi": [
-      "पनीर",
+      "पास्ता",
       "टमाटर",
-      "क्रीम",
-      "मसाले",
-      "गेहूं का आटा",
-      "ककड़ी",
-      "दही"
+      "खीरा",
+      "शिमला मिर्च",
+      "जैतून",
+      "जैतून का तेल",
+      "लहसुन",
+      "ब्रेड"
     ],
     "ingredients_list_en": [
-      "Paneer",
+      "Pasta",
       "Tomato",
-      "Cream",
-      "Spices",
-      "Wheat Flour",
       "Cucumber",
-      "Yogurt"
+      "Capsicum",
+      "Olives",
+      "Olive Oil",
+      "Garlic",
+      "Bread"
     ],
-    "prep_notes_hi": "पनीर को टमाटर और मसालों के साथ अच्छी तरह पकाएँ। क्रीम से शाही स्वाद का ध्यान रखें।",
-    "prep_notes_en": "Cook the paneer with tomatoes and spices thoroughly. Ensure the creamy royal flavor.",
+    "prep_notes_hi": "पास्ता को पकाएं और सब्जियों के साथ मिलाकर ठंडा परोसें। गार्लिक ब्रेड को क्रिस्प ग्रिल करें।",
+    "prep_notes_en": "Cook pasta and mix with vegetables, serve chilled. Grill the garlic bread to a crisp.",
     "vizz_macros": {
-      "cal": 660,
-      "protein": 24,
-      "fat": 25,
-      "carbs": 84
+      "cal": 380,
+      "protein": 11,
+      "fat": 12,
+      "carbs": 62
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=shahi%20paneer%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=pasta%20salad%20recipe%20recipe"
   },
   "vizz_daily_total_from_meals": {
-    "cal": 1700,
-    "protein": 52,
-    "fat": 39,
-    "carbs": 284
+    "cal": 1180,
+    "protein": 34,
+    "fat": 34,
+    "carbs": 197
   },
   "vizz_daily_total_with_shake": {
-    "cal": 2000,
-    "protein": 92,
-    "fat": 44,
-    "carbs": 309
+    "cal": 1480,
+    "protein": 74,
+    "fat": 39,
+    "carbs": 222
   },
-  "macro_check": "This menu hits the target calories and carbs with the shake. Protein is slightly under target."
+  "macro_check": "Needs more protein and calories to hit target; consider adding paneer to meals."
 }

@@ -1,108 +1,5 @@
 [
   {
-    "date": "2026-06-06 (Saturday)",
-    "date_display": "Saturday, June 6",
-    "date_short": "Sat · Jun 6",
-    "generated_label": "Generated last night for today",
-    "breakfast": {
-      "dish_hindi": "पालक पुरी और आलू की सब्ज़ी",
-      "dish_english": "Palak Puri with Aloo Sabzi",
-      "ingredients_hindi": "पालक, गेहूं का आटा, आलू, मसाले, तेल",
-      "ingredients_list_hi": [
-        "पालक",
-        "गेहूं का आटा",
-        "आलू",
-        "मसाले",
-        "तेल"
-      ],
-      "ingredients_list_en": [
-        "Spinach",
-        "Wheat flour",
-        "Potatoes",
-        "Spices",
-        "Oil"
-      ],
-      "prep_notes_hi": "पालक को अच्छी तरह काट कर गूंथ लें। आलू को उबाल कर सब्ज़ी तैयार करें।",
-      "prep_notes_en": "Finely chop the spinach and knead it into the dough. Boil potatoes and prepare the sabzi.",
-      "vizz_macros": {
-        "cal": 400,
-        "protein": 10,
-        "fat": 12,
-        "carbs": 70
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=palak%20puri%20aloo%20recipe%20recipe"
-    },
-    "lunch": {
-      "dish_hindi": "भरवा पराठा, दही और अचार",
-      "dish_english": "Stuffed Paratha with Curd and Pickle",
-      "ingredients_hindi": "आटा, आलू, दही, अचार, मसाले",
-      "ingredients_list_hi": [
-        "आटा",
-        "आलू",
-        "दही",
-        "अचार",
-        "मसाले"
-      ],
-      "ingredients_list_en": [
-        "Flour",
-        "Potatoes",
-        "Curd",
-        "Pickle",
-        "Spices"
-      ],
-      "prep_notes_hi": "भरवा पराठा बनाएं और सुनिश्चित करें कि यह अच्छी तरह से पैक हो सके।",
-      "prep_notes_en": "Prepare stuffed paratha, ensuring it can be packed well for travel.",
-      "vizz_macros": {
-        "cal": 600,
-        "protein": 15,
-        "fat": 20,
-        "carbs": 90
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=stuffed%20paratha%20recipe%20recipe"
-    },
-    "dinner": {
-      "dish_hindi": "चौला पनीर बिरयानी और रायता",
-      "dish_english": "Chole Paneer Biryani with Raita",
-      "ingredients_hindi": "चने, पनीर, चावल, मसाले, दही",
-      "ingredients_list_hi": [
-        "चने",
-        "पनीर",
-        "चावल",
-        "मसाले",
-        "दही"
-      ],
-      "ingredients_list_en": [
-        "Chickpeas",
-        "Paneer",
-        "Rice",
-        "Spices",
-        "Curd"
-      ],
-      "prep_notes_hi": "चने को पहले से भिगो लें और फिर पनीर और मसालों के साथ पकाएं।",
-      "prep_notes_en": "Soak chickpeas in advance and cook with paneer and spices.",
-      "vizz_macros": {
-        "cal": 700,
-        "protein": 25,
-        "fat": 15,
-        "carbs": 80
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=chole%20paneer%20biryani%20recipe%20recipe"
-    },
-    "vizz_daily_total_from_meals": {
-      "cal": 1700,
-      "protein": 50,
-      "fat": 47,
-      "carbs": 240
-    },
-    "vizz_daily_total_with_shake": {
-      "cal": 2000,
-      "protein": 90,
-      "fat": 52,
-      "carbs": 265
-    },
-    "macro_check": "The meals provide sufficient calories and carbs. Protein is a bit short (needs 110g); consider adding legumes or lentils."
-  },
-  {
     "date": "2026-06-07 (Sunday)",
     "date_display": "Sunday, June 7",
     "date_short": "Sun · Jun 7",
@@ -3598,5 +3495,124 @@
       "carbs": 309
     },
     "macro_check": "This menu hits the target calories and carbs with the shake. Protein is slightly under target."
+  },
+  {
+    "date": "2026-07-06 (Monday)",
+    "date_display": "Monday, July 6",
+    "date_short": "Mon · Jul 6",
+    "generated_label": "Generated last night for today",
+    "breakfast": {
+      "dish_hindi": "दही पोहे और उबला अंडा (विज़ और फ्लैटमेट-2 के लिए)",
+      "dish_english": "Dahi Poha with Boiled Egg (for Vizz and Flatmate-2)",
+      "ingredients_hindi": "पोहा, दही, हरा धनिया, मूँगफली, नमक, तेल, उबला अंडा",
+      "ingredients_list_hi": [
+        "पोहा",
+        "दही",
+        "हरा धनिया",
+        "मूँगफली",
+        "नमक",
+        "तेल",
+        "उबला अंडा"
+      ],
+      "ingredients_list_en": [
+        "Poha (flattened rice)",
+        "Curd (yogurt)",
+        "Coriander",
+        "Peanuts",
+        "Salt",
+        "Oil",
+        "Boiled Egg"
+      ],
+      "prep_notes_hi": "पोहा को हल्के हाथ से धोकर भिगो लें। मूँगफली को तड़का लगाकर दही में मिला लें।",
+      "prep_notes_en": "Rinse and soak poha gently. Add roasted peanuts to the curd.",
+      "vizz_macros": {
+        "cal": 380,
+        "protein": 14,
+        "fat": 12,
+        "carbs": 56
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=dahi%20poha%20recipe%20recipe"
+    },
+    "lunch": {
+      "dish_hindi": "सब्जी पुलाव और पुदीना रायता",
+      "dish_english": "Vegetable Pulao with Mint Raita",
+      "ingredients_hindi": "चावल, मिक्स सब्जियाँ, पुदीना, दही, जीरा, हरी मिर्च, नमक, तेल",
+      "ingredients_list_hi": [
+        "चावल",
+        "मिक्स सब्जियाँ",
+        "पुदीना",
+        "दही",
+        "जीरा",
+        "हरी मिर्च",
+        "नमक",
+        "तेल"
+      ],
+      "ingredients_list_en": [
+        "Rice",
+        "Mixed Vegetables",
+        "Mint",
+        "Yogurt",
+        "Cumin Seeds",
+        "Green Chili",
+        "Salt",
+        "Oil"
+      ],
+      "prep_notes_hi": "चावल को अच्छे से धोकर कूकर में पकाएं। यह डिश माइक्रोवेव में गरम करने योग्य होनी चाहिए।",
+      "prep_notes_en": "Wash rice thoroughly and cook in a pressure cooker. This dish should be microwave reheatable.",
+      "vizz_macros": {
+        "cal": 420,
+        "protein": 9,
+        "fat": 10,
+        "carbs": 79
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=vegetable%20pulao%20recipe%20recipe"
+    },
+    "dinner": {
+      "dish_hindi": "पास्ता सलाद और गार्लिक ब्रेड",
+      "dish_english": "Pasta Salad with Garlic Bread",
+      "ingredients_hindi": "पास्ता, टमाटर, खीरा, शिमला मिर्च, जैतून, जैतून का तेल, लहसुन, ब्रेड",
+      "ingredients_list_hi": [
+        "पास्ता",
+        "टमाटर",
+        "खीरा",
+        "शिमला मिर्च",
+        "जैतून",
+        "जैतून का तेल",
+        "लहसुन",
+        "ब्रेड"
+      ],
+      "ingredients_list_en": [
+        "Pasta",
+        "Tomato",
+        "Cucumber",
+        "Capsicum",
+        "Olives",
+        "Olive Oil",
+        "Garlic",
+        "Bread"
+      ],
+      "prep_notes_hi": "पास्ता को पकाएं और सब्जियों के साथ मिलाकर ठंडा परोसें। गार्लिक ब्रेड को क्रिस्प ग्रिल करें।",
+      "prep_notes_en": "Cook pasta and mix with vegetables, serve chilled. Grill the garlic bread to a crisp.",
+      "vizz_macros": {
+        "cal": 380,
+        "protein": 11,
+        "fat": 12,
+        "carbs": 62
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=pasta%20salad%20recipe%20recipe"
+    },
+    "vizz_daily_total_from_meals": {
+      "cal": 1180,
+      "protein": 34,
+      "fat": 34,
+      "carbs": 197
+    },
+    "vizz_daily_total_with_shake": {
+      "cal": 1480,
+      "protein": 74,
+      "fat": 39,
+      "carbs": 222
+    },
+    "macro_check": "Needs more protein and calories to hit target; consider adding paneer to meals."
   }
 ]
