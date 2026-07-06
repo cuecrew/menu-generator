@@ -1,119 +1,127 @@
 {
-  "date": "2026-07-06 (Monday)",
-  "date_display": "Monday, July 6",
-  "date_short": "Mon · Jul 6",
+  "date": "2026-07-07 (Tuesday)",
+  "date_display": "Tuesday, July 7",
+  "date_short": "Tue · Jul 7",
   "generated_label": "Generated last night for today",
   "breakfast": {
-    "dish_hindi": "दही पोहे और उबला अंडा (विज़ और फ्लैटमेट-2 के लिए)",
-    "dish_english": "Dahi Poha with Boiled Egg (for Vizz and Flatmate-2)",
-    "ingredients_hindi": "पोहा, दही, हरा धनिया, मूँगफली, नमक, तेल, उबला अंडा",
+    "dish_hindi": "उपमा, उबला अंडा (केवल विज़ और फ्लैटमेट-2 के लिए)",
+    "dish_english": "Upma with Boiled Egg (for Vizz and Flatmate-2)",
+    "ingredients_hindi": "सूजी, सरसों के बीज, प्याज, हरी मिर्च, गाजर, मटर, धनिया, नमक, तेल",
     "ingredients_list_hi": [
-      "पोहा",
-      "दही",
-      "हरा धनिया",
-      "मूँगफली",
-      "नमक",
-      "तेल",
-      "उबला अंडा"
-    ],
-    "ingredients_list_en": [
-      "Poha (flattened rice)",
-      "Curd (yogurt)",
-      "Coriander",
-      "Peanuts",
-      "Salt",
-      "Oil",
-      "Boiled Egg"
-    ],
-    "prep_notes_hi": "पोहा को हल्के हाथ से धोकर भिगो लें। मूँगफली को तड़का लगाकर दही में मिला लें।",
-    "prep_notes_en": "Rinse and soak poha gently. Add roasted peanuts to the curd.",
-    "vizz_macros": {
-      "cal": 380,
-      "protein": 14,
-      "fat": 12,
-      "carbs": 56
-    },
-    "youtube_url": "https://www.youtube.com/results?search_query=dahi%20poha%20recipe%20recipe"
-  },
-  "lunch": {
-    "dish_hindi": "सब्जी पुलाव और पुदीना रायता",
-    "dish_english": "Vegetable Pulao with Mint Raita",
-    "ingredients_hindi": "चावल, मिक्स सब्जियाँ, पुदीना, दही, जीरा, हरी मिर्च, नमक, तेल",
-    "ingredients_list_hi": [
-      "चावल",
-      "मिक्स सब्जियाँ",
-      "पुदीना",
-      "दही",
-      "जीरा",
+      "सूजी",
+      "सरसों के बीज",
+      "प्याज",
       "हरी मिर्च",
+      "गाजर",
+      "मटर",
+      "धनिया",
       "नमक",
       "तेल"
     ],
     "ingredients_list_en": [
-      "Rice",
-      "Mixed Vegetables",
-      "Mint",
-      "Yogurt",
-      "Cumin Seeds",
-      "Green Chili",
+      "Semolina",
+      "Mustard seeds",
+      "Onion",
+      "Green chili",
+      "Carrot",
+      "Peas",
+      "Coriander",
       "Salt",
       "Oil"
     ],
-    "prep_notes_hi": "चावल को अच्छे से धोकर कूकर में पकाएं। यह डिश माइक्रोवेव में गरम करने योग्य होनी चाहिए।",
-    "prep_notes_en": "Wash rice thoroughly and cook in a pressure cooker. This dish should be microwave reheatable.",
+    "prep_notes_hi": "सूजी को हल्का भून लें ताकि वह सुगंधित हो जाए। सब्जियों को अच्छी तरह से पकने तक भूनें। उबले अंडे को बीच में से काट कर करें।",
+    "prep_notes_en": "Lightly roast the semolina until fragrant. Sauté vegetables until well cooked. Serve boiled egg halved on the side.",
     "vizz_macros": {
-      "cal": 420,
-      "protein": 9,
-      "fat": 10,
-      "carbs": 79
+      "cal": 400,
+      "protein": 18,
+      "fat": 15,
+      "carbs": 55
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=vegetable%20pulao%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=upma%20recipe%20hindi%20recipe"
   },
-  "dinner": {
-    "dish_hindi": "पास्ता सलाद और गार्लिक ब्रेड",
-    "dish_english": "Pasta Salad with Garlic Bread",
-    "ingredients_hindi": "पास्ता, टमाटर, खीरा, शिमला मिर्च, जैतून, जैतून का तेल, लहसुन, ब्रेड",
+  "lunch": {
+    "dish_hindi": "चना पुलाव, टमाटर चटनी",
+    "dish_english": "Chickpea Pulao with Tomato Chutney",
+    "ingredients_hindi": "बासमती चावल, चना, प्याज, टमाटर, अदरक-लहसुन पेस्ट, हरी मिर्च, मसाले, तेल, धनिया",
     "ingredients_list_hi": [
-      "पास्ता",
+      "बासमती चावल",
+      "चना",
+      "प्याज",
       "टमाटर",
-      "खीरा",
-      "शिमला मिर्च",
-      "जैतून",
-      "जैतून का तेल",
-      "लहसुन",
-      "ब्रेड"
+      "अदरक-लहसुन पेस्ट",
+      "हरी मिर्च",
+      "मसाले",
+      "तेल",
+      "धनिया"
     ],
     "ingredients_list_en": [
-      "Pasta",
+      "Basmati rice",
+      "Chickpeas",
+      "Onion",
       "Tomato",
-      "Cucumber",
-      "Capsicum",
-      "Olives",
-      "Olive Oil",
-      "Garlic",
-      "Bread"
+      "Ginger-garlic paste",
+      "Green chili",
+      "Spices",
+      "Oil",
+      "Coriander"
     ],
-    "prep_notes_hi": "पास्ता को पकाएं और सब्जियों के साथ मिलाकर ठंडा परोसें। गार्लिक ब्रेड को क्रिस्प ग्रिल करें।",
-    "prep_notes_en": "Cook pasta and mix with vegetables, serve chilled. Grill the garlic bread to a crisp.",
+    "prep_notes_hi": "पुलाव को ऐसे पकाएं ताकि यह अच्छी तरह मिल जाए और सूखा रहे ताकि यह यात्रा और माइक्रोवेव में अच्छी तरह से गर्म हो सके।",
+    "prep_notes_en": "Cook the pulao to mix well and keep it dry so it travels and reheats in the microwave well.",
     "vizz_macros": {
-      "cal": 380,
-      "protein": 11,
-      "fat": 12,
-      "carbs": 62
+      "cal": 600,
+      "protein": 15,
+      "fat": 10,
+      "carbs": 100
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=pasta%20salad%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=chickpea%20pulao%20recipe%20recipe"
+  },
+  "dinner": {
+    "dish_hindi": "पालक पनीर, तवा पराठा, पापड़",
+    "dish_english": "Palak Paneer with Tawa Paratha and Papad",
+    "ingredients_hindi": "पालक, पनीर, प्याज, टमाटर, अदरक-लहसुन पेस्ट, गरम मसाला, गेहूं का आटा, तेल, मसाले",
+    "ingredients_list_hi": [
+      "पालक",
+      "पनीर",
+      "प्याज",
+      "टमाटर",
+      "अदरक-लहसुन पेस्ट",
+      "गरम मसाला",
+      "गेहूं का आटा",
+      "तेल",
+      "मसाले"
+    ],
+    "ingredients_list_en": [
+      "Spinach",
+      "Paneer",
+      "Onion",
+      "Tomato",
+      "Ginger-garlic paste",
+      "Garam masala",
+      "Wheat flour",
+      "Oil",
+      "Spices"
+    ],
+    "prep_notes_hi": "पालक को पहले से उबालकर पीस लें। पनीर को सीधे ग्रेवी में न डालकर हल्का भून लें। पराठे को हलका सा सेंके ताकि वह नरम रहें।",
+    "prep_notes_en": "Boil and purée the spinach beforehand. Lightly fry paneer before adding to the gravy. Cook parathas lightly so they remain soft.",
+    "vizz_macros": {
+      "cal": 700,
+      "protein": 35,
+      "fat": 20,
+      "carbs": 65
+    },
+    "youtube_url": "https://www.youtube.com/results?search_query=palak%20paneer%20recipe%20recipe"
   },
   "vizz_daily_total_from_meals": {
-    "cal": 1180,
-    "protein": 34,
-    "fat": 34,
-    "carbs": 197
+    "cal": 1700,
+    "protein": 68,
+    "fat": 45,
+    "carbs": 220
   },
   "vizz_daily_total_with_shake": {
-    "cal": 1480,
-    "protein": 74,
-    "fat": 39,
-    "carbs": 222
+    "cal": 2000,
+    "protein": 108,
+    "fat": 50,
+    "carbs": 245
   },
-  "macro_check": "Needs more protein and calories to hit target; consider adding paneer to meals."
+  "macro_check": "Hits 2000/110/60/215 target. Slightly lower on protein but close overall goals."
 }

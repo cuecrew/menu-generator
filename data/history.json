@@ -1,134 +1,5 @@
 [
   {
-    "date": "2026-06-07 (Sunday)",
-    "date_display": "Sunday, June 7",
-    "date_short": "Sun · Jun 7",
-    "generated_label": "Generated last night for today",
-    "breakfast": {
-      "dish_hindi": "अंडा ब्रेड टोस्ट और फल",
-      "dish_english": "Egg Bread Toast with Fruits",
-      "ingredients_hindi": "अंडा, ब्रेड, मक्खन, सेब, केला",
-      "ingredients_list_hi": [
-        "अंडा",
-        "ब्रेड",
-        "मक्खन",
-        "सेब",
-        "केला"
-      ],
-      "ingredients_list_en": [
-        "Egg",
-        "Bread",
-        "Butter",
-        "Apple",
-        "Banana"
-      ],
-      "prep_notes_hi": "ब्रेड को मक्खन पर सेंकें और एक अंडा फोड़कर पकाएं। फलों को स्लाइस में काटें।",
-      "prep_notes_en": "Toast the bread with butter and cook a cracked egg on top. Slice the fruits.",
-      "vizz_macros": {
-        "cal": 400,
-        "protein": 18,
-        "fat": 18,
-        "carbs": 38
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=egg%20bread%20toast%20recipe%20recipe"
-    },
-    "lunch": {
-      "dish_hindi": "छोले के साथ बासमती चावल और पापड़",
-      "dish_english": "Chole with Basmati Rice and Papad",
-      "ingredients_hindi": "चने, बासमती चावल, प्याज, टमाटर, अदरक, लहसुन, धनिया पत्ती, गरम मसाला, पापड़",
-      "ingredients_list_hi": [
-        "चने",
-        "बासमती चावल",
-        "प्याज",
-        "टमाटर",
-        "अदरक",
-        "लहसुन",
-        "धनिया पत्ती",
-        "गरम मसाला",
-        "पापड़"
-      ],
-      "ingredients_list_en": [
-        "Chickpeas",
-        "Basmati Rice",
-        "Onion",
-        "Tomato",
-        "Ginger",
-        "Garlic",
-        "Coriander Leaves",
-        "Garam Masala",
-        "Papad"
-      ],
-      "prep_notes_hi": "छोले चावल का पैक बनाकर 4-5 घंटे सहजता से ले जाएं और माइक्रोवेव में गरम करें।",
-      "prep_notes_en": "Pack the chole rice well so it can be carried for 4-5 hours and reheated in the microwave.",
-      "vizz_macros": {
-        "cal": 750,
-        "protein": 28,
-        "fat": 12,
-        "carbs": 120
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=chole%20recipe%20hindi%20recipe"
-    },
-    "dinner": {
-      "dish_hindi": "दाल तड़का के साथ पनीर पुलाव और सलाद",
-      "dish_english": "Paneer Pulao with Dal Tadka and Salad",
-      "ingredients_hindi": "बासमती चावल, पनीर, मटर, प्याज, टमाटर, अदरक, लहसुन, हरी मिर्च, दाल, मसाले, लेमन, सलाद पत्ता, खीरा, गाजर",
-      "ingredients_list_hi": [
-        "बासमती चावल",
-        "पनीर",
-        "मटर",
-        "प्याज",
-        "टमाटर",
-        "अदरक",
-        "लहसुन",
-        "हरी मिर्च",
-        "दाल",
-        "मसाले",
-        "लेमन",
-        "सलाद पत्ता",
-        "खीरा",
-        "गाजर"
-      ],
-      "ingredients_list_en": [
-        "Basmati Rice",
-        "Paneer",
-        "Peas",
-        "Onion",
-        "Tomato",
-        "Ginger",
-        "Garlic",
-        "Green Chilli",
-        "Dal",
-        "Spices",
-        "Lemon",
-        "Lettuce",
-        "Cucumber",
-        "Carrot"
-      ],
-      "prep_notes_hi": "पनीर पुलाव को अन्य सामग्रियों के साथ पकाएं। दाल तड़के में अच्छे से मसाले मिलाएं।",
-      "prep_notes_en": "Cook the paneer pulao with other ingredients. Add spices generously to the dal tadka.",
-      "vizz_macros": {
-        "cal": 550,
-        "protein": 26,
-        "fat": 14,
-        "carbs": 72
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=paneer%20pulao%20recipe%20recipe"
-    },
-    "vizz_daily_total_from_meals": {
-      "cal": 1700,
-      "protein": 72,
-      "fat": 44,
-      "carbs": 230
-    },
-    "vizz_daily_total_with_shake": {
-      "cal": 2000,
-      "protein": 112,
-      "fat": 49,
-      "carbs": 255
-    },
-    "macro_check": "Achieves 2000 cal, 112g protein, 49g fat, 255g carbs; protein target achieved, fat slightly low."
-  },
-  {
     "date": "2026-06-08 (Monday)",
     "date_display": "Monday, June 8",
     "date_short": "Mon · Jun 8",
@@ -3614,5 +3485,132 @@
       "carbs": 222
     },
     "macro_check": "Needs more protein and calories to hit target; consider adding paneer to meals."
+  },
+  {
+    "date": "2026-07-07 (Tuesday)",
+    "date_display": "Tuesday, July 7",
+    "date_short": "Tue · Jul 7",
+    "generated_label": "Generated last night for today",
+    "breakfast": {
+      "dish_hindi": "उपमा, उबला अंडा (केवल विज़ और फ्लैटमेट-2 के लिए)",
+      "dish_english": "Upma with Boiled Egg (for Vizz and Flatmate-2)",
+      "ingredients_hindi": "सूजी, सरसों के बीज, प्याज, हरी मिर्च, गाजर, मटर, धनिया, नमक, तेल",
+      "ingredients_list_hi": [
+        "सूजी",
+        "सरसों के बीज",
+        "प्याज",
+        "हरी मिर्च",
+        "गाजर",
+        "मटर",
+        "धनिया",
+        "नमक",
+        "तेल"
+      ],
+      "ingredients_list_en": [
+        "Semolina",
+        "Mustard seeds",
+        "Onion",
+        "Green chili",
+        "Carrot",
+        "Peas",
+        "Coriander",
+        "Salt",
+        "Oil"
+      ],
+      "prep_notes_hi": "सूजी को हल्का भून लें ताकि वह सुगंधित हो जाए। सब्जियों को अच्छी तरह से पकने तक भूनें। उबले अंडे को बीच में से काट कर करें।",
+      "prep_notes_en": "Lightly roast the semolina until fragrant. Sauté vegetables until well cooked. Serve boiled egg halved on the side.",
+      "vizz_macros": {
+        "cal": 400,
+        "protein": 18,
+        "fat": 15,
+        "carbs": 55
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=upma%20recipe%20hindi%20recipe"
+    },
+    "lunch": {
+      "dish_hindi": "चना पुलाव, टमाटर चटनी",
+      "dish_english": "Chickpea Pulao with Tomato Chutney",
+      "ingredients_hindi": "बासमती चावल, चना, प्याज, टमाटर, अदरक-लहसुन पेस्ट, हरी मिर्च, मसाले, तेल, धनिया",
+      "ingredients_list_hi": [
+        "बासमती चावल",
+        "चना",
+        "प्याज",
+        "टमाटर",
+        "अदरक-लहसुन पेस्ट",
+        "हरी मिर्च",
+        "मसाले",
+        "तेल",
+        "धनिया"
+      ],
+      "ingredients_list_en": [
+        "Basmati rice",
+        "Chickpeas",
+        "Onion",
+        "Tomato",
+        "Ginger-garlic paste",
+        "Green chili",
+        "Spices",
+        "Oil",
+        "Coriander"
+      ],
+      "prep_notes_hi": "पुलाव को ऐसे पकाएं ताकि यह अच्छी तरह मिल जाए और सूखा रहे ताकि यह यात्रा और माइक्रोवेव में अच्छी तरह से गर्म हो सके।",
+      "prep_notes_en": "Cook the pulao to mix well and keep it dry so it travels and reheats in the microwave well.",
+      "vizz_macros": {
+        "cal": 600,
+        "protein": 15,
+        "fat": 10,
+        "carbs": 100
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=chickpea%20pulao%20recipe%20recipe"
+    },
+    "dinner": {
+      "dish_hindi": "पालक पनीर, तवा पराठा, पापड़",
+      "dish_english": "Palak Paneer with Tawa Paratha and Papad",
+      "ingredients_hindi": "पालक, पनीर, प्याज, टमाटर, अदरक-लहसुन पेस्ट, गरम मसाला, गेहूं का आटा, तेल, मसाले",
+      "ingredients_list_hi": [
+        "पालक",
+        "पनीर",
+        "प्याज",
+        "टमाटर",
+        "अदरक-लहसुन पेस्ट",
+        "गरम मसाला",
+        "गेहूं का आटा",
+        "तेल",
+        "मसाले"
+      ],
+      "ingredients_list_en": [
+        "Spinach",
+        "Paneer",
+        "Onion",
+        "Tomato",
+        "Ginger-garlic paste",
+        "Garam masala",
+        "Wheat flour",
+        "Oil",
+        "Spices"
+      ],
+      "prep_notes_hi": "पालक को पहले से उबालकर पीस लें। पनीर को सीधे ग्रेवी में न डालकर हल्का भून लें। पराठे को हलका सा सेंके ताकि वह नरम रहें।",
+      "prep_notes_en": "Boil and purée the spinach beforehand. Lightly fry paneer before adding to the gravy. Cook parathas lightly so they remain soft.",
+      "vizz_macros": {
+        "cal": 700,
+        "protein": 35,
+        "fat": 20,
+        "carbs": 65
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=palak%20paneer%20recipe%20recipe"
+    },
+    "vizz_daily_total_from_meals": {
+      "cal": 1700,
+      "protein": 68,
+      "fat": 45,
+      "carbs": 220
+    },
+    "vizz_daily_total_with_shake": {
+      "cal": 2000,
+      "protein": 108,
+      "fat": 50,
+      "carbs": 245
+    },
+    "macro_check": "Hits 2000/110/60/215 target. Slightly lower on protein but close overall goals."
   }
 ]
