@@ -1,127 +1,99 @@
 {
-  "date": "2026-07-07 (Tuesday)",
-  "date_display": "Tuesday, July 7",
-  "date_short": "Tue · Jul 7",
+  "date": "2026-07-08 (Wednesday)",
+  "date_display": "Wednesday, July 8",
+  "date_short": "Wed · Jul 8",
   "generated_label": "Generated last night for today",
   "breakfast": {
-    "dish_hindi": "उपमा, उबला अंडा (केवल विज़ और फ्लैटमेट-2 के लिए)",
-    "dish_english": "Upma with Boiled Egg (for Vizz and Flatmate-2)",
-    "ingredients_hindi": "सूजी, सरसों के बीज, प्याज, हरी मिर्च, गाजर, मटर, धनिया, नमक, तेल",
+    "dish_hindi": "मिर्च पराठा और दही, उबला अंडा (केवल Vizz और Flatmate-2 के लिए)",
+    "dish_english": "Chili Stuffed Paratha with Curd, Boiled Egg (for Vizz and Flatmate-2 only)",
+    "ingredients_hindi": "गेहूं का आटा, हरी मिर्च, उबला अंडा, दही",
     "ingredients_list_hi": [
-      "सूजी",
-      "सरसों के बीज",
-      "प्याज",
+      "गेहूं का आटा",
       "हरी मिर्च",
-      "गाजर",
-      "मटर",
-      "धनिया",
-      "नमक",
-      "तेल"
+      "उबला अंडा",
+      "दही"
     ],
     "ingredients_list_en": [
-      "Semolina",
-      "Mustard seeds",
-      "Onion",
-      "Green chili",
-      "Carrot",
-      "Peas",
-      "Coriander",
-      "Salt",
-      "Oil"
+      "Wheat Flour",
+      "Green Chili",
+      "Boiled Egg",
+      "Curd"
     ],
-    "prep_notes_hi": "सूजी को हल्का भून लें ताकि वह सुगंधित हो जाए। सब्जियों को अच्छी तरह से पकने तक भूनें। उबले अंडे को बीच में से काट कर करें।",
-    "prep_notes_en": "Lightly roast the semolina until fragrant. Sauté vegetables until well cooked. Serve boiled egg halved on the side.",
+    "prep_notes_hi": "आटे को अच्छी तरह गूंध लें और पतला बेलें। मिर्च का मिश्रण भरकर पराठे को घी में सेकें।",
+    "prep_notes_en": "Knead the dough thoroughly and roll thin. Fill with chili mixture and cook the paratha in ghee.",
     "vizz_macros": {
-      "cal": 400,
-      "protein": 18,
-      "fat": 15,
-      "carbs": 55
+      "cal": 490,
+      "protein": 17,
+      "fat": 17,
+      "carbs": 60
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=upma%20recipe%20hindi%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=chili%20paratha%20recipe%20recipe"
   },
   "lunch": {
-    "dish_hindi": "चना पुलाव, टमाटर चटनी",
-    "dish_english": "Chickpea Pulao with Tomato Chutney",
-    "ingredients_hindi": "बासमती चावल, चना, प्याज, टमाटर, अदरक-लहसुन पेस्ट, हरी मिर्च, मसाले, तेल, धनिया",
+    "dish_hindi": "हरी मटर पुलाव, पुदीना रायता",
+    "dish_english": "Green Pea Pulao, Mint Raita",
+    "ingredients_hindi": "बासमती चावल, हरी मटर, पुदीना, दही",
     "ingredients_list_hi": [
       "बासमती चावल",
-      "चना",
-      "प्याज",
-      "टमाटर",
-      "अदरक-लहसुन पेस्ट",
-      "हरी मिर्च",
-      "मसाले",
-      "तेल",
-      "धनिया"
+      "हरी मटर",
+      "पुदीना",
+      "दही"
     ],
     "ingredients_list_en": [
-      "Basmati rice",
-      "Chickpeas",
-      "Onion",
-      "Tomato",
-      "Ginger-garlic paste",
-      "Green chili",
-      "Spices",
-      "Oil",
-      "Coriander"
+      "Basmati Rice",
+      "Green Peas",
+      "Mint",
+      "Curd"
     ],
-    "prep_notes_hi": "पुलाव को ऐसे पकाएं ताकि यह अच्छी तरह मिल जाए और सूखा रहे ताकि यह यात्रा और माइक्रोवेव में अच्छी तरह से गर्म हो सके।",
-    "prep_notes_en": "Cook the pulao to mix well and keep it dry so it travels and reheats in the microwave well.",
+    "prep_notes_hi": "इस डिश को लंच बॉक्स में आराम से पैक करें। यह 4-5 घंटों तक ताजा रहता है और माइक्रोवेव में आसानी से गरम किया जा सकता है।",
+    "prep_notes_en": "Pack this dish comfortably in a lunch box. It stays fresh for 4-5 hours and reheats well in a microwave.",
     "vizz_macros": {
-      "cal": 600,
-      "protein": 15,
-      "fat": 10,
-      "carbs": 100
+      "cal": 450,
+      "protein": 10,
+      "fat": 8,
+      "carbs": 82
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=chickpea%20pulao%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=peas%20pulao%20recipe%20recipe"
   },
   "dinner": {
-    "dish_hindi": "पालक पनीर, तवा पराठा, पापड़",
-    "dish_english": "Palak Paneer with Tawa Paratha and Papad",
-    "ingredients_hindi": "पालक, पनीर, प्याज, टमाटर, अदरक-लहसुन पेस्ट, गरम मसाला, गेहूं का आटा, तेल, मसाले",
+    "dish_hindi": "मलाई कोफ्ता, चपाती और प्याज का सलाद",
+    "dish_english": "Malai Kofta, Chapati, and Onion Salad",
+    "ingredients_hindi": "आलू, पनीर, क्रीम, गेहूं का आटा, प्याज",
     "ingredients_list_hi": [
-      "पालक",
+      "आलू",
       "पनीर",
-      "प्याज",
-      "टमाटर",
-      "अदरक-लहसुन पेस्ट",
-      "गरम मसाला",
+      "क्रीम",
       "गेहूं का आटा",
-      "तेल",
-      "मसाले"
+      "प्याज"
     ],
     "ingredients_list_en": [
-      "Spinach",
+      "Potato",
       "Paneer",
-      "Onion",
-      "Tomato",
-      "Ginger-garlic paste",
-      "Garam masala",
-      "Wheat flour",
-      "Oil",
-      "Spices"
+      "Cream",
+      "Wheat Flour",
+      "Onion"
     ],
-    "prep_notes_hi": "पालक को पहले से उबालकर पीस लें। पनीर को सीधे ग्रेवी में न डालकर हल्का भून लें। पराठे को हलका सा सेंके ताकि वह नरम रहें।",
-    "prep_notes_en": "Boil and purée the spinach beforehand. Lightly fry paneer before adding to the gravy. Cook parathas lightly so they remain soft.",
+    "prep_notes_hi": "काफी मलाई वाला कोफ्ता तैयार करें। गरम चपाती और ताजे कटे प्याज के साथ परोसें।",
+    "prep_notes_en": "Prepare a rich creamy kofta. Serve with hot chapati and freshly sliced onions.",
     "vizz_macros": {
-      "cal": 700,
-      "protein": 35,
+      "cal": 760,
+      "protein": 28,
       "fat": 20,
-      "carbs": 65
+      "carbs": 82
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=palak%20paneer%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=malai%20kofta%20recipe%20recipe"
   },
   "vizz_daily_total_from_meals": {
     "cal": 1700,
-    "protein": 68,
+    "protein": 55,
     "fat": 45,
-    "carbs": 220
+    "carbs": 224
   },
   "vizz_daily_total_with_shake": {
     "cal": 2000,
-    "protein": 108,
+    "protein": 95,
     "fat": 50,
-    "carbs": 245
+    "carbs": 249
   },
-  "macro_check": "Hits 2000/110/60/215 target. Slightly lower on protein but close overall goals."
+  "macro_check": "Calories and carbs met. Protein intake slightly below target, consider adding more protein-rich foods."
 }

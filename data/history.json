@@ -1,116 +1,5 @@
 [
   {
-    "date": "2026-06-08 (Monday)",
-    "date_display": "Monday, June 8",
-    "date_short": "Mon · Jun 8",
-    "generated_label": "Generated last night for today",
-    "breakfast": {
-      "dish_hindi": "दही आधारित ग्रेन बाउल और उबला अंडा",
-      "dish_english": "Yogurt-Based Grain Bowl with Boiled Egg",
-      "ingredients_hindi": "ओट्स, दही, शहद, केला, सूखे मेवे, उबला अंडा",
-      "ingredients_list_hi": [
-        "ओट्स",
-        "दही",
-        "शहद",
-        "केला",
-        "सूखे मेवे",
-        "उबला अंडा"
-      ],
-      "ingredients_list_en": [
-        "Oats",
-        "Yogurt",
-        "Honey",
-        "Banana",
-        "Dry Fruits",
-        "Boiled Egg"
-      ],
-      "prep_notes_hi": "जाहिर है दही और ओट्स को अच्छी तरह मिलाएं। ऊपर से केला व सूखे मेवे डाल कर पकाएं।",
-      "prep_notes_en": "Mix yogurt and oats thoroughly. Top with banana and dry fruits before serving.",
-      "vizz_macros": {
-        "cal": 450,
-        "protein": 16,
-        "fat": 13,
-        "carbs": 67
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=grain%20bowl%20yogurt%20recipe%20recipe"
-    },
-    "lunch": {
-      "dish_hindi": "दाल चावल और अचार",
-      "dish_english": "Dal with Rice and Pickle",
-      "ingredients_hindi": "चावल, तूर दाल, टमाटर, प्याज, मसाले, अचार",
-      "ingredients_list_hi": [
-        "चावल",
-        "तूर दाल",
-        "टमाटर",
-        "प्याज",
-        "मसाले",
-        "अचार"
-      ],
-      "ingredients_list_en": [
-        "Rice",
-        "Toor Dal",
-        "Tomato",
-        "Onion",
-        "Spices",
-        "Pickle"
-      ],
-      "prep_notes_hi": "चावल और दाल को अलग-अलग पकाएं, दोनों को गरम मसाले से तड़का लगाएं। यात्रा में ले जाने लायक और माइक्रोवेव में फिर से गरम किया जा सके।",
-      "prep_notes_en": "Cook rice and dal separately, and temper with garam masala. Suitable for travel and can be reheated in a microwave.",
-      "vizz_macros": {
-        "cal": 690,
-        "protein": 29,
-        "fat": 3,
-        "carbs": 138
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=dal%20chawal%20recipe%20hindi%20recipe"
-    },
-    "dinner": {
-      "dish_hindi": "मसाला डोसा, नारियल चटनी और सांभर",
-      "dish_english": "Masala Dosa with Coconut Chutney & Sambar",
-      "ingredients_hindi": "चावल का आटा, उरद दाल, आलू, प्याज, मसाले, नारियल, सांभर",
-      "ingredients_list_hi": [
-        "चावल का आटा",
-        "उरद दाल",
-        "आलू",
-        "प्याज",
-        "मसाले",
-        "नारियल",
-        "सांभर"
-      ],
-      "ingredients_list_en": [
-        "Rice Flour",
-        "Urad Dal",
-        "Potato",
-        "Onion",
-        "Spices",
-        "Coconut",
-        "Sambar"
-      ],
-      "prep_notes_hi": "डोसा बैटर पहले से तैयार रखें, आलू मसाला भरें। नारियल चटनी और सांभर के साथ परोसें।",
-      "prep_notes_en": "Prepare dosa batter in advance, fill with potato masala. Serve with coconut chutney and sambar.",
-      "vizz_macros": {
-        "cal": 560,
-        "protein": 12,
-        "fat": 16,
-        "carbs": 93
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=masala%20dosa%20recipe%20recipe"
-    },
-    "vizz_daily_total_from_meals": {
-      "cal": 1700,
-      "protein": 57,
-      "fat": 32,
-      "carbs": 298
-    },
-    "vizz_daily_total_with_shake": {
-      "cal": 2000,
-      "protein": 97,
-      "fat": 37,
-      "carbs": 323
-    },
-    "macro_check": "Slightly low on protein, carbs slightly high. Overall calories balanced. Consider a second boiled egg if extra protein needed."
-  },
-  {
     "date": "2026-06-09 (Tuesday)",
     "date_display": "Tuesday, June 9",
     "date_short": "Tue · Jun 9",
@@ -3612,5 +3501,104 @@
       "carbs": 245
     },
     "macro_check": "Hits 2000/110/60/215 target. Slightly lower on protein but close overall goals."
+  },
+  {
+    "date": "2026-07-08 (Wednesday)",
+    "date_display": "Wednesday, July 8",
+    "date_short": "Wed · Jul 8",
+    "generated_label": "Generated last night for today",
+    "breakfast": {
+      "dish_hindi": "मिर्च पराठा और दही, उबला अंडा (केवल Vizz और Flatmate-2 के लिए)",
+      "dish_english": "Chili Stuffed Paratha with Curd, Boiled Egg (for Vizz and Flatmate-2 only)",
+      "ingredients_hindi": "गेहूं का आटा, हरी मिर्च, उबला अंडा, दही",
+      "ingredients_list_hi": [
+        "गेहूं का आटा",
+        "हरी मिर्च",
+        "उबला अंडा",
+        "दही"
+      ],
+      "ingredients_list_en": [
+        "Wheat Flour",
+        "Green Chili",
+        "Boiled Egg",
+        "Curd"
+      ],
+      "prep_notes_hi": "आटे को अच्छी तरह गूंध लें और पतला बेलें। मिर्च का मिश्रण भरकर पराठे को घी में सेकें।",
+      "prep_notes_en": "Knead the dough thoroughly and roll thin. Fill with chili mixture and cook the paratha in ghee.",
+      "vizz_macros": {
+        "cal": 490,
+        "protein": 17,
+        "fat": 17,
+        "carbs": 60
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=chili%20paratha%20recipe%20recipe"
+    },
+    "lunch": {
+      "dish_hindi": "हरी मटर पुलाव, पुदीना रायता",
+      "dish_english": "Green Pea Pulao, Mint Raita",
+      "ingredients_hindi": "बासमती चावल, हरी मटर, पुदीना, दही",
+      "ingredients_list_hi": [
+        "बासमती चावल",
+        "हरी मटर",
+        "पुदीना",
+        "दही"
+      ],
+      "ingredients_list_en": [
+        "Basmati Rice",
+        "Green Peas",
+        "Mint",
+        "Curd"
+      ],
+      "prep_notes_hi": "इस डिश को लंच बॉक्स में आराम से पैक करें। यह 4-5 घंटों तक ताजा रहता है और माइक्रोवेव में आसानी से गरम किया जा सकता है।",
+      "prep_notes_en": "Pack this dish comfortably in a lunch box. It stays fresh for 4-5 hours and reheats well in a microwave.",
+      "vizz_macros": {
+        "cal": 450,
+        "protein": 10,
+        "fat": 8,
+        "carbs": 82
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=peas%20pulao%20recipe%20recipe"
+    },
+    "dinner": {
+      "dish_hindi": "मलाई कोफ्ता, चपाती और प्याज का सलाद",
+      "dish_english": "Malai Kofta, Chapati, and Onion Salad",
+      "ingredients_hindi": "आलू, पनीर, क्रीम, गेहूं का आटा, प्याज",
+      "ingredients_list_hi": [
+        "आलू",
+        "पनीर",
+        "क्रीम",
+        "गेहूं का आटा",
+        "प्याज"
+      ],
+      "ingredients_list_en": [
+        "Potato",
+        "Paneer",
+        "Cream",
+        "Wheat Flour",
+        "Onion"
+      ],
+      "prep_notes_hi": "काफी मलाई वाला कोफ्ता तैयार करें। गरम चपाती और ताजे कटे प्याज के साथ परोसें।",
+      "prep_notes_en": "Prepare a rich creamy kofta. Serve with hot chapati and freshly sliced onions.",
+      "vizz_macros": {
+        "cal": 760,
+        "protein": 28,
+        "fat": 20,
+        "carbs": 82
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=malai%20kofta%20recipe%20recipe"
+    },
+    "vizz_daily_total_from_meals": {
+      "cal": 1700,
+      "protein": 55,
+      "fat": 45,
+      "carbs": 224
+    },
+    "vizz_daily_total_with_shake": {
+      "cal": 2000,
+      "protein": 95,
+      "fat": 50,
+      "carbs": 249
+    },
+    "macro_check": "Calories and carbs met. Protein intake slightly below target, consider adding more protein-rich foods."
   }
 ]
