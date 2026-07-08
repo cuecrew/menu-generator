@@ -1,99 +1,129 @@
 {
-  "date": "2026-07-08 (Wednesday)",
-  "date_display": "Wednesday, July 8",
-  "date_short": "Wed · Jul 8",
+  "date": "2026-07-09 (Thursday)",
+  "date_display": "Thursday, July 9",
+  "date_short": "Thu · Jul 9",
   "generated_label": "Generated last night for today",
   "breakfast": {
-    "dish_hindi": "मिर्च पराठा और दही, उबला अंडा (केवल Vizz और Flatmate-2 के लिए)",
-    "dish_english": "Chili Stuffed Paratha with Curd, Boiled Egg (for Vizz and Flatmate-2 only)",
-    "ingredients_hindi": "गेहूं का आटा, हरी मिर्च, उबला अंडा, दही",
+    "dish_hindi": "स्प्राउट्स उपमा और उबला हुआ अंडा (विज्ज़ और फ्लैटमेट-2 के लिए)",
+    "dish_english": "Sprouts Upma and Boiled Egg (for Vizz and Flatmate-2)",
+    "ingredients_hindi": "सूजी, अंकुरित मूंग, प्याज, हरी मिर्च, सरसों के बीज, करी पत्ता, नमक, तेल, उबला अंडा",
     "ingredients_list_hi": [
-      "गेहूं का आटा",
+      "सूजी",
+      "अंकुरित मूंग",
+      "प्याज",
       "हरी मिर्च",
-      "उबला अंडा",
-      "दही"
+      "सरसों के बीज",
+      "करी पत्ता",
+      "नमक",
+      "तेल",
+      "उबला अंडा"
     ],
     "ingredients_list_en": [
-      "Wheat Flour",
+      "Semolina (Sooji)",
+      "Sprouted Mung Beans",
+      "Onion",
       "Green Chili",
-      "Boiled Egg",
-      "Curd"
+      "Mustard Seeds",
+      "Curry Leaves",
+      "Salt",
+      "Oil",
+      "Boiled Egg"
     ],
-    "prep_notes_hi": "आटे को अच्छी तरह गूंध लें और पतला बेलें। मिर्च का मिश्रण भरकर पराठे को घी में सेकें।",
-    "prep_notes_en": "Knead the dough thoroughly and roll thin. Fill with chili mixture and cook the paratha in ghee.",
-    "vizz_macros": {
-      "cal": 490,
-      "protein": 17,
-      "fat": 17,
-      "carbs": 60
-    },
-    "youtube_url": "https://www.youtube.com/results?search_query=chili%20paratha%20recipe%20recipe"
-  },
-  "lunch": {
-    "dish_hindi": "हरी मटर पुलाव, पुदीना रायता",
-    "dish_english": "Green Pea Pulao, Mint Raita",
-    "ingredients_hindi": "बासमती चावल, हरी मटर, पुदीना, दही",
-    "ingredients_list_hi": [
-      "बासमती चावल",
-      "हरी मटर",
-      "पुदीना",
-      "दही"
-    ],
-    "ingredients_list_en": [
-      "Basmati Rice",
-      "Green Peas",
-      "Mint",
-      "Curd"
-    ],
-    "prep_notes_hi": "इस डिश को लंच बॉक्स में आराम से पैक करें। यह 4-5 घंटों तक ताजा रहता है और माइक्रोवेव में आसानी से गरम किया जा सकता है।",
-    "prep_notes_en": "Pack this dish comfortably in a lunch box. It stays fresh for 4-5 hours and reheats well in a microwave.",
+    "prep_notes_hi": "सूजी को सेकें ताकि उसका कच्चापन दूर हो। अंकुरित मूंग को उपमा में जोड़ें और हल्के से पकाएं।",
+    "prep_notes_en": "Roast the semolina lightly to remove its rawness. Add sprouted mung beans to the upma and cook gently.",
     "vizz_macros": {
       "cal": 450,
-      "protein": 10,
-      "fat": 8,
-      "carbs": 82
+      "protein": 18,
+      "fat": 14,
+      "carbs": 65
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=peas%20pulao%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=sprouts%20upma%20recipe%20recipe"
   },
-  "dinner": {
-    "dish_hindi": "मलाई कोफ्ता, चपाती और प्याज का सलाद",
-    "dish_english": "Malai Kofta, Chapati, and Onion Salad",
-    "ingredients_hindi": "आलू, पनीर, क्रीम, गेहूं का आटा, प्याज",
+  "lunch": {
+    "dish_hindi": "राजमा चावल और कटे हुए प्याज",
+    "dish_english": "Rajma with Rice and Sliced Onion",
+    "ingredients_hindi": "राजमा, बासमती चावल, टमाटर, प्याज, अदरक, लहसुन, जीरा, नमक, तेल, मसाले",
     "ingredients_list_hi": [
-      "आलू",
-      "पनीर",
-      "क्रीम",
-      "गेहूं का आटा",
-      "प्याज"
+      "राजमा",
+      "बासमती चावल",
+      "टमाटर",
+      "प्याज",
+      "अदरक",
+      "लहसुन",
+      "जीरा",
+      "नमक",
+      "तेल",
+      "मसाले"
     ],
     "ingredients_list_en": [
-      "Potato",
-      "Paneer",
-      "Cream",
-      "Wheat Flour",
-      "Onion"
+      "Kidney Beans (Rajma)",
+      "Basmati Rice",
+      "Tomato",
+      "Onion",
+      "Ginger",
+      "Garlic",
+      "Cumin Seeds",
+      "Salt",
+      "Oil",
+      "Spices"
     ],
-    "prep_notes_hi": "काफी मलाई वाला कोफ्ता तैयार करें। गरम चपाती और ताजे कटे प्याज के साथ परोसें।",
-    "prep_notes_en": "Prepare a rich creamy kofta. Serve with hot chapati and freshly sliced onions.",
+    "prep_notes_hi": "राजमा को अच्छी तरह से पकाएं ताकि वह नरम हो जाए। ऐसे बर्तन में बनाएँ जो दोपहर के भोजन के लिए आसानी से पैकेबल हो और चार से पांच घंटे तक ताज़ा रहे।",
+    "prep_notes_en": "Cook the kidney beans thoroughly until soft. Use a container that keeps the lunch fresh for 4-5 hours and is easy to reheat.",
     "vizz_macros": {
-      "cal": 760,
-      "protein": 28,
-      "fat": 20,
-      "carbs": 82
+      "cal": 550,
+      "protein": 18,
+      "fat": 8,
+      "carbs": 100
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=malai%20kofta%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=rajma%20chawal%20recipe%20recipe"
+  },
+  "dinner": {
+    "dish_hindi": "पनीर भुर्जी, चपाती और दही",
+    "dish_english": "Paneer Bhurji, Chapati and Curd",
+    "ingredients_hindi": "पनीर, प्याज, टमाटर, हरी मिर्च, हल्दी, नमक, तेल, चपाती, दही",
+    "ingredients_list_hi": [
+      "पनीर",
+      "प्याज",
+      "टमाटर",
+      "हरी मिर्च",
+      "हल्दी",
+      "नमक",
+      "तेल",
+      "चपाती",
+      "दही"
+    ],
+    "ingredients_list_en": [
+      "Paneer",
+      "Onion",
+      "Tomato",
+      "Green Chili",
+      "Turmeric",
+      "Salt",
+      "Oil",
+      "Chapati",
+      "Curd"
+    ],
+    "prep_notes_hi": "प्याज और टमाटर को अच्छी तरह से भूनें और भुर्जी में मिलाएं। इसे चपाती और दही के साथ परोसें।",
+    "prep_notes_en": "Sauté onions and tomatoes properly and mix them into the scrambled paneer. Serve with chapati and curd.",
+    "vizz_macros": {
+      "cal": 600,
+      "protein": 24,
+      "fat": 20,
+      "carbs": 55
+    },
+    "youtube_url": "https://www.youtube.com/results?search_query=paneer%20bhurji%20recipe%20recipe"
   },
   "vizz_daily_total_from_meals": {
-    "cal": 1700,
-    "protein": 55,
-    "fat": 45,
-    "carbs": 224
+    "cal": 1600,
+    "protein": 60,
+    "fat": 42,
+    "carbs": 220
   },
   "vizz_daily_total_with_shake": {
-    "cal": 2000,
-    "protein": 95,
-    "fat": 50,
-    "carbs": 249
+    "cal": 1900,
+    "protein": 100,
+    "fat": 47,
+    "carbs": 245
   },
-  "macro_check": "Calories and carbs met. Protein intake slightly below target, consider adding more protein-rich foods."
+  "macro_check": "Slightly below protein (~10g less), fats (~13g less). Carbs and calories are adequate but slightly above target."
 }

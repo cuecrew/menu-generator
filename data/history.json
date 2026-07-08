@@ -1,124 +1,5 @@
 [
   {
-    "date": "2026-06-09 (Tuesday)",
-    "date_display": "Tuesday, June 9",
-    "date_short": "Tue · Jun 9",
-    "generated_label": "Generated last night for today",
-    "breakfast": {
-      "dish_hindi": "उपमा, उबला अंडा",
-      "dish_english": "Upma with Boiled Egg",
-      "ingredients_hindi": "सूजी, गाजर, मटर, अदरक, हरी मिर्च, तेल, नमक, उबला अंडा",
-      "ingredients_list_hi": [
-        "सूजी",
-        "गाजर",
-        "मटर",
-        "अदरक",
-        "हरी मिर्च",
-        "तेल",
-        "नमक",
-        "उबला अंडा"
-      ],
-      "ingredients_list_en": [
-        "Semolina (Soji)",
-        "Carrot",
-        "Peas",
-        "Ginger",
-        "Green Chillies",
-        "Oil",
-        "Salt",
-        "Boiled Egg"
-      ],
-      "prep_notes_hi": "सूजी को हल्का भून लें। सब्जियों को छोटे टुकड़ों में काटें और मिश्रण को धीमे आंच पर पकाएं।",
-      "prep_notes_en": "Lightly roast the semolina. Chop vegetables finely and cook the mixture on low flame.",
-      "vizz_macros": {
-        "cal": 450,
-        "protein": 18,
-        "fat": 12,
-        "carbs": 65
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=upma%20recipe%20hindi%20recipe"
-    },
-    "lunch": {
-      "dish_hindi": "राजमा पुलाव और सलाद",
-      "dish_english": "Rajma Pulao with Salad",
-      "ingredients_hindi": "बासमती चावल, राजमा, प्याज़, टमाटर, अदरक, हरी मिर्च, मसाले",
-      "ingredients_list_hi": [
-        "बासमती चावल",
-        "राजमा",
-        "प्याज़",
-        "टमाटर",
-        "अदरक",
-        "हरी मिर्च",
-        "मसाले"
-      ],
-      "ingredients_list_en": [
-        "Basmati Rice",
-        "Kidney Beans",
-        "Onion",
-        "Tomato",
-        "Ginger",
-        "Green Chillies",
-        "Spices"
-      ],
-      "prep_notes_hi": "राजमा को रातभर भिगोया जाना चाहिए। यह दो लोगों के लिए पोर्टेबल होना चाहिए, और आसानी से माइक्रोवेव में गरम किया जा सकता है।",
-      "prep_notes_en": "Rajma should be soaked overnight. This should be portable for two people and easily reheatable in a microwave.",
-      "vizz_macros": {
-        "cal": 650,
-        "protein": 24,
-        "fat": 6,
-        "carbs": 110
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=rajma%20pulao%20recipe%20recipe"
-    },
-    "dinner": {
-      "dish_hindi": "पालक पनीर, रोटी और रायता",
-      "dish_english": "Palak Paneer with Roti and Raita",
-      "ingredients_hindi": "पालक, पनीर, प्याज़, टमाटर, अदरक, लहसुन, मसाले, गेहूं का आटा",
-      "ingredients_list_hi": [
-        "पालक",
-        "पनीर",
-        "प्याज़",
-        "टमाटर",
-        "अदरक",
-        "लहसुन",
-        "मसाले",
-        "गेहूं का आटा"
-      ],
-      "ingredients_list_en": [
-        "Spinach",
-        "Paneer",
-        "Onion",
-        "Tomato",
-        "Ginger",
-        "Garlic",
-        "Spices",
-        "Wheat Flour"
-      ],
-      "prep_notes_hi": "पालक को अच्छे से धोकर प्यूरी बना लें। पच्चास मिनट में पनीर और पालक को मसालों के साथ अच्छे से मिक्स करें।",
-      "prep_notes_en": "Wash and puree the spinach thoroughly. Mix the paneer and spinach well with spices within 45 minutes.",
-      "vizz_macros": {
-        "cal": 600,
-        "protein": 28,
-        "fat": 27,
-        "carbs": 60
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=palak%20paneer%20recipe%20recipe"
-    },
-    "vizz_daily_total_from_meals": {
-      "cal": 1700,
-      "protein": 70,
-      "fat": 45,
-      "carbs": 235
-    },
-    "vizz_daily_total_with_shake": {
-      "cal": 2000,
-      "protein": 110,
-      "fat": 50,
-      "carbs": 260
-    },
-    "macro_check": "Total macros meet 2000 cal, 110g protein, 60g fat, 215g carbs targets. Consider reducing fat slightly."
-  },
-  {
     "date": "2026-06-10 (Wednesday)",
     "date_display": "Wednesday, June 10",
     "date_short": "Wed · Jun 10",
@@ -3600,5 +3481,134 @@
       "carbs": 249
     },
     "macro_check": "Calories and carbs met. Protein intake slightly below target, consider adding more protein-rich foods."
+  },
+  {
+    "date": "2026-07-09 (Thursday)",
+    "date_display": "Thursday, July 9",
+    "date_short": "Thu · Jul 9",
+    "generated_label": "Generated last night for today",
+    "breakfast": {
+      "dish_hindi": "स्प्राउट्स उपमा और उबला हुआ अंडा (विज्ज़ और फ्लैटमेट-2 के लिए)",
+      "dish_english": "Sprouts Upma and Boiled Egg (for Vizz and Flatmate-2)",
+      "ingredients_hindi": "सूजी, अंकुरित मूंग, प्याज, हरी मिर्च, सरसों के बीज, करी पत्ता, नमक, तेल, उबला अंडा",
+      "ingredients_list_hi": [
+        "सूजी",
+        "अंकुरित मूंग",
+        "प्याज",
+        "हरी मिर्च",
+        "सरसों के बीज",
+        "करी पत्ता",
+        "नमक",
+        "तेल",
+        "उबला अंडा"
+      ],
+      "ingredients_list_en": [
+        "Semolina (Sooji)",
+        "Sprouted Mung Beans",
+        "Onion",
+        "Green Chili",
+        "Mustard Seeds",
+        "Curry Leaves",
+        "Salt",
+        "Oil",
+        "Boiled Egg"
+      ],
+      "prep_notes_hi": "सूजी को सेकें ताकि उसका कच्चापन दूर हो। अंकुरित मूंग को उपमा में जोड़ें और हल्के से पकाएं।",
+      "prep_notes_en": "Roast the semolina lightly to remove its rawness. Add sprouted mung beans to the upma and cook gently.",
+      "vizz_macros": {
+        "cal": 450,
+        "protein": 18,
+        "fat": 14,
+        "carbs": 65
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=sprouts%20upma%20recipe%20recipe"
+    },
+    "lunch": {
+      "dish_hindi": "राजमा चावल और कटे हुए प्याज",
+      "dish_english": "Rajma with Rice and Sliced Onion",
+      "ingredients_hindi": "राजमा, बासमती चावल, टमाटर, प्याज, अदरक, लहसुन, जीरा, नमक, तेल, मसाले",
+      "ingredients_list_hi": [
+        "राजमा",
+        "बासमती चावल",
+        "टमाटर",
+        "प्याज",
+        "अदरक",
+        "लहसुन",
+        "जीरा",
+        "नमक",
+        "तेल",
+        "मसाले"
+      ],
+      "ingredients_list_en": [
+        "Kidney Beans (Rajma)",
+        "Basmati Rice",
+        "Tomato",
+        "Onion",
+        "Ginger",
+        "Garlic",
+        "Cumin Seeds",
+        "Salt",
+        "Oil",
+        "Spices"
+      ],
+      "prep_notes_hi": "राजमा को अच्छी तरह से पकाएं ताकि वह नरम हो जाए। ऐसे बर्तन में बनाएँ जो दोपहर के भोजन के लिए आसानी से पैकेबल हो और चार से पांच घंटे तक ताज़ा रहे।",
+      "prep_notes_en": "Cook the kidney beans thoroughly until soft. Use a container that keeps the lunch fresh for 4-5 hours and is easy to reheat.",
+      "vizz_macros": {
+        "cal": 550,
+        "protein": 18,
+        "fat": 8,
+        "carbs": 100
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=rajma%20chawal%20recipe%20recipe"
+    },
+    "dinner": {
+      "dish_hindi": "पनीर भुर्जी, चपाती और दही",
+      "dish_english": "Paneer Bhurji, Chapati and Curd",
+      "ingredients_hindi": "पनीर, प्याज, टमाटर, हरी मिर्च, हल्दी, नमक, तेल, चपाती, दही",
+      "ingredients_list_hi": [
+        "पनीर",
+        "प्याज",
+        "टमाटर",
+        "हरी मिर्च",
+        "हल्दी",
+        "नमक",
+        "तेल",
+        "चपाती",
+        "दही"
+      ],
+      "ingredients_list_en": [
+        "Paneer",
+        "Onion",
+        "Tomato",
+        "Green Chili",
+        "Turmeric",
+        "Salt",
+        "Oil",
+        "Chapati",
+        "Curd"
+      ],
+      "prep_notes_hi": "प्याज और टमाटर को अच्छी तरह से भूनें और भुर्जी में मिलाएं। इसे चपाती और दही के साथ परोसें।",
+      "prep_notes_en": "Sauté onions and tomatoes properly and mix them into the scrambled paneer. Serve with chapati and curd.",
+      "vizz_macros": {
+        "cal": 600,
+        "protein": 24,
+        "fat": 20,
+        "carbs": 55
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=paneer%20bhurji%20recipe%20recipe"
+    },
+    "vizz_daily_total_from_meals": {
+      "cal": 1600,
+      "protein": 60,
+      "fat": 42,
+      "carbs": 220
+    },
+    "vizz_daily_total_with_shake": {
+      "cal": 1900,
+      "protein": 100,
+      "fat": 47,
+      "carbs": 245
+    },
+    "macro_check": "Slightly below protein (~10g less), fats (~13g less). Carbs and calories are adequate but slightly above target."
   }
 ]
