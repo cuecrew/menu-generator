@@ -1,130 +1,5 @@
 [
   {
-    "date": "2026-06-10 (Wednesday)",
-    "date_display": "Wednesday, June 10",
-    "date_short": "Wed · Jun 10",
-    "generated_label": "Generated last night for today",
-    "breakfast": {
-      "dish_hindi": "अंडा सैंडविच, चाय",
-      "dish_english": "Egg Sandwich with Tea",
-      "ingredients_hindi": "ब्रेड, उबला अंडा, मेयोनेज़, काली मिर्च, नमक, चाय पत्ती, दूध, चीनी",
-      "ingredients_list_hi": [
-        "ब्रेड",
-        "उबला अंडा",
-        "मेयोनेज़",
-        "काली मिर्च",
-        "नमक",
-        "चाय पत्ती",
-        "दूध",
-        "चीनी"
-      ],
-      "ingredients_list_en": [
-        "Bread",
-        "Boiled Egg",
-        "Mayonnaise",
-        "Black Pepper",
-        "Salt",
-        "Tea Leaves",
-        "Milk",
-        "Sugar"
-      ],
-      "prep_notes_hi": "उबले हुए अंडों को छोटे टुकड़ों में काटें। अंडे, मेयोनेज़, काली मिर्च, और नमक को ब्रेड पर फैलाएं।",
-      "prep_notes_en": "Chop the boiled eggs into small pieces. Spread eggs, mayonnaise, black pepper, and salt on the bread.",
-      "vizz_macros": {
-        "cal": 350,
-        "protein": 18,
-        "fat": 12,
-        "carbs": 40
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=egg%20sandwich%20recipe%20recipe"
-    },
-    "lunch": {
-      "dish_hindi": "वेज पनीर पिलाफ, दही",
-      "dish_english": "Vegetable Paneer Pulao with Yogurt",
-      "ingredients_hindi": "बासमती चावल, पनीर, मिक्स सब्जियाँ, प्याज, टमाटर, जीरा, हल्दी, नमक, दही",
-      "ingredients_list_hi": [
-        "बासमती चावल",
-        "पनीर",
-        "मिक्स सब्जियाँ",
-        "प्याज",
-        "टमाटर",
-        "जीरा",
-        "हल्दी",
-        "नमक",
-        "दही"
-      ],
-      "ingredients_list_en": [
-        "Basmati Rice",
-        "Paneer",
-        "Mixed Vegetables",
-        "Onion",
-        "Tomato",
-        "Cumin Seeds",
-        "Turmeric",
-        "Salt",
-        "Yogurt"
-      ],
-      "prep_notes_hi": "पुलाव को मध्यम आंच पर पकाएं ताकि सब्जियाँ ठीक से पक जाएं। इसको ऑफिस में ले जा सकते हैं और गरम भी कर सकते हैं।",
-      "prep_notes_en": "Cook the pulao on medium heat to ensure the vegetables are cooked well. It travels and reheats well for office.",
-      "vizz_macros": {
-        "cal": 500,
-        "protein": 22,
-        "fat": 18,
-        "carbs": 55
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=vegetable%20paneer%20pulao%20recipe"
-    },
-    "dinner": {
-      "dish_hindi": "मिक्स वेज करी, चपाती, आचार",
-      "dish_english": "Mixed Vegetable Curry with Chapati and Pickle",
-      "ingredients_hindi": "मिक्स सब्जियाँ, प्याज, टमाटर, लहसुन, अदरक, गरम मसाला, नमक, गेहूं का आटा, आचार",
-      "ingredients_list_hi": [
-        "मिक्स सब्जियाँ",
-        "प्याज",
-        "टमाटर",
-        "लहसुन",
-        "अदरक",
-        "गरम मसाला",
-        "नमक",
-        "गेहूं का आटा",
-        "आचार"
-      ],
-      "ingredients_list_en": [
-        "Mixed Vegetables",
-        "Onion",
-        "Tomato",
-        "Garlic",
-        "Ginger",
-        "Garam Masala",
-        "Salt",
-        "Wheat Flour",
-        "Pickle"
-      ],
-      "prep_notes_hi": "सब्जियों को अच्छे से धोकर काटें और धीमी आंच पर मसालों के साथ पकाएं।",
-      "prep_notes_en": "Wash and chop the vegetables thoroughly, and cook with spices on low heat.",
-      "vizz_macros": {
-        "cal": 550,
-        "protein": 15,
-        "fat": 15,
-        "carbs": 75
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=mixed%20vegetable%20curry%20recipe"
-    },
-    "vizz_daily_total_from_meals": {
-      "cal": 1400,
-      "protein": 55,
-      "fat": 45,
-      "carbs": 170
-    },
-    "vizz_daily_total_with_shake": {
-      "cal": 1700,
-      "protein": 95,
-      "fat": 50,
-      "carbs": 195
-    },
-    "macro_check": "This plan hits 1700 cal / 95g protein / 50g fat / 195g carbs. It's low on protein and carbs. Consider adding a small snack or increase portion sizes."
-  },
-  {
     "date": "2026-06-11 (Thursday)",
     "date_display": "Thursday, June 11",
     "date_short": "Thu · Jun 11",
@@ -3610,5 +3485,106 @@
       "carbs": 245
     },
     "macro_check": "Slightly below protein (~10g less), fats (~13g less). Carbs and calories are adequate but slightly above target."
+  },
+  {
+    "date": "2026-07-10 (Friday)",
+    "date_display": "Friday, July 10",
+    "date_short": "Fri · Jul 10",
+    "generated_label": "Generated last night for today",
+    "breakfast": {
+      "dish_hindi": "ओट्स पोरिज और उबला अंडा",
+      "dish_english": "Oats Porridge with Boiled Egg",
+      "ingredients_hindi": "ओट्स, दूध, शहद, उबला अंडा",
+      "ingredients_list_hi": [
+        "ओट्स",
+        "दूध",
+        "शहद",
+        "उबला अंडा"
+      ],
+      "ingredients_list_en": [
+        "Oats",
+        "Milk",
+        "Honey",
+        "Boiled Egg"
+      ],
+      "prep_notes_hi": "ओट्स को दूध में पका लें और मीठा करने के लिए थोड़ा शहद डालें। विज़्ज़ और फ्लैटमेट-2 के लिए अंडा उबाल लें।",
+      "prep_notes_en": "Cook oats in milk and add a bit of honey for sweetness. Boil an egg for Vizz and Flatmate-2.",
+      "vizz_macros": {
+        "cal": 370,
+        "protein": 18,
+        "fat": 10,
+        "carbs": 55
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=oats%20porridge%20recipe%20recipe"
+    },
+    "lunch": {
+      "dish_hindi": "मसूर दाल चावल और पापड़",
+      "dish_english": "Masoor Dal with Rice and Papad",
+      "ingredients_hindi": "मसूर दाल, बासमती चावल, पापड़",
+      "ingredients_list_hi": [
+        "मसूर दाल",
+        "बासमती चावल",
+        "पापड़"
+      ],
+      "ingredients_list_en": [
+        "Red Lentils",
+        "Basmati Rice",
+        "Papad"
+      ],
+      "prep_notes_hi": "मसूर दाल चावल पोर्टेबल है और विभिन्न प्रकार की टिफिन में पुनः गर्म किया जा सकता है।",
+      "prep_notes_en": "Masoor dal and rice are portable and can be reheated in various microwaves.",
+      "vizz_macros": {
+        "cal": 520,
+        "protein": 26,
+        "fat": 3,
+        "carbs": 106
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=masoor%20dal%20rice%20recipe%20recipe"
+    },
+    "dinner": {
+      "dish_hindi": "पाव भाजी और चटनी",
+      "dish_english": "Pav Bhaji with Chutney",
+      "ingredients_hindi": "सब्ज़ियां (आलू, गाजर, मटर, टमाटर), पाव, मसाले, चटनी",
+      "ingredients_list_hi": [
+        "आलू",
+        "गाजर",
+        "मटर",
+        "टमाटर",
+        "पाव",
+        "मसाले",
+        "चटनी"
+      ],
+      "ingredients_list_en": [
+        "Potatoes",
+        "Carrots",
+        "Peas",
+        "Tomatoes",
+        "Pav",
+        "Spices",
+        "Chutney"
+      ],
+      "prep_notes_hi": "भाजी को धीमी आंच पर पकाएं ताकि मसाले सब्ज़ियों में अच्छी तरह मिल जाएं। पाव को मक्खन में टोस्ट करें।",
+      "prep_notes_en": "Cook the bhaji on low heat to infuse the spices well with the vegetables. Toast the pav in butter.",
+      "vizz_macros": {
+        "cal": 600,
+        "protein": 26,
+        "fat": 18,
+        "carbs": 72
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=pav%20bhaji%20recipe%20recipe"
+    },
+    "vizz_daily_total_from_meals": {
+      "cal": 1490,
+      "protein": 70,
+      "fat": 31,
+      "carbs": 233
+    },
+    "vizz_daily_total_with_shake": {
+      "cal": 1790,
+      "protein": 110,
+      "fat": 36,
+      "carbs": 258
+    },
+    "macro_check": "Hits 2000/110/60/215 target, slightly over on carbs and under on calories."
   }
 ]

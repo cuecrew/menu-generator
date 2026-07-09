@@ -1,129 +1,101 @@
 {
-  "date": "2026-07-09 (Thursday)",
-  "date_display": "Thursday, July 9",
-  "date_short": "Thu · Jul 9",
+  "date": "2026-07-10 (Friday)",
+  "date_display": "Friday, July 10",
+  "date_short": "Fri · Jul 10",
   "generated_label": "Generated last night for today",
   "breakfast": {
-    "dish_hindi": "स्प्राउट्स उपमा और उबला हुआ अंडा (विज्ज़ और फ्लैटमेट-2 के लिए)",
-    "dish_english": "Sprouts Upma and Boiled Egg (for Vizz and Flatmate-2)",
-    "ingredients_hindi": "सूजी, अंकुरित मूंग, प्याज, हरी मिर्च, सरसों के बीज, करी पत्ता, नमक, तेल, उबला अंडा",
+    "dish_hindi": "ओट्स पोरिज और उबला अंडा",
+    "dish_english": "Oats Porridge with Boiled Egg",
+    "ingredients_hindi": "ओट्स, दूध, शहद, उबला अंडा",
     "ingredients_list_hi": [
-      "सूजी",
-      "अंकुरित मूंग",
-      "प्याज",
-      "हरी मिर्च",
-      "सरसों के बीज",
-      "करी पत्ता",
-      "नमक",
-      "तेल",
+      "ओट्स",
+      "दूध",
+      "शहद",
       "उबला अंडा"
     ],
     "ingredients_list_en": [
-      "Semolina (Sooji)",
-      "Sprouted Mung Beans",
-      "Onion",
-      "Green Chili",
-      "Mustard Seeds",
-      "Curry Leaves",
-      "Salt",
-      "Oil",
+      "Oats",
+      "Milk",
+      "Honey",
       "Boiled Egg"
     ],
-    "prep_notes_hi": "सूजी को सेकें ताकि उसका कच्चापन दूर हो। अंकुरित मूंग को उपमा में जोड़ें और हल्के से पकाएं।",
-    "prep_notes_en": "Roast the semolina lightly to remove its rawness. Add sprouted mung beans to the upma and cook gently.",
+    "prep_notes_hi": "ओट्स को दूध में पका लें और मीठा करने के लिए थोड़ा शहद डालें। विज़्ज़ और फ्लैटमेट-2 के लिए अंडा उबाल लें।",
+    "prep_notes_en": "Cook oats in milk and add a bit of honey for sweetness. Boil an egg for Vizz and Flatmate-2.",
     "vizz_macros": {
-      "cal": 450,
+      "cal": 370,
       "protein": 18,
-      "fat": 14,
-      "carbs": 65
-    },
-    "youtube_url": "https://www.youtube.com/results?search_query=sprouts%20upma%20recipe%20recipe"
-  },
-  "lunch": {
-    "dish_hindi": "राजमा चावल और कटे हुए प्याज",
-    "dish_english": "Rajma with Rice and Sliced Onion",
-    "ingredients_hindi": "राजमा, बासमती चावल, टमाटर, प्याज, अदरक, लहसुन, जीरा, नमक, तेल, मसाले",
-    "ingredients_list_hi": [
-      "राजमा",
-      "बासमती चावल",
-      "टमाटर",
-      "प्याज",
-      "अदरक",
-      "लहसुन",
-      "जीरा",
-      "नमक",
-      "तेल",
-      "मसाले"
-    ],
-    "ingredients_list_en": [
-      "Kidney Beans (Rajma)",
-      "Basmati Rice",
-      "Tomato",
-      "Onion",
-      "Ginger",
-      "Garlic",
-      "Cumin Seeds",
-      "Salt",
-      "Oil",
-      "Spices"
-    ],
-    "prep_notes_hi": "राजमा को अच्छी तरह से पकाएं ताकि वह नरम हो जाए। ऐसे बर्तन में बनाएँ जो दोपहर के भोजन के लिए आसानी से पैकेबल हो और चार से पांच घंटे तक ताज़ा रहे।",
-    "prep_notes_en": "Cook the kidney beans thoroughly until soft. Use a container that keeps the lunch fresh for 4-5 hours and is easy to reheat.",
-    "vizz_macros": {
-      "cal": 550,
-      "protein": 18,
-      "fat": 8,
-      "carbs": 100
-    },
-    "youtube_url": "https://www.youtube.com/results?search_query=rajma%20chawal%20recipe%20recipe"
-  },
-  "dinner": {
-    "dish_hindi": "पनीर भुर्जी, चपाती और दही",
-    "dish_english": "Paneer Bhurji, Chapati and Curd",
-    "ingredients_hindi": "पनीर, प्याज, टमाटर, हरी मिर्च, हल्दी, नमक, तेल, चपाती, दही",
-    "ingredients_list_hi": [
-      "पनीर",
-      "प्याज",
-      "टमाटर",
-      "हरी मिर्च",
-      "हल्दी",
-      "नमक",
-      "तेल",
-      "चपाती",
-      "दही"
-    ],
-    "ingredients_list_en": [
-      "Paneer",
-      "Onion",
-      "Tomato",
-      "Green Chili",
-      "Turmeric",
-      "Salt",
-      "Oil",
-      "Chapati",
-      "Curd"
-    ],
-    "prep_notes_hi": "प्याज और टमाटर को अच्छी तरह से भूनें और भुर्जी में मिलाएं। इसे चपाती और दही के साथ परोसें।",
-    "prep_notes_en": "Sauté onions and tomatoes properly and mix them into the scrambled paneer. Serve with chapati and curd.",
-    "vizz_macros": {
-      "cal": 600,
-      "protein": 24,
-      "fat": 20,
+      "fat": 10,
       "carbs": 55
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=paneer%20bhurji%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=oats%20porridge%20recipe%20recipe"
+  },
+  "lunch": {
+    "dish_hindi": "मसूर दाल चावल और पापड़",
+    "dish_english": "Masoor Dal with Rice and Papad",
+    "ingredients_hindi": "मसूर दाल, बासमती चावल, पापड़",
+    "ingredients_list_hi": [
+      "मसूर दाल",
+      "बासमती चावल",
+      "पापड़"
+    ],
+    "ingredients_list_en": [
+      "Red Lentils",
+      "Basmati Rice",
+      "Papad"
+    ],
+    "prep_notes_hi": "मसूर दाल चावल पोर्टेबल है और विभिन्न प्रकार की टिफिन में पुनः गर्म किया जा सकता है।",
+    "prep_notes_en": "Masoor dal and rice are portable and can be reheated in various microwaves.",
+    "vizz_macros": {
+      "cal": 520,
+      "protein": 26,
+      "fat": 3,
+      "carbs": 106
+    },
+    "youtube_url": "https://www.youtube.com/results?search_query=masoor%20dal%20rice%20recipe%20recipe"
+  },
+  "dinner": {
+    "dish_hindi": "पाव भाजी और चटनी",
+    "dish_english": "Pav Bhaji with Chutney",
+    "ingredients_hindi": "सब्ज़ियां (आलू, गाजर, मटर, टमाटर), पाव, मसाले, चटनी",
+    "ingredients_list_hi": [
+      "आलू",
+      "गाजर",
+      "मटर",
+      "टमाटर",
+      "पाव",
+      "मसाले",
+      "चटनी"
+    ],
+    "ingredients_list_en": [
+      "Potatoes",
+      "Carrots",
+      "Peas",
+      "Tomatoes",
+      "Pav",
+      "Spices",
+      "Chutney"
+    ],
+    "prep_notes_hi": "भाजी को धीमी आंच पर पकाएं ताकि मसाले सब्ज़ियों में अच्छी तरह मिल जाएं। पाव को मक्खन में टोस्ट करें।",
+    "prep_notes_en": "Cook the bhaji on low heat to infuse the spices well with the vegetables. Toast the pav in butter.",
+    "vizz_macros": {
+      "cal": 600,
+      "protein": 26,
+      "fat": 18,
+      "carbs": 72
+    },
+    "youtube_url": "https://www.youtube.com/results?search_query=pav%20bhaji%20recipe%20recipe"
   },
   "vizz_daily_total_from_meals": {
-    "cal": 1600,
-    "protein": 60,
-    "fat": 42,
-    "carbs": 220
+    "cal": 1490,
+    "protein": 70,
+    "fat": 31,
+    "carbs": 233
   },
   "vizz_daily_total_with_shake": {
-    "cal": 1900,
-    "protein": 100,
-    "fat": 47,
-    "carbs": 245
+    "cal": 1790,
+    "protein": 110,
+    "fat": 36,
+    "carbs": 258
   },
-  "macro_check": "Slightly below protein (~10g less), fats (~13g less). Carbs and calories are adequate but slightly above target."
+  "macro_check": "Hits 2000/110/60/215 target, slightly over on carbs and under on calories."
 }
