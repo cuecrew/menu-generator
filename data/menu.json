@@ -1,101 +1,137 @@
 {
-  "date": "2026-07-10 (Friday)",
-  "date_display": "Friday, July 10",
-  "date_short": "Fri · Jul 10",
+  "date": "2026-07-11 (Saturday)",
+  "date_display": "Saturday, July 11",
+  "date_short": "Sat · Jul 11",
   "generated_label": "Generated last night for today",
   "breakfast": {
-    "dish_hindi": "ओट्स पोरिज और उबला अंडा",
-    "dish_english": "Oats Porridge with Boiled Egg",
-    "ingredients_hindi": "ओट्स, दूध, शहद, उबला अंडा",
+    "dish_hindi": "उपमा और उबला हुआ अंडा (केवल विज़ और रूममेट-2 के लिए)",
+    "dish_english": "Upma and Boiled Egg (for Vizz and Flatmate-2 only)",
+    "ingredients_hindi": "सूजी, प्याज, हरी मिर्च, गाजर, मटर, सरसों के बीज, करी पत्ते, नमक, उबला हुआ अंडा",
     "ingredients_list_hi": [
-      "ओट्स",
-      "दूध",
-      "शहद",
-      "उबला अंडा"
-    ],
-    "ingredients_list_en": [
-      "Oats",
-      "Milk",
-      "Honey",
-      "Boiled Egg"
-    ],
-    "prep_notes_hi": "ओट्स को दूध में पका लें और मीठा करने के लिए थोड़ा शहद डालें। विज़्ज़ और फ्लैटमेट-2 के लिए अंडा उबाल लें।",
-    "prep_notes_en": "Cook oats in milk and add a bit of honey for sweetness. Boil an egg for Vizz and Flatmate-2.",
-    "vizz_macros": {
-      "cal": 370,
-      "protein": 18,
-      "fat": 10,
-      "carbs": 55
-    },
-    "youtube_url": "https://www.youtube.com/results?search_query=oats%20porridge%20recipe%20recipe"
-  },
-  "lunch": {
-    "dish_hindi": "मसूर दाल चावल और पापड़",
-    "dish_english": "Masoor Dal with Rice and Papad",
-    "ingredients_hindi": "मसूर दाल, बासमती चावल, पापड़",
-    "ingredients_list_hi": [
-      "मसूर दाल",
-      "बासमती चावल",
-      "पापड़"
-    ],
-    "ingredients_list_en": [
-      "Red Lentils",
-      "Basmati Rice",
-      "Papad"
-    ],
-    "prep_notes_hi": "मसूर दाल चावल पोर्टेबल है और विभिन्न प्रकार की टिफिन में पुनः गर्म किया जा सकता है।",
-    "prep_notes_en": "Masoor dal and rice are portable and can be reheated in various microwaves.",
-    "vizz_macros": {
-      "cal": 520,
-      "protein": 26,
-      "fat": 3,
-      "carbs": 106
-    },
-    "youtube_url": "https://www.youtube.com/results?search_query=masoor%20dal%20rice%20recipe%20recipe"
-  },
-  "dinner": {
-    "dish_hindi": "पाव भाजी और चटनी",
-    "dish_english": "Pav Bhaji with Chutney",
-    "ingredients_hindi": "सब्ज़ियां (आलू, गाजर, मटर, टमाटर), पाव, मसाले, चटनी",
-    "ingredients_list_hi": [
-      "आलू",
+      "सूजी",
+      "प्याज",
+      "हरी मिर्च",
       "गाजर",
       "मटर",
-      "टमाटर",
-      "पाव",
-      "मसाले",
-      "चटनी"
+      "सरसों के बीज",
+      "करी पत्ते",
+      "नमक",
+      "उबला हुआ अंडा"
     ],
     "ingredients_list_en": [
-      "Potatoes",
-      "Carrots",
+      "Semolina (suji)",
+      "Onion",
+      "Green chili",
+      "Carrot",
       "Peas",
-      "Tomatoes",
-      "Pav",
-      "Spices",
-      "Chutney"
+      "Mustard seeds",
+      "Curry leaves",
+      "Salt",
+      "Boiled egg"
     ],
-    "prep_notes_hi": "भाजी को धीमी आंच पर पकाएं ताकि मसाले सब्ज़ियों में अच्छी तरह मिल जाएं। पाव को मक्खन में टोस्ट करें।",
-    "prep_notes_en": "Cook the bhaji on low heat to infuse the spices well with the vegetables. Toast the pav in butter.",
+    "prep_notes_hi": "सूजी को हल्का सा भूने। प्याज, हरी मिर्च और मसालों को मिलाकर अच्छी तरह पकाएँ। मिश्रण को पकाते समय पानी धीरे-धीरे डालें।",
+    "prep_notes_en": "Lightly roast the semolina. Cook the onions, green chili, and spices well. Add water gradually while cooking the mixture.",
     "vizz_macros": {
-      "cal": 600,
-      "protein": 26,
-      "fat": 18,
-      "carbs": 72
+      "cal": 400,
+      "protein": 12,
+      "fat": 10,
+      "carbs": 70
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=pav%20bhaji%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=upma%20recipe%20hindi%20recipe"
+  },
+  "lunch": {
+    "dish_hindi": "छोले चावल, ककड़ी का रायता",
+    "dish_english": "Chole Rice, Cucumber Raita",
+    "ingredients_hindi": "चने, चावल, टमाटर, प्याज, अदरक, लहसुन, गरम मसाला, धनिया पाउडर, जीरा, नमक, दही, ककड़ी, जीरा पाउडर",
+    "ingredients_list_hi": [
+      "चने",
+      "चावल",
+      "टमाटर",
+      "प्याज",
+      "अदरक",
+      "लहसुन",
+      "गरम मसाला",
+      "धनिया पाउडर",
+      "जीरा",
+      "नमक",
+      "दही",
+      "ककड़ी",
+      "जीरा पाउडर"
+    ],
+    "ingredients_list_en": [
+      "Chickpeas",
+      "Rice",
+      "Tomato",
+      "Onion",
+      "Ginger",
+      "Garlic",
+      "Garam masala",
+      "Coriander powder",
+      "Cumin",
+      "Salt",
+      "Curd",
+      "Cucumber",
+      "Cumin powder"
+    ],
+    "prep_notes_hi": "छोले को दबाब कूकर में पकाएँ और मसालों के साथ मिलाकर भूनें। चावल और छोले को अच्छी तरह से मिलाकर गरम करें। यह अच्छी तरह से यात्रायोग्य और फिर से गरम होने योग्य है।",
+    "prep_notes_en": "Pressure cook the chickpeas and sauté with spices. Mix rice and chickpeas thoroughly and reheat well. This is travel-friendly and reheatable.",
+    "vizz_macros": {
+      "cal": 700,
+      "protein": 18,
+      "fat": 5,
+      "carbs": 120
+    },
+    "youtube_url": "https://www.youtube.com/results?search_query=chole%20rice%20recipe%20recipe"
+  },
+  "dinner": {
+    "dish_hindi": "पालक पनीर, रोटी",
+    "dish_english": "Palak Paneer, Roti",
+    "ingredients_hindi": "पालक, पनीर, टमाटर, प्याज, अदरक, लहसुन, गरम मसाला, तेल, नमक, गेहूं का आटा",
+    "ingredients_list_hi": [
+      "पालक",
+      "पनीर",
+      "टमाटर",
+      "प्याज",
+      "अदरक",
+      "लहसुन",
+      "गरम मसाला",
+      "तेल",
+      "नमक",
+      "गेहूं का आटा"
+    ],
+    "ingredients_list_en": [
+      "Spinach",
+      "Paneer",
+      "Tomato",
+      "Onion",
+      "Ginger",
+      "Garlic",
+      "Garam masala",
+      "Oil",
+      "Salt",
+      "Wheat flour"
+    ],
+    "prep_notes_hi": "पालक को उबालकर पीस लें। पनीर को मसालों और टमाटर के साथ पकाएँ। पालक की ग्रेवी में पनीर मिलाएँ और मध्यम आँच पर पकाएँ।",
+    "prep_notes_en": "Boil and puree the spinach. Cook paneer with spices and tomatoes. Mix paneer in spinach gravy and cook on medium heat.",
+    "vizz_macros": {
+      "cal": 650,
+      "protein": 32,
+      "fat": 30,
+      "carbs": 50
+    },
+    "youtube_url": "https://www.youtube.com/results?search_query=palak%20paneer%20recipe%20recipe"
   },
   "vizz_daily_total_from_meals": {
-    "cal": 1490,
-    "protein": 70,
-    "fat": 31,
-    "carbs": 233
+    "cal": 1750,
+    "protein": 62,
+    "fat": 45,
+    "carbs": 240
   },
   "vizz_daily_total_with_shake": {
-    "cal": 1790,
-    "protein": 110,
-    "fat": 36,
-    "carbs": 258
+    "cal": 2050,
+    "protein": 102,
+    "fat": 50,
+    "carbs": 265
   },
-  "macro_check": "Hits 2000/110/60/215 target, slightly over on carbs and under on calories."
+  "macro_check": "Calorie and carb targets are slightly exceeded; protein lower than target by 8g. Meals are balanced overall."
 }
