@@ -1,137 +1,103 @@
 {
-  "date": "2026-07-11 (Saturday)",
-  "date_display": "Saturday, July 11",
-  "date_short": "Sat · Jul 11",
+  "date": "2026-07-12 (Sunday)",
+  "date_display": "Sunday, July 12",
+  "date_short": "Sun · Jul 12",
   "generated_label": "Generated last night for today",
   "breakfast": {
-    "dish_hindi": "उपमा और उबला हुआ अंडा (केवल विज़ और रूममेट-2 के लिए)",
-    "dish_english": "Upma and Boiled Egg (for Vizz and Flatmate-2 only)",
-    "ingredients_hindi": "सूजी, प्याज, हरी मिर्च, गाजर, मटर, सरसों के बीज, करी पत्ते, नमक, उबला हुआ अंडा",
+    "dish_hindi": "दही इडली, सांभर",
+    "dish_english": "Curd Idli with Sambar",
+    "ingredients_hindi": "इडली चावल, उड़द दाल, दही, सांभर पाउडर, सब्ज़ियां",
     "ingredients_list_hi": [
-      "सूजी",
-      "प्याज",
-      "हरी मिर्च",
-      "गाजर",
-      "मटर",
-      "सरसों के बीज",
-      "करी पत्ते",
-      "नमक",
-      "उबला हुआ अंडा"
+      "इडली चावल",
+      "उड़द दाल",
+      "दही",
+      "सांभर पाउडर",
+      "सब्ज़ियां"
     ],
     "ingredients_list_en": [
-      "Semolina (suji)",
-      "Onion",
-      "Green chili",
-      "Carrot",
-      "Peas",
-      "Mustard seeds",
-      "Curry leaves",
-      "Salt",
-      "Boiled egg"
+      "Idli Rice",
+      "Urad Dal",
+      "Curd",
+      "Sambar Powder",
+      "Vegetables"
     ],
-    "prep_notes_hi": "सूजी को हल्का सा भूने। प्याज, हरी मिर्च और मसालों को मिलाकर अच्छी तरह पकाएँ। मिश्रण को पकाते समय पानी धीरे-धीरे डालें।",
-    "prep_notes_en": "Lightly roast the semolina. Cook the onions, green chili, and spices well. Add water gradually while cooking the mixture.",
+    "prep_notes_hi": "इडली के घोल को अच्छी तरह पका लें। सांभर में ताज़ी सब्ज़ियां डालें और पकने दें।",
+    "prep_notes_en": "Cook the idli batter thoroughly. Add fresh vegetables to the sambar and let it simmer.",
     "vizz_macros": {
       "cal": 400,
-      "protein": 12,
+      "protein": 10,
       "fat": 10,
       "carbs": 70
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=upma%20recipe%20hindi%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=curd%20idli%20sambar%20recipe%20hindi%20recipe"
   },
   "lunch": {
-    "dish_hindi": "छोले चावल, ककड़ी का रायता",
-    "dish_english": "Chole Rice, Cucumber Raita",
-    "ingredients_hindi": "चने, चावल, टमाटर, प्याज, अदरक, लहसुन, गरम मसाला, धनिया पाउडर, जीरा, नमक, दही, ककड़ी, जीरा पाउडर",
+    "dish_hindi": "पनीर बटर मसाला, ज़ीरा राइस, कटा प्याज़",
+    "dish_english": "Paneer Butter Masala with Jeera Rice and Sliced Onion",
+    "ingredients_hindi": "पनीर, बटर, टमाटर, प्याज़, जीरा, बासमती चावल",
     "ingredients_list_hi": [
-      "चने",
-      "चावल",
+      "पनीर",
+      "बटर",
       "टमाटर",
-      "प्याज",
-      "अदरक",
-      "लहसुन",
-      "गरम मसाला",
-      "धनिया पाउडर",
+      "प्याज़",
       "जीरा",
-      "नमक",
-      "दही",
-      "ककड़ी",
-      "जीरा पाउडर"
+      "बासमती चावल"
     ],
     "ingredients_list_en": [
-      "Chickpeas",
-      "Rice",
+      "Paneer",
+      "Butter",
       "Tomato",
       "Onion",
-      "Ginger",
-      "Garlic",
-      "Garam masala",
-      "Coriander powder",
       "Cumin",
-      "Salt",
-      "Curd",
-      "Cucumber",
-      "Cumin powder"
+      "Basmati Rice"
     ],
-    "prep_notes_hi": "छोले को दबाब कूकर में पकाएँ और मसालों के साथ मिलाकर भूनें। चावल और छोले को अच्छी तरह से मिलाकर गरम करें। यह अच्छी तरह से यात्रायोग्य और फिर से गरम होने योग्य है।",
-    "prep_notes_en": "Pressure cook the chickpeas and sauté with spices. Mix rice and chickpeas thoroughly and reheat well. This is travel-friendly and reheatable.",
+    "prep_notes_hi": "पनीर बटर मसाला को प्रेशर पकाने के बाद ठंडा होने के लिए छोड़ दें। आसानी से ले जाने और गर्म करने में सक्षम।",
+    "prep_notes_en": "Let the paneer butter masala cool down after pressure cooking. It is easy to carry and reheat.",
     "vizz_macros": {
-      "cal": 700,
-      "protein": 18,
-      "fat": 5,
-      "carbs": 120
+      "cal": 600,
+      "protein": 25,
+      "fat": 25,
+      "carbs": 75
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=chole%20rice%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=paneer%20butter%20masala%20recipe%20recipe"
   },
   "dinner": {
-    "dish_hindi": "पालक पनीर, रोटी",
-    "dish_english": "Palak Paneer, Roti",
-    "ingredients_hindi": "पालक, पनीर, टमाटर, प्याज, अदरक, लहसुन, गरम मसाला, तेल, नमक, गेहूं का आटा",
+    "dish_hindi": "मूँगफली भाखरी, आलू की सब्जी",
+    "dish_english": "Peanut Bhakhri with Potato Curry",
+    "ingredients_hindi": "मूँगफली, गेहूं का आटा, उबले आलू, मसाले",
     "ingredients_list_hi": [
-      "पालक",
-      "पनीर",
-      "टमाटर",
-      "प्याज",
-      "अदरक",
-      "लहसुन",
-      "गरम मसाला",
-      "तेल",
-      "नमक",
-      "गेहूं का आटा"
+      "मूँगफली",
+      "गेहूं का आटा",
+      "उबले आलू",
+      "मसाले"
     ],
     "ingredients_list_en": [
-      "Spinach",
-      "Paneer",
-      "Tomato",
-      "Onion",
-      "Ginger",
-      "Garlic",
-      "Garam masala",
-      "Oil",
-      "Salt",
-      "Wheat flour"
+      "Peanuts",
+      "Wheat Flour",
+      "Boiled Potatoes",
+      "Spices"
     ],
-    "prep_notes_hi": "पालक को उबालकर पीस लें। पनीर को मसालों और टमाटर के साथ पकाएँ। पालक की ग्रेवी में पनीर मिलाएँ और मध्यम आँच पर पकाएँ।",
-    "prep_notes_en": "Boil and puree the spinach. Cook paneer with spices and tomatoes. Mix paneer in spinach gravy and cook on medium heat.",
+    "prep_notes_hi": "भाखरी को तवे पर मध्यम आँच पर सेंकें। आलू की सब्जी में सही मसालें डालें।",
+    "prep_notes_en": "Roast the bhakhri on a griddle over medium heat. Add the right spices to the potato curry.",
     "vizz_macros": {
-      "cal": 650,
-      "protein": 32,
-      "fat": 30,
-      "carbs": 50
+      "cal": 700,
+      "protein": 15,
+      "fat": 20,
+      "carbs": 90
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=palak%20paneer%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=peanut%20bhakhri%20potato%20curry%20recipe"
   },
   "vizz_daily_total_from_meals": {
-    "cal": 1750,
-    "protein": 62,
-    "fat": 45,
-    "carbs": 240
+    "cal": 1700,
+    "protein": 50,
+    "fat": 55,
+    "carbs": 235
   },
   "vizz_daily_total_with_shake": {
-    "cal": 2050,
-    "protein": 102,
-    "fat": 50,
-    "carbs": 265
+    "cal": 2000,
+    "protein": 90,
+    "fat": 60,
+    "carbs": 260
   },
-  "macro_check": "Calorie and carb targets are slightly exceeded; protein lower than target by 8g. Meals are balanced overall."
+  "macro_check": "Slightly high in carbs but close to the target. Protein is below the target; consider adding more dal or paneer next time."
 }

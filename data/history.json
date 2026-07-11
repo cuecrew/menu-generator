@@ -1,120 +1,5 @@
 [
   {
-    "date": "2026-06-12 (Friday)",
-    "date_display": "Friday, June 12",
-    "date_short": "Fri · Jun 12",
-    "generated_label": "Generated last night for today",
-    "breakfast": {
-      "dish_hindi": "ओट्स उत्तपम, नारियल चटनी और उबला अंडा",
-      "dish_english": "Oats Uttapam with Coconut Chutney and Boiled Egg",
-      "ingredients_hindi": "ओट्स, दही, प्याज, टमाटर, हरी मिर्च, नारियल, चने की दाल, उबला अंडा",
-      "ingredients_list_hi": [
-        "ओट्स",
-        "दही",
-        "प्याज",
-        "टमाटर",
-        "हरी मिर्च",
-        "नारियल",
-        "चने की दाल",
-        "उबला अंडा"
-      ],
-      "ingredients_list_en": [
-        "Oats",
-        "Yogurt",
-        "Onion",
-        "Tomato",
-        "Green chili",
-        "Coconut",
-        "Chana dal",
-        "Boiled egg"
-      ],
-      "prep_notes_hi": "ओट्स को दही में भिगोकर, प्याज और टमाटर के साथ हलके तेल में सेंक लें। नारियल चटनी पिसकर साथ में परोसें।",
-      "prep_notes_en": "Soak oats in yogurt, then cook with onions and tomatoes on a lightly oiled pan. Serve with coconut chutney.",
-      "vizz_macros": {
-        "cal": 390,
-        "protein": 14,
-        "fat": 8,
-        "carbs": 65
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=oats%20uttapam%20recipe%20hindi%20recipe"
-    },
-    "lunch": {
-      "dish_hindi": "मूंग दाल खिचड़ी और पापड़",
-      "dish_english": "Moong Dal Khichdi with Papad",
-      "ingredients_hindi": "चावल, मूंग दाल, प्याज, टमाटर, हल्दी, जीरा, पापड़",
-      "ingredients_list_hi": [
-        "चावल",
-        "मूंग दाल",
-        "प्याज",
-        "टमाटर",
-        "हल्दी",
-        "जीरा",
-        "पापड़"
-      ],
-      "ingredients_list_en": [
-        "Rice",
-        "Moong dal",
-        "Onion",
-        "Tomato",
-        "Turmeric",
-        "Cumin seeds",
-        "Papad"
-      ],
-      "prep_notes_hi": "यह खिचड़ी आसानी से पोर्टेबल है और दोबारा गर्म की जा सकती है।",
-      "prep_notes_en": "This khichdi is easily portable and can be reheated.",
-      "vizz_macros": {
-        "cal": 500,
-        "protein": 20,
-        "fat": 7,
-        "carbs": 85
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=moong%20dal%20khichdi%20recipe%20recipe"
-    },
-    "dinner": {
-      "dish_hindi": "शाही पनीर, नान और सलाद",
-      "dish_english": "Shahi Paneer with Naan and Salad",
-      "ingredients_hindi": "पनीर, टमाटर, प्याज, क्रीम, धनिया, नान",
-      "ingredients_list_hi": [
-        "पनीर",
-        "टमाटर",
-        "प्याज",
-        "क्रीम",
-        "धनिया",
-        "नान"
-      ],
-      "ingredients_list_en": [
-        "Paneer",
-        "Tomato",
-        "Onion",
-        "Cream",
-        "Coriander",
-        "Naan"
-      ],
-      "prep_notes_hi": "पनीर को टमाटर-प्याज की ग्रेवी में क्रीम के साथ अच्छा पकाएं। नान को गर्म परोसें।",
-      "prep_notes_en": "Cook the paneer in a tomato-onion gravy with cream. Serve the naan warm.",
-      "vizz_macros": {
-        "cal": 810,
-        "protein": 28,
-        "fat": 30,
-        "carbs": 110
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=shahi%20paneer%20recipe%20recipe"
-    },
-    "vizz_daily_total_from_meals": {
-      "cal": 1700,
-      "protein": 62,
-      "fat": 45,
-      "carbs": 260
-    },
-    "vizz_daily_total_with_shake": {
-      "cal": 2000,
-      "protein": 102,
-      "fat": 50,
-      "carbs": 285
-    },
-    "macro_check": "Close to target. Slightly low on protein (~8g short) and a bit high on carbs (~70g over). Consider balancing further."
-  },
-  {
     "date": "2026-06-13 (Saturday)",
     "date_display": "Saturday, June 13",
     "date_short": "Sat · Jun 13",
@@ -3616,5 +3501,108 @@
       "carbs": 265
     },
     "macro_check": "Calorie and carb targets are slightly exceeded; protein lower than target by 8g. Meals are balanced overall."
+  },
+  {
+    "date": "2026-07-12 (Sunday)",
+    "date_display": "Sunday, July 12",
+    "date_short": "Sun · Jul 12",
+    "generated_label": "Generated last night for today",
+    "breakfast": {
+      "dish_hindi": "दही इडली, सांभर",
+      "dish_english": "Curd Idli with Sambar",
+      "ingredients_hindi": "इडली चावल, उड़द दाल, दही, सांभर पाउडर, सब्ज़ियां",
+      "ingredients_list_hi": [
+        "इडली चावल",
+        "उड़द दाल",
+        "दही",
+        "सांभर पाउडर",
+        "सब्ज़ियां"
+      ],
+      "ingredients_list_en": [
+        "Idli Rice",
+        "Urad Dal",
+        "Curd",
+        "Sambar Powder",
+        "Vegetables"
+      ],
+      "prep_notes_hi": "इडली के घोल को अच्छी तरह पका लें। सांभर में ताज़ी सब्ज़ियां डालें और पकने दें।",
+      "prep_notes_en": "Cook the idli batter thoroughly. Add fresh vegetables to the sambar and let it simmer.",
+      "vizz_macros": {
+        "cal": 400,
+        "protein": 10,
+        "fat": 10,
+        "carbs": 70
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=curd%20idli%20sambar%20recipe%20hindi%20recipe"
+    },
+    "lunch": {
+      "dish_hindi": "पनीर बटर मसाला, ज़ीरा राइस, कटा प्याज़",
+      "dish_english": "Paneer Butter Masala with Jeera Rice and Sliced Onion",
+      "ingredients_hindi": "पनीर, बटर, टमाटर, प्याज़, जीरा, बासमती चावल",
+      "ingredients_list_hi": [
+        "पनीर",
+        "बटर",
+        "टमाटर",
+        "प्याज़",
+        "जीरा",
+        "बासमती चावल"
+      ],
+      "ingredients_list_en": [
+        "Paneer",
+        "Butter",
+        "Tomato",
+        "Onion",
+        "Cumin",
+        "Basmati Rice"
+      ],
+      "prep_notes_hi": "पनीर बटर मसाला को प्रेशर पकाने के बाद ठंडा होने के लिए छोड़ दें। आसानी से ले जाने और गर्म करने में सक्षम।",
+      "prep_notes_en": "Let the paneer butter masala cool down after pressure cooking. It is easy to carry and reheat.",
+      "vizz_macros": {
+        "cal": 600,
+        "protein": 25,
+        "fat": 25,
+        "carbs": 75
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=paneer%20butter%20masala%20recipe%20recipe"
+    },
+    "dinner": {
+      "dish_hindi": "मूँगफली भाखरी, आलू की सब्जी",
+      "dish_english": "Peanut Bhakhri with Potato Curry",
+      "ingredients_hindi": "मूँगफली, गेहूं का आटा, उबले आलू, मसाले",
+      "ingredients_list_hi": [
+        "मूँगफली",
+        "गेहूं का आटा",
+        "उबले आलू",
+        "मसाले"
+      ],
+      "ingredients_list_en": [
+        "Peanuts",
+        "Wheat Flour",
+        "Boiled Potatoes",
+        "Spices"
+      ],
+      "prep_notes_hi": "भाखरी को तवे पर मध्यम आँच पर सेंकें। आलू की सब्जी में सही मसालें डालें।",
+      "prep_notes_en": "Roast the bhakhri on a griddle over medium heat. Add the right spices to the potato curry.",
+      "vizz_macros": {
+        "cal": 700,
+        "protein": 15,
+        "fat": 20,
+        "carbs": 90
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=peanut%20bhakhri%20potato%20curry%20recipe"
+    },
+    "vizz_daily_total_from_meals": {
+      "cal": 1700,
+      "protein": 50,
+      "fat": 55,
+      "carbs": 235
+    },
+    "vizz_daily_total_with_shake": {
+      "cal": 2000,
+      "protein": 90,
+      "fat": 60,
+      "carbs": 260
+    },
+    "macro_check": "Slightly high in carbs but close to the target. Protein is below the target; consider adding more dal or paneer next time."
   }
 ]
