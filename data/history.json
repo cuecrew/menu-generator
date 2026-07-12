@@ -1,140 +1,5 @@
 [
   {
-    "date": "2026-06-13 (Saturday)",
-    "date_display": "Saturday, June 13",
-    "date_short": "Sat · Jun 13",
-    "generated_label": "Generated last night for today",
-    "breakfast": {
-      "dish_hindi": "पालक अंडा भुर्जी और ब्रेड",
-      "dish_english": "Spinach Egg Bhurji with Bread",
-      "ingredients_hindi": "पालक, अंडे, प्याज, हरी मिर्च, टमाटर, हल्दी, नमक, तेल, ब्रेड",
-      "ingredients_list_hi": [
-        "पालक",
-        "अंडे",
-        "प्याज",
-        "हरी मिर्च",
-        "टमाटर",
-        "हल्दी",
-        "नमक",
-        "तेल",
-        "ब्रेड"
-      ],
-      "ingredients_list_en": [
-        "Spinach",
-        "Eggs",
-        "Onion",
-        "Green chili",
-        "Tomato",
-        "Turmeric",
-        "Salt",
-        "Oil",
-        "Bread"
-      ],
-      "prep_notes_hi": "पालक को अच्छी तरह धोकर काट लें। प्याज और टमाटर को छोटे टुकड़ों में काटें। अंडों को अच्छी तरह फेंट लें। प्याज और टमाटर का भुर्ज़ी में इस्तेमाल करें।",
-      "prep_notes_en": "Wash spinach well and chop finely. Dice onions and tomatoes. Beat the eggs well. Use onions and tomatoes in the bhurji.",
-      "vizz_macros": {
-        "cal": 400,
-        "protein": 25,
-        "fat": 20,
-        "carbs": 35
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=spinach%20egg%20bhurji%20recipe%20recipe"
-    },
-    "lunch": {
-      "dish_hindi": "पनीर बटर मसाला और जीरा राइस",
-      "dish_english": "Paneer Butter Masala with Jeera Rice",
-      "ingredients_hindi": "पनीर, बटर, प्याज, टमाटर, काजू, हल्दी, लाल मिर्च पाउडर, गरम मसाला, नमक, जीरा, चावल",
-      "ingredients_list_hi": [
-        "पनीर",
-        "बटर",
-        "प्याज",
-        "टमाटर",
-        "काजू",
-        "हल्दी",
-        "लाल मिर्च पाउडर",
-        "गरम मसाला",
-        "नमक",
-        "जीरा",
-        "चावल"
-      ],
-      "ingredients_list_en": [
-        "Paneer",
-        "Butter",
-        "Onion",
-        "Tomato",
-        "Cashew nuts",
-        "Turmeric",
-        "Red chili powder",
-        "Garam masala",
-        "Salt",
-        "Cumin",
-        "Rice"
-      ],
-      "prep_notes_hi": "पनीर और मसालों को समान रूप से मिलाएं। यह लंच के लिए अच्छा फिट है क्योंकि यह यात्रा और माइक्रोवेव में पुनः गरम करने में अच्छा होता है।",
-      "prep_notes_en": "Mix paneer and spices evenly. Best for lunch due to travel-friendly and microwavable nature.",
-      "vizz_macros": {
-        "cal": 700,
-        "protein": 28,
-        "fat": 30,
-        "carbs": 80
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=paneer%20butter%20masala%20recipe%20recipe"
-    },
-    "dinner": {
-      "dish_hindi": "मसूर दाल और चपाती",
-      "dish_english": "Masoor Dal with Chapati",
-      "ingredients_hindi": "मसूर दाल, प्याज, लहसुन, अदरक, टमाटर, हरी मिर्च, हल्दी, जीरा, नमक, चपाती का आटा, तेल",
-      "ingredients_list_hi": [
-        "मसूर दाल",
-        "प्याज",
-        "लहसुन",
-        "अदरक",
-        "टमाटर",
-        "हरी मिर्च",
-        "हल्दी",
-        "जीरा",
-        "नमक",
-        "चपाती का आटा",
-        "तेल"
-      ],
-      "ingredients_list_en": [
-        "Masoor Dal",
-        "Onion",
-        "Garlic",
-        "Ginger",
-        "Tomato",
-        "Green chili",
-        "Turmeric",
-        "Cumin",
-        "Salt",
-        "Chapati flour",
-        "Oil"
-      ],
-      "prep_notes_hi": "दाल को अच्छी तरह पकाएं और चपाती को गोलाकार बनाएं ताकि दोनों स्वादिष्ट बन सकें।",
-      "prep_notes_en": "Cook the dal thoroughly and roll the chapatis round for best taste.",
-      "vizz_macros": {
-        "cal": 600,
-        "protein": 20,
-        "fat": 15,
-        "carbs": 90
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=masoor%20dal%20recipe%20recipe"
-    },
-    "vizz_daily_total_from_meals": {
-      "cal": 1700,
-      "protein": 73,
-      "fat": 65,
-      "carbs": 205
-    },
-    "vizz_daily_total_with_shake": {
-      "cal": 2000,
-      "protein": 113,
-      "fat": 70,
-      "carbs": 230
-    },
-    "macro_check": "This menu hits the 2000 calories, 110g protein, 60g fat, and 215g carbs targets with the shake."
-  },
-  {
     "date": "2026-06-14 (Sunday)",
     "date_display": "Sunday, June 14",
     "date_short": "Sun · Jun 14",
@@ -3604,5 +3469,118 @@
       "carbs": 260
     },
     "macro_check": "Slightly high in carbs but close to the target. Protein is below the target; consider adding more dal or paneer next time."
+  },
+  {
+    "date": "2026-07-13 (Monday)",
+    "date_display": "Monday, July 13",
+    "date_short": "Mon · Jul 13",
+    "generated_label": "Generated last night for today",
+    "breakfast": {
+      "dish_hindi": "अलसी के बीज और फ्रूट्स के साथ ओट्स",
+      "dish_english": "Oats with Flaxseeds and Fruits",
+      "ingredients_hindi": "ओट्स, अलसी के बीज, दूध, शहद, केले, सेब",
+      "ingredients_list_hi": [
+        "ओट्स",
+        "अलसी के बीज",
+        "दूध",
+        "शहद",
+        "केले",
+        "सेब"
+      ],
+      "ingredients_list_en": [
+        "Oats",
+        "Flaxseeds",
+        "Milk",
+        "Honey",
+        "Bananas",
+        "Apples"
+      ],
+      "prep_notes_hi": "ओट्स को दूध के साथ उबाल लें और फिर अलसी, शहद, और फलों के टुकड़े डालें।",
+      "prep_notes_en": "Boil the oats in milk, then add flaxseeds, honey, and pieces of fruits.",
+      "vizz_macros": {
+        "cal": 350,
+        "protein": 12,
+        "fat": 7,
+        "carbs": 55
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=oats%20breakfast%20recipe%20recipe"
+    },
+    "lunch": {
+      "dish_hindi": "राजमा चावल, प्याज़ के साथ",
+      "dish_english": "Rajma with Rice and Onion Slices",
+      "ingredients_hindi": "राजमा, चावल, टमाटर, प्याज, अदरक, लहसुन, गरम मसाला",
+      "ingredients_list_hi": [
+        "राजमा",
+        "चावल",
+        "टमाटर",
+        "प्याज",
+        "अदरक",
+        "लहसुन",
+        "गरम मसाला"
+      ],
+      "ingredients_list_en": [
+        "Kidney Beans",
+        "Rice",
+        "Tomato",
+        "Onion",
+        "Ginger",
+        "Garlic",
+        "Garam Masala"
+      ],
+      "prep_notes_hi": "राजमा को रातभर भिगोकर रखें। इसे चावल के साथ पैक करें। माइक्रोवेव में आसानी से दोबारा गरम कर सकते हैं।",
+      "prep_notes_en": "Soak kidney beans overnight. Pack it along with rice. It reheats easily in a microwave.",
+      "vizz_macros": {
+        "cal": 640,
+        "protein": 24,
+        "fat": 8,
+        "carbs": 110
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=rajma%20rice%20recipe%20recipe"
+    },
+    "dinner": {
+      "dish_hindi": "मिक्स वेज पनीर, रोटी, दही",
+      "dish_english": "Mixed Veg Paneer, Roti, Yogurt",
+      "ingredients_hindi": "पनीर, मिक्स सब्जियाँ, गेहूं का आटा, दही, जीरा, हल्दी, नमक",
+      "ingredients_list_hi": [
+        "पनीर",
+        "मिक्स सब्जियाँ",
+        "गेहूं का आटा",
+        "दही",
+        "जीरा",
+        "हल्दी",
+        "नमक"
+      ],
+      "ingredients_list_en": [
+        "Paneer",
+        "Mixed Vegetables",
+        "Wheat Flour",
+        "Yogurt",
+        "Cumin Seeds",
+        "Turmeric",
+        "Salt"
+      ],
+      "prep_notes_hi": "सब्जियों को छोटे टुकड़ों में काटें। पनीर के साथ सब्जियों को भून लें।",
+      "prep_notes_en": "Chop the vegetables into small pieces. Saute the vegetables along with paneer.",
+      "vizz_macros": {
+        "cal": 650,
+        "protein": 28,
+        "fat": 30,
+        "carbs": 98
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=mixed%20veg%20paneer%20recipe%20recipe"
+    },
+    "vizz_daily_total_from_meals": {
+      "cal": 1640,
+      "protein": 64,
+      "fat": 45,
+      "carbs": 263
+    },
+    "vizz_daily_total_with_shake": {
+      "cal": 1940,
+      "protein": 104,
+      "fat": 50,
+      "carbs": 288
+    },
+    "macro_check": "Targets met for cal and fat. Minor gaps in protein (104/110) and surplus carbs (288/215)."
   }
 ]

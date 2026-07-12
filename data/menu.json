@@ -1,103 +1,113 @@
 {
-  "date": "2026-07-12 (Sunday)",
-  "date_display": "Sunday, July 12",
-  "date_short": "Sun · Jul 12",
+  "date": "2026-07-13 (Monday)",
+  "date_display": "Monday, July 13",
+  "date_short": "Mon · Jul 13",
   "generated_label": "Generated last night for today",
   "breakfast": {
-    "dish_hindi": "दही इडली, सांभर",
-    "dish_english": "Curd Idli with Sambar",
-    "ingredients_hindi": "इडली चावल, उड़द दाल, दही, सांभर पाउडर, सब्ज़ियां",
+    "dish_hindi": "अलसी के बीज और फ्रूट्स के साथ ओट्स",
+    "dish_english": "Oats with Flaxseeds and Fruits",
+    "ingredients_hindi": "ओट्स, अलसी के बीज, दूध, शहद, केले, सेब",
     "ingredients_list_hi": [
-      "इडली चावल",
-      "उड़द दाल",
-      "दही",
-      "सांभर पाउडर",
-      "सब्ज़ियां"
+      "ओट्स",
+      "अलसी के बीज",
+      "दूध",
+      "शहद",
+      "केले",
+      "सेब"
     ],
     "ingredients_list_en": [
-      "Idli Rice",
-      "Urad Dal",
-      "Curd",
-      "Sambar Powder",
-      "Vegetables"
+      "Oats",
+      "Flaxseeds",
+      "Milk",
+      "Honey",
+      "Bananas",
+      "Apples"
     ],
-    "prep_notes_hi": "इडली के घोल को अच्छी तरह पका लें। सांभर में ताज़ी सब्ज़ियां डालें और पकने दें।",
-    "prep_notes_en": "Cook the idli batter thoroughly. Add fresh vegetables to the sambar and let it simmer.",
+    "prep_notes_hi": "ओट्स को दूध के साथ उबाल लें और फिर अलसी, शहद, और फलों के टुकड़े डालें।",
+    "prep_notes_en": "Boil the oats in milk, then add flaxseeds, honey, and pieces of fruits.",
     "vizz_macros": {
-      "cal": 400,
-      "protein": 10,
-      "fat": 10,
-      "carbs": 70
+      "cal": 350,
+      "protein": 12,
+      "fat": 7,
+      "carbs": 55
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=curd%20idli%20sambar%20recipe%20hindi%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=oats%20breakfast%20recipe%20recipe"
   },
   "lunch": {
-    "dish_hindi": "पनीर बटर मसाला, ज़ीरा राइस, कटा प्याज़",
-    "dish_english": "Paneer Butter Masala with Jeera Rice and Sliced Onion",
-    "ingredients_hindi": "पनीर, बटर, टमाटर, प्याज़, जीरा, बासमती चावल",
+    "dish_hindi": "राजमा चावल, प्याज़ के साथ",
+    "dish_english": "Rajma with Rice and Onion Slices",
+    "ingredients_hindi": "राजमा, चावल, टमाटर, प्याज, अदरक, लहसुन, गरम मसाला",
+    "ingredients_list_hi": [
+      "राजमा",
+      "चावल",
+      "टमाटर",
+      "प्याज",
+      "अदरक",
+      "लहसुन",
+      "गरम मसाला"
+    ],
+    "ingredients_list_en": [
+      "Kidney Beans",
+      "Rice",
+      "Tomato",
+      "Onion",
+      "Ginger",
+      "Garlic",
+      "Garam Masala"
+    ],
+    "prep_notes_hi": "राजमा को रातभर भिगोकर रखें। इसे चावल के साथ पैक करें। माइक्रोवेव में आसानी से दोबारा गरम कर सकते हैं।",
+    "prep_notes_en": "Soak kidney beans overnight. Pack it along with rice. It reheats easily in a microwave.",
+    "vizz_macros": {
+      "cal": 640,
+      "protein": 24,
+      "fat": 8,
+      "carbs": 110
+    },
+    "youtube_url": "https://www.youtube.com/results?search_query=rajma%20rice%20recipe%20recipe"
+  },
+  "dinner": {
+    "dish_hindi": "मिक्स वेज पनीर, रोटी, दही",
+    "dish_english": "Mixed Veg Paneer, Roti, Yogurt",
+    "ingredients_hindi": "पनीर, मिक्स सब्जियाँ, गेहूं का आटा, दही, जीरा, हल्दी, नमक",
     "ingredients_list_hi": [
       "पनीर",
-      "बटर",
-      "टमाटर",
-      "प्याज़",
+      "मिक्स सब्जियाँ",
+      "गेहूं का आटा",
+      "दही",
       "जीरा",
-      "बासमती चावल"
+      "हल्दी",
+      "नमक"
     ],
     "ingredients_list_en": [
       "Paneer",
-      "Butter",
-      "Tomato",
-      "Onion",
-      "Cumin",
-      "Basmati Rice"
-    ],
-    "prep_notes_hi": "पनीर बटर मसाला को प्रेशर पकाने के बाद ठंडा होने के लिए छोड़ दें। आसानी से ले जाने और गर्म करने में सक्षम।",
-    "prep_notes_en": "Let the paneer butter masala cool down after pressure cooking. It is easy to carry and reheat.",
-    "vizz_macros": {
-      "cal": 600,
-      "protein": 25,
-      "fat": 25,
-      "carbs": 75
-    },
-    "youtube_url": "https://www.youtube.com/results?search_query=paneer%20butter%20masala%20recipe%20recipe"
-  },
-  "dinner": {
-    "dish_hindi": "मूँगफली भाखरी, आलू की सब्जी",
-    "dish_english": "Peanut Bhakhri with Potato Curry",
-    "ingredients_hindi": "मूँगफली, गेहूं का आटा, उबले आलू, मसाले",
-    "ingredients_list_hi": [
-      "मूँगफली",
-      "गेहूं का आटा",
-      "उबले आलू",
-      "मसाले"
-    ],
-    "ingredients_list_en": [
-      "Peanuts",
+      "Mixed Vegetables",
       "Wheat Flour",
-      "Boiled Potatoes",
-      "Spices"
+      "Yogurt",
+      "Cumin Seeds",
+      "Turmeric",
+      "Salt"
     ],
-    "prep_notes_hi": "भाखरी को तवे पर मध्यम आँच पर सेंकें। आलू की सब्जी में सही मसालें डालें।",
-    "prep_notes_en": "Roast the bhakhri on a griddle over medium heat. Add the right spices to the potato curry.",
+    "prep_notes_hi": "सब्जियों को छोटे टुकड़ों में काटें। पनीर के साथ सब्जियों को भून लें।",
+    "prep_notes_en": "Chop the vegetables into small pieces. Saute the vegetables along with paneer.",
     "vizz_macros": {
-      "cal": 700,
-      "protein": 15,
-      "fat": 20,
-      "carbs": 90
+      "cal": 650,
+      "protein": 28,
+      "fat": 30,
+      "carbs": 98
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=peanut%20bhakhri%20potato%20curry%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=mixed%20veg%20paneer%20recipe%20recipe"
   },
   "vizz_daily_total_from_meals": {
-    "cal": 1700,
-    "protein": 50,
-    "fat": 55,
-    "carbs": 235
+    "cal": 1640,
+    "protein": 64,
+    "fat": 45,
+    "carbs": 263
   },
   "vizz_daily_total_with_shake": {
-    "cal": 2000,
-    "protein": 90,
-    "fat": 60,
-    "carbs": 260
+    "cal": 1940,
+    "protein": 104,
+    "fat": 50,
+    "carbs": 288
   },
-  "macro_check": "Slightly high in carbs but close to the target. Protein is below the target; consider adding more dal or paneer next time."
+  "macro_check": "Targets met for cal and fat. Minor gaps in protein (104/110) and surplus carbs (288/215)."
 }
