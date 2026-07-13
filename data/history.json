@@ -1,118 +1,5 @@
 [
   {
-    "date": "2026-06-14 (Sunday)",
-    "date_display": "Sunday, June 14",
-    "date_short": "Sun · Jun 14",
-    "generated_label": "Generated last night for today",
-    "breakfast": {
-      "dish_hindi": "मसाला ओट्स और उबला अंडा",
-      "dish_english": "Masala Oats with Boiled Egg",
-      "ingredients_hindi": "ओट्स, टमाटर, प्याज, हरी मिर्च, गरम मसाला, नमक, उबला अंडा",
-      "ingredients_list_hi": [
-        "ओट्स",
-        "टमाटर",
-        "प्याज",
-        "हरी मिर्च",
-        "गरम मसाला",
-        "नमक",
-        "उबला अंडा"
-      ],
-      "ingredients_list_en": [
-        "Oats",
-        "Tomato",
-        "Onion",
-        "Green Chili",
-        "Garam Masala",
-        "Salt",
-        "Boiled Egg"
-      ],
-      "prep_notes_hi": "सब्जियों को बारीक काट कर ओट्स के साथ पकाएं। अच्छी तरह मिलाकर बिना गीला किए गाढ़ा मसाला बनाएं।",
-      "prep_notes_en": "Chop the vegetables finely and cook with oats. Mix well to make a thick masala without making it soggy.",
-      "vizz_macros": {
-        "cal": 370,
-        "protein": 18,
-        "fat": 10,
-        "carbs": 60
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=masala%20oats%20recipe%20recipe"
-    },
-    "lunch": {
-      "dish_hindi": "वेजिटेबल बिरयानी और रायता",
-      "dish_english": "Vegetable Biryani with Raita",
-      "ingredients_hindi": "चावल, मिश्रित सब्जियाँ, बिरयानी मसाला, दही, खीरा, नमक",
-      "ingredients_list_hi": [
-        "चावल",
-        "मिश्रित सब्जियाँ",
-        "बिरयानी मसाला",
-        "दही",
-        "खीरा",
-        "नमक"
-      ],
-      "ingredients_list_en": [
-        "Rice",
-        "Mixed Vegetables",
-        "Biryani Masala",
-        "Curd",
-        "Cucumber",
-        "Salt"
-      ],
-      "prep_notes_hi": "बिरयानी को पूरी तरह पकाकर सही मसालों के साथ बनाएं। इसे लंबे समय तक रखने के लिए पर्याप्त सुगंधित बनाएं ताकि यह अच्छी तरह से यात्रा और पुनः गरम हो सके।",
-      "prep_notes_en": "Cook the biryani fully with the right spices. Make it aromatic enough to hold well while traveling and reheating.",
-      "vizz_macros": {
-        "cal": 450,
-        "protein": 9,
-        "fat": 8,
-        "carbs": 78
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=vegetable%20biryani%20recipe%20recipe"
-    },
-    "dinner": {
-      "dish_hindi": "मूंग दाल और रोटी, सलाद",
-      "dish_english": "Moong Dal with Roti and Salad",
-      "ingredients_hindi": "मूंग दाल, गेहूं का आटा, टमाटर, प्याज, हरी मिर्च, खीरा, मसाले",
-      "ingredients_list_hi": [
-        "मूंग दाल",
-        "गेहूं का आटा",
-        "टमाटर",
-        "प्याज",
-        "हरी मिर्च",
-        "खीरा",
-        "मसाले"
-      ],
-      "ingredients_list_en": [
-        "Moong Dal",
-        "Wheat Flour",
-        "Tomato",
-        "Onion",
-        "Green Chili",
-        "Cucumber",
-        "Spices"
-      ],
-      "prep_notes_hi": "मूंग दाल को पहले भिगोएं और तब तक पकाएं जब तक कि यह नरम न हो जाए। रोटी को ताज़ा सेंकें। सलाद के लिए सब्जियों को काटकर ताज़ा परोसें।",
-      "prep_notes_en": "Soak moong dal before cooking until soft. Cook fresh roti. Chop vegetables and serve fresh for the salad.",
-      "vizz_macros": {
-        "cal": 410,
-        "protein": 16,
-        "fat": 8,
-        "carbs": 70
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=moong%20dal%20recipe%20recipe"
-    },
-    "vizz_daily_total_from_meals": {
-      "cal": 1230,
-      "protein": 43,
-      "fat": 26,
-      "carbs": 208
-    },
-    "vizz_daily_total_with_shake": {
-      "cal": 1530,
-      "protein": 83,
-      "fat": 31,
-      "carbs": 233
-    },
-    "macro_check": "Protein and fat targets are under; meals need more concentrated protein sources."
-  },
-  {
     "date": "2026-06-15 (Monday)",
     "date_display": "Monday, June 15",
     "date_short": "Mon · Jun 15",
@@ -3582,5 +3469,116 @@
       "carbs": 288
     },
     "macro_check": "Targets met for cal and fat. Minor gaps in protein (104/110) and surplus carbs (288/215)."
+  },
+  {
+    "date": "2026-07-14 (Tuesday)",
+    "date_display": "Tuesday, July 14",
+    "date_short": "Tue · Jul 14",
+    "generated_label": "Generated last night for today",
+    "breakfast": {
+      "dish_hindi": "मीठा दलीया, उबला अंडा (विज्ज़ और फ्लैटमेट-2 के लिए)",
+      "dish_english": "Sweet Daliya, Boiled Egg (for Vizz and Flatmate-2)",
+      "ingredients_hindi": "दलीया, दूध, चीनी, इलायची, उबला अंडा",
+      "ingredients_list_hi": [
+        "दलीया",
+        "दूध",
+        "चीनी",
+        "इलायची",
+        "उबला अंडा"
+      ],
+      "ingredients_list_en": [
+        "Daliya (broken wheat)",
+        "Milk",
+        "Sugar",
+        "Cardamom",
+        "Boiled Egg"
+      ],
+      "prep_notes_hi": "दलीया को धीमी आंच पर दूध और चीनी के साथ पकाएं। इसे धीरे धीरे हिलाते रहें। इलायची डालें स्वाद बढ़ाने के लिए।",
+      "prep_notes_en": "Cook daliya with milk and sugar on low heat. Stir continuously. Add cardamom for flavor enhancement.",
+      "vizz_macros": {
+        "cal": 320,
+        "protein": 10,
+        "fat": 8,
+        "carbs": 55
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=sweet%20daliya%20recipe%20hindi%20recipe"
+    },
+    "lunch": {
+      "dish_hindi": "मूसुर दाल और भात, आम का अचार",
+      "dish_english": "Masoor Dal with Rice, Mango Pickle",
+      "ingredients_hindi": "मूसुर दाल, चावल, हल्दी, नमक, घी, आम का अचार",
+      "ingredients_list_hi": [
+        "मूसुर दाल",
+        "चावल",
+        "हल्दी",
+        "नमक",
+        "घी",
+        "आम का अचार"
+      ],
+      "ingredients_list_en": [
+        "Masoor dal",
+        "Rice",
+        "Turmeric",
+        "Salt",
+        "Ghee",
+        "Mango pickle"
+      ],
+      "prep_notes_hi": "मूसुर दाल और चावल अलग-अलग पकाएं। यात्रा में आसानी और सूखापन बनाए रखने के लिए इसे सटीक मात्रा में घी के साथ संग्रहित करें।",
+      "prep_notes_en": "Cook masoor dal and rice separately. Store with the right amount of ghee to ensure travel suitability and dryness.",
+      "vizz_macros": {
+        "cal": 670,
+        "protein": 24,
+        "fat": 12,
+        "carbs": 110
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=masoor%20dal%20rice%20recipe%20recipe"
+    },
+    "dinner": {
+      "dish_hindi": "पनीर काठी रोल, पुदीना चटनी",
+      "dish_english": "Paneer Kathi Roll, Mint Chutney",
+      "ingredients_hindi": "पनीर, आटा, प्याज, टमाटर, शिमला मिर्च, दही, पुदीना, मसाले",
+      "ingredients_list_hi": [
+        "पनीर",
+        "आटा",
+        "प्याज",
+        "टमाटर",
+        "शिमला मिर्च",
+        "दही",
+        "पुदीना",
+        "मसाले"
+      ],
+      "ingredients_list_en": [
+        "Paneer",
+        "Flour",
+        "Onion",
+        "Tomato",
+        "Capsicum",
+        "Yogurt",
+        "Mint",
+        "Spices"
+      ],
+      "prep_notes_hi": "पनीर और सब्जियों को मसाले के साथ सॉते करें। आटे की रोटी बना कर इसे पनीर और सब्जियों से भरें।",
+      "prep_notes_en": "Sauté paneer and vegetables with spices. Make flour rotis and fill them with paneer and vegetable mix.",
+      "vizz_macros": {
+        "cal": 710,
+        "protein": 35,
+        "fat": 25,
+        "carbs": 65
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=paneer%20kathi%20roll%20recipe%20recipe"
+    },
+    "vizz_daily_total_from_meals": {
+      "cal": 1700,
+      "protein": 69,
+      "fat": 45,
+      "carbs": 230
+    },
+    "vizz_daily_total_with_shake": {
+      "cal": 2000,
+      "protein": 109,
+      "fat": 50,
+      "carbs": 255
+    },
+    "macro_check": "Hits 2000 cal and 110g protein target. Fat and carbs slightly over but balanced well across meals."
   }
 ]

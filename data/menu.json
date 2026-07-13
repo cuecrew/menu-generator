@@ -1,113 +1,111 @@
 {
-  "date": "2026-07-13 (Monday)",
-  "date_display": "Monday, July 13",
-  "date_short": "Mon · Jul 13",
+  "date": "2026-07-14 (Tuesday)",
+  "date_display": "Tuesday, July 14",
+  "date_short": "Tue · Jul 14",
   "generated_label": "Generated last night for today",
   "breakfast": {
-    "dish_hindi": "अलसी के बीज और फ्रूट्स के साथ ओट्स",
-    "dish_english": "Oats with Flaxseeds and Fruits",
-    "ingredients_hindi": "ओट्स, अलसी के बीज, दूध, शहद, केले, सेब",
+    "dish_hindi": "मीठा दलीया, उबला अंडा (विज्ज़ और फ्लैटमेट-2 के लिए)",
+    "dish_english": "Sweet Daliya, Boiled Egg (for Vizz and Flatmate-2)",
+    "ingredients_hindi": "दलीया, दूध, चीनी, इलायची, उबला अंडा",
     "ingredients_list_hi": [
-      "ओट्स",
-      "अलसी के बीज",
+      "दलीया",
       "दूध",
-      "शहद",
-      "केले",
-      "सेब"
+      "चीनी",
+      "इलायची",
+      "उबला अंडा"
     ],
     "ingredients_list_en": [
-      "Oats",
-      "Flaxseeds",
+      "Daliya (broken wheat)",
       "Milk",
-      "Honey",
-      "Bananas",
-      "Apples"
+      "Sugar",
+      "Cardamom",
+      "Boiled Egg"
     ],
-    "prep_notes_hi": "ओट्स को दूध के साथ उबाल लें और फिर अलसी, शहद, और फलों के टुकड़े डालें।",
-    "prep_notes_en": "Boil the oats in milk, then add flaxseeds, honey, and pieces of fruits.",
+    "prep_notes_hi": "दलीया को धीमी आंच पर दूध और चीनी के साथ पकाएं। इसे धीरे धीरे हिलाते रहें। इलायची डालें स्वाद बढ़ाने के लिए।",
+    "prep_notes_en": "Cook daliya with milk and sugar on low heat. Stir continuously. Add cardamom for flavor enhancement.",
     "vizz_macros": {
-      "cal": 350,
-      "protein": 12,
-      "fat": 7,
+      "cal": 320,
+      "protein": 10,
+      "fat": 8,
       "carbs": 55
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=oats%20breakfast%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=sweet%20daliya%20recipe%20hindi%20recipe"
   },
   "lunch": {
-    "dish_hindi": "राजमा चावल, प्याज़ के साथ",
-    "dish_english": "Rajma with Rice and Onion Slices",
-    "ingredients_hindi": "राजमा, चावल, टमाटर, प्याज, अदरक, लहसुन, गरम मसाला",
+    "dish_hindi": "मूसुर दाल और भात, आम का अचार",
+    "dish_english": "Masoor Dal with Rice, Mango Pickle",
+    "ingredients_hindi": "मूसुर दाल, चावल, हल्दी, नमक, घी, आम का अचार",
     "ingredients_list_hi": [
-      "राजमा",
+      "मूसुर दाल",
       "चावल",
-      "टमाटर",
-      "प्याज",
-      "अदरक",
-      "लहसुन",
-      "गरम मसाला"
+      "हल्दी",
+      "नमक",
+      "घी",
+      "आम का अचार"
     ],
     "ingredients_list_en": [
-      "Kidney Beans",
+      "Masoor dal",
       "Rice",
-      "Tomato",
-      "Onion",
-      "Ginger",
-      "Garlic",
-      "Garam Masala"
+      "Turmeric",
+      "Salt",
+      "Ghee",
+      "Mango pickle"
     ],
-    "prep_notes_hi": "राजमा को रातभर भिगोकर रखें। इसे चावल के साथ पैक करें। माइक्रोवेव में आसानी से दोबारा गरम कर सकते हैं।",
-    "prep_notes_en": "Soak kidney beans overnight. Pack it along with rice. It reheats easily in a microwave.",
+    "prep_notes_hi": "मूसुर दाल और चावल अलग-अलग पकाएं। यात्रा में आसानी और सूखापन बनाए रखने के लिए इसे सटीक मात्रा में घी के साथ संग्रहित करें।",
+    "prep_notes_en": "Cook masoor dal and rice separately. Store with the right amount of ghee to ensure travel suitability and dryness.",
     "vizz_macros": {
-      "cal": 640,
+      "cal": 670,
       "protein": 24,
-      "fat": 8,
+      "fat": 12,
       "carbs": 110
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=rajma%20rice%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=masoor%20dal%20rice%20recipe%20recipe"
   },
   "dinner": {
-    "dish_hindi": "मिक्स वेज पनीर, रोटी, दही",
-    "dish_english": "Mixed Veg Paneer, Roti, Yogurt",
-    "ingredients_hindi": "पनीर, मिक्स सब्जियाँ, गेहूं का आटा, दही, जीरा, हल्दी, नमक",
+    "dish_hindi": "पनीर काठी रोल, पुदीना चटनी",
+    "dish_english": "Paneer Kathi Roll, Mint Chutney",
+    "ingredients_hindi": "पनीर, आटा, प्याज, टमाटर, शिमला मिर्च, दही, पुदीना, मसाले",
     "ingredients_list_hi": [
       "पनीर",
-      "मिक्स सब्जियाँ",
-      "गेहूं का आटा",
+      "आटा",
+      "प्याज",
+      "टमाटर",
+      "शिमला मिर्च",
       "दही",
-      "जीरा",
-      "हल्दी",
-      "नमक"
+      "पुदीना",
+      "मसाले"
     ],
     "ingredients_list_en": [
       "Paneer",
-      "Mixed Vegetables",
-      "Wheat Flour",
+      "Flour",
+      "Onion",
+      "Tomato",
+      "Capsicum",
       "Yogurt",
-      "Cumin Seeds",
-      "Turmeric",
-      "Salt"
+      "Mint",
+      "Spices"
     ],
-    "prep_notes_hi": "सब्जियों को छोटे टुकड़ों में काटें। पनीर के साथ सब्जियों को भून लें।",
-    "prep_notes_en": "Chop the vegetables into small pieces. Saute the vegetables along with paneer.",
+    "prep_notes_hi": "पनीर और सब्जियों को मसाले के साथ सॉते करें। आटे की रोटी बना कर इसे पनीर और सब्जियों से भरें।",
+    "prep_notes_en": "Sauté paneer and vegetables with spices. Make flour rotis and fill them with paneer and vegetable mix.",
     "vizz_macros": {
-      "cal": 650,
-      "protein": 28,
-      "fat": 30,
-      "carbs": 98
+      "cal": 710,
+      "protein": 35,
+      "fat": 25,
+      "carbs": 65
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=mixed%20veg%20paneer%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=paneer%20kathi%20roll%20recipe%20recipe"
   },
   "vizz_daily_total_from_meals": {
-    "cal": 1640,
-    "protein": 64,
+    "cal": 1700,
+    "protein": 69,
     "fat": 45,
-    "carbs": 263
+    "carbs": 230
   },
   "vizz_daily_total_with_shake": {
-    "cal": 1940,
-    "protein": 104,
+    "cal": 2000,
+    "protein": 109,
     "fat": 50,
-    "carbs": 288
+    "carbs": 255
   },
-  "macro_check": "Targets met for cal and fat. Minor gaps in protein (104/110) and surplus carbs (288/215)."
+  "macro_check": "Hits 2000 cal and 110g protein target. Fat and carbs slightly over but balanced well across meals."
 }
