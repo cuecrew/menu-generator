@@ -1,111 +1,115 @@
 {
-  "date": "2026-07-14 (Tuesday)",
-  "date_display": "Tuesday, July 14",
-  "date_short": "Tue · Jul 14",
+  "date": "2026-07-15 (Wednesday)",
+  "date_display": "Wednesday, July 15",
+  "date_short": "Wed · Jul 15",
   "generated_label": "Generated last night for today",
   "breakfast": {
-    "dish_hindi": "मीठा दलीया, उबला अंडा (विज्ज़ और फ्लैटमेट-2 के लिए)",
-    "dish_english": "Sweet Daliya, Boiled Egg (for Vizz and Flatmate-2)",
-    "ingredients_hindi": "दलीया, दूध, चीनी, इलायची, उबला अंडा",
+    "dish_hindi": "अंकुरित मूँग की चाट, उबला अंडा",
+    "dish_english": "Moong Sprout Salad, Boiled Egg",
+    "ingredients_hindi": "अंकुरित मूँग, टमाटर, प्याज, हरी मिर्च, नींबू, नमक, उबला अंडा",
     "ingredients_list_hi": [
-      "दलीया",
-      "दूध",
-      "चीनी",
-      "इलायची",
+      "अंकुरित मूँग",
+      "टमाटर",
+      "प्याज",
+      "हरी मिर्च",
+      "नींबू",
+      "नमक",
       "उबला अंडा"
     ],
     "ingredients_list_en": [
-      "Daliya (broken wheat)",
-      "Milk",
-      "Sugar",
-      "Cardamom",
+      "Sprouted Moong",
+      "Tomato",
+      "Onion",
+      "Green Chili",
+      "Lemon",
+      "Salt",
       "Boiled Egg"
     ],
-    "prep_notes_hi": "दलीया को धीमी आंच पर दूध और चीनी के साथ पकाएं। इसे धीरे धीरे हिलाते रहें। इलायची डालें स्वाद बढ़ाने के लिए।",
-    "prep_notes_en": "Cook daliya with milk and sugar on low heat. Stir continuously. Add cardamom for flavor enhancement.",
+    "prep_notes_hi": "अंकुरित मूँग को धोकर टमाटर, प्याज और हरी मिर्च के साथ मिलाएं। ऊपर से नींबू और नमक डालें। एक तरफ उबले अंडे तैयार रखें।",
+    "prep_notes_en": "Mix sprouted moong with chopped tomato, onion, and green chili. Add lemon and salt. Keep boiled eggs ready for side.",
     "vizz_macros": {
-      "cal": 320,
-      "protein": 10,
-      "fat": 8,
-      "carbs": 55
+      "cal": 250,
+      "protein": 12,
+      "fat": 7,
+      "carbs": 32
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=sweet%20daliya%20recipe%20hindi%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=moong%20sprout%20salad%20recipe%20recipe"
   },
   "lunch": {
-    "dish_hindi": "मूसुर दाल और भात, आम का अचार",
-    "dish_english": "Masoor Dal with Rice, Mango Pickle",
-    "ingredients_hindi": "मूसुर दाल, चावल, हल्दी, नमक, घी, आम का अचार",
+    "dish_hindi": "चना दाल पुलाव, पुदीना चटनी",
+    "dish_english": "Chana Dal Pulao, Mint Chutney",
+    "ingredients_hindi": "बासमती चावल, चना दाल, पुदीना पत्ते, हरी मिर्च, प्याज, जीरा, नमक",
     "ingredients_list_hi": [
-      "मूसुर दाल",
-      "चावल",
-      "हल्दी",
-      "नमक",
-      "घी",
-      "आम का अचार"
-    ],
-    "ingredients_list_en": [
-      "Masoor dal",
-      "Rice",
-      "Turmeric",
-      "Salt",
-      "Ghee",
-      "Mango pickle"
-    ],
-    "prep_notes_hi": "मूसुर दाल और चावल अलग-अलग पकाएं। यात्रा में आसानी और सूखापन बनाए रखने के लिए इसे सटीक मात्रा में घी के साथ संग्रहित करें।",
-    "prep_notes_en": "Cook masoor dal and rice separately. Store with the right amount of ghee to ensure travel suitability and dryness.",
-    "vizz_macros": {
-      "cal": 670,
-      "protein": 24,
-      "fat": 12,
-      "carbs": 110
-    },
-    "youtube_url": "https://www.youtube.com/results?search_query=masoor%20dal%20rice%20recipe%20recipe"
-  },
-  "dinner": {
-    "dish_hindi": "पनीर काठी रोल, पुदीना चटनी",
-    "dish_english": "Paneer Kathi Roll, Mint Chutney",
-    "ingredients_hindi": "पनीर, आटा, प्याज, टमाटर, शिमला मिर्च, दही, पुदीना, मसाले",
-    "ingredients_list_hi": [
-      "पनीर",
-      "आटा",
+      "बासमती चावल",
+      "चना दाल",
+      "पुदीना पत्ते",
+      "हरी मिर्च",
       "प्याज",
-      "टमाटर",
-      "शिमला मिर्च",
-      "दही",
-      "पुदीना",
-      "मसाले"
+      "जीरा",
+      "नमक"
     ],
     "ingredients_list_en": [
-      "Paneer",
-      "Flour",
+      "Basmati Rice",
+      "Chana Dal",
+      "Mint Leaves",
+      "Green Chili",
       "Onion",
-      "Tomato",
-      "Capsicum",
-      "Yogurt",
-      "Mint",
-      "Spices"
+      "Cumin",
+      "Salt"
     ],
-    "prep_notes_hi": "पनीर और सब्जियों को मसाले के साथ सॉते करें। आटे की रोटी बना कर इसे पनीर और सब्जियों से भरें।",
-    "prep_notes_en": "Sauté paneer and vegetables with spices. Make flour rotis and fill them with paneer and vegetable mix.",
+    "prep_notes_hi": "चना दाल और चावल को पकाकर पुलाव बनाएं। पुदीना चटनी को एक अलग डिब्बे में पैक करें। यात्रा और रीहीटिंग के लिए उपयुक्त।",
+    "prep_notes_en": "Cook chana dal and rice together for pulao. Pack mint chutney separately. Suitable for travel and reheating.",
     "vizz_macros": {
-      "cal": 710,
-      "protein": 35,
-      "fat": 25,
+      "cal": 400,
+      "protein": 15,
+      "fat": 10,
       "carbs": 65
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=paneer%20kathi%20roll%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=chana%20dal%20pulao%20recipe%20recipe"
+  },
+  "dinner": {
+    "dish_hindi": "मसाला मसूर दाल, तवा रोटी, दही",
+    "dish_english": "Masala Masoor Dal, Tawa Roti, Yogurt",
+    "ingredients_hindi": "मसूर दाल, अदरक-लहसुन पेस्ट, प्याज, टमाटर, मसाले, आटा, दही",
+    "ingredients_list_hi": [
+      "मसूर दाल",
+      "अदरक-लहसुन पेस्ट",
+      "प्याज",
+      "टमाटर",
+      "मसाले",
+      "आटा",
+      "दही"
+    ],
+    "ingredients_list_en": [
+      "Masoor Dal",
+      "Ginger-Garlic Paste",
+      "Onion",
+      "Tomato",
+      "Spices",
+      "Flour",
+      "Yogurt"
+    ],
+    "prep_notes_hi": "मसूर दाल को मसालों के साथ पकाएं। तवे पर रोटी सेकें। दही को ठंडा परोसें।",
+    "prep_notes_en": "Cook masoor dal with spices. Prepare roti on tawa. Serve yogurt chilled.",
+    "vizz_macros": {
+      "cal": 350,
+      "protein": 18,
+      "fat": 7,
+      "carbs": 60
+    },
+    "youtube_url": "https://www.youtube.com/results?search_query=masala%20masoor%20dal%20recipe%20recipe"
   },
   "vizz_daily_total_from_meals": {
-    "cal": 1700,
-    "protein": 69,
-    "fat": 45,
-    "carbs": 230
+    "cal": 1000,
+    "protein": 45,
+    "fat": 24,
+    "carbs": 157
   },
   "vizz_daily_total_with_shake": {
-    "cal": 2000,
-    "protein": 109,
-    "fat": 50,
-    "carbs": 255
+    "cal": 1300,
+    "protein": 85,
+    "fat": 29,
+    "carbs": 182
   },
-  "macro_check": "Hits 2000 cal and 110g protein target. Fat and carbs slightly over but balanced well across meals."
+  "macro_check": "Calorie and carb targets not met; protein slightly under. Consider a protein-rich snack."
 }
