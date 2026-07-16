@@ -1,116 +1,5 @@
 [
   {
-    "date": "2026-06-17 (Wednesday)",
-    "date_display": "Wednesday, June 17",
-    "date_short": "Wed · Jun 17",
-    "generated_label": "Generated last night for today",
-    "breakfast": {
-      "dish_hindi": "स्प्राउट्स सलाद, उबला अंडा (केवल Vizz और Flatmate-2 के लिए)",
-      "dish_english": "Sprouts Salad, Boiled Egg (for Vizz and Flatmate-2 only)",
-      "ingredients_hindi": "मूंग स्प्राउट्स, चना स्प्राउट्स, टमाटर, प्याज, नींबू, उबला अंडा",
-      "ingredients_list_hi": [
-        "मूंग स्प्राउट्स",
-        "चना स्प्राउट्स",
-        "टमाटर",
-        "प्याज",
-        "नींबू",
-        "उबला अंडा"
-      ],
-      "ingredients_list_en": [
-        "Moong sprouts",
-        "Chickpea sprouts",
-        "Tomato",
-        "Onion",
-        "Lemon",
-        "Boiled egg"
-      ],
-      "prep_notes_hi": "मूंग और चना स्प्राउट्स को अच्छी तरह से धो लें। टमाटर और प्याज को छोटे-छोटे टुकड़ों में काट लें और स्प्राउट्स में मिला दें।",
-      "prep_notes_en": "Wash moong and chickpea sprouts thoroughly. Chop tomatoes and onions finely and mix with sprouts.",
-      "vizz_macros": {
-        "cal": 350,
-        "protein": 18,
-        "fat": 10,
-        "carbs": 50
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=sprouts%20salad%20recipe%20recipe"
-    },
-    "lunch": {
-      "dish_hindi": "छोले पुलाव, रायता",
-      "dish_english": "Chole Pulao with Raita",
-      "ingredients_hindi": "चावल, छोले, दही, प्याज़, टमाटर, धनिया पत्ते, मसाले",
-      "ingredients_list_hi": [
-        "चावल",
-        "छोले",
-        "दही",
-        "प्याज़",
-        "टमाटर",
-        "धनिया पत्ते",
-        "मसाले"
-      ],
-      "ingredients_list_en": [
-        "Rice",
-        "Chickpeas",
-        "Curd",
-        "Onion",
-        "Tomato",
-        "Coriander leaves",
-        "Spices"
-      ],
-      "prep_notes_hi": "यह पकवान यात्रा करने और फिर से गर्म करने के लिए उपयुक्त है। चावल और छोले के दानों को नरम होने तक पकाएं।",
-      "prep_notes_en": "This dish is suitable for travel and reheating. Cook rice and chickpeas until tender.",
-      "vizz_macros": {
-        "cal": 600,
-        "protein": 18,
-        "fat": 10,
-        "carbs": 100
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=chole%20pulao%20recipe%20recipe"
-    },
-    "dinner": {
-      "dish_hindi": "पालक पनीर, रोटी, सलाद",
-      "dish_english": "Palak Paneer with Roti & Salad",
-      "ingredients_hindi": "पालक, पनीर, रोटी, प्याज, टमाटर, ककड़ी",
-      "ingredients_list_hi": [
-        "पालक",
-        "पनीर",
-        "रोटी",
-        "प्याज",
-        "टमाटर",
-        "ककड़ी"
-      ],
-      "ingredients_list_en": [
-        "Spinach",
-        "Paneer",
-        "Roti",
-        "Onion",
-        "Tomato",
-        "Cucumber"
-      ],
-      "prep_notes_hi": "पालक को अच्छी तरह धोकर बारीक काट लें। पनीर को छोटे टुकड़ों में काटकर सब्जी में डालें।",
-      "prep_notes_en": "Wash spinach thoroughly and chop finely. Cut paneer into small cubes and add to the dish.",
-      "vizz_macros": {
-        "cal": 750,
-        "protein": 34,
-        "fat": 25,
-        "carbs": 60
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=palak%20paneer%20recipe%20recipe"
-    },
-    "vizz_daily_total_from_meals": {
-      "cal": 1700,
-      "protein": 70,
-      "fat": 45,
-      "carbs": 210
-    },
-    "vizz_daily_total_with_shake": {
-      "cal": 2000,
-      "protein": 110,
-      "fat": 50,
-      "carbs": 235
-    },
-    "macro_check": "Meal plan meets the 2000/110/60/215 targets with a slight overage in carbs and a slight underage in fats."
-  },
-  {
     "date": "2026-06-18 (Thursday)",
     "date_display": "Thursday, June 18",
     "date_short": "Thu · Jun 18",
@@ -3560,5 +3449,114 @@
       "carbs": 265
     },
     "macro_check": "This hits the 2000 cal/110g protein/60g fat/215g carb target. Carbs slightly exceed but are acceptable."
+  },
+  {
+    "date": "2026-07-17 (Friday)",
+    "date_display": "Friday, July 17",
+    "date_short": "Fri · Jul 17",
+    "generated_label": "Generated last night for today",
+    "breakfast": {
+      "dish_hindi": "ओट्स और सूखे मेवे के साथ उबला अंडा",
+      "dish_english": "Oats with Dry Fruits and Boiled Egg",
+      "ingredients_hindi": "ओट्स, सूखे मेवे, दूध, शहद, उबला अंडा",
+      "ingredients_list_hi": [
+        "ओट्स",
+        "सूखे मेवे",
+        "दूध",
+        "शहद",
+        "उबला अंडा"
+      ],
+      "ingredients_list_en": [
+        "Oats",
+        "Dry fruits",
+        "Milk",
+        "Honey",
+        "Boiled egg"
+      ],
+      "prep_notes_hi": "ओट्स को दूध में पकाएं और उसमें सूखे मेवे डालें। स्वाद के लिए शहद मिलाएँ। अंत में उबला अंडा परोसें।",
+      "prep_notes_en": "Cook oats in milk and add dry fruits. Add honey for taste. Serve with a boiled egg on the side.",
+      "vizz_macros": {
+        "cal": 400,
+        "protein": 18,
+        "fat": 12,
+        "carbs": 62
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=oats%20breakfast%20recipe%20recipe"
+    },
+    "lunch": {
+      "dish_hindi": "राजमा चावल और पापड़",
+      "dish_english": "Rajma with Rice and Papad",
+      "ingredients_hindi": "राजमा, चावल, टमाटर, प्याज, अदरक-लहसुन पेस्ट, मसाले, पापड़",
+      "ingredients_list_hi": [
+        "राजमा",
+        "चावल",
+        "टमाटर",
+        "प्याज",
+        "अदरक-लहसुन पेस्ट",
+        "मसाले",
+        "पापड़"
+      ],
+      "ingredients_list_en": [
+        "Rajma (kidney beans)",
+        "Rice",
+        "Tomato",
+        "Onion",
+        "Ginger-garlic paste",
+        "Spices",
+        "Papad"
+      ],
+      "prep_notes_hi": "राजमा को अच्छे से पकाएं ताकि वह मुलायम हो। यह यात्रा के लिए सही है और आसानी से फिर से गरम की जा सकती है।",
+      "prep_notes_en": "Cook the rajma until it is soft. Perfect for travel and easy to reheat.",
+      "vizz_macros": {
+        "cal": 700,
+        "protein": 22,
+        "fat": 6,
+        "carbs": 130
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=rajma%20chawal%20recipe%20recipe"
+    },
+    "dinner": {
+      "dish_hindi": "मिक्स वेज एशियन नूडल्स",
+      "dish_english": "Mixed Veg Asian Noodles",
+      "ingredients_hindi": "चाइनीज नूडल्स, शिमला मिर्च, गाजर, गोभी, सोया सॉस, अदरक-लहसुन",
+      "ingredients_list_hi": [
+        "चाइनीज नूडल्स",
+        "शिमला मिर्च",
+        "गाजर",
+        "गोभी",
+        "सोया सॉस",
+        "अदरक-लहसुन"
+      ],
+      "ingredients_list_en": [
+        "Chinese noodles",
+        "Bell pepper",
+        "Carrot",
+        "Cabbage",
+        "Soy sauce",
+        "Ginger-garlic"
+      ],
+      "prep_notes_hi": "नूडल्स को सब्जियों के साथ तेज आंच पर तले। सोया सॉस स्वाद के लिए डालें।",
+      "prep_notes_en": "Stir-fry the noodles with vegetables on high heat. Add soy sauce for flavor.",
+      "vizz_macros": {
+        "cal": 600,
+        "protein": 10,
+        "fat": 12,
+        "carbs": 95
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=asian%20noodles%20recipe%20recipe"
+    },
+    "vizz_daily_total_from_meals": {
+      "cal": 1700,
+      "protein": 50,
+      "fat": 30,
+      "carbs": 287
+    },
+    "vizz_daily_total_with_shake": {
+      "cal": 2000,
+      "protein": 90,
+      "fat": 35,
+      "carbs": 312
+    },
+    "macro_check": "Calories and carbs exceed targets, protein short by 20g. Consider adding an additional protein source."
   }
 ]

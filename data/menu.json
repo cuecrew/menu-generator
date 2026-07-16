@@ -1,131 +1,109 @@
 {
-  "date": "2026-07-16 (Thursday)",
-  "date_display": "Thursday, July 16",
-  "date_short": "Thu · Jul 16",
+  "date": "2026-07-17 (Friday)",
+  "date_display": "Friday, July 17",
+  "date_short": "Fri · Jul 17",
   "generated_label": "Generated last night for today",
   "breakfast": {
-    "dish_hindi": "उपमा, उबला अंडा (विज्ज़ और रूममेट-2 के लिए)",
-    "dish_english": "Upma with Boiled Egg (for Vizz and Flatmate-2)",
-    "ingredients_hindi": "सूजी, सरसों के बीज, कढ़ी पत्ता, हरी मिर्च, अदरक, प्याज, मटर, गाजर, काजू, तेल",
+    "dish_hindi": "ओट्स और सूखे मेवे के साथ उबला अंडा",
+    "dish_english": "Oats with Dry Fruits and Boiled Egg",
+    "ingredients_hindi": "ओट्स, सूखे मेवे, दूध, शहद, उबला अंडा",
     "ingredients_list_hi": [
-      "सूजी",
-      "सरसों के बीज",
-      "कढ़ी पत्ता",
-      "हरी मिर्च",
-      "अदरक",
-      "प्याज",
-      "मटर",
-      "गाजर",
-      "काजू",
-      "तेल"
+      "ओट्स",
+      "सूखे मेवे",
+      "दूध",
+      "शहद",
+      "उबला अंडा"
     ],
     "ingredients_list_en": [
-      "Semolina (Sooji)",
-      "Mustard seeds",
-      "Curry leaves",
-      "Green chilis",
-      "Ginger",
-      "Onion",
-      "Peas",
-      "Carrot",
-      "Cashew nuts",
-      "Oil"
+      "Oats",
+      "Dry fruits",
+      "Milk",
+      "Honey",
+      "Boiled egg"
     ],
-    "prep_notes_hi": "सूजी को भूनने पर ध्यान दें ताकि उसमें खुशबू आए। सभी सब्ज़ियों को समान आकार में काटें ताकि वे जल्दी पकें।",
-    "prep_notes_en": "Roast the semolina till it gives off a nutty aroma. Chop all vegetables uniformly for even cooking.",
+    "prep_notes_hi": "ओट्स को दूध में पकाएं और उसमें सूखे मेवे डालें। स्वाद के लिए शहद मिलाएँ। अंत में उबला अंडा परोसें।",
+    "prep_notes_en": "Cook oats in milk and add dry fruits. Add honey for taste. Serve with a boiled egg on the side.",
     "vizz_macros": {
-      "cal": 370,
-      "protein": 10,
-      "fat": 8,
-      "carbs": 66
+      "cal": 400,
+      "protein": 18,
+      "fat": 12,
+      "carbs": 62
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=upma%20recipe%20hindi%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=oats%20breakfast%20recipe%20recipe"
   },
   "lunch": {
-    "dish_hindi": "पालक पनीर, जीरा चावल, मिक्स अचार",
-    "dish_english": "Palak Paneer with Jeera Rice and Mixed Pickle",
-    "ingredients_hindi": "पालक, पनीर, अदरक, लहसुन, हरी मिर्च, टमाटर, प्याज, जीरा, चावल, तेल, अचार",
+    "dish_hindi": "राजमा चावल और पापड़",
+    "dish_english": "Rajma with Rice and Papad",
+    "ingredients_hindi": "राजमा, चावल, टमाटर, प्याज, अदरक-लहसुन पेस्ट, मसाले, पापड़",
     "ingredients_list_hi": [
-      "पालक",
-      "पनीर",
-      "अदरक",
-      "लहसुन",
-      "हरी मिर्च",
+      "राजमा",
+      "चावल",
       "टमाटर",
       "प्याज",
-      "जीरा",
-      "चावल",
-      "तेल",
-      "अचार"
+      "अदरक-लहसुन पेस्ट",
+      "मसाले",
+      "पापड़"
     ],
     "ingredients_list_en": [
-      "Spinach",
-      "Paneer",
-      "Ginger",
-      "Garlic",
-      "Green chilis",
+      "Rajma (kidney beans)",
+      "Rice",
       "Tomato",
       "Onion",
-      "Cumin seeds",
-      "Rice",
-      "Oil",
-      "Pickle"
+      "Ginger-garlic paste",
+      "Spices",
+      "Papad"
     ],
-    "prep_notes_hi": "पालक को अच्छी तरह से धोकर बारीक पेस्ट बना लें। चावल को मसालों के साथ भूनकर उबालें ताकि वह स्वादिष्ट हो और यात्रा के अनुकूल हो।",
-    "prep_notes_en": "Thoroughly wash and blend spinach into a fine paste. Temper and cook the rice with spices for flavor; ensure it's travel-friendly.",
+    "prep_notes_hi": "राजमा को अच्छे से पकाएं ताकि वह मुलायम हो। यह यात्रा के लिए सही है और आसानी से फिर से गरम की जा सकती है।",
+    "prep_notes_en": "Cook the rajma until it is soft. Perfect for travel and easy to reheat.",
     "vizz_macros": {
-      "cal": 620,
-      "protein": 28,
-      "fat": 22,
-      "carbs": 84
+      "cal": 700,
+      "protein": 22,
+      "fat": 6,
+      "carbs": 130
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=palak%20paneer%20jeera%20rice%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=rajma%20chawal%20recipe%20recipe"
   },
   "dinner": {
-    "dish_hindi": "पनीर भुर्जी, तवा परांठा, दही",
-    "dish_english": "Paneer Bhurji with Tawa Paratha and Yogurt",
-    "ingredients_hindi": "पनीर, प्याज, टमाटर, हरी मिर्च, गरम मसाला, हल्दी, तवा परांठा के लिए आटा, दही",
+    "dish_hindi": "मिक्स वेज एशियन नूडल्स",
+    "dish_english": "Mixed Veg Asian Noodles",
+    "ingredients_hindi": "चाइनीज नूडल्स, शिमला मिर्च, गाजर, गोभी, सोया सॉस, अदरक-लहसुन",
     "ingredients_list_hi": [
-      "पनीर",
-      "प्याज",
-      "टमाटर",
-      "हरी मिर्च",
-      "गरम मसाला",
-      "हल्दी",
-      "आटा",
-      "दही"
+      "चाइनीज नूडल्स",
+      "शिमला मिर्च",
+      "गाजर",
+      "गोभी",
+      "सोया सॉस",
+      "अदरक-लहसुन"
     ],
     "ingredients_list_en": [
-      "Paneer",
-      "Onion",
-      "Tomato",
-      "Green chilis",
-      "Garam masala",
-      "Turmeric",
-      "Wheat flour",
-      "Yogurt"
+      "Chinese noodles",
+      "Bell pepper",
+      "Carrot",
+      "Cabbage",
+      "Soy sauce",
+      "Ginger-garlic"
     ],
-    "prep_notes_hi": "पनीर को क्रम्बल करके अच्छी तरह से तवे पर मसालों के साथ पकाएं। परांठे के आटे को मुलायम गूंधें।",
-    "prep_notes_en": "Crumble the paneer and cook it well on a pan with the spices. Knead the paratha dough to a soft consistency.",
+    "prep_notes_hi": "नूडल्स को सब्जियों के साथ तेज आंच पर तले। सोया सॉस स्वाद के लिए डालें।",
+    "prep_notes_en": "Stir-fry the noodles with vegetables on high heat. Add soy sauce for flavor.",
     "vizz_macros": {
-      "cal": 710,
-      "protein": 32,
-      "fat": 30,
-      "carbs": 90
+      "cal": 600,
+      "protein": 10,
+      "fat": 12,
+      "carbs": 95
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=paneer%20bhurji%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=asian%20noodles%20recipe%20recipe"
   },
   "vizz_daily_total_from_meals": {
     "cal": 1700,
-    "protein": 70,
-    "fat": 60,
-    "carbs": 240
+    "protein": 50,
+    "fat": 30,
+    "carbs": 287
   },
   "vizz_daily_total_with_shake": {
     "cal": 2000,
-    "protein": 110,
-    "fat": 65,
-    "carbs": 265
+    "protein": 90,
+    "fat": 35,
+    "carbs": 312
   },
-  "macro_check": "This hits the 2000 cal/110g protein/60g fat/215g carb target. Carbs slightly exceed but are acceptable."
+  "macro_check": "Calories and carbs exceed targets, protein short by 20g. Consider adding an additional protein source."
 }
