@@ -1,109 +1,117 @@
 {
-  "date": "2026-07-17 (Friday)",
-  "date_display": "Friday, July 17",
-  "date_short": "Fri · Jul 17",
+  "date": "2026-07-18 (Saturday)",
+  "date_display": "Saturday, July 18",
+  "date_short": "Sat · Jul 18",
   "generated_label": "Generated last night for today",
   "breakfast": {
-    "dish_hindi": "ओट्स और सूखे मेवे के साथ उबला अंडा",
-    "dish_english": "Oats with Dry Fruits and Boiled Egg",
-    "ingredients_hindi": "ओट्स, सूखे मेवे, दूध, शहद, उबला अंडा",
+    "dish_hindi": "साबूदाना खिचड़ी, उबला अंडा (विज़ और फ्लैटमेट-2 के लिए)",
+    "dish_english": "Sabudana Khichdi, Boiled Egg (for Vizz and Flatmate-2)",
+    "ingredients_hindi": "साबूदाना, आलू, मूंगफली, जीरा, हरी मिर्च, धनिया पत्ती, उबाल अंडा",
     "ingredients_list_hi": [
-      "ओट्स",
-      "सूखे मेवे",
-      "दूध",
-      "शहद",
-      "उबला अंडा"
+      "साबूदाना",
+      "आलू",
+      "मूंगफली",
+      "जीरा",
+      "हरी मिर्च",
+      "धनिया पत्ती",
+      "उबाल अंडा"
     ],
     "ingredients_list_en": [
-      "Oats",
-      "Dry fruits",
-      "Milk",
-      "Honey",
+      "Tapioca pearls",
+      "Potatoes",
+      "Peanuts",
+      "Cumin seeds",
+      "Green chilies",
+      "Coriander leaves",
       "Boiled egg"
     ],
-    "prep_notes_hi": "ओट्स को दूध में पकाएं और उसमें सूखे मेवे डालें। स्वाद के लिए शहद मिलाएँ। अंत में उबला अंडा परोसें।",
-    "prep_notes_en": "Cook oats in milk and add dry fruits. Add honey for taste. Serve with a boiled egg on the side.",
+    "prep_notes_hi": "साबूदाना को पूरी रात भिगोकर रखें। पकाने से पहले मूँगफली का पाउडर बना लें और आलू को हल्का फ्राई करें।",
+    "prep_notes_en": "Soak the sabudana overnight. Make peanut powder and lightly fry potatoes before cooking.",
     "vizz_macros": {
-      "cal": 400,
-      "protein": 18,
-      "fat": 12,
-      "carbs": 62
+      "cal": 380,
+      "protein": 9,
+      "fat": 15,
+      "carbs": 52
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=oats%20breakfast%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=sabudana%20khichdi%20recipe%20recipe"
   },
   "lunch": {
-    "dish_hindi": "राजमा चावल और पापड़",
-    "dish_english": "Rajma with Rice and Papad",
-    "ingredients_hindi": "राजमा, चावल, टमाटर, प्याज, अदरक-लहसुन पेस्ट, मसाले, पापड़",
+    "dish_hindi": "कढ़ी पकोड़ा और चावल",
+    "dish_english": "Kadhi Pakora with Basmati Rice",
+    "ingredients_hindi": "बेसन, दही, हरी मिर्च, अदरक, जीरा, धनिया पत्ती, चावल",
     "ingredients_list_hi": [
-      "राजमा",
-      "चावल",
-      "टमाटर",
-      "प्याज",
-      "अदरक-लहसुन पेस्ट",
-      "मसाले",
-      "पापड़"
+      "बेसन",
+      "दही",
+      "हरी मिर्च",
+      "अदरक",
+      "जीरा",
+      "धनिया पत्ती",
+      "चावल"
     ],
     "ingredients_list_en": [
-      "Rajma (kidney beans)",
-      "Rice",
-      "Tomato",
-      "Onion",
-      "Ginger-garlic paste",
-      "Spices",
-      "Papad"
+      "Gram flour",
+      "Yogurt",
+      "Green chilies",
+      "Ginger",
+      "Cumin seeds",
+      "Coriander leaves",
+      "Rice"
     ],
-    "prep_notes_hi": "राजमा को अच्छे से पकाएं ताकि वह मुलायम हो। यह यात्रा के लिए सही है और आसानी से फिर से गरम की जा सकती है।",
-    "prep_notes_en": "Cook the rajma until it is soft. Perfect for travel and easy to reheat.",
+    "prep_notes_hi": "यह लंच ऑफिस ले जाने के लिए और गर्म करने के लिए सही है। बेसन के पकोड़े बनाकर कढ़ी में डालें और अच्छी तरह उबालें।",
+    "prep_notes_en": "This lunch is perfect for office and reheating. Make the gram flour fritters and add them to the yogurt gravy, then simmer well.",
     "vizz_macros": {
-      "cal": 700,
-      "protein": 22,
-      "fat": 6,
-      "carbs": 130
+      "cal": 470,
+      "protein": 14,
+      "fat": 12,
+      "carbs": 72
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=rajma%20chawal%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=kadhi%20pakora%20rice%20recipe%20recipe"
   },
   "dinner": {
-    "dish_hindi": "मिक्स वेज एशियन नूडल्स",
-    "dish_english": "Mixed Veg Asian Noodles",
-    "ingredients_hindi": "चाइनीज नूडल्स, शिमला मिर्च, गाजर, गोभी, सोया सॉस, अदरक-लहसुन",
+    "dish_hindi": "मटर पनीर और हरियाली पराठा",
+    "dish_english": "Matar Paneer and Spinach Paratha",
+    "ingredients_hindi": "मटर, पनीर, टमाटर, अदरक, लहसुन, हरी मिर्च, गेहूं का आटा, पालक",
     "ingredients_list_hi": [
-      "चाइनीज नूडल्स",
-      "शिमला मिर्च",
-      "गाजर",
-      "गोभी",
-      "सोया सॉस",
-      "अदरक-लहसुन"
+      "मटर",
+      "पनीर",
+      "टमाटर",
+      "अदरक",
+      "लहसुन",
+      "हरी मिर्च",
+      "गेहूं का आटा",
+      "पालक"
     ],
     "ingredients_list_en": [
-      "Chinese noodles",
-      "Bell pepper",
-      "Carrot",
-      "Cabbage",
-      "Soy sauce",
-      "Ginger-garlic"
+      "Peas",
+      "Paneer",
+      "Tomatoes",
+      "Ginger",
+      "Garlic",
+      "Green chilies",
+      "Wheat flour",
+      "Spinach"
     ],
-    "prep_notes_hi": "नूडल्स को सब्जियों के साथ तेज आंच पर तले। सोया सॉस स्वाद के लिए डालें।",
-    "prep_notes_en": "Stir-fry the noodles with vegetables on high heat. Add soy sauce for flavor.",
+    "prep_notes_hi": "पहले पनीर और मटर को टमाटर के साथ मिला कर धीमी आंच पर पकाएं। हरियाली पराठे के लिए पालक का पेस्ट आटे में मिलाएं।",
+    "prep_notes_en": "Cook paneer and peas with tomatoes on a slow flame first. For spinach paratha, mix spinach paste into the dough.",
     "vizz_macros": {
-      "cal": 600,
-      "protein": 10,
-      "fat": 12,
-      "carbs": 95
+      "cal": 550,
+      "protein": 28,
+      "fat": 18,
+      "carbs": 65
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=asian%20noodles%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=matar%20paneer%20recipe%20recipe"
   },
   "vizz_daily_total_from_meals": {
-    "cal": 1700,
-    "protein": 50,
-    "fat": 30,
-    "carbs": 287
+    "cal": 1400,
+    "protein": 51,
+    "fat": 45,
+    "carbs": 189
   },
   "vizz_daily_total_with_shake": {
-    "cal": 2000,
-    "protein": 90,
-    "fat": 35,
-    "carbs": 312
+    "cal": 1700,
+    "protein": 91,
+    "fat": 50,
+    "carbs": 214
   },
-  "macro_check": "Calories and carbs exceed targets, protein short by 20g. Consider adding an additional protein source."
+  "macro_check": "Good balance but slightly low on protein; carbs are decent."
 }

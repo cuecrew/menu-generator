@@ -1,144 +1,5 @@
 [
   {
-    "date": "2026-06-18 (Thursday)",
-    "date_display": "Thursday, June 18",
-    "date_short": "Thu · Jun 18",
-    "generated_label": "Generated last night for today",
-    "breakfast": {
-      "dish_hindi": "ओट्स उपमा, दही, उबला अंडा (विज्ज़ और साथिवासी-2 के लिए)",
-      "dish_english": "Oats Upma with Curd & Boiled Egg (for Vizz and Flatmate-2)",
-      "ingredients_hindi": "ओट्स, प्याज, टमाटर, गाजर, मटर, हरा धनिया, सरसों के दाने, करी पत्ते, दही, उबला अंडा",
-      "ingredients_list_hi": [
-        "ओट्स",
-        "प्याज",
-        "टमाटर",
-        "गाजर",
-        "मटर",
-        "हरा धनिया",
-        "सरसों के दाने",
-        "करी पत्ते",
-        "दही",
-        "उबला अंडा"
-      ],
-      "ingredients_list_en": [
-        "Oats",
-        "Onion",
-        "Tomato",
-        "Carrot",
-        "Peas",
-        "Coriander leaves",
-        "Mustard seeds",
-        "Curry leaves",
-        "Curd",
-        "Boiled Egg"
-      ],
-      "prep_notes_hi": "ओट्स को सब्जियों के साथ भूनें और थोड़ा पानी डालकर पकाएं। करी पत्ते और सरसों के तड़के से स्वाद आएगा।",
-      "prep_notes_en": "Roast oats with vegetables and add some water to cook. The flavor will enhance with curry leaves and mustard seed tempering.",
-      "vizz_macros": {
-        "cal": 390,
-        "protein": 20,
-        "fat": 10,
-        "carbs": 65
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=oats%20upma%20recipe%20hindi%20recipe"
-    },
-    "lunch": {
-      "dish_hindi": "मूंग दाल खिचड़ी और पापड़",
-      "dish_english": "Moong Dal Khichdi with Papad",
-      "ingredients_hindi": "मूंग दाल, बासमती चावल, हल्दी, नमक, घी, जीरा, हींग, सौंफ, पापड़",
-      "ingredients_list_hi": [
-        "मूंग दाल",
-        "बासमती चावल",
-        "हल्दी",
-        "नमक",
-        "घी",
-        "जीरा",
-        "हींग",
-        "सौंफ",
-        "पापड़"
-      ],
-      "ingredients_list_en": [
-        "Moong Dal",
-        "Basmati Rice",
-        "Turmeric",
-        "Salt",
-        "Ghee",
-        "Cumin seeds",
-        "Asafoetida",
-        "Fennel seeds",
-        "Papad"
-      ],
-      "prep_notes_hi": "मूंग दाल और चावल को पकाकर जीरा, हींग और सौंफ के तड़के से स्वाद बढ़ाएं। यह भोजन यात्रा और दोबारा गरम करने के लिए बहुत अच्छा है।",
-      "prep_notes_en": "Cook moong dal and rice, enhance taste with cumin, asafoetida and fennel seed tempering. This meal travels well and is microwave-reheatable.",
-      "vizz_macros": {
-        "cal": 460,
-        "protein": 16,
-        "fat": 16,
-        "carbs": 70
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=moong%20dal%20khichdi%20recipe%20hindi%20recipe"
-    },
-    "dinner": {
-      "dish_hindi": "मिक्स वेज करी और रोटी, पुदीना चटनी",
-      "dish_english": "Mixed Vegetable Curry with Roti & Mint Chutney",
-      "ingredients_hindi": "गोभी, आलू, गाजर, हरी मटर, शिमला मिर्च, टमाटर, प्याज, धनिया पाउडर, हल्दी, नमक, हरा धनिया, आटा, पुदीना, दही",
-      "ingredients_list_hi": [
-        "गोभी",
-        "आलू",
-        "गाजर",
-        "हरी मटर",
-        "शिमला मिर्च",
-        "टमाटर",
-        "प्याज",
-        "धनिया पाउडर",
-        "हल्दी",
-        "नमक",
-        "हरा धनिया",
-        "आटा",
-        "पुदीना",
-        "दही"
-      ],
-      "ingredients_list_en": [
-        "Cauliflower",
-        "Potato",
-        "Carrot",
-        "Green Peas",
-        "Capsicum",
-        "Tomato",
-        "Onion",
-        "Coriander Powder",
-        "Turmeric",
-        "Salt",
-        "Coriander Leaves",
-        "Wheat Flour",
-        "Mint",
-        "Curd"
-      ],
-      "prep_notes_hi": "सब्जियों को कटहरी मसालों के साथ भूनकर धीमी आँच पर पकाएं। पुदीना चटनी के लिए पुदीना और दही पीसें।",
-      "prep_notes_en": "Saute vegetables with spices and cook on low flame. For mint chutney, blend mint and curd.",
-      "vizz_macros": {
-        "cal": 490,
-        "protein": 15,
-        "fat": 18,
-        "carbs": 65
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=mixed%20vegetable%20curry%20recipe%20hindi%20recipe"
-    },
-    "vizz_daily_total_from_meals": {
-      "cal": 1340,
-      "protein": 51,
-      "fat": 44,
-      "carbs": 200
-    },
-    "vizz_daily_total_with_shake": {
-      "cal": 1640,
-      "protein": 91,
-      "fat": 49,
-      "carbs": 225
-    },
-    "macro_check": "Protein slightly low; consider extra dal or paneer in dinner to hit 110g target. Calories, fat, and carbs within range."
-  },
-  {
     "date": "2026-06-19 (Friday)",
     "date_display": "Friday, June 19",
     "date_short": "Fri · Jun 19",
@@ -3558,5 +3419,122 @@
       "carbs": 312
     },
     "macro_check": "Calories and carbs exceed targets, protein short by 20g. Consider adding an additional protein source."
+  },
+  {
+    "date": "2026-07-18 (Saturday)",
+    "date_display": "Saturday, July 18",
+    "date_short": "Sat · Jul 18",
+    "generated_label": "Generated last night for today",
+    "breakfast": {
+      "dish_hindi": "साबूदाना खिचड़ी, उबला अंडा (विज़ और फ्लैटमेट-2 के लिए)",
+      "dish_english": "Sabudana Khichdi, Boiled Egg (for Vizz and Flatmate-2)",
+      "ingredients_hindi": "साबूदाना, आलू, मूंगफली, जीरा, हरी मिर्च, धनिया पत्ती, उबाल अंडा",
+      "ingredients_list_hi": [
+        "साबूदाना",
+        "आलू",
+        "मूंगफली",
+        "जीरा",
+        "हरी मिर्च",
+        "धनिया पत्ती",
+        "उबाल अंडा"
+      ],
+      "ingredients_list_en": [
+        "Tapioca pearls",
+        "Potatoes",
+        "Peanuts",
+        "Cumin seeds",
+        "Green chilies",
+        "Coriander leaves",
+        "Boiled egg"
+      ],
+      "prep_notes_hi": "साबूदाना को पूरी रात भिगोकर रखें। पकाने से पहले मूँगफली का पाउडर बना लें और आलू को हल्का फ्राई करें।",
+      "prep_notes_en": "Soak the sabudana overnight. Make peanut powder and lightly fry potatoes before cooking.",
+      "vizz_macros": {
+        "cal": 380,
+        "protein": 9,
+        "fat": 15,
+        "carbs": 52
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=sabudana%20khichdi%20recipe%20recipe"
+    },
+    "lunch": {
+      "dish_hindi": "कढ़ी पकोड़ा और चावल",
+      "dish_english": "Kadhi Pakora with Basmati Rice",
+      "ingredients_hindi": "बेसन, दही, हरी मिर्च, अदरक, जीरा, धनिया पत्ती, चावल",
+      "ingredients_list_hi": [
+        "बेसन",
+        "दही",
+        "हरी मिर्च",
+        "अदरक",
+        "जीरा",
+        "धनिया पत्ती",
+        "चावल"
+      ],
+      "ingredients_list_en": [
+        "Gram flour",
+        "Yogurt",
+        "Green chilies",
+        "Ginger",
+        "Cumin seeds",
+        "Coriander leaves",
+        "Rice"
+      ],
+      "prep_notes_hi": "यह लंच ऑफिस ले जाने के लिए और गर्म करने के लिए सही है। बेसन के पकोड़े बनाकर कढ़ी में डालें और अच्छी तरह उबालें।",
+      "prep_notes_en": "This lunch is perfect for office and reheating. Make the gram flour fritters and add them to the yogurt gravy, then simmer well.",
+      "vizz_macros": {
+        "cal": 470,
+        "protein": 14,
+        "fat": 12,
+        "carbs": 72
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=kadhi%20pakora%20rice%20recipe%20recipe"
+    },
+    "dinner": {
+      "dish_hindi": "मटर पनीर और हरियाली पराठा",
+      "dish_english": "Matar Paneer and Spinach Paratha",
+      "ingredients_hindi": "मटर, पनीर, टमाटर, अदरक, लहसुन, हरी मिर्च, गेहूं का आटा, पालक",
+      "ingredients_list_hi": [
+        "मटर",
+        "पनीर",
+        "टमाटर",
+        "अदरक",
+        "लहसुन",
+        "हरी मिर्च",
+        "गेहूं का आटा",
+        "पालक"
+      ],
+      "ingredients_list_en": [
+        "Peas",
+        "Paneer",
+        "Tomatoes",
+        "Ginger",
+        "Garlic",
+        "Green chilies",
+        "Wheat flour",
+        "Spinach"
+      ],
+      "prep_notes_hi": "पहले पनीर और मटर को टमाटर के साथ मिला कर धीमी आंच पर पकाएं। हरियाली पराठे के लिए पालक का पेस्ट आटे में मिलाएं।",
+      "prep_notes_en": "Cook paneer and peas with tomatoes on a slow flame first. For spinach paratha, mix spinach paste into the dough.",
+      "vizz_macros": {
+        "cal": 550,
+        "protein": 28,
+        "fat": 18,
+        "carbs": 65
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=matar%20paneer%20recipe%20recipe"
+    },
+    "vizz_daily_total_from_meals": {
+      "cal": 1400,
+      "protein": 51,
+      "fat": 45,
+      "carbs": 189
+    },
+    "vizz_daily_total_with_shake": {
+      "cal": 1700,
+      "protein": 91,
+      "fat": 50,
+      "carbs": 214
+    },
+    "macro_check": "Good balance but slightly low on protein; carbs are decent."
   }
 ]
