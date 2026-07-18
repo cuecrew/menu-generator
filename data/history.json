@@ -1,120 +1,5 @@
 [
   {
-    "date": "2026-06-19 (Friday)",
-    "date_display": "Friday, June 19",
-    "date_short": "Fri · Jun 19",
-    "generated_label": "Generated last night for today",
-    "breakfast": {
-      "dish_hindi": "अलू परांठा, दही, उबला अंडा (Vizz और Flatmate-2 के लिए)",
-      "dish_english": "Aloo Paratha with Curd and Boiled Egg (for Vizz and Flatmate-2)",
-      "ingredients_hindi": "आटा, आलू, धनिया, हरा मिर्च, जीरा, दही, अंडा",
-      "ingredients_list_hi": [
-        "आटा",
-        "आलू",
-        "धनिया",
-        "हरा मिर्च",
-        "जीरा",
-        "दही",
-        "अंडा"
-      ],
-      "ingredients_list_en": [
-        "Wheat Flour",
-        "Potatoes",
-        "Coriander",
-        "Green Chili",
-        "Cumin Seeds",
-        "Curd",
-        "Egg"
-      ],
-      "prep_notes_hi": "आलू को अच्छे से मैश करके मसाले मिलाएं। परांठे को मध्यम आंच पर सेकें और इसे ताज़े दही के साथ परोसें।",
-      "prep_notes_en": "Mash potatoes well and mix with spices. Cook parathas on medium heat and serve with fresh curd.",
-      "vizz_macros": {
-        "cal": 400,
-        "protein": 10,
-        "fat": 15,
-        "carbs": 55
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=aloo%20paratha%20recipe%20hindi%20recipe"
-    },
-    "lunch": {
-      "dish_hindi": "राजमा चावल, रायता",
-      "dish_english": "Rajma with Rice and Raita",
-      "ingredients_hindi": "राजमा, चावल, दही, जीरा, धनिया, मिर्च पाउडर, नमक",
-      "ingredients_list_hi": [
-        "राजमा",
-        "चावल",
-        "दही",
-        "जीरा",
-        "धनिया",
-        "मिर्च पाउडर",
-        "नमक"
-      ],
-      "ingredients_list_en": [
-        "Kidney Beans",
-        "Rice",
-        "Curd",
-        "Cumin",
-        "Coriander",
-        "Chili Powder",
-        "Salt"
-      ],
-      "prep_notes_hi": "राजमा को रात भर भिगो दें। अच्छे से पकाएं ताकि यह नरम हो और इसे चावल के साथ परोसें। यात्रा और दोबारा गरम करने के अनुकूल।",
-      "prep_notes_en": "Soak kidney beans overnight. Cook well until soft and serve with rice. Suitable for transport and reheating.",
-      "vizz_macros": {
-        "cal": 650,
-        "protein": 25,
-        "fat": 8,
-        "carbs": 120
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=rajma%20rice%20recipe%20hindi%20recipe"
-    },
-    "dinner": {
-      "dish_hindi": "पनीर टिका मसाला, रोटी, प्याज का सलाद",
-      "dish_english": "Paneer Tikka Masala with Roti and Onion Salad",
-      "ingredients_hindi": "पनीर, टमाटर, प्याज, शिमला मिर्च, अदरक, लहसुन, मसाले",
-      "ingredients_list_hi": [
-        "पनीर",
-        "टमाटर",
-        "प्याज",
-        "शिमला मिर्च",
-        "अदरक",
-        "लहसुन",
-        "मसाले"
-      ],
-      "ingredients_list_en": [
-        "Paneer",
-        "Tomatoes",
-        "Onion",
-        "Bell Pepper",
-        "Ginger",
-        "Garlic",
-        "Spices"
-      ],
-      "prep_notes_hi": "पनीर को मसालों के साथ मैरिनेट करें और फिर धीमी आंच पर पकाएं। इसे ताज़ी रोटी और सलाद के साथ परोसें।",
-      "prep_notes_en": "Marinate paneer with spices and cook on low flame. Serve with fresh roti and salad.",
-      "vizz_macros": {
-        "cal": 650,
-        "protein": 35,
-        "fat": 25,
-        "carbs": 50
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=paneer%20tikka%20masala%20recipe%20recipe"
-    },
-    "vizz_daily_total_from_meals": {
-      "cal": 1700,
-      "protein": 70,
-      "fat": 48,
-      "carbs": 225
-    },
-    "vizz_daily_total_with_shake": {
-      "cal": 2000,
-      "protein": 110,
-      "fat": 53,
-      "carbs": 250
-    },
-    "macro_check": "This plan hits the target of 2000 cal, 110g protein, 60g fat, 215g carbs with a minor excess in carbs and slight shortage in fat."
-  },
-  {
     "date": "2026-06-20 (Saturday)",
     "date_display": "Saturday, June 20",
     "date_short": "Sat · Jun 20",
@@ -3536,5 +3421,132 @@
       "carbs": 214
     },
     "macro_check": "Good balance but slightly low on protein; carbs are decent."
+  },
+  {
+    "date": "2026-07-19 (Sunday)",
+    "date_display": "Sunday, July 19",
+    "date_short": "Sun · Jul 19",
+    "generated_label": "Generated last night for today",
+    "breakfast": {
+      "dish_hindi": "अंडा करी और गेहूं की रोटी",
+      "dish_english": "Egg Curry with Wheat Roti",
+      "ingredients_hindi": "अंडा, प्याज, टमाटर, धनिया पाउडर, गरम मसाला, हल्दी पाउडर, तेल, गेहूं का आटा",
+      "ingredients_list_hi": [
+        "अंडा",
+        "प्याज",
+        "टमाटर",
+        "धनिया पाउडर",
+        "गरम मसाला",
+        "हल्दी पाउडर",
+        "तेल",
+        "गेहूं का आटा"
+      ],
+      "ingredients_list_en": [
+        "Egg",
+        "Onion",
+        "Tomato",
+        "Coriander Powder",
+        "Garam Masala",
+        "Turmeric Powder",
+        "Oil",
+        "Wheat Flour"
+      ],
+      "prep_notes_hi": "अंडों को अच्छी तरह उबालें और फिर मसलों के साथ मिलाएँ. रोटी को अच्छे से बेलें और पकाएँ.",
+      "prep_notes_en": "Boil eggs thoroughly and then mix with spices. Roll rotis well and cook evenly.",
+      "vizz_macros": {
+        "cal": 400,
+        "protein": 18,
+        "fat": 12,
+        "carbs": 50
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=egg%20curry%20recipe%20hindi%20recipe"
+    },
+    "lunch": {
+      "dish_hindi": "काबुली चना और बासमती चावल",
+      "dish_english": "Chickpea Curry with Basmati Rice",
+      "ingredients_hindi": "काबुली चना, बासमती चावल, प्याज, टमाटर, जीरा, गरम मसाला, हल्दी पाउडर, लाल मिर्च पाउडर, धनिया पाउडर, तेल",
+      "ingredients_list_hi": [
+        "काबुली चना",
+        "बासमती चावल",
+        "प्याज",
+        "टमाटर",
+        "जीरा",
+        "गरम मसाला",
+        "हल्दी पाउडर",
+        "लाल मिर्च पाउडर",
+        "धनिया पाउडर",
+        "तेल"
+      ],
+      "ingredients_list_en": [
+        "Chickpeas",
+        "Basmati Rice",
+        "Onion",
+        "Tomato",
+        "Cumin",
+        "Garam Masala",
+        "Turmeric Powder",
+        "Red Chili Powder",
+        "Coriander Powder",
+        "Oil"
+      ],
+      "prep_notes_hi": "चना को रात भर भिगोकर रखें और फिर पका लें. यह पोर्टेबल है और माइक्रोवेव में आसानी से गरम हो सकता है.",
+      "prep_notes_en": "Soak chickpeas overnight and then cook. It's portable and reheats well in the microwave.",
+      "vizz_macros": {
+        "cal": 600,
+        "protein": 20,
+        "fat": 10,
+        "carbs": 90
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=chickpea%20curry%20recipe%20recipe"
+    },
+    "dinner": {
+      "dish_hindi": "पास्ता सलाद और लहसुन की ब्रेड",
+      "dish_english": "Pasta Salad with Garlic Bread",
+      "ingredients_hindi": "पास्ता, शिमला मिर्च, टमाटर, जैतून, लहसुन, मक्खन, गेहूं की रोटी, नमक, काली मिर्च",
+      "ingredients_list_hi": [
+        "पास्ता",
+        "शिमला मिर्च",
+        "टमाटर",
+        "जैतून",
+        "लहसुन",
+        "मक्खन",
+        "गेहूं की रोटी",
+        "नमक",
+        "काली मिर्च"
+      ],
+      "ingredients_list_en": [
+        "Pasta",
+        "Bell Peppers",
+        "Tomato",
+        "Olives",
+        "Garlic",
+        "Butter",
+        "Wheat Bread",
+        "Salt",
+        "Black Pepper"
+      ],
+      "prep_notes_hi": "सब्जियों को बारीक काटें और पास्ता के साथ मिलाएँ। रोटी पर लहसुन मक्खन लगाएँ और सेंकें।",
+      "prep_notes_en": "Chop vegetables finely and mix with pasta. Spread garlic butter on bread and toast.",
+      "vizz_macros": {
+        "cal": 700,
+        "protein": 15,
+        "fat": 20,
+        "carbs": 100
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=pasta%20salad%20recipe%20recipe"
+    },
+    "vizz_daily_total_from_meals": {
+      "cal": 1700,
+      "protein": 53,
+      "fat": 42,
+      "carbs": 240
+    },
+    "vizz_daily_total_with_shake": {
+      "cal": 2000,
+      "protein": 93,
+      "fat": 47,
+      "carbs": 265
+    },
+    "macro_check": "Meets calorie and carb targets. Protein is slightly lower, consider a snack."
   }
 ]

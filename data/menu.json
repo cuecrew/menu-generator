@@ -1,117 +1,127 @@
 {
-  "date": "2026-07-18 (Saturday)",
-  "date_display": "Saturday, July 18",
-  "date_short": "Sat · Jul 18",
+  "date": "2026-07-19 (Sunday)",
+  "date_display": "Sunday, July 19",
+  "date_short": "Sun · Jul 19",
   "generated_label": "Generated last night for today",
   "breakfast": {
-    "dish_hindi": "साबूदाना खिचड़ी, उबला अंडा (विज़ और फ्लैटमेट-2 के लिए)",
-    "dish_english": "Sabudana Khichdi, Boiled Egg (for Vizz and Flatmate-2)",
-    "ingredients_hindi": "साबूदाना, आलू, मूंगफली, जीरा, हरी मिर्च, धनिया पत्ती, उबाल अंडा",
+    "dish_hindi": "अंडा करी और गेहूं की रोटी",
+    "dish_english": "Egg Curry with Wheat Roti",
+    "ingredients_hindi": "अंडा, प्याज, टमाटर, धनिया पाउडर, गरम मसाला, हल्दी पाउडर, तेल, गेहूं का आटा",
     "ingredients_list_hi": [
-      "साबूदाना",
-      "आलू",
-      "मूंगफली",
-      "जीरा",
-      "हरी मिर्च",
-      "धनिया पत्ती",
-      "उबाल अंडा"
+      "अंडा",
+      "प्याज",
+      "टमाटर",
+      "धनिया पाउडर",
+      "गरम मसाला",
+      "हल्दी पाउडर",
+      "तेल",
+      "गेहूं का आटा"
     ],
     "ingredients_list_en": [
-      "Tapioca pearls",
-      "Potatoes",
-      "Peanuts",
-      "Cumin seeds",
-      "Green chilies",
-      "Coriander leaves",
-      "Boiled egg"
+      "Egg",
+      "Onion",
+      "Tomato",
+      "Coriander Powder",
+      "Garam Masala",
+      "Turmeric Powder",
+      "Oil",
+      "Wheat Flour"
     ],
-    "prep_notes_hi": "साबूदाना को पूरी रात भिगोकर रखें। पकाने से पहले मूँगफली का पाउडर बना लें और आलू को हल्का फ्राई करें।",
-    "prep_notes_en": "Soak the sabudana overnight. Make peanut powder and lightly fry potatoes before cooking.",
+    "prep_notes_hi": "अंडों को अच्छी तरह उबालें और फिर मसलों के साथ मिलाएँ. रोटी को अच्छे से बेलें और पकाएँ.",
+    "prep_notes_en": "Boil eggs thoroughly and then mix with spices. Roll rotis well and cook evenly.",
     "vizz_macros": {
-      "cal": 380,
-      "protein": 9,
-      "fat": 15,
-      "carbs": 52
+      "cal": 400,
+      "protein": 18,
+      "fat": 12,
+      "carbs": 50
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=sabudana%20khichdi%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=egg%20curry%20recipe%20hindi%20recipe"
   },
   "lunch": {
-    "dish_hindi": "कढ़ी पकोड़ा और चावल",
-    "dish_english": "Kadhi Pakora with Basmati Rice",
-    "ingredients_hindi": "बेसन, दही, हरी मिर्च, अदरक, जीरा, धनिया पत्ती, चावल",
+    "dish_hindi": "काबुली चना और बासमती चावल",
+    "dish_english": "Chickpea Curry with Basmati Rice",
+    "ingredients_hindi": "काबुली चना, बासमती चावल, प्याज, टमाटर, जीरा, गरम मसाला, हल्दी पाउडर, लाल मिर्च पाउडर, धनिया पाउडर, तेल",
     "ingredients_list_hi": [
-      "बेसन",
-      "दही",
-      "हरी मिर्च",
-      "अदरक",
+      "काबुली चना",
+      "बासमती चावल",
+      "प्याज",
+      "टमाटर",
       "जीरा",
-      "धनिया पत्ती",
-      "चावल"
+      "गरम मसाला",
+      "हल्दी पाउडर",
+      "लाल मिर्च पाउडर",
+      "धनिया पाउडर",
+      "तेल"
     ],
     "ingredients_list_en": [
-      "Gram flour",
-      "Yogurt",
-      "Green chilies",
-      "Ginger",
-      "Cumin seeds",
-      "Coriander leaves",
-      "Rice"
+      "Chickpeas",
+      "Basmati Rice",
+      "Onion",
+      "Tomato",
+      "Cumin",
+      "Garam Masala",
+      "Turmeric Powder",
+      "Red Chili Powder",
+      "Coriander Powder",
+      "Oil"
     ],
-    "prep_notes_hi": "यह लंच ऑफिस ले जाने के लिए और गर्म करने के लिए सही है। बेसन के पकोड़े बनाकर कढ़ी में डालें और अच्छी तरह उबालें।",
-    "prep_notes_en": "This lunch is perfect for office and reheating. Make the gram flour fritters and add them to the yogurt gravy, then simmer well.",
+    "prep_notes_hi": "चना को रात भर भिगोकर रखें और फिर पका लें. यह पोर्टेबल है और माइक्रोवेव में आसानी से गरम हो सकता है.",
+    "prep_notes_en": "Soak chickpeas overnight and then cook. It's portable and reheats well in the microwave.",
     "vizz_macros": {
-      "cal": 470,
-      "protein": 14,
-      "fat": 12,
-      "carbs": 72
+      "cal": 600,
+      "protein": 20,
+      "fat": 10,
+      "carbs": 90
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=kadhi%20pakora%20rice%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=chickpea%20curry%20recipe%20recipe"
   },
   "dinner": {
-    "dish_hindi": "मटर पनीर और हरियाली पराठा",
-    "dish_english": "Matar Paneer and Spinach Paratha",
-    "ingredients_hindi": "मटर, पनीर, टमाटर, अदरक, लहसुन, हरी मिर्च, गेहूं का आटा, पालक",
+    "dish_hindi": "पास्ता सलाद और लहसुन की ब्रेड",
+    "dish_english": "Pasta Salad with Garlic Bread",
+    "ingredients_hindi": "पास्ता, शिमला मिर्च, टमाटर, जैतून, लहसुन, मक्खन, गेहूं की रोटी, नमक, काली मिर्च",
     "ingredients_list_hi": [
-      "मटर",
-      "पनीर",
+      "पास्ता",
+      "शिमला मिर्च",
       "टमाटर",
-      "अदरक",
+      "जैतून",
       "लहसुन",
-      "हरी मिर्च",
-      "गेहूं का आटा",
-      "पालक"
+      "मक्खन",
+      "गेहूं की रोटी",
+      "नमक",
+      "काली मिर्च"
     ],
     "ingredients_list_en": [
-      "Peas",
-      "Paneer",
-      "Tomatoes",
-      "Ginger",
+      "Pasta",
+      "Bell Peppers",
+      "Tomato",
+      "Olives",
       "Garlic",
-      "Green chilies",
-      "Wheat flour",
-      "Spinach"
+      "Butter",
+      "Wheat Bread",
+      "Salt",
+      "Black Pepper"
     ],
-    "prep_notes_hi": "पहले पनीर और मटर को टमाटर के साथ मिला कर धीमी आंच पर पकाएं। हरियाली पराठे के लिए पालक का पेस्ट आटे में मिलाएं।",
-    "prep_notes_en": "Cook paneer and peas with tomatoes on a slow flame first. For spinach paratha, mix spinach paste into the dough.",
+    "prep_notes_hi": "सब्जियों को बारीक काटें और पास्ता के साथ मिलाएँ। रोटी पर लहसुन मक्खन लगाएँ और सेंकें।",
+    "prep_notes_en": "Chop vegetables finely and mix with pasta. Spread garlic butter on bread and toast.",
     "vizz_macros": {
-      "cal": 550,
-      "protein": 28,
-      "fat": 18,
-      "carbs": 65
+      "cal": 700,
+      "protein": 15,
+      "fat": 20,
+      "carbs": 100
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=matar%20paneer%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=pasta%20salad%20recipe%20recipe"
   },
   "vizz_daily_total_from_meals": {
-    "cal": 1400,
-    "protein": 51,
-    "fat": 45,
-    "carbs": 189
+    "cal": 1700,
+    "protein": 53,
+    "fat": 42,
+    "carbs": 240
   },
   "vizz_daily_total_with_shake": {
-    "cal": 1700,
-    "protein": 91,
-    "fat": 50,
-    "carbs": 214
+    "cal": 2000,
+    "protein": 93,
+    "fat": 47,
+    "carbs": 265
   },
-  "macro_check": "Good balance but slightly low on protein; carbs are decent."
+  "macro_check": "Meets calorie and carb targets. Protein is slightly lower, consider a snack."
 }
