@@ -1,114 +1,5 @@
 [
   {
-    "date": "2026-06-20 (Saturday)",
-    "date_display": "Saturday, June 20",
-    "date_short": "Sat · Jun 20",
-    "generated_label": "Generated last night for today",
-    "breakfast": {
-      "dish_hindi": "पनीर पराठा, दही, उबला अंडा (केवल विज्ज और रूममेट-2 के लिए)",
-      "dish_english": "Paneer Paratha with Curd, Boiled Egg (for Vizz and Flatmate-2 only)",
-      "ingredients_hindi": "गेंहू का आटा, पनीर, हरा धनिया, दही, तेल, नमक, उबला अंडा",
-      "ingredients_list_hi": [
-        "गेंहू का आटा",
-        "पनीर",
-        "हरा धनिया",
-        "दही",
-        "तेल",
-        "नमक",
-        "उबला अंडा"
-      ],
-      "ingredients_list_en": [
-        "Wheat flour",
-        "Paneer",
-        "Coriander leaves",
-        "Curd",
-        "Oil",
-        "Salt",
-        "Boiled egg"
-      ],
-      "prep_notes_hi": "पनीर को अच्छे से कद्दूकस कर लें और आटे में मिलाएं। ध्यान रखें की आटा नरम हो। तवे पर मध्यम आंच पर पराठा पकाएं।",
-      "prep_notes_en": "Grate the paneer finely and mix it into the dough. Ensure the dough is soft. Cook the paratha on a medium flame on the tawa.",
-      "vizz_macros": {
-        "cal": 450,
-        "protein": 22,
-        "fat": 16,
-        "carbs": 43
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=paneer%20paratha%20recipe%20recipe"
-    },
-    "lunch": {
-      "dish_hindi": "बेसन का चीला, टमाटर की चटनी",
-      "dish_english": "Besan Cheela with Tomato Chutney",
-      "ingredients_hindi": "बेसन, हरी मिर्च, टमाटर, हरा धनिया, जीरा, तेल",
-      "ingredients_list_hi": [
-        "बेसन",
-        "हरी मिर्च",
-        "टमाटर",
-        "हरा धनिया",
-        "जीरा",
-        "तेल"
-      ],
-      "ingredients_list_en": [
-        "Besan (gram flour)",
-        "Green chili",
-        "Tomato",
-        "Coriander leaves",
-        "Cumin seeds",
-        "Oil"
-      ],
-      "prep_notes_hi": "चीला को पतला फैलाएं और दोनों तरफ से कुरकुरे होने तक पकाएं। टमाटर चटनी के लिए सभी सामग्रियों को पीस लें। पैक करने पर ठंडा होने दें।",
-      "prep_notes_en": "Spread the cheela thinly and cook until crispy on both sides. For tomato chutney, blend all ingredients. Allow to cool before packing.",
-      "vizz_macros": {
-        "cal": 350,
-        "protein": 14,
-        "fat": 15,
-        "carbs": 38
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=besan%20cheela%20recipe%20recipe"
-    },
-    "dinner": {
-      "dish_hindi": "सोया चंक्स करी, चावल, खीरे का रायता",
-      "dish_english": "Soya Chunks Curry with Rice & Cucumber Raita",
-      "ingredients_hindi": "सोया चंक्स, चावल, खीरा, दही, मसाले",
-      "ingredients_list_hi": [
-        "सोया चंक्स",
-        "चावल",
-        "खीरा",
-        "दही",
-        "मसाले"
-      ],
-      "ingredients_list_en": [
-        "Soya chunks",
-        "Rice",
-        "Cucumber",
-        "Curd",
-        "Spices"
-      ],
-      "prep_notes_hi": "सोया चंक्स को पानी में भिगोकर निचोड़ लें और मसालों के साथ पकाएं। चावल को पकाकर लेकिन पेस्ट्री करें। खीरे का रायता साथ दें।",
-      "prep_notes_en": "Soak the soya chunks in water, squeeze out excess, and cook with spices. Cook rice but let it remain fluffy. Serve with cucumber raita.",
-      "vizz_macros": {
-        "cal": 510,
-        "protein": 34,
-        "fat": 14,
-        "carbs": 72
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=soya%20chunks%20curry%20recipe%20recipe"
-    },
-    "vizz_daily_total_from_meals": {
-      "cal": 1310,
-      "protein": 70,
-      "fat": 45,
-      "carbs": 153
-    },
-    "vizz_daily_total_with_shake": {
-      "cal": 1610,
-      "protein": 110,
-      "fat": 50,
-      "carbs": 178
-    },
-    "macro_check": "Falls short in calories and carbs; protein target met."
-  },
-  {
     "date": "2026-06-21 (Sunday)",
     "date_display": "Sunday, June 21",
     "date_short": "Sun · Jun 21",
@@ -3548,5 +3439,136 @@
       "carbs": 265
     },
     "macro_check": "Meets calorie and carb targets. Protein is slightly lower, consider a snack."
+  },
+  {
+    "date": "2026-07-20 (Monday)",
+    "date_display": "Monday, July 20",
+    "date_short": "Mon · Jul 20",
+    "generated_label": "Generated last night for today",
+    "breakfast": {
+      "dish_hindi": "उपमा, नारियल चटनी और उबला अंडा (विज़ और फ्लैटमेट-2 के लिए)",
+      "dish_english": "Upma with Coconut Chutney and Boiled Egg (for Vizz and Flatmate-2)",
+      "ingredients_hindi": "सूजी, पानी, प्याज, मटर, गाजर, हरी मिर्च, नारियल, अदरक, हल्दी, तेल, नमक",
+      "ingredients_list_hi": [
+        "सूजी",
+        "पानी",
+        "प्याज",
+        "मटर",
+        "गाजर",
+        "हरी मिर्च",
+        "नारियल",
+        "अदरक",
+        "हल्दी",
+        "तेल",
+        "नमक"
+      ],
+      "ingredients_list_en": [
+        "Semolina",
+        "Water",
+        "Onion",
+        "Peas",
+        "Carrot",
+        "Green Chili",
+        "Coconut",
+        "Ginger",
+        "Turmeric",
+        "Oil",
+        "Salt"
+      ],
+      "prep_notes_hi": "सूजी को हल्का भूनकर पानी में पकाएं। सब्जियाँ और मसाले मिलाकर कुछ मिनट तक पकाएँ। चटनी के लिए नारियल और अदरक का पेस्ट बनाएं।",
+      "prep_notes_en": "Lightly roast semolina and cook with water. Add vegetables and spices, cook for few minutes. For chutney, make a paste of coconut and ginger.",
+      "vizz_macros": {
+        "cal": 430,
+        "protein": 12,
+        "fat": 14,
+        "carbs": 60
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=upma%20recipe%20hindi%20recipe"
+    },
+    "lunch": {
+      "dish_hindi": "पालक पनीर पराठा, दही और आचार",
+      "dish_english": "Spinach Paneer Paratha with Curd and Pickle",
+      "ingredients_hindi": "पालक, पनीर, गेहूं का आटा, हरी मिर्च, अदरक, मसाले, तेल, दही, आचार",
+      "ingredients_list_hi": [
+        "पालक",
+        "पनीर",
+        "गेहूं का आटा",
+        "हरी मिर्च",
+        "अदरक",
+        "मसाले",
+        "तेल",
+        "दही",
+        "आचार"
+      ],
+      "ingredients_list_en": [
+        "Spinach",
+        "Paneer",
+        "Wheat Flour",
+        "Green Chili",
+        "Ginger",
+        "Spices",
+        "Oil",
+        "Curd",
+        "Pickle"
+      ],
+      "prep_notes_hi": "पराठा बनाने के लिए पालक और पनीर का भरावन तैयार करें। पैक किए जाने के लिए यह अच्छा है और माइक्रोवेव में गरम कर लें।",
+      "prep_notes_en": "Prepare filling of spinach and paneer for paratha. It travels well and can be reheated in microwave.",
+      "vizz_macros": {
+        "cal": 650,
+        "protein": 25,
+        "fat": 30,
+        "carbs": 70
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=palak%20paneer%20paratha%20recipe%20recipe"
+    },
+    "dinner": {
+      "dish_hindi": "छोले चावल और ककड़ी का रायता",
+      "dish_english": "Chole with Rice and Cucumber Raita",
+      "ingredients_hindi": "काबुली चना, बासमती चावल, प्याज, टमाटर, अदरक, लहसुन, मसाले, दही, ककड़ी",
+      "ingredients_list_hi": [
+        "काबुली चना",
+        "बासमती चावल",
+        "प्याज",
+        "टमाटर",
+        "अदरक",
+        "लहसुन",
+        "मसाले",
+        "दही",
+        "ककड़ी"
+      ],
+      "ingredients_list_en": [
+        "Chickpeas",
+        "Basmati Rice",
+        "Onion",
+        "Tomato",
+        "Ginger",
+        "Garlic",
+        "Spices",
+        "Curd",
+        "Cucumber"
+      ],
+      "prep_notes_hi": "चना को पहले से भिगो लें। मसाले और टमाटर के साथ पकाएं। चावल अलग से पकाएं।",
+      "prep_notes_en": "Soak chickpeas in advance. Cook with spices and tomatoes. Cook rice separately.",
+      "vizz_macros": {
+        "cal": 620,
+        "protein": 28,
+        "fat": 10,
+        "carbs": 110
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=chole%20rice%20recipe%20recipe"
+    },
+    "vizz_daily_total_from_meals": {
+      "cal": 1700,
+      "protein": 65,
+      "fat": 54,
+      "carbs": 240
+    },
+    "vizz_daily_total_with_shake": {
+      "cal": 2000,
+      "protein": 105,
+      "fat": 59,
+      "carbs": 265
+    },
+    "macro_check": "Almost hits the 2000/110/60/215 target. Protein slightly below; carbs are a bit high due to rice and paratha."
   }
 ]
