@@ -1,131 +1,121 @@
 {
-  "date": "2026-07-20 (Monday)",
-  "date_display": "Monday, July 20",
-  "date_short": "Mon · Jul 20",
+  "date": "2026-07-21 (Tuesday)",
+  "date_display": "Tuesday, July 21",
+  "date_short": "Tue · Jul 21",
   "generated_label": "Generated last night for today",
   "breakfast": {
-    "dish_hindi": "उपमा, नारियल चटनी और उबला अंडा (विज़ और फ्लैटमेट-2 के लिए)",
-    "dish_english": "Upma with Coconut Chutney and Boiled Egg (for Vizz and Flatmate-2)",
-    "ingredients_hindi": "सूजी, पानी, प्याज, मटर, गाजर, हरी मिर्च, नारियल, अदरक, हल्दी, तेल, नमक",
+    "dish_hindi": "आलू परांठा, दही",
+    "dish_english": "Aloo Paratha with Curd",
+    "ingredients_hindi": "आलू, गेहूं का आटा, दही, हरी मिर्च, अदरक, धनिया पत्ती, तेल, नमक",
     "ingredients_list_hi": [
-      "सूजी",
-      "पानी",
-      "प्याज",
-      "मटर",
-      "गाजर",
+      "आलू",
+      "गेहूं का आटा",
+      "दही",
       "हरी मिर्च",
-      "नारियल",
       "अदरक",
-      "हल्दी",
+      "धनिया पत्ती",
       "तेल",
       "नमक"
     ],
     "ingredients_list_en": [
-      "Semolina",
-      "Water",
-      "Onion",
-      "Peas",
-      "Carrot",
-      "Green Chili",
-      "Coconut",
+      "Potato",
+      "Wheat flour",
+      "Curd",
+      "Green chili",
       "Ginger",
-      "Turmeric",
+      "Coriander leaves",
       "Oil",
       "Salt"
     ],
-    "prep_notes_hi": "सूजी को हल्का भूनकर पानी में पकाएं। सब्जियाँ और मसाले मिलाकर कुछ मिनट तक पकाएँ। चटनी के लिए नारियल और अदरक का पेस्ट बनाएं।",
-    "prep_notes_en": "Lightly roast semolina and cook with water. Add vegetables and spices, cook for few minutes. For chutney, make a paste of coconut and ginger.",
+    "prep_notes_hi": "आलू को अच्छे से उबाल लें और उन्हें मसालों के साथ मिलाएं। परांठे को मध्यम आंच पर सेंकें। दही के साथ परोसें।",
+    "prep_notes_en": "Boil potatoes thoroughly and mix with spices. Cook parathas on medium heat. Serve with curd.",
     "vizz_macros": {
-      "cal": 430,
-      "protein": 12,
-      "fat": 14,
-      "carbs": 60
+      "cal": 400,
+      "protein": 10,
+      "fat": 12,
+      "carbs": 65
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=upma%20recipe%20hindi%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=aloo%20paratha%20recipe%20recipe"
   },
   "lunch": {
-    "dish_hindi": "पालक पनीर पराठा, दही और आचार",
-    "dish_english": "Spinach Paneer Paratha with Curd and Pickle",
-    "ingredients_hindi": "पालक, पनीर, गेहूं का आटा, हरी मिर्च, अदरक, मसाले, तेल, दही, आचार",
+    "dish_hindi": "राजमा चावल",
+    "dish_english": "Rajma with Rice",
+    "ingredients_hindi": "राजमा, चावल, प्याज, टमाटर, अदरक, लहसुन, मसाले, नमक, तेल",
     "ingredients_list_hi": [
-      "पालक",
-      "पनीर",
-      "गेहूं का आटा",
-      "हरी मिर्च",
-      "अदरक",
-      "मसाले",
-      "तेल",
-      "दही",
-      "आचार"
-    ],
-    "ingredients_list_en": [
-      "Spinach",
-      "Paneer",
-      "Wheat Flour",
-      "Green Chili",
-      "Ginger",
-      "Spices",
-      "Oil",
-      "Curd",
-      "Pickle"
-    ],
-    "prep_notes_hi": "पराठा बनाने के लिए पालक और पनीर का भरावन तैयार करें। पैक किए जाने के लिए यह अच्छा है और माइक्रोवेव में गरम कर लें।",
-    "prep_notes_en": "Prepare filling of spinach and paneer for paratha. It travels well and can be reheated in microwave.",
-    "vizz_macros": {
-      "cal": 650,
-      "protein": 25,
-      "fat": 30,
-      "carbs": 70
-    },
-    "youtube_url": "https://www.youtube.com/results?search_query=palak%20paneer%20paratha%20recipe%20recipe"
-  },
-  "dinner": {
-    "dish_hindi": "छोले चावल और ककड़ी का रायता",
-    "dish_english": "Chole with Rice and Cucumber Raita",
-    "ingredients_hindi": "काबुली चना, बासमती चावल, प्याज, टमाटर, अदरक, लहसुन, मसाले, दही, ककड़ी",
-    "ingredients_list_hi": [
-      "काबुली चना",
-      "बासमती चावल",
+      "राजमा",
+      "चावल",
       "प्याज",
       "टमाटर",
       "अदरक",
       "लहसुन",
       "मसाले",
-      "दही",
-      "ककड़ी"
+      "नमक",
+      "तेल"
     ],
     "ingredients_list_en": [
-      "Chickpeas",
-      "Basmati Rice",
+      "Kidney beans",
+      "Rice",
       "Onion",
       "Tomato",
       "Ginger",
       "Garlic",
       "Spices",
-      "Curd",
-      "Cucumber"
+      "Salt",
+      "Oil"
     ],
-    "prep_notes_hi": "चना को पहले से भिगो लें। मसाले और टमाटर के साथ पकाएं। चावल अलग से पकाएं।",
-    "prep_notes_en": "Soak chickpeas in advance. Cook with spices and tomatoes. Cook rice separately.",
+    "prep_notes_hi": "राजमा को पहले से भिगोकर और अच्छे से पका लें। इसे चावल के साथ परोसें, जो आसानी से पैक और फिर से गरम किया जा सके।",
+    "prep_notes_en": "Soak kidney beans in advance and cook thoroughly. Serve with rice which can be packed and reheated easily.",
     "vizz_macros": {
-      "cal": 620,
-      "protein": 28,
+      "cal": 700,
+      "protein": 25,
       "fat": 10,
-      "carbs": 110
+      "carbs": 120
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=chole%20rice%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=rajma%20chawal%20recipe%20recipe"
+  },
+  "dinner": {
+    "dish_hindi": "पनीर मखनी, चपाती, प्याज",
+    "dish_english": "Paneer Makhani with Chapati and Onion",
+    "ingredients_hindi": "पनीर, टमाटर, क्रीम, मसाले, चपाती, प्याज, तेल",
+    "ingredients_list_hi": [
+      "पनीर",
+      "टमाटर",
+      "क्रीम",
+      "मसाले",
+      "चपाती",
+      "प्याज",
+      "तेल"
+    ],
+    "ingredients_list_en": [
+      "Paneer",
+      "Tomato",
+      "Cream",
+      "Spices",
+      "Chapati",
+      "Onion",
+      "Oil"
+    ],
+    "prep_notes_hi": "टमाटर को अच्छे से पका कर पनीर और क्रीम मिलाएं। नरम चपाती बनाएं। प्याज के स्लाइस के साथ परोसें।",
+    "prep_notes_en": "Cook tomatoes thoroughly and mix with paneer and cream. Make soft chapatis. Serve with sliced onions.",
+    "vizz_macros": {
+      "cal": 600,
+      "protein": 30,
+      "fat": 23,
+      "carbs": 55
+    },
+    "youtube_url": "https://www.youtube.com/results?search_query=paneer%20makhani%20recipe%20recipe"
   },
   "vizz_daily_total_from_meals": {
     "cal": 1700,
     "protein": 65,
-    "fat": 54,
+    "fat": 45,
     "carbs": 240
   },
   "vizz_daily_total_with_shake": {
     "cal": 2000,
     "protein": 105,
-    "fat": 59,
+    "fat": 50,
     "carbs": 265
   },
-  "macro_check": "Almost hits the 2000/110/60/215 target. Protein slightly below; carbs are a bit high due to rice and paratha."
+  "macro_check": "Calories and carbs slightly exceeded, protein slightly below target due to paratha."
 }

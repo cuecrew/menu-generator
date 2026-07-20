@@ -1,134 +1,5 @@
 [
   {
-    "date": "2026-06-21 (Sunday)",
-    "date_display": "Sunday, June 21",
-    "date_short": "Sun · Jun 21",
-    "generated_label": "Generated last night for today",
-    "breakfast": {
-      "dish_hindi": "पालक पराठा, दही, उबला हुआ अंडा (केवल विज्ज और फ्लैटमेट-2 के लिए)",
-      "dish_english": "Palak Paratha with Curd & Boiled Egg (for Vizz and Flatmate-2 only)",
-      "ingredients_hindi": "पालक, गेहूं का आटा, दही, उबला हुआ अंडा, अजवाइन, जीरा, नमक",
-      "ingredients_list_hi": [
-        "पालक",
-        "गेहूं का आटा",
-        "दही",
-        "उबला हुआ अंडा",
-        "अजवाइन",
-        "जीरा",
-        "नमक"
-      ],
-      "ingredients_list_en": [
-        "Spinach",
-        "Wheat Flour",
-        "Curd",
-        "Boiled Egg",
-        "Carom Seeds",
-        "Cumin Seeds",
-        "Salt"
-      ],
-      "prep_notes_hi": "पालक को बारीक काटकर आटे में मिलाएं। इसे नरम आटा बनाएं और पराठे बेलें। मध्यम आंच पर पकाएं और दही के साथ परोसें।",
-      "prep_notes_en": "Finely chop spinach and mix into the dough. Knead into a soft dough and roll out parathas. Cook on medium flame and serve with curd.",
-      "vizz_macros": {
-        "cal": 350,
-        "protein": 12,
-        "fat": 9,
-        "carbs": 55
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=palak%20paratha%20recipe%20recipe"
-    },
-    "lunch": {
-      "dish_hindi": "चना पुलाव और आचार",
-      "dish_english": "Chana Pulao with Pickle",
-      "ingredients_hindi": "बासमती चावल, काले चने, प्याज, टमाटर, अदरक, लहसुन, हरी मिर्च, जीरा, तेजपत्ता, गरम मसाला, नमक",
-      "ingredients_list_hi": [
-        "बासमती चावल",
-        "काले चने",
-        "प्याज",
-        "टमाटर",
-        "अदरक",
-        "लहसुन",
-        "हरी मिर्च",
-        "जीरा",
-        "तेजपत्ता",
-        "गरम मसाला",
-        "नमक"
-      ],
-      "ingredients_list_en": [
-        "Basmati Rice",
-        "Black Chickpeas",
-        "Onion",
-        "Tomato",
-        "Ginger",
-        "Garlic",
-        "Green Chili",
-        "Cumin Seeds",
-        "Bay Leaf",
-        "Garam Masala",
-        "Salt"
-      ],
-      "prep_notes_hi": "चावल पकाते समय चने मिला दें। यह लंच के लिए सही है, इसे गर्म करने में आसानी होगी।",
-      "prep_notes_en": "Add chickpeas while cooking rice. It's perfect for lunch and reheats well.",
-      "vizz_macros": {
-        "cal": 450,
-        "protein": 15,
-        "fat": 8,
-        "carbs": 80
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=chana%20pulao%20recipe%20recipe"
-    },
-    "dinner": {
-      "dish_hindi": "तोफू स्टर फ्राई, चपाती और पपीता सलाद",
-      "dish_english": "Tofu Stir Fry with Chapati & Papaya Salad",
-      "ingredients_hindi": "तोफू, ब्रोकली, बेल मिर्च, सोया सॉस, अदरक, लहसुन, चपाती, पपीता, नींबू, शहद",
-      "ingredients_list_hi": [
-        "तोफू",
-        "ब्रोकली",
-        "बेल मिर्च",
-        "सोया सॉस",
-        "अदरक",
-        "लहसुन",
-        "चपाती",
-        "पपीता",
-        "नींबू",
-        "शहद"
-      ],
-      "ingredients_list_en": [
-        "Tofu",
-        "Broccoli",
-        "Bell Pepper",
-        "Soy Sauce",
-        "Ginger",
-        "Garlic",
-        "Chapati",
-        "Papaya",
-        "Lemon",
-        "Honey"
-      ],
-      "prep_notes_hi": "तोफू और सब्जियों को जल्दी से हिलाकर तला जाए। चपाती के साथ गरमा गरम परोसें।",
-      "prep_notes_en": "Quickly stir fry the tofu and vegetables. Serve hot with chapati.",
-      "vizz_macros": {
-        "cal": 400,
-        "protein": 18,
-        "fat": 10,
-        "carbs": 60
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=tofu%20stir%20fry%20recipe%20recipe"
-    },
-    "vizz_daily_total_from_meals": {
-      "cal": 1200,
-      "protein": 45,
-      "fat": 27,
-      "carbs": 195
-    },
-    "vizz_daily_total_with_shake": {
-      "cal": 1500,
-      "protein": 85,
-      "fat": 32,
-      "carbs": 220
-    },
-    "macro_check": "Protein intake falls short; consider adding a small dal/sprout salad to boost protein."
-  },
-  {
     "date": "2026-06-22 (Monday)",
     "date_display": "Monday, June 22",
     "date_short": "Mon · Jun 22",
@@ -3570,5 +3441,126 @@
       "carbs": 265
     },
     "macro_check": "Almost hits the 2000/110/60/215 target. Protein slightly below; carbs are a bit high due to rice and paratha."
+  },
+  {
+    "date": "2026-07-21 (Tuesday)",
+    "date_display": "Tuesday, July 21",
+    "date_short": "Tue · Jul 21",
+    "generated_label": "Generated last night for today",
+    "breakfast": {
+      "dish_hindi": "आलू परांठा, दही",
+      "dish_english": "Aloo Paratha with Curd",
+      "ingredients_hindi": "आलू, गेहूं का आटा, दही, हरी मिर्च, अदरक, धनिया पत्ती, तेल, नमक",
+      "ingredients_list_hi": [
+        "आलू",
+        "गेहूं का आटा",
+        "दही",
+        "हरी मिर्च",
+        "अदरक",
+        "धनिया पत्ती",
+        "तेल",
+        "नमक"
+      ],
+      "ingredients_list_en": [
+        "Potato",
+        "Wheat flour",
+        "Curd",
+        "Green chili",
+        "Ginger",
+        "Coriander leaves",
+        "Oil",
+        "Salt"
+      ],
+      "prep_notes_hi": "आलू को अच्छे से उबाल लें और उन्हें मसालों के साथ मिलाएं। परांठे को मध्यम आंच पर सेंकें। दही के साथ परोसें।",
+      "prep_notes_en": "Boil potatoes thoroughly and mix with spices. Cook parathas on medium heat. Serve with curd.",
+      "vizz_macros": {
+        "cal": 400,
+        "protein": 10,
+        "fat": 12,
+        "carbs": 65
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=aloo%20paratha%20recipe%20recipe"
+    },
+    "lunch": {
+      "dish_hindi": "राजमा चावल",
+      "dish_english": "Rajma with Rice",
+      "ingredients_hindi": "राजमा, चावल, प्याज, टमाटर, अदरक, लहसुन, मसाले, नमक, तेल",
+      "ingredients_list_hi": [
+        "राजमा",
+        "चावल",
+        "प्याज",
+        "टमाटर",
+        "अदरक",
+        "लहसुन",
+        "मसाले",
+        "नमक",
+        "तेल"
+      ],
+      "ingredients_list_en": [
+        "Kidney beans",
+        "Rice",
+        "Onion",
+        "Tomato",
+        "Ginger",
+        "Garlic",
+        "Spices",
+        "Salt",
+        "Oil"
+      ],
+      "prep_notes_hi": "राजमा को पहले से भिगोकर और अच्छे से पका लें। इसे चावल के साथ परोसें, जो आसानी से पैक और फिर से गरम किया जा सके।",
+      "prep_notes_en": "Soak kidney beans in advance and cook thoroughly. Serve with rice which can be packed and reheated easily.",
+      "vizz_macros": {
+        "cal": 700,
+        "protein": 25,
+        "fat": 10,
+        "carbs": 120
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=rajma%20chawal%20recipe%20recipe"
+    },
+    "dinner": {
+      "dish_hindi": "पनीर मखनी, चपाती, प्याज",
+      "dish_english": "Paneer Makhani with Chapati and Onion",
+      "ingredients_hindi": "पनीर, टमाटर, क्रीम, मसाले, चपाती, प्याज, तेल",
+      "ingredients_list_hi": [
+        "पनीर",
+        "टमाटर",
+        "क्रीम",
+        "मसाले",
+        "चपाती",
+        "प्याज",
+        "तेल"
+      ],
+      "ingredients_list_en": [
+        "Paneer",
+        "Tomato",
+        "Cream",
+        "Spices",
+        "Chapati",
+        "Onion",
+        "Oil"
+      ],
+      "prep_notes_hi": "टमाटर को अच्छे से पका कर पनीर और क्रीम मिलाएं। नरम चपाती बनाएं। प्याज के स्लाइस के साथ परोसें।",
+      "prep_notes_en": "Cook tomatoes thoroughly and mix with paneer and cream. Make soft chapatis. Serve with sliced onions.",
+      "vizz_macros": {
+        "cal": 600,
+        "protein": 30,
+        "fat": 23,
+        "carbs": 55
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=paneer%20makhani%20recipe%20recipe"
+    },
+    "vizz_daily_total_from_meals": {
+      "cal": 1700,
+      "protein": 65,
+      "fat": 45,
+      "carbs": 240
+    },
+    "vizz_daily_total_with_shake": {
+      "cal": 2000,
+      "protein": 105,
+      "fat": 50,
+      "carbs": 265
+    },
+    "macro_check": "Calories and carbs slightly exceeded, protein slightly below target due to paratha."
   }
 ]
