@@ -1,122 +1,5 @@
 [
   {
-    "date": "2026-06-22 (Monday)",
-    "date_display": "Monday, June 22",
-    "date_short": "Mon · Jun 22",
-    "generated_label": "Generated last night for today",
-    "breakfast": {
-      "dish_hindi": "ओट्स उपमा, उबला अंडा (विज़्ज़ और फ्लैटमेट-2 के लिए)",
-      "dish_english": "Oats Upma with Boiled Egg (for Vizz and Flatmate-2)",
-      "ingredients_hindi": "ओट्स, मटर, गाजर, प्याज, सरसों के दाने, करी पत्ता, हरी मिर्च, उबला अंडा",
-      "ingredients_list_hi": [
-        "ओट्स",
-        "मटर",
-        "गाजर",
-        "प्याज",
-        "सरसों के दाने",
-        "करी पत्ता",
-        "हरी मिर्च",
-        "उबला अंडा"
-      ],
-      "ingredients_list_en": [
-        "Oats",
-        "Peas",
-        "Carrot",
-        "Onion",
-        "Mustard seeds",
-        "Curry leaves",
-        "Green chili",
-        "Boiled egg"
-      ],
-      "prep_notes_hi": "ओट्स को पहले भून लें ताकि उनका स्वाद अच्छा हो। सब्जियों को धीरे-धीरे पकाएं ताकि वे कुरकुरी रहें।",
-      "prep_notes_en": "Roast the oats first to enhance their flavor. Cook the vegetables slowly to keep them crunchy.",
-      "vizz_macros": {
-        "cal": 420,
-        "protein": 18,
-        "fat": 10,
-        "carbs": 68
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=oats%20upma%20recipe%20hindi%20recipe"
-    },
-    "lunch": {
-      "dish_hindi": "काले चने की सब्जी और जीरा राइस, पापड़",
-      "dish_english": "Black Chickpea Curry with Jeera Rice & Papad",
-      "ingredients_hindi": "काले चने, बासमती चावल, जीरा, प्याज, टमाटर, मसाले",
-      "ingredients_list_hi": [
-        "काले चने",
-        "बासमती चावल",
-        "जीरा",
-        "प्याज",
-        "टमाटर",
-        "मसाले"
-      ],
-      "ingredients_list_en": [
-        "Black chickpeas",
-        "Basmati rice",
-        "Cumin seeds",
-        "Onion",
-        "Tomato",
-        "Spices"
-      ],
-      "prep_notes_hi": "यह यात्रा और गरम करने लायक है। चनों को सही से पकाना सुनिश्चित करें।",
-      "prep_notes_en": "This dish holds well for travel and reheats effectively. Ensure chickpeas are thoroughly cooked.",
-      "vizz_macros": {
-        "cal": 650,
-        "protein": 25,
-        "fat": 12,
-        "carbs": 104
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=black%20chickpea%20curry%20recipe%20recipe"
-    },
-    "dinner": {
-      "dish_hindi": "वेज सिकी मशरूम और रोटी, हरी चटनी",
-      "dish_english": "Grilled Veg Mushrooms with Roti & Green Chutney",
-      "ingredients_hindi": "मशरूम, शिमला मिर्च, प्याज, अदरक, लहसुन, मसाले, रोटी, हरी चटनी",
-      "ingredients_list_hi": [
-        "मशरूम",
-        "शिमला मिर्च",
-        "प्याज",
-        "अदरक",
-        "लहसुन",
-        "मसाले",
-        "रोटी",
-        "हरी चटनी"
-      ],
-      "ingredients_list_en": [
-        "Mushrooms",
-        "Bell pepper",
-        "Onion",
-        "Ginger",
-        "Garlic",
-        "Spices",
-        "Roti",
-        "Green chutney"
-      ],
-      "prep_notes_hi": "मशरूम को तेज आँच पर ग्रिल करें ताकि उनका स्वाद बढ़े। रोटी के साथ ताज़े परोसें।",
-      "prep_notes_en": "Grill the mushrooms on high heat to enhance their flavor. Serve fresh with roti.",
-      "vizz_macros": {
-        "cal": 630,
-        "protein": 22,
-        "fat": 23,
-        "carbs": 92
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=grilled%20mushroom%20recipe%20recipe"
-    },
-    "vizz_daily_total_from_meals": {
-      "cal": 1700,
-      "protein": 65,
-      "fat": 45,
-      "carbs": 264
-    },
-    "vizz_daily_total_with_shake": {
-      "cal": 2000,
-      "protein": 105,
-      "fat": 50,
-      "carbs": 289
-    },
-    "macro_check": "Calories and protein fall slightly short; focus on increasing protein in meals tomorrow for balance."
-  },
-  {
     "date": "2026-06-23 (Tuesday)",
     "date_display": "Tuesday, June 23",
     "date_short": "Tue · Jun 23",
@@ -3562,5 +3445,132 @@
       "carbs": 265
     },
     "macro_check": "Calories and carbs slightly exceeded, protein slightly below target due to paratha."
+  },
+  {
+    "date": "2026-07-22 (Wednesday)",
+    "date_display": "Wednesday, July 22",
+    "date_short": "Wed · Jul 22",
+    "generated_label": "Generated last night for today",
+    "breakfast": {
+      "dish_hindi": "ओट्स उपमा और उबला अंडा",
+      "dish_english": "Oats Upma with Boiled Egg",
+      "ingredients_hindi": "ओट्स, प्याज, टमाटर, गाजर, मटर, सरसों के बीज, करी पत्ता, नमक, उबला अंडा",
+      "ingredients_list_hi": [
+        "ओट्स",
+        "प्याज",
+        "टमाटर",
+        "गाजर",
+        "मटर",
+        "सरसों के बीज",
+        "करी पत्ता",
+        "नमक",
+        "उबला अंडा"
+      ],
+      "ingredients_list_en": [
+        "Oats",
+        "Onion",
+        "Tomato",
+        "Carrot",
+        "Peas",
+        "Mustard seeds",
+        "Curry leaves",
+        "Salt",
+        "Boiled Egg"
+      ],
+      "prep_notes_hi": "ओट्स को अच्छी तरह सेंक लें। प्याज और गाजर को हल्का भूनें। जब सब्जियां नरम हो जाएं, तो ओट्स और पानी डालें।",
+      "prep_notes_en": "Toast the oats well. Lightly sauté the onions and carrots. Once vegetables are soft, add oats and water.",
+      "vizz_macros": {
+        "cal": 370,
+        "protein": 18,
+        "fat": 10,
+        "carbs": 50
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=oats%20upma%20recipe%20recipe"
+    },
+    "lunch": {
+      "dish_hindi": "मसूर दाल और ब्राउन राइस",
+      "dish_english": "Masoor Dal with Brown Rice",
+      "ingredients_hindi": "मसूर दाल, चावल, प्याज, टमाटर, लहसुन, अदरक, हल्दी, जीरा, नमक",
+      "ingredients_list_hi": [
+        "मसूर दाल",
+        "चावल",
+        "प्याज",
+        "टमाटर",
+        "लहसुन",
+        "अदरक",
+        "हल्दी",
+        "जीरा",
+        "नमक"
+      ],
+      "ingredients_list_en": [
+        "Masoor Dal",
+        "Brown Rice",
+        "Onion",
+        "Tomato",
+        "Garlic",
+        "Ginger",
+        "Turmeric",
+        "Cumin",
+        "Salt"
+      ],
+      "prep_notes_hi": "मसूर दाल और चावल को एक साथ पकाएं। यह भोजन ऑफिस में ले जाने के लिए उपयुक्त और गर्म करने योग्य है।",
+      "prep_notes_en": "Cook Masoor Dal and Brown Rice together. This meal is suitable for office carry and reheating.",
+      "vizz_macros": {
+        "cal": 630,
+        "protein": 25,
+        "fat": 5,
+        "carbs": 118
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=masoor%20dal%20brown%20rice%20recipe"
+    },
+    "dinner": {
+      "dish_hindi": "बिन्स करी और ज्वार रोटी",
+      "dish_english": "Beans Curry with Jowar Roti",
+      "ingredients_hindi": "सेम, प्याज, टमाटर, लहसुन, अदरक, जीरा, धनिया, नमक, ज्वार आटा",
+      "ingredients_list_hi": [
+        "सेम",
+        "प्याज",
+        "टमाटर",
+        "लहसुन",
+        "अदरक",
+        "जीरा",
+        "धनिया",
+        "नमक",
+        "ज्वार आटा"
+      ],
+      "ingredients_list_en": [
+        "Beans",
+        "Onion",
+        "Tomato",
+        "Garlic",
+        "Ginger",
+        "Cumin",
+        "Coriander",
+        "Salt",
+        "Jowar Flour"
+      ],
+      "prep_notes_hi": "प्याज और अदरक-लहसुन का पेस्ट भूनें, फिर टमाटर डालें। सेम पकने के बाद, इसे ज्वार रोटी के साथ परोसें।",
+      "prep_notes_en": "Sauté onion and ginger-garlic paste, then add tomatoes. Once beans are cooked, serve with jowar roti.",
+      "vizz_macros": {
+        "cal": 700,
+        "protein": 22,
+        "fat": 16,
+        "carbs": 85
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=beans%20curry%20jowar%20roti%20recipe"
+    },
+    "vizz_daily_total_from_meals": {
+      "cal": 1700,
+      "protein": 65,
+      "fat": 31,
+      "carbs": 253
+    },
+    "vizz_daily_total_with_shake": {
+      "cal": 2000,
+      "protein": 105,
+      "fat": 36,
+      "carbs": 278
+    },
+    "macro_check": "Calorie and protein targets largely hit with meals and shake; carbs slightly overshoot."
   }
 ]
