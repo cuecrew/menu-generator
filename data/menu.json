@@ -1,127 +1,103 @@
 {
-  "date": "2026-07-22 (Wednesday)",
-  "date_display": "Wednesday, July 22",
-  "date_short": "Wed · Jul 22",
+  "date": "2026-07-23 (Thursday)",
+  "date_display": "Thursday, July 23",
+  "date_short": "Thu · Jul 23",
   "generated_label": "Generated last night for today",
   "breakfast": {
-    "dish_hindi": "ओट्स उपमा और उबला अंडा",
-    "dish_english": "Oats Upma with Boiled Egg",
-    "ingredients_hindi": "ओट्स, प्याज, टमाटर, गाजर, मटर, सरसों के बीज, करी पत्ता, नमक, उबला अंडा",
+    "dish_hindi": "इडली सांभर और नारियल की चटनी, उबला हुआ अंडा (केवल विज़ और फ्लैटमेट-2 के लिए)",
+    "dish_english": "Idli with Sambar and Coconut Chutney, Boiled Egg (for Vizz and Flatmate-2 only)",
+    "ingredients_hindi": "चावल, उरद दाल, नारियल, चना दाल, मसाले, उबला अंडा",
     "ingredients_list_hi": [
-      "ओट्स",
-      "प्याज",
-      "टमाटर",
-      "गाजर",
-      "मटर",
-      "सरसों के बीज",
-      "करी पत्ता",
-      "नमक",
+      "चावल",
+      "उरद दाल",
+      "नारियल",
+      "चना दाल",
+      "मसाले",
       "उबला अंडा"
     ],
     "ingredients_list_en": [
-      "Oats",
-      "Onion",
-      "Tomato",
-      "Carrot",
-      "Peas",
-      "Mustard seeds",
-      "Curry leaves",
-      "Salt",
+      "Rice",
+      "Urad Dal",
+      "Coconut",
+      "Chana Dal",
+      "Spices",
       "Boiled Egg"
     ],
-    "prep_notes_hi": "ओट्स को अच्छी तरह सेंक लें। प्याज और गाजर को हल्का भूनें। जब सब्जियां नरम हो जाएं, तो ओट्स और पानी डालें।",
-    "prep_notes_en": "Toast the oats well. Lightly sauté the onions and carrots. Once vegetables are soft, add oats and water.",
+    "prep_notes_hi": "इडली के लिए बैटर पहले से तैयार कर लें। सांभर में प्याज और टमाटर अच्छी तरह पकाएं। चटनी में मिक्सर में नारियल और मसाले पीसें।",
+    "prep_notes_en": "Prepare the idli batter in advance. Cook onion and tomato thoroughly for the sambar. Blend coconut and spices for chutney.",
     "vizz_macros": {
-      "cal": 370,
-      "protein": 18,
+      "cal": 350,
+      "protein": 15,
       "fat": 10,
       "carbs": 50
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=oats%20upma%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=idli%20sambar%20recipe%20recipe"
   },
   "lunch": {
-    "dish_hindi": "मसूर दाल और ब्राउन राइस",
-    "dish_english": "Masoor Dal with Brown Rice",
-    "ingredients_hindi": "मसूर दाल, चावल, प्याज, टमाटर, लहसुन, अदरक, हल्दी, जीरा, नमक",
+    "dish_hindi": "पालक पनीर और चावल, पापड़",
+    "dish_english": "Palak Paneer with Rice, Papad",
+    "ingredients_hindi": "पालक, पनीर, चावल, मसाले, पापड़",
     "ingredients_list_hi": [
-      "मसूर दाल",
+      "पालक",
+      "पनीर",
       "चावल",
-      "प्याज",
-      "टमाटर",
-      "लहसुन",
-      "अदरक",
-      "हल्दी",
-      "जीरा",
-      "नमक"
+      "मसाले",
+      "पापड़"
     ],
     "ingredients_list_en": [
-      "Masoor Dal",
-      "Brown Rice",
-      "Onion",
-      "Tomato",
-      "Garlic",
-      "Ginger",
-      "Turmeric",
-      "Cumin",
-      "Salt"
+      "Spinach",
+      "Paneer",
+      "Rice",
+      "Spices",
+      "Papad"
     ],
-    "prep_notes_hi": "मसूर दाल और चावल को एक साथ पकाएं। यह भोजन ऑफिस में ले जाने के लिए उपयुक्त और गर्म करने योग्य है।",
-    "prep_notes_en": "Cook Masoor Dal and Brown Rice together. This meal is suitable for office carry and reheating.",
+    "prep_notes_hi": "पालक और पनीर की करी को ठीक से पका लें। यह लंच के लिए उपयुक्त और फिर से गरम किया जा सकता है।",
+    "prep_notes_en": "Cook the spinach and paneer curry thoroughly. This is suitable and reheatable for lunch.",
     "vizz_macros": {
-      "cal": 630,
-      "protein": 25,
-      "fat": 5,
-      "carbs": 118
+      "cal": 600,
+      "protein": 30,
+      "fat": 20,
+      "carbs": 70
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=masoor%20dal%20brown%20rice%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=palak%20paneer%20recipe%20recipe"
   },
   "dinner": {
-    "dish_hindi": "बिन्स करी और ज्वार रोटी",
-    "dish_english": "Beans Curry with Jowar Roti",
-    "ingredients_hindi": "सेम, प्याज, टमाटर, लहसुन, अदरक, जीरा, धनिया, नमक, ज्वार आटा",
+    "dish_hindi": "वेजिटेबल बिरयानी, रायता",
+    "dish_english": "Vegetable Biryani with Raita",
+    "ingredients_hindi": "बासमती चावल, सब्जियाँ, मसाले, दही",
     "ingredients_list_hi": [
-      "सेम",
-      "प्याज",
-      "टमाटर",
-      "लहसुन",
-      "अदरक",
-      "जीरा",
-      "धनिया",
-      "नमक",
-      "ज्वार आटा"
+      "बासमती चावल",
+      "सब्जियाँ",
+      "मसाले",
+      "दही"
     ],
     "ingredients_list_en": [
-      "Beans",
-      "Onion",
-      "Tomato",
-      "Garlic",
-      "Ginger",
-      "Cumin",
-      "Coriander",
-      "Salt",
-      "Jowar Flour"
+      "Basmati Rice",
+      "Vegetables",
+      "Spices",
+      "Curd"
     ],
-    "prep_notes_hi": "प्याज और अदरक-लहसुन का पेस्ट भूनें, फिर टमाटर डालें। सेम पकने के बाद, इसे ज्वार रोटी के साथ परोसें।",
-    "prep_notes_en": "Sauté onion and ginger-garlic paste, then add tomatoes. Once beans are cooked, serve with jowar roti.",
+    "prep_notes_hi": "चावल को प्रेशर कुकर में पकाएं और सब्जियों को हल्का फ्राई करें। दही से रायता बनाएं।",
+    "prep_notes_en": "Cook rice in a pressure cooker and lightly fry the vegetables. Make raita with curd.",
     "vizz_macros": {
-      "cal": 700,
-      "protein": 22,
-      "fat": 16,
-      "carbs": 85
+      "cal": 450,
+      "protein": 10,
+      "fat": 15,
+      "carbs": 70
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=beans%20curry%20jowar%20roti%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=vegetable%20biryani%20recipe%20recipe"
   },
   "vizz_daily_total_from_meals": {
-    "cal": 1700,
-    "protein": 65,
-    "fat": 31,
-    "carbs": 253
+    "cal": 1400,
+    "protein": 55,
+    "fat": 45,
+    "carbs": 190
   },
   "vizz_daily_total_with_shake": {
-    "cal": 2000,
-    "protein": 105,
-    "fat": 36,
-    "carbs": 278
+    "cal": 1700,
+    "protein": 95,
+    "fat": 50,
+    "carbs": 215
   },
-  "macro_check": "Calorie and protein targets largely hit with meals and shake; carbs slightly overshoot."
+  "macro_check": "Meals and shake meet calorie and carb targets, slightly under protein target, adjust with additional protein sources if needed."
 }

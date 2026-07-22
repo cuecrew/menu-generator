@@ -1,106 +1,5 @@
 [
   {
-    "date": "2026-06-23 (Tuesday)",
-    "date_display": "Tuesday, June 23",
-    "date_short": "Tue · Jun 23",
-    "generated_label": "Generated last night for today",
-    "breakfast": {
-      "dish_hindi": "वेगन चिकपी सैंडविच, उबला अंडा (विज़ और फ्लैटमेट-2 के लिए)",
-      "dish_english": "Vegan Chickpea Sandwich, Boiled Egg (for Vizz and Flatmate-2)",
-      "ingredients_hindi": "काबुली चना, ब्रेड, प्याज, टमाटर, सलाद पत्ते, उबला अंडा",
-      "ingredients_list_hi": [
-        "काबुली चना",
-        "ब्रेड",
-        "प्याज",
-        "टमाटर",
-        "सलाद पत्ते",
-        "उबला अंडा"
-      ],
-      "ingredients_list_en": [
-        "Chickpeas",
-        "Bread",
-        "Onion",
-        "Tomato",
-        "Lettuce",
-        "Boiled Egg"
-      ],
-      "prep_notes_hi": "काबुली चने को उबालें और उन्हें मैश करें। ब्रेड के स्लाइस पर थोड़ा सा मसला चना लगाए।",
-      "prep_notes_en": "Boil chickpeas and mash them. Spread some mashed chickpeas on bread slices.",
-      "vizz_macros": {
-        "cal": 400,
-        "protein": 14,
-        "fat": 10,
-        "carbs": 60
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=chickpea%20sandwich%20recipe%20recipe"
-    },
-    "lunch": {
-      "dish_hindi": "राजमा चावल, पापड़",
-      "dish_english": "Rajma with Rice, Papad",
-      "ingredients_hindi": "राजमा, बासमती चावल, मसाले, पापड़",
-      "ingredients_list_hi": [
-        "राजमा",
-        "बासमती चावल",
-        "मसाले",
-        "पापड़"
-      ],
-      "ingredients_list_en": [
-        "Kidney Beans",
-        "Basmati Rice",
-        "Spices",
-        "Papad"
-      ],
-      "prep_notes_hi": "राजमा को अच्छे से पकायें और चावल के साथ पैक करें। यह 4-5 घंटे तक बिना फ्रिज रह सकता है।",
-      "prep_notes_en": "Cook the rajma thoroughly and pack with rice. It can hold unrefrigerated for 4-5 hours.",
-      "vizz_macros": {
-        "cal": 690,
-        "protein": 29,
-        "fat": 2,
-        "carbs": 135
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=rajma%20rice%20recipe%20recipe"
-    },
-    "dinner": {
-      "dish_hindi": "पालक पनीर, रोटी, प्याज का सलाद",
-      "dish_english": "Palak Paneer with Roti, Onion Salad",
-      "ingredients_hindi": "पालक, पनीर, रोटी, प्याज",
-      "ingredients_list_hi": [
-        "पालक",
-        "पनीर",
-        "रोटी",
-        "प्याज"
-      ],
-      "ingredients_list_en": [
-        "Spinach",
-        "Paneer",
-        "Roti",
-        "Onion"
-      ],
-      "prep_notes_hi": "पालक और पनीर को अच्छे से मिलाकर पकाएं। इसे रोटी के साथ परोसें।",
-      "prep_notes_en": "Mix and cook spinach and paneer thoroughly. Serve with roti.",
-      "vizz_macros": {
-        "cal": 610,
-        "protein": 27,
-        "fat": 33,
-        "carbs": 67
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=palak%20paneer%20recipe%20recipe"
-    },
-    "vizz_daily_total_from_meals": {
-      "cal": 1700,
-      "protein": 70,
-      "fat": 45,
-      "carbs": 262
-    },
-    "vizz_daily_total_with_shake": {
-      "cal": 2000,
-      "protein": 110,
-      "fat": 50,
-      "carbs": 287
-    },
-    "macro_check": "Successfully hits 2000 cal, 110g protein, 60g fat, 215g carbs target, with slight excess in carbs."
-  },
-  {
     "date": "2026-06-24 (Wednesday)",
     "date_display": "Wednesday, June 24",
     "date_short": "Wed · Jun 24",
@@ -3572,5 +3471,108 @@
       "carbs": 278
     },
     "macro_check": "Calorie and protein targets largely hit with meals and shake; carbs slightly overshoot."
+  },
+  {
+    "date": "2026-07-23 (Thursday)",
+    "date_display": "Thursday, July 23",
+    "date_short": "Thu · Jul 23",
+    "generated_label": "Generated last night for today",
+    "breakfast": {
+      "dish_hindi": "इडली सांभर और नारियल की चटनी, उबला हुआ अंडा (केवल विज़ और फ्लैटमेट-2 के लिए)",
+      "dish_english": "Idli with Sambar and Coconut Chutney, Boiled Egg (for Vizz and Flatmate-2 only)",
+      "ingredients_hindi": "चावल, उरद दाल, नारियल, चना दाल, मसाले, उबला अंडा",
+      "ingredients_list_hi": [
+        "चावल",
+        "उरद दाल",
+        "नारियल",
+        "चना दाल",
+        "मसाले",
+        "उबला अंडा"
+      ],
+      "ingredients_list_en": [
+        "Rice",
+        "Urad Dal",
+        "Coconut",
+        "Chana Dal",
+        "Spices",
+        "Boiled Egg"
+      ],
+      "prep_notes_hi": "इडली के लिए बैटर पहले से तैयार कर लें। सांभर में प्याज और टमाटर अच्छी तरह पकाएं। चटनी में मिक्सर में नारियल और मसाले पीसें।",
+      "prep_notes_en": "Prepare the idli batter in advance. Cook onion and tomato thoroughly for the sambar. Blend coconut and spices for chutney.",
+      "vizz_macros": {
+        "cal": 350,
+        "protein": 15,
+        "fat": 10,
+        "carbs": 50
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=idli%20sambar%20recipe%20recipe"
+    },
+    "lunch": {
+      "dish_hindi": "पालक पनीर और चावल, पापड़",
+      "dish_english": "Palak Paneer with Rice, Papad",
+      "ingredients_hindi": "पालक, पनीर, चावल, मसाले, पापड़",
+      "ingredients_list_hi": [
+        "पालक",
+        "पनीर",
+        "चावल",
+        "मसाले",
+        "पापड़"
+      ],
+      "ingredients_list_en": [
+        "Spinach",
+        "Paneer",
+        "Rice",
+        "Spices",
+        "Papad"
+      ],
+      "prep_notes_hi": "पालक और पनीर की करी को ठीक से पका लें। यह लंच के लिए उपयुक्त और फिर से गरम किया जा सकता है।",
+      "prep_notes_en": "Cook the spinach and paneer curry thoroughly. This is suitable and reheatable for lunch.",
+      "vizz_macros": {
+        "cal": 600,
+        "protein": 30,
+        "fat": 20,
+        "carbs": 70
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=palak%20paneer%20recipe%20recipe"
+    },
+    "dinner": {
+      "dish_hindi": "वेजिटेबल बिरयानी, रायता",
+      "dish_english": "Vegetable Biryani with Raita",
+      "ingredients_hindi": "बासमती चावल, सब्जियाँ, मसाले, दही",
+      "ingredients_list_hi": [
+        "बासमती चावल",
+        "सब्जियाँ",
+        "मसाले",
+        "दही"
+      ],
+      "ingredients_list_en": [
+        "Basmati Rice",
+        "Vegetables",
+        "Spices",
+        "Curd"
+      ],
+      "prep_notes_hi": "चावल को प्रेशर कुकर में पकाएं और सब्जियों को हल्का फ्राई करें। दही से रायता बनाएं।",
+      "prep_notes_en": "Cook rice in a pressure cooker and lightly fry the vegetables. Make raita with curd.",
+      "vizz_macros": {
+        "cal": 450,
+        "protein": 10,
+        "fat": 15,
+        "carbs": 70
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=vegetable%20biryani%20recipe%20recipe"
+    },
+    "vizz_daily_total_from_meals": {
+      "cal": 1400,
+      "protein": 55,
+      "fat": 45,
+      "carbs": 190
+    },
+    "vizz_daily_total_with_shake": {
+      "cal": 1700,
+      "protein": 95,
+      "fat": 50,
+      "carbs": 215
+    },
+    "macro_check": "Meals and shake meet calorie and carb targets, slightly under protein target, adjust with additional protein sources if needed."
   }
 ]
