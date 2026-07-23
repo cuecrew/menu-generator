@@ -1,103 +1,113 @@
 {
-  "date": "2026-07-23 (Thursday)",
-  "date_display": "Thursday, July 23",
-  "date_short": "Thu · Jul 23",
+  "date": "2026-07-24 (Friday)",
+  "date_display": "Friday, July 24",
+  "date_short": "Fri · Jul 24",
   "generated_label": "Generated last night for today",
   "breakfast": {
-    "dish_hindi": "इडली सांभर और नारियल की चटनी, उबला हुआ अंडा (केवल विज़ और फ्लैटमेट-2 के लिए)",
-    "dish_english": "Idli with Sambar and Coconut Chutney, Boiled Egg (for Vizz and Flatmate-2 only)",
-    "ingredients_hindi": "चावल, उरद दाल, नारियल, चना दाल, मसाले, उबला अंडा",
+    "dish_hindi": "अंडा सैंडविच, टोमैटो केचप",
+    "dish_english": "Egg Sandwich with Tomato Ketchup",
+    "ingredients_hindi": "ब्रेड, उबला अंडा, मक्खन, नमक, काली मिर्च, टोमैटो केचप",
     "ingredients_list_hi": [
-      "चावल",
-      "उरद दाल",
-      "नारियल",
-      "चना दाल",
-      "मसाले",
-      "उबला अंडा"
+      "ब्रेड",
+      "उबला अंडा",
+      "मक्खन",
+      "नमक",
+      "काली मिर्च",
+      "टोमैटो केचप"
     ],
     "ingredients_list_en": [
-      "Rice",
-      "Urad Dal",
-      "Coconut",
-      "Chana Dal",
-      "Spices",
-      "Boiled Egg"
+      "Bread",
+      "Boiled Egg",
+      "Butter",
+      "Salt",
+      "Black Pepper",
+      "Tomato Ketchup"
     ],
-    "prep_notes_hi": "इडली के लिए बैटर पहले से तैयार कर लें। सांभर में प्याज और टमाटर अच्छी तरह पकाएं। चटनी में मिक्सर में नारियल और मसाले पीसें।",
-    "prep_notes_en": "Prepare the idli batter in advance. Cook onion and tomato thoroughly for the sambar. Blend coconut and spices for chutney.",
+    "prep_notes_hi": "उबले अंडे को छोटे टुकड़ो में काटें। ब्रेड पर मक्खन लगाएँ। उसमें अंडा, नमक और काली मिर्च डालें।",
+    "prep_notes_en": "Cut the boiled eggs into small pieces. Spread butter on bread. Add eggs, salt, and black pepper.",
     "vizz_macros": {
-      "cal": 350,
-      "protein": 15,
-      "fat": 10,
-      "carbs": 50
+      "cal": 400,
+      "protein": 14,
+      "fat": 20,
+      "carbs": 40
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=idli%20sambar%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=egg%20sandwich%20recipe%20recipe"
   },
   "lunch": {
-    "dish_hindi": "पालक पनीर और चावल, पापड़",
-    "dish_english": "Palak Paneer with Rice, Papad",
-    "ingredients_hindi": "पालक, पनीर, चावल, मसाले, पापड़",
+    "dish_hindi": "मूंग दाल और चावल, अचार",
+    "dish_english": "Moong Dal with Rice and Pickle",
+    "ingredients_hindi": "मूंग दाल, चावल, जीरा, हल्दी, नमक, लाल मिर्च, अचार",
     "ingredients_list_hi": [
-      "पालक",
-      "पनीर",
+      "मूंग दाल",
       "चावल",
-      "मसाले",
-      "पापड़"
+      "जीरा",
+      "हल्दी",
+      "नमक",
+      "लाल मिर्च",
+      "अचार"
     ],
     "ingredients_list_en": [
-      "Spinach",
-      "Paneer",
+      "Moong Dal",
       "Rice",
-      "Spices",
-      "Papad"
+      "Cumin",
+      "Turmeric",
+      "Salt",
+      "Red Chili",
+      "Pickle"
     ],
-    "prep_notes_hi": "पालक और पनीर की करी को ठीक से पका लें। यह लंच के लिए उपयुक्त और फिर से गरम किया जा सकता है।",
-    "prep_notes_en": "Cook the spinach and paneer curry thoroughly. This is suitable and reheatable for lunch.",
+    "prep_notes_hi": "मूंग दाल और चावल को प्रेशर कुकर में पकाएँ। यह यात्रा तथा माइक्रोवेव गरम होने के लिए उपयुक्त है।",
+    "prep_notes_en": "Cook moong dal and rice in a pressure cooker. It is suitable for travel and can be reheated in a microwave.",
     "vizz_macros": {
-      "cal": 600,
-      "protein": 30,
-      "fat": 20,
-      "carbs": 70
+      "cal": 630,
+      "protein": 19,
+      "fat": 3,
+      "carbs": 130
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=palak%20paneer%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=moong%20dal%20rice%20recipe%20recipe"
   },
   "dinner": {
-    "dish_hindi": "वेजिटेबल बिरयानी, रायता",
-    "dish_english": "Vegetable Biryani with Raita",
-    "ingredients_hindi": "बासमती चावल, सब्जियाँ, मसाले, दही",
+    "dish_hindi": "मिक्स वेजिटेबल स्टर फ्राई, चपाती",
+    "dish_english": "Mixed Vegetable Stir Fry with Chapati",
+    "ingredients_hindi": "गाजर, शिमला मिर्च, प्याज, गोभी, हरी मटर, तेल, चपाती",
     "ingredients_list_hi": [
-      "बासमती चावल",
-      "सब्जियाँ",
-      "मसाले",
-      "दही"
+      "गाजर",
+      "शिमला मिर्च",
+      "प्याज",
+      "गोभी",
+      "हरी मटर",
+      "तेल",
+      "चपाती"
     ],
     "ingredients_list_en": [
-      "Basmati Rice",
-      "Vegetables",
-      "Spices",
-      "Curd"
+      "Carrot",
+      "Capsicum",
+      "Onion",
+      "Cabbage",
+      "Green Peas",
+      "Oil",
+      "Chapati"
     ],
-    "prep_notes_hi": "चावल को प्रेशर कुकर में पकाएं और सब्जियों को हल्का फ्राई करें। दही से रायता बनाएं।",
-    "prep_notes_en": "Cook rice in a pressure cooker and lightly fry the vegetables. Make raita with curd.",
+    "prep_notes_hi": "सब्जियों को छोटे टुकड़ों में काटें और तेल में हल्का फ्राई करें। अच्छी तरह मिलाएँ और चपाती के साथ परोसें।",
+    "prep_notes_en": "Chop the vegetables into small pieces and lightly fry in oil. Mix well and serve with chapati.",
     "vizz_macros": {
-      "cal": 450,
-      "protein": 10,
-      "fat": 15,
-      "carbs": 70
+      "cal": 670,
+      "protein": 15,
+      "fat": 25,
+      "carbs": 105
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=vegetable%20biryani%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=mixed%20vegetable%20stir%20fry%20recipe%20recipe"
   },
   "vizz_daily_total_from_meals": {
-    "cal": 1400,
-    "protein": 55,
-    "fat": 45,
-    "carbs": 190
+    "cal": 1700,
+    "protein": 48,
+    "fat": 48,
+    "carbs": 275
   },
   "vizz_daily_total_with_shake": {
-    "cal": 1700,
-    "protein": 95,
-    "fat": 50,
-    "carbs": 215
+    "cal": 2000,
+    "protein": 88,
+    "fat": 53,
+    "carbs": 300
   },
-  "macro_check": "Meals and shake meet calorie and carb targets, slightly under protein target, adjust with additional protein sources if needed."
+  "macro_check": "Calories and carbs meet the target; protein falls short at 88g (goal: 110g). Consider a higher protein source like dal/legumes next time."
 }
