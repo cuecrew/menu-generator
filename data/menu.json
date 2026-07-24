@@ -1,113 +1,129 @@
 {
-  "date": "2026-07-24 (Friday)",
-  "date_display": "Friday, July 24",
-  "date_short": "Fri · Jul 24",
+  "date": "2026-07-25 (Saturday)",
+  "date_display": "Saturday, July 25",
+  "date_short": "Sat · Jul 25",
   "generated_label": "Generated last night for today",
   "breakfast": {
-    "dish_hindi": "अंडा सैंडविच, टोमैटो केचप",
-    "dish_english": "Egg Sandwich with Tomato Ketchup",
-    "ingredients_hindi": "ब्रेड, उबला अंडा, मक्खन, नमक, काली मिर्च, टोमैटो केचप",
+    "dish_hindi": "दलिया उपमा, उबला अंडा",
+    "dish_english": "Daliya Upma with Boiled Egg",
+    "ingredients_hindi": "दलिया, गाजर, मटर, प्याज, हरी मिर्च, अदरक, नमक, तेल, पानी, उबला अंडा",
     "ingredients_list_hi": [
-      "ब्रेड",
-      "उबला अंडा",
-      "मक्खन",
+      "दलिया",
+      "गाजर",
+      "मटर",
+      "प्याज",
+      "हरी मिर्च",
+      "अदरक",
       "नमक",
-      "काली मिर्च",
-      "टोमैटो केचप"
+      "तेल",
+      "पानी",
+      "उबला अंडा"
     ],
     "ingredients_list_en": [
-      "Bread",
-      "Boiled Egg",
-      "Butter",
+      "Daliya (broken wheat)",
+      "Carrot",
+      "Peas",
+      "Onion",
+      "Green chili",
+      "Ginger",
       "Salt",
-      "Black Pepper",
-      "Tomato Ketchup"
+      "Oil",
+      "Water",
+      "Boiled egg"
     ],
-    "prep_notes_hi": "उबले अंडे को छोटे टुकड़ो में काटें। ब्रेड पर मक्खन लगाएँ। उसमें अंडा, नमक और काली मिर्च डालें।",
-    "prep_notes_en": "Cut the boiled eggs into small pieces. Spread butter on bread. Add eggs, salt, and black pepper.",
+    "prep_notes_hi": "दलिया, प्याज, गाजर, मटर और हरी मिर्च को तेल में धीमा भूनें। फिर पानी डालें और नरम होने तक पकाएँ।",
+    "prep_notes_en": "Sauté daliya, onion, carrot, peas, and green chili in oil on low heat. Add water and cook until soft.",
     "vizz_macros": {
-      "cal": 400,
-      "protein": 14,
-      "fat": 20,
-      "carbs": 40
+      "cal": 370,
+      "protein": 18,
+      "fat": 10,
+      "carbs": 60
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=egg%20sandwich%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=daliya%20upma%20recipe%20recipe"
   },
   "lunch": {
-    "dish_hindi": "मूंग दाल और चावल, अचार",
-    "dish_english": "Moong Dal with Rice and Pickle",
-    "ingredients_hindi": "मूंग दाल, चावल, जीरा, हल्दी, नमक, लाल मिर्च, अचार",
+    "dish_hindi": "राजमा चावल, पापड़",
+    "dish_english": "Rajma with Rice and Papad",
+    "ingredients_hindi": "राजमा, चावल, प्याज, टमाटर, अदरक-लहसुन पेस्ट, मसाले, तेल, नमक, पापड़",
     "ingredients_list_hi": [
-      "मूंग दाल",
+      "राजमा",
       "चावल",
-      "जीरा",
-      "हल्दी",
+      "प्याज",
+      "टमाटर",
+      "अदरक-लहसुन पेस्ट",
+      "मसाले",
+      "तेल",
       "नमक",
-      "लाल मिर्च",
-      "अचार"
+      "पापड़"
     ],
     "ingredients_list_en": [
-      "Moong Dal",
+      "Rajma (kidney beans)",
       "Rice",
-      "Cumin",
-      "Turmeric",
+      "Onion",
+      "Tomato",
+      "Ginger-garlic paste",
+      "Spices",
+      "Oil",
       "Salt",
-      "Red Chili",
-      "Pickle"
+      "Papad"
     ],
-    "prep_notes_hi": "मूंग दाल और चावल को प्रेशर कुकर में पकाएँ। यह यात्रा तथा माइक्रोवेव गरम होने के लिए उपयुक्त है।",
-    "prep_notes_en": "Cook moong dal and rice in a pressure cooker. It is suitable for travel and can be reheated in a microwave.",
+    "prep_notes_hi": "राजमा को प्रेशर कुकर में पकाएं। चावल को उबालें। ये लंच बॉक्स में ले जाने और माइक्रोवेव में दोबारा गरम करने के लिए उपयुक्त है।",
+    "prep_notes_en": "Pressure cook the rajma and boil the rice. Suitable for lunch box and reheating in microwave.",
     "vizz_macros": {
-      "cal": 630,
-      "protein": 19,
-      "fat": 3,
-      "carbs": 130
+      "cal": 680,
+      "protein": 25,
+      "fat": 8,
+      "carbs": 125
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=moong%20dal%20rice%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=rajma%20recipe%20hindi%20recipe"
   },
   "dinner": {
-    "dish_hindi": "मिक्स वेजिटेबल स्टर फ्राई, चपाती",
-    "dish_english": "Mixed Vegetable Stir Fry with Chapati",
-    "ingredients_hindi": "गाजर, शिमला मिर्च, प्याज, गोभी, हरी मटर, तेल, चपाती",
+    "dish_hindi": "पनीर बर्रा रोटी, हरा धनिया चटनी",
+    "dish_english": "Paneer Bhurji with Roti and Green Coriander Chutney",
+    "ingredients_hindi": "पनीर, प्याज, टमाटर, हरी मिर्च, मसाले, गेहूं का आटा, तेल, नमक, हरा धनिया",
     "ingredients_list_hi": [
-      "गाजर",
-      "शिमला मिर्च",
+      "पनीर",
       "प्याज",
-      "गोभी",
-      "हरी मटर",
+      "टमाटर",
+      "हरी मिर्च",
+      "मसाले",
+      "गेहूं का आटा",
       "तेल",
-      "चपाती"
+      "नमक",
+      "हरा धनिया"
     ],
     "ingredients_list_en": [
-      "Carrot",
-      "Capsicum",
+      "Paneer",
       "Onion",
-      "Cabbage",
-      "Green Peas",
+      "Tomato",
+      "Green chili",
+      "Spices",
+      "Wheat flour",
       "Oil",
-      "Chapati"
+      "Salt",
+      "Coriander leaves"
     ],
-    "prep_notes_hi": "सब्जियों को छोटे टुकड़ों में काटें और तेल में हल्का फ्राई करें। अच्छी तरह मिलाएँ और चपाती के साथ परोसें।",
-    "prep_notes_en": "Chop the vegetables into small pieces and lightly fry in oil. Mix well and serve with chapati.",
+    "prep_notes_hi": "पनीर को तोड़कर प्याज, टमाटर और मसालों के साथ मिलाएं। रोटी के साथ परोसें।",
+    "prep_notes_en": "Crumble paneer and mix with onion, tomato, and spices. Serve with roti.",
     "vizz_macros": {
-      "cal": 670,
-      "protein": 15,
-      "fat": 25,
-      "carbs": 105
+      "cal": 650,
+      "protein": 28,
+      "fat": 20,
+      "carbs": 50
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=mixed%20vegetable%20stir%20fry%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=paneer%20bhurji%20recipe%20recipe"
   },
   "vizz_daily_total_from_meals": {
     "cal": 1700,
-    "protein": 48,
-    "fat": 48,
-    "carbs": 275
+    "protein": 71,
+    "fat": 38,
+    "carbs": 235
   },
   "vizz_daily_total_with_shake": {
     "cal": 2000,
-    "protein": 88,
-    "fat": 53,
-    "carbs": 300
+    "protein": 111,
+    "fat": 43,
+    "carbs": 260
   },
-  "macro_check": "Calories and carbs meet the target; protein falls short at 88g (goal: 110g). Consider a higher protein source like dal/legumes next time."
+  "macro_check": "Achieves near target for calories and protein, carbohydrates slightly exceed; fat is slightly lower than target."
 }
