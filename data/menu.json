@@ -1,129 +1,133 @@
 {
-  "date": "2026-07-25 (Saturday)",
-  "date_display": "Saturday, July 25",
-  "date_short": "Sat · Jul 25",
+  "date": "2026-07-26 (Sunday)",
+  "date_display": "Sunday, July 26",
+  "date_short": "Sun · Jul 26",
   "generated_label": "Generated last night for today",
   "breakfast": {
-    "dish_hindi": "दलिया उपमा, उबला अंडा",
-    "dish_english": "Daliya Upma with Boiled Egg",
-    "ingredients_hindi": "दलिया, गाजर, मटर, प्याज, हरी मिर्च, अदरक, नमक, तेल, पानी, उबला अंडा",
+    "dish_hindi": "ओट्स उपमा और उबला अंडा (केवल विज़ और फ़्लैटमेट-2 के लिए)",
+    "dish_english": "Oats Upma and Boiled Egg (for Vizz and Flatmate-2 only)",
+    "ingredients_hindi": "ओट्स, प्याज, गाजर, मटर, तेल, सरसों के दाने, करी पत्ता, नमक, पानी, उबला अंडा",
     "ingredients_list_hi": [
-      "दलिया",
+      "ओट्स",
+      "प्याज",
       "गाजर",
       "मटर",
-      "प्याज",
-      "हरी मिर्च",
-      "अदरक",
-      "नमक",
       "तेल",
+      "सरसों के दाने",
+      "करी पत्ता",
+      "नमक",
       "पानी",
       "उबला अंडा"
     ],
     "ingredients_list_en": [
-      "Daliya (broken wheat)",
+      "Oats",
+      "Onion",
       "Carrot",
       "Peas",
-      "Onion",
-      "Green chili",
-      "Ginger",
-      "Salt",
       "Oil",
+      "Mustard Seeds",
+      "Curry Leaves",
+      "Salt",
       "Water",
-      "Boiled egg"
+      "Boiled Egg"
     ],
-    "prep_notes_hi": "दलिया, प्याज, गाजर, मटर और हरी मिर्च को तेल में धीमा भूनें। फिर पानी डालें और नरम होने तक पकाएँ।",
-    "prep_notes_en": "Sauté daliya, onion, carrot, peas, and green chili in oil on low heat. Add water and cook until soft.",
+    "prep_notes_hi": "ओट्स और सब्जियों को धीमी आंच पर पकाएं। सरसों और करी पत्ता के तड़के से स्वाद बढ़ाएं।",
+    "prep_notes_en": "Cook oats and vegetables on low flame. Enhance flavor with mustard and curry leaves tempering.",
     "vizz_macros": {
       "cal": 370,
-      "protein": 18,
-      "fat": 10,
-      "carbs": 60
+      "protein": 22,
+      "fat": 12,
+      "carbs": 50
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=daliya%20upma%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=oats%20upma%20recipe%20recipe"
   },
   "lunch": {
-    "dish_hindi": "राजमा चावल, पापड़",
-    "dish_english": "Rajma with Rice and Papad",
-    "ingredients_hindi": "राजमा, चावल, प्याज, टमाटर, अदरक-लहसुन पेस्ट, मसाले, तेल, नमक, पापड़",
+    "dish_hindi": "पनीर बटर मसाला और बासमती चावल, पापड़",
+    "dish_english": "Paneer Butter Masala with Basmati Rice, Papad",
+    "ingredients_hindi": "पनीर, मक्खन, टमाटर, प्याज, गरम मसाला, लाल मिर्च, धनिया पाउडर, नमक, चावल, पापड़",
     "ingredients_list_hi": [
-      "राजमा",
-      "चावल",
-      "प्याज",
+      "पनीर",
+      "मक्खन",
       "टमाटर",
-      "अदरक-लहसुन पेस्ट",
-      "मसाले",
-      "तेल",
+      "प्याज",
+      "गरम मसाला",
+      "लाल मिर्च",
+      "धनिया पाउडर",
       "नमक",
+      "चावल",
       "पापड़"
     ],
     "ingredients_list_en": [
-      "Rajma (kidney beans)",
-      "Rice",
-      "Onion",
+      "Paneer",
+      "Butter",
       "Tomato",
-      "Ginger-garlic paste",
-      "Spices",
-      "Oil",
+      "Onion",
+      "Garam Masala",
+      "Red Chili",
+      "Coriander Powder",
       "Salt",
+      "Rice",
       "Papad"
     ],
-    "prep_notes_hi": "राजमा को प्रेशर कुकर में पकाएं। चावल को उबालें। ये लंच बॉक्स में ले जाने और माइक्रोवेव में दोबारा गरम करने के लिए उपयुक्त है।",
-    "prep_notes_en": "Pressure cook the rajma and boil the rice. Suitable for lunch box and reheating in microwave.",
+    "prep_notes_hi": "यह पनीर बटर मसाला ऑफिस ले जाने के लिए उपयुक्त है, आसानी से गर्म किया जा सकता है।",
+    "prep_notes_en": "This Paneer Butter Masala is suitable for taking to office, easily reheatable.",
     "vizz_macros": {
-      "cal": 680,
-      "protein": 25,
-      "fat": 8,
-      "carbs": 125
+      "cal": 610,
+      "protein": 24,
+      "fat": 24,
+      "carbs": 75
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=rajma%20recipe%20hindi%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=paneer%20butter%20masala%20recipe%20recipe"
   },
   "dinner": {
-    "dish_hindi": "पनीर बर्रा रोटी, हरा धनिया चटनी",
-    "dish_english": "Paneer Bhurji with Roti and Green Coriander Chutney",
-    "ingredients_hindi": "पनीर, प्याज, टमाटर, हरी मिर्च, मसाले, गेहूं का आटा, तेल, नमक, हरा धनिया",
+    "dish_hindi": "हक्का नूडल्स और मंचूरियन",
+    "dish_english": "Hakka Noodles and Manchurian",
+    "ingredients_hindi": "नूडल्स, शिमला मिर्च, गाजर, बंद गोभी, सोया सॉस, अदरक, लहसुन, नमक, मंचूरियन बॉल्स, तेल",
     "ingredients_list_hi": [
-      "पनीर",
-      "प्याज",
-      "टमाटर",
-      "हरी मिर्च",
-      "मसाले",
-      "गेहूं का आटा",
-      "तेल",
+      "नूडल्स",
+      "शिमला मिर्च",
+      "गाजर",
+      "बंद गोभी",
+      "सोया सॉस",
+      "अदरक",
+      "लहसुन",
       "नमक",
-      "हरा धनिया"
+      "मंचूरियन बॉल्स",
+      "तेल"
     ],
     "ingredients_list_en": [
-      "Paneer",
-      "Onion",
-      "Tomato",
-      "Green chili",
-      "Spices",
-      "Wheat flour",
-      "Oil",
+      "Noodles",
+      "Capsicum",
+      "Carrot",
+      "Cabbage",
+      "Soy Sauce",
+      "Ginger",
+      "Garlic",
       "Salt",
-      "Coriander leaves"
+      "Manchurian Balls",
+      "Oil"
     ],
-    "prep_notes_hi": "पनीर को तोड़कर प्याज, टमाटर और मसालों के साथ मिलाएं। रोटी के साथ परोसें।",
-    "prep_notes_en": "Crumble paneer and mix with onion, tomato, and spices. Serve with roti.",
+    "prep_notes_hi": "सब्जियों को कुरकुरा रखने के लिए हल्का पकाएं। मंचूरियन बॉल्स को ताजा तले हुए सर्व करें।",
+    "prep_notes_en": "Cook vegetables lightly to keep them crisp. Serve freshly fried Manchurian balls.",
     "vizz_macros": {
-      "cal": 650,
-      "protein": 28,
-      "fat": 20,
-      "carbs": 50
+      "cal": 720,
+      "protein": 18,
+      "fat": 18,
+      "carbs": 110
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=paneer%20bhurji%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=hakka%20noodles%20manchurian%20recipe"
   },
   "vizz_daily_total_from_meals": {
     "cal": 1700,
-    "protein": 71,
-    "fat": 38,
+    "protein": 64,
+    "fat": 54,
     "carbs": 235
   },
   "vizz_daily_total_with_shake": {
     "cal": 2000,
-    "protein": 111,
-    "fat": 43,
+    "protein": 104,
+    "fat": 59,
     "carbs": 260
   },
-  "macro_check": "Achieves near target for calories and protein, carbohydrates slightly exceed; fat is slightly lower than target."
+  "macro_check": "Protein slightly under target at 104g; otherwise on track with calories at 2000, fat at 59g, and carbs at 260g."
 }
