@@ -1,156 +1,5 @@
 [
   {
-    "date": "2026-06-27 (Saturday)",
-    "date_display": "Saturday, June 27",
-    "date_short": "Sat · Jun 27",
-    "generated_label": "Generated last night for today",
-    "breakfast": {
-      "dish_hindi": "सब्जियों का ओट्स पोहा, उबला अंडा (विज़्ज़ और फ़्लैटमेट-2 के लिए)",
-      "dish_english": "Vegetable Oats Poha, Boiled Egg (for Vizz and Flatmate-2)",
-      "ingredients_hindi": "ओट्स, पोहा, मटर, गाजर, प्याज, हरी मिर्च, कड़ी पत्ता, राई, हल्दी, नमक, तेल, उबला अंडा",
-      "ingredients_list_hi": [
-        "ओट्स",
-        "पोहा",
-        "मटर",
-        "गाजर",
-        "प्याज",
-        "हरी मिर्च",
-        "कड़ी पत्ता",
-        "राई",
-        "हल्दी",
-        "नमक",
-        "तेल",
-        "उबला अंडा"
-      ],
-      "ingredients_list_en": [
-        "Oats",
-        "Flattened rice (Poha)",
-        "Peas",
-        "Carrot",
-        "Onion",
-        "Green chili",
-        "Curry leaves",
-        "Mustard seeds",
-        "Turmeric",
-        "Salt",
-        "Oil",
-        "Boiled egg"
-      ],
-      "prep_notes_hi": "सबसे पहले ओट्स और पोहा को हल्के से भिगो दें। एक कड़ाही में तेल गरम करें, राई और कड़ी पत्ता डालें। प्याज और सब्जियां मिलाएं। भुना हुआ ओट्स और पोहा डालें, मसाले डालें और मिलाएं।",
-      "prep_notes_en": "First, lightly soak oats and poha. Heat oil in a pan, add mustard seeds and curry leaves. Add onions and vegetables. Add soaked oats and poha, season with spices, and mix well.",
-      "vizz_macros": {
-        "cal": 370,
-        "protein": 18,
-        "fat": 12,
-        "carbs": 56
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=oats%20poha%20recipe%20recipe"
-    },
-    "lunch": {
-      "dish_hindi": "राजमा चावल और प्याज का सलाद",
-      "dish_english": "Rajma with Rice and Onion Salad",
-      "ingredients_hindi": "राजमा, बासमती चावल, प्याज, टमाटर, अदरक, लहसुन, जीरा, हल्दी, मिर्च पाउडर, धनिया पाउडर, गरम मसाला, नमक, तेल",
-      "ingredients_list_hi": [
-        "राजमा",
-        "बासमती चावल",
-        "प्याज",
-        "टमाटर",
-        "अदरक",
-        "लहसुन",
-        "जीरा",
-        "हल्दी",
-        "मिर्च पाउडर",
-        "धनिया पाउडर",
-        "गरम मसाला",
-        "नमक",
-        "तेल"
-      ],
-      "ingredients_list_en": [
-        "Kidney beans",
-        "Basmati rice",
-        "Onion",
-        "Tomato",
-        "Ginger",
-        "Garlic",
-        "Cumin seeds",
-        "Turmeric",
-        "Chili powder",
-        "Coriander powder",
-        "Garam masala",
-        "Salt",
-        "Oil"
-      ],
-      "prep_notes_hi": "यह व्यंजन यात्रा के लिए अनुकूल है और 5 घंटे तक ताजगी बनाए रखता है। माइक्रोवेव में दोबारा गरम करने पर स्वाद और बनावट बनी रहेगी।",
-      "prep_notes_en": "This dish is travel-friendly and retains freshness for up to 5 hours. It reheats well in the microwave, maintaining its taste and texture.",
-      "vizz_macros": {
-        "cal": 700,
-        "protein": 27,
-        "fat": 7,
-        "carbs": 130
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=rajma%20chawal%20recipe%20recipe"
-    },
-    "dinner": {
-      "dish_hindi": "तोफू मसाला करी, रोटी, दही",
-      "dish_english": "Tofu Masala Curry, Roti, Yogurt",
-      "ingredients_hindi": "तोफू, प्याज, टमाटर, हरी मिर्च, अदरक, लहसुन, गरम मसाला, हल्दी, मिर्च पाउडर, धनिया पाउडर, नमक, तेल, गेहूं का आटा, दही",
-      "ingredients_list_hi": [
-        "तोफू",
-        "प्याज",
-        "टमाटर",
-        "हरी मिर्च",
-        "अदरक",
-        "लहसुन",
-        "गरम मसाला",
-        "हल्दी",
-        "मिर्च पाउडर",
-        "धनिया पाउडर",
-        "नमक",
-        "तेल",
-        "गेहूं का आटा",
-        "दही"
-      ],
-      "ingredients_list_en": [
-        "Tofu",
-        "Onion",
-        "Tomato",
-        "Green chili",
-        "Ginger",
-        "Garlic",
-        "Garam masala",
-        "Turmeric",
-        "Chili powder",
-        "Coriander powder",
-        "Salt",
-        "Oil",
-        "Wheat flour",
-        "Yogurt"
-      ],
-      "prep_notes_hi": "तोफू को छोटे क्यूब्स में काटें और हल्का सा फ्राई करें। फिर मसालेदार ग्रेवी बनाएं और उसमें तोफू डालें। सर्व के समय गर्म रोटी और दही के साथ परोसें।",
-      "prep_notes_en": "Cut tofu into small cubes and lightly fry it. Prepare a spicy gravy and add the tofu. Serve hot with roti and yogurt.",
-      "vizz_macros": {
-        "cal": 630,
-        "protein": 25,
-        "fat": 15,
-        "carbs": 94
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=tofu%20masala%20recipe%20recipe"
-    },
-    "vizz_daily_total_from_meals": {
-      "cal": 1700,
-      "protein": 70,
-      "fat": 34,
-      "carbs": 280
-    },
-    "vizz_daily_total_with_shake": {
-      "cal": 2000,
-      "protein": 110,
-      "fat": 39,
-      "carbs": 305
-    },
-    "macro_check": "Calories and protein targets achieved; carbs are slightly over. Fat is under target but acceptable."
-  },
-  {
     "date": "2026-06-28 (Sunday)",
     "date_display": "Sunday, June 28",
     "date_short": "Sun · Jun 28",
@@ -3598,5 +3447,126 @@
       "carbs": 260
     },
     "macro_check": "Protein slightly under target at 104g; otherwise on track with calories at 2000, fat at 59g, and carbs at 260g."
+  },
+  {
+    "date": "2026-07-27 (Monday)",
+    "date_display": "Monday, July 27",
+    "date_short": "Mon · Jul 27",
+    "generated_label": "Generated last night for today",
+    "breakfast": {
+      "dish_hindi": "इडली सांभर, नारियल चटनी",
+      "dish_english": "Idli Sambar with Coconut Chutney",
+      "ingredients_hindi": "इडली बैटर, उरद दाल, चने की दाल, सांभर मसाला, नारियल, टमाटर, प्याज, करी पत्ता, हरी मिर्च",
+      "ingredients_list_hi": [
+        "इडली बैटर",
+        "उरद दाल",
+        "चने की दाल",
+        "सांभर मसाला",
+        "नारियल",
+        "टमाटर",
+        "प्याज",
+        "करी पत्ता",
+        "हरी मिर्च"
+      ],
+      "ingredients_list_en": [
+        "Idli batter",
+        "Urad dal",
+        "Toor dal",
+        "Sambar masala",
+        "Coconut",
+        "Tomato",
+        "Onion",
+        "Curry leaves",
+        "Green chili"
+      ],
+      "prep_notes_hi": "इडली को बैटर से स्टीम करें। सांभर में तड़का दें और नारियल की चटनी बनाएं।",
+      "prep_notes_en": "Steam idlis from batter. Temper the sambar and prepare the coconut chutney.",
+      "vizz_macros": {
+        "cal": 400,
+        "protein": 10,
+        "fat": 5,
+        "carbs": 75
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=idli%20sambar%20recipe%20recipe"
+    },
+    "lunch": {
+      "dish_hindi": "पालक पनीर पुलाव, दही",
+      "dish_english": "Palak Paneer Pulao with Curd",
+      "ingredients_hindi": "बासमती चावल, पालक, पनीर, जीरा, अदरक, लहसुन, दही",
+      "ingredients_list_hi": [
+        "बासमती चावल",
+        "पालक",
+        "पनीर",
+        "जीरा",
+        "अदरक",
+        "लहसुन",
+        "दही"
+      ],
+      "ingredients_list_en": [
+        "Basmati rice",
+        "Spinach",
+        "Paneer",
+        "Cumin seeds",
+        "Ginger",
+        "Garlic",
+        "Curd"
+      ],
+      "prep_notes_hi": "पालक पनीर को चावल के साथ पकाएं। यह डिश यात्रा के लिए बढ़िया है और आसानी से पुनः गर्म होती है।",
+      "prep_notes_en": "Cook spinach and paneer with rice. This dish travels well and reheats easily.",
+      "vizz_macros": {
+        "cal": 600,
+        "protein": 18,
+        "fat": 20,
+        "carbs": 90
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=palak%20paneer%20pulao%20recipe%20recipe"
+    },
+    "dinner": {
+      "dish_hindi": "काबुली चना करी, जीरा राइस, प्याज का सलाद",
+      "dish_english": "Chickpea Curry with Jeera Rice and Onion Salad",
+      "ingredients_hindi": "काबुली चना, बासमती चावल, जीरा, टमाटर, प्याज, अदरक, लहसुन, धनिया पाउडर",
+      "ingredients_list_hi": [
+        "काबुली चना",
+        "बासमती चावल",
+        "जीरा",
+        "टमाटर",
+        "प्याज",
+        "अदरक",
+        "लहसुन",
+        "धनिया पाउडर"
+      ],
+      "ingredients_list_en": [
+        "Chickpeas",
+        "Basmati rice",
+        "Cumin seeds",
+        "Tomato",
+        "Onion",
+        "Ginger",
+        "Garlic",
+        "Coriander powder"
+      ],
+      "prep_notes_hi": "चना को रात भर भिगोकर उबालें। करी में मसाले मिला दें और जीरा राइस तैयार करें।",
+      "prep_notes_en": "Soak chickpeas overnight and cook. Add spices to curry and prepare jeera rice.",
+      "vizz_macros": {
+        "cal": 600,
+        "protein": 16,
+        "fat": 12,
+        "carbs": 100
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=chickpea%20curry%20recipe%20recipe"
+    },
+    "vizz_daily_total_from_meals": {
+      "cal": 1600,
+      "protein": 44,
+      "fat": 37,
+      "carbs": 265
+    },
+    "vizz_daily_total_with_shake": {
+      "cal": 1900,
+      "protein": 84,
+      "fat": 42,
+      "carbs": 290
+    },
+    "macro_check": "Calories and fat are slightly low. Protein target not fully met; consider adding more paneer."
   }
 ]
