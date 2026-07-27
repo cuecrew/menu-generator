@@ -1,121 +1,121 @@
 {
-  "date": "2026-07-27 (Monday)",
-  "date_display": "Monday, July 27",
-  "date_short": "Mon · Jul 27",
+  "date": "2026-07-28 (Tuesday)",
+  "date_display": "Tuesday, July 28",
+  "date_short": "Tue · Jul 28",
   "generated_label": "Generated last night for today",
   "breakfast": {
-    "dish_hindi": "इडली सांभर, नारियल चटनी",
-    "dish_english": "Idli Sambar with Coconut Chutney",
-    "ingredients_hindi": "इडली बैटर, उरद दाल, चने की दाल, सांभर मसाला, नारियल, टमाटर, प्याज, करी पत्ता, हरी मिर्च",
+    "dish_hindi": "अंकुरित मूंग चिल्ला, चटनी और उबला अंडा",
+    "dish_english": "Sprouted Moong Chilla with Chutney and Boiled Egg",
+    "ingredients_hindi": "अंकुरित मूंग, बेसन, हरा धनिया, हरी मिर्च, नमक, तेल, उबला अंडा",
     "ingredients_list_hi": [
-      "इडली बैटर",
-      "उरद दाल",
-      "चने की दाल",
-      "सांभर मसाला",
-      "नारियल",
-      "टमाटर",
-      "प्याज",
-      "करी पत्ता",
-      "हरी मिर्च"
+      "अंकुरित मूंग",
+      "बेसन",
+      "हरा धनिया",
+      "हरी मिर्च",
+      "नमक",
+      "तेल",
+      "उबला अंडा"
     ],
     "ingredients_list_en": [
-      "Idli batter",
-      "Urad dal",
-      "Toor dal",
-      "Sambar masala",
-      "Coconut",
-      "Tomato",
-      "Onion",
-      "Curry leaves",
-      "Green chili"
+      "Sprouted Moong",
+      "Gram Flour",
+      "Coriander Leaves",
+      "Green Chili",
+      "Salt",
+      "Oil",
+      "Boiled Egg"
     ],
-    "prep_notes_hi": "इडली को बैटर से स्टीम करें। सांभर में तड़का दें और नारियल की चटनी बनाएं।",
-    "prep_notes_en": "Steam idlis from batter. Temper the sambar and prepare the coconut chutney.",
+    "prep_notes_hi": "मूंग और बेसन का मिश्रण बनाकर अच्छे से घोलें। गर्म तवे पर थोड़ा तेल लगाकर चिल्ला सेंके।",
+    "prep_notes_en": "Mix moong sprouts with gram flour to make a batter. Cook on a hot pan with a bit of oil.",
     "vizz_macros": {
-      "cal": 400,
-      "protein": 10,
-      "fat": 5,
-      "carbs": 75
+      "cal": 350,
+      "protein": 18,
+      "fat": 10,
+      "carbs": 45
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=idli%20sambar%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=moong%20chilla%20recipe%20hindi%20recipe"
   },
   "lunch": {
-    "dish_hindi": "पालक पनीर पुलाव, दही",
-    "dish_english": "Palak Paneer Pulao with Curd",
-    "ingredients_hindi": "बासमती चावल, पालक, पनीर, जीरा, अदरक, लहसुन, दही",
+    "dish_hindi": "मसूर दाल और जीरा चावल, पापड़",
+    "dish_english": "Masoor Dal and Jeera Rice with Papad",
+    "ingredients_hindi": "मसूर दाल, चावल, जीरा, हरी मिर्च, धनिया पाउडर, हल्दी, नमक, घी, पापड़",
     "ingredients_list_hi": [
-      "बासमती चावल",
-      "पालक",
-      "पनीर",
+      "मसूर दाल",
+      "चावल",
       "जीरा",
-      "अदरक",
-      "लहसुन",
-      "दही"
+      "हरी मिर्च",
+      "धनिया पाउडर",
+      "हल्दी",
+      "नमक",
+      "घी",
+      "पापड़"
     ],
     "ingredients_list_en": [
-      "Basmati rice",
-      "Spinach",
-      "Paneer",
-      "Cumin seeds",
-      "Ginger",
-      "Garlic",
-      "Curd"
+      "Red Lentils (Masoor Dal)",
+      "Rice",
+      "Cumin Seeds",
+      "Green Chili",
+      "Coriander Powder",
+      "Turmeric",
+      "Salt",
+      "Ghee",
+      "Papad"
     ],
-    "prep_notes_hi": "पालक पनीर को चावल के साथ पकाएं। यह डिश यात्रा के लिए बढ़िया है और आसानी से पुनः गर्म होती है।",
-    "prep_notes_en": "Cook spinach and paneer with rice. This dish travels well and reheats easily.",
+    "prep_notes_hi": "दाल अच्छी तरह पकाएं ताकि यह चार से पांच घंटे तक ताजा रहे। चावल को जीरा, घी के साथ बनाएं।",
+    "prep_notes_en": "Cook the lentils thoroughly so they stay fresh for 4-5 hours. Use cumin and ghee for fragrant rice.",
     "vizz_macros": {
-      "cal": 600,
-      "protein": 18,
-      "fat": 20,
-      "carbs": 90
+      "cal": 650,
+      "protein": 22,
+      "fat": 12,
+      "carbs": 108
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=palak%20paneer%20pulao%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=masoor%20dal%20jeera%20rice%20recipe%20recipe"
   },
   "dinner": {
-    "dish_hindi": "काबुली चना करी, जीरा राइस, प्याज का सलाद",
-    "dish_english": "Chickpea Curry with Jeera Rice and Onion Salad",
-    "ingredients_hindi": "काबुली चना, बासमती चावल, जीरा, टमाटर, प्याज, अदरक, लहसुन, धनिया पाउडर",
+    "dish_hindi": "एगलेस वेज बिरयानी, रायता और अचार",
+    "dish_english": "Eggless Veg Biryani with Raita and Pickle",
+    "ingredients_hindi": "बासमती चावल, सब्जियाँ, बिरयानी मसाला, दही, पुदीना पत्ते, नमक, तेल, अचार",
     "ingredients_list_hi": [
-      "काबुली चना",
       "बासमती चावल",
-      "जीरा",
-      "टमाटर",
-      "प्याज",
-      "अदरक",
-      "लहसुन",
-      "धनिया पाउडर"
+      "सब्जियाँ",
+      "बिरयानी मसाला",
+      "दही",
+      "पुदीना पत्ते",
+      "नमक",
+      "तेल",
+      "अचार"
     ],
     "ingredients_list_en": [
-      "Chickpeas",
-      "Basmati rice",
-      "Cumin seeds",
-      "Tomato",
-      "Onion",
-      "Ginger",
-      "Garlic",
-      "Coriander powder"
+      "Basmati Rice",
+      "Vegetables",
+      "Biryani Masala",
+      "Yogurt",
+      "Mint Leaves",
+      "Salt",
+      "Oil",
+      "Pickle"
     ],
-    "prep_notes_hi": "चना को रात भर भिगोकर उबालें। करी में मसाले मिला दें और जीरा राइस तैयार करें।",
-    "prep_notes_en": "Soak chickpeas overnight and cook. Add spices to curry and prepare jeera rice.",
+    "prep_notes_hi": "चावल और सब्जियों को बिरयानी मसाले के साथ पकाएं। गरमा गरम रायता और अचार के साथ परोसें।",
+    "prep_notes_en": "Cook rice and vegetables with biryani spices. Serve hot with raita and pickle.",
     "vizz_macros": {
-      "cal": 600,
-      "protein": 16,
-      "fat": 12,
-      "carbs": 100
+      "cal": 700,
+      "protein": 10,
+      "fat": 18,
+      "carbs": 110
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=chickpea%20curry%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=veg%20biryani%20recipe%20hindi%20recipe"
   },
   "vizz_daily_total_from_meals": {
-    "cal": 1600,
-    "protein": 44,
-    "fat": 37,
-    "carbs": 265
+    "cal": 1700,
+    "protein": 50,
+    "fat": 40,
+    "carbs": 263
   },
   "vizz_daily_total_with_shake": {
-    "cal": 1900,
-    "protein": 84,
-    "fat": 42,
-    "carbs": 290
+    "cal": 2000,
+    "protein": 90,
+    "fat": 45,
+    "carbs": 288
   },
-  "macro_check": "Calories and fat are slightly low. Protein target not fully met; consider adding more paneer."
+  "macro_check": "Calorie and carb targets met. Protein target slightly low at 90g vs 110g. Fat is acceptable."
 }

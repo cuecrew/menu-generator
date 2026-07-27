@@ -1,140 +1,5 @@
 [
   {
-    "date": "2026-06-28 (Sunday)",
-    "date_display": "Sunday, June 28",
-    "date_short": "Sun · Jun 28",
-    "generated_label": "Generated last night for today",
-    "breakfast": {
-      "dish_hindi": "पालक थेपला, उबला अंडा (केवल Vizz और Flatmate-2 के लिए)",
-      "dish_english": "Spinach Thepla, Boiled Egg (for Vizz and Flatmate-2 only)",
-      "ingredients_hindi": "गेहूं का आटा, पालक, हरी मिर्च, अदरक, हल्दी, जीरा, नमक, तेल, उबला अंडा",
-      "ingredients_list_hi": [
-        "गेहूं का आटा",
-        "पालक",
-        "हरी मिर्च",
-        "अदरक",
-        "हल्दी",
-        "जीरा",
-        "नमक",
-        "तेल",
-        "उबला अंडा"
-      ],
-      "ingredients_list_en": [
-        "Whole Wheat Flour",
-        "Spinach",
-        "Green Chili",
-        "Ginger",
-        "Turmeric",
-        "Cumin",
-        "Salt",
-        "Oil",
-        "Boiled Egg"
-      ],
-      "prep_notes_hi": "आटा गूंदने समय पालक, अदरक और मिर्च को बारीक काटें। थेपला बेलें और हल्के आँच पर तवे पर पकाएं।",
-      "prep_notes_en": "While kneading the dough, finely chop spinach, ginger, and chili. Roll theplas and cook on a low flame on a griddle.",
-      "vizz_macros": {
-        "cal": 450,
-        "protein": 16,
-        "fat": 12,
-        "carbs": 65
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=spinach%20thepla%20recipe%20recipe"
-    },
-    "lunch": {
-      "dish_hindi": "पनीर टिक्का, लच्छा पराठा और पुदीने की चटनी",
-      "dish_english": "Paneer Tikka with Laccha Paratha & Mint Chutney",
-      "ingredients_hindi": "पनीर, दही, लाल मिर्च पाउडर, गरम मसाला, अदरक-लहसुन पेस्ट, धनिया पाउडर, नमक, तेल, गेहूं का आटा, मक्खन, पुदीना, हरी मिर्च",
-      "ingredients_list_hi": [
-        "पनीर",
-        "दही",
-        "लाल मिर्च पाउडर",
-        "गरम मसाला",
-        "अदरक-लहसुन पेस्ट",
-        "धनिया पाउडर",
-        "नमक",
-        "तेल",
-        "गेहूं का आटा",
-        "मक्खन",
-        "पुदीना",
-        "हरी मिर्च"
-      ],
-      "ingredients_list_en": [
-        "Paneer",
-        "Yogurt",
-        "Red Chili Powder",
-        "Garam Masala",
-        "Ginger-Garlic Paste",
-        "Coriander Powder",
-        "Salt",
-        "Oil",
-        "Whole Wheat Flour",
-        "Butter",
-        "Mint",
-        "Green Chili"
-      ],
-      "prep_notes_hi": "पनीर टिक्का अच्छा पकाना सुनिश्चित करें ताकि यह यात्रा में भी सुरक्षित रहे और माइक्रोवेव में आसानी से गर्म हो सके।",
-      "prep_notes_en": "Ensure the paneer tikka is well-cooked to make it safe for travel and easy to reheat in a microwave.",
-      "vizz_macros": {
-        "cal": 700,
-        "protein": 35,
-        "fat": 35,
-        "carbs": 60
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=paneer%20tikka%20with%20paratha%20recipe"
-    },
-    "dinner": {
-      "dish_hindi": "मसूर दाल मसाला, चावल, और पापड़",
-      "dish_english": "Masoor Dal Masala with Rice & Papad",
-      "ingredients_hindi": "मसूर दाल, चावल, प्याज, टमाटर, हल्दी, लाल मिर्च पाउडर, गरम मसाला, नमक, तेल, पापड़",
-      "ingredients_list_hi": [
-        "मसूर दाल",
-        "चावल",
-        "प्याज",
-        "टमाटर",
-        "हल्दी",
-        "लाल मिर्च पाउडर",
-        "गरम मसाला",
-        "नमक",
-        "तेल",
-        "पापड़"
-      ],
-      "ingredients_list_en": [
-        "Masoor Dal",
-        "Rice",
-        "Onion",
-        "Tomato",
-        "Turmeric",
-        "Red Chili Powder",
-        "Garam Masala",
-        "Salt",
-        "Oil",
-        "Papad"
-      ],
-      "prep_notes_hi": "दाल को अच्छे से पकाएं ताकि यह मुलायम हो जाए। अंत में तड़का लगाने पर अच्छा स्वाद आएगा।",
-      "prep_notes_en": "Cook the dal thoroughly so it becomes soft. Adding the tempering at the end enhances the flavor.",
-      "vizz_macros": {
-        "cal": 550,
-        "protein": 19,
-        "fat": 10,
-        "carbs": 95
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=masoor%20dal%20recipe%20recipe"
-    },
-    "vizz_daily_total_from_meals": {
-      "cal": 1700,
-      "protein": 70,
-      "fat": 57,
-      "carbs": 220
-    },
-    "vizz_daily_total_with_shake": {
-      "cal": 2000,
-      "protein": 110,
-      "fat": 62,
-      "carbs": 245
-    },
-    "macro_check": "Calories, protein, fat, and carbs for Vizz hit the targets with slight carb surplus."
-  },
-  {
     "date": "2026-06-29 (Monday)",
     "date_display": "Monday, June 29",
     "date_short": "Mon · Jun 29",
@@ -3568,5 +3433,126 @@
       "carbs": 290
     },
     "macro_check": "Calories and fat are slightly low. Protein target not fully met; consider adding more paneer."
+  },
+  {
+    "date": "2026-07-28 (Tuesday)",
+    "date_display": "Tuesday, July 28",
+    "date_short": "Tue · Jul 28",
+    "generated_label": "Generated last night for today",
+    "breakfast": {
+      "dish_hindi": "अंकुरित मूंग चिल्ला, चटनी और उबला अंडा",
+      "dish_english": "Sprouted Moong Chilla with Chutney and Boiled Egg",
+      "ingredients_hindi": "अंकुरित मूंग, बेसन, हरा धनिया, हरी मिर्च, नमक, तेल, उबला अंडा",
+      "ingredients_list_hi": [
+        "अंकुरित मूंग",
+        "बेसन",
+        "हरा धनिया",
+        "हरी मिर्च",
+        "नमक",
+        "तेल",
+        "उबला अंडा"
+      ],
+      "ingredients_list_en": [
+        "Sprouted Moong",
+        "Gram Flour",
+        "Coriander Leaves",
+        "Green Chili",
+        "Salt",
+        "Oil",
+        "Boiled Egg"
+      ],
+      "prep_notes_hi": "मूंग और बेसन का मिश्रण बनाकर अच्छे से घोलें। गर्म तवे पर थोड़ा तेल लगाकर चिल्ला सेंके।",
+      "prep_notes_en": "Mix moong sprouts with gram flour to make a batter. Cook on a hot pan with a bit of oil.",
+      "vizz_macros": {
+        "cal": 350,
+        "protein": 18,
+        "fat": 10,
+        "carbs": 45
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=moong%20chilla%20recipe%20hindi%20recipe"
+    },
+    "lunch": {
+      "dish_hindi": "मसूर दाल और जीरा चावल, पापड़",
+      "dish_english": "Masoor Dal and Jeera Rice with Papad",
+      "ingredients_hindi": "मसूर दाल, चावल, जीरा, हरी मिर्च, धनिया पाउडर, हल्दी, नमक, घी, पापड़",
+      "ingredients_list_hi": [
+        "मसूर दाल",
+        "चावल",
+        "जीरा",
+        "हरी मिर्च",
+        "धनिया पाउडर",
+        "हल्दी",
+        "नमक",
+        "घी",
+        "पापड़"
+      ],
+      "ingredients_list_en": [
+        "Red Lentils (Masoor Dal)",
+        "Rice",
+        "Cumin Seeds",
+        "Green Chili",
+        "Coriander Powder",
+        "Turmeric",
+        "Salt",
+        "Ghee",
+        "Papad"
+      ],
+      "prep_notes_hi": "दाल अच्छी तरह पकाएं ताकि यह चार से पांच घंटे तक ताजा रहे। चावल को जीरा, घी के साथ बनाएं।",
+      "prep_notes_en": "Cook the lentils thoroughly so they stay fresh for 4-5 hours. Use cumin and ghee for fragrant rice.",
+      "vizz_macros": {
+        "cal": 650,
+        "protein": 22,
+        "fat": 12,
+        "carbs": 108
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=masoor%20dal%20jeera%20rice%20recipe%20recipe"
+    },
+    "dinner": {
+      "dish_hindi": "एगलेस वेज बिरयानी, रायता और अचार",
+      "dish_english": "Eggless Veg Biryani with Raita and Pickle",
+      "ingredients_hindi": "बासमती चावल, सब्जियाँ, बिरयानी मसाला, दही, पुदीना पत्ते, नमक, तेल, अचार",
+      "ingredients_list_hi": [
+        "बासमती चावल",
+        "सब्जियाँ",
+        "बिरयानी मसाला",
+        "दही",
+        "पुदीना पत्ते",
+        "नमक",
+        "तेल",
+        "अचार"
+      ],
+      "ingredients_list_en": [
+        "Basmati Rice",
+        "Vegetables",
+        "Biryani Masala",
+        "Yogurt",
+        "Mint Leaves",
+        "Salt",
+        "Oil",
+        "Pickle"
+      ],
+      "prep_notes_hi": "चावल और सब्जियों को बिरयानी मसाले के साथ पकाएं। गरमा गरम रायता और अचार के साथ परोसें।",
+      "prep_notes_en": "Cook rice and vegetables with biryani spices. Serve hot with raita and pickle.",
+      "vizz_macros": {
+        "cal": 700,
+        "protein": 10,
+        "fat": 18,
+        "carbs": 110
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=veg%20biryani%20recipe%20hindi%20recipe"
+    },
+    "vizz_daily_total_from_meals": {
+      "cal": 1700,
+      "protein": 50,
+      "fat": 40,
+      "carbs": 263
+    },
+    "vizz_daily_total_with_shake": {
+      "cal": 2000,
+      "protein": 90,
+      "fat": 45,
+      "carbs": 288
+    },
+    "macro_check": "Calorie and carb targets met. Protein target slightly low at 90g vs 110g. Fat is acceptable."
   }
 ]
