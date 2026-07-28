@@ -1,132 +1,5 @@
 [
   {
-    "date": "2026-06-29 (Monday)",
-    "date_display": "Monday, June 29",
-    "date_short": "Mon · Jun 29",
-    "generated_label": "Generated last night for today",
-    "breakfast": {
-      "dish_hindi": "बेगन बर्पता, पके हुए अंडे (विज्ज़ और फ्लैटमेट-2 के लिए)",
-      "dish_english": "Baingan Bharta with Toast, Boiled Egg (for Vizz and Flatmate-2)",
-      "ingredients_hindi": "बैंगन, प्याज, टमाटर, अदरक, लहसुन, हरी मिर्च, ताज़ा धनीया, टोस्ट ब्रेड",
-      "ingredients_list_hi": [
-        "बैंगन",
-        "प्याज",
-        "टमाटर",
-        "अदरक",
-        "लहसुन",
-        "हरी मिर्च",
-        "ताज़ा धनीया",
-        "टोस्ट ब्रेड"
-      ],
-      "ingredients_list_en": [
-        "Eggplant",
-        "Onion",
-        "Tomato",
-        "Ginger",
-        "Garlic",
-        "Green chili",
-        "Fresh coriander",
-        "Toast bread"
-      ],
-      "prep_notes_hi": "बैंगन को भूनकर छीलें और फिर मसाला सब्ज़ियों के साथ पकाएं। धनीया डालकर परोसें।",
-      "prep_notes_en": "Roast the eggplant, peel and mash it. Cook with the spice mixture and serve with coriander.",
-      "vizz_macros": {
-        "cal": 350,
-        "protein": 10,
-        "fat": 12,
-        "carbs": 45
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=baingan%20bharta%20recipe%20recipe"
-    },
-    "lunch": {
-      "dish_hindi": "पालक चने के साथ पुलाव, दही",
-      "dish_english": "Spinach Chickpea Pulao with Yogurt",
-      "ingredients_hindi": "बासमती चावल, पालक, चने, प्याज, अदरक, लहसुन, हरी मिर्च, गरम मसाला, दही",
-      "ingredients_list_hi": [
-        "बासमती चावल",
-        "पालक",
-        "चना",
-        "प्याज",
-        "अदरक",
-        "लहसुन",
-        "हरी मिर्च",
-        "गरम मसाला",
-        "दही"
-      ],
-      "ingredients_list_en": [
-        "Basmati rice",
-        "Spinach",
-        "Chickpeas",
-        "Onion",
-        "Ginger",
-        "Garlic",
-        "Green chili",
-        "Garam masala",
-        "Yogurt"
-      ],
-      "prep_notes_hi": "इस प्रस्तर को यात्रा और गर्म करके खाने में आसानी होती है। यह यात्रा और माइक्रोवेव में गरम करने के लिए भी उपयुक्त है।",
-      "prep_notes_en": "This dish is convenient for travel and reheating. Suitable for transport and microwave reheating.",
-      "vizz_macros": {
-        "cal": 620,
-        "protein": 20,
-        "fat": 15,
-        "carbs": 95
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=spinach%20chickpea%20pulao%20recipe"
-    },
-    "dinner": {
-      "dish_hindi": "पनीर भूर्जी, रोटी, रायता",
-      "dish_english": "Paneer Bhurji with Roti and Raita",
-      "ingredients_hindi": "पनीर, प्याज, टमाटर, शिमला मिर्च, लहसुन, अदरक, गरम मसाला, जीरा, रोटी, दही",
-      "ingredients_list_hi": [
-        "पनीर",
-        "प्याज",
-        "टमाटर",
-        "शिमला मिर्च",
-        "लहसुन",
-        "अदरक",
-        "गरम मसाला",
-        "जीरा",
-        "रोटी",
-        "दही"
-      ],
-      "ingredients_list_en": [
-        "Paneer",
-        "Onion",
-        "Tomato",
-        "Bell pepper",
-        "Garlic",
-        "Ginger",
-        "Garam masala",
-        "Cumin seeds",
-        "Roti",
-        "Yogurt"
-      ],
-      "prep_notes_hi": "पनीर को सब्ज़ियों के साथ जल्दी पकाकर इसे रोटी के साथ परोसें।",
-      "prep_notes_en": "Quickly cook paneer with vegetables and serve with roti.",
-      "vizz_macros": {
-        "cal": 730,
-        "protein": 42,
-        "fat": 18,
-        "carbs": 60
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=paneer%20bhurji%20recipe%20recipe"
-    },
-    "vizz_daily_total_from_meals": {
-      "cal": 1700,
-      "protein": 72,
-      "fat": 45,
-      "carbs": 200
-    },
-    "vizz_daily_total_with_shake": {
-      "cal": 2000,
-      "protein": 112,
-      "fat": 50,
-      "carbs": 225
-    },
-    "macro_check": "Meals plus shake meet 2000/110/60/215 target; protein slightly exceeds."
-  },
-  {
     "date": "2026-06-30 (Tuesday)",
     "date_display": "Tuesday, June 30",
     "date_short": "Tue · Jun 30",
@@ -3554,5 +3427,130 @@
       "carbs": 288
     },
     "macro_check": "Calorie and carb targets met. Protein target slightly low at 90g vs 110g. Fat is acceptable."
+  },
+  {
+    "date": "2026-07-29 (Wednesday)",
+    "date_display": "Wednesday, July 29",
+    "date_short": "Wed · Jul 29",
+    "generated_label": "Generated last night for today",
+    "breakfast": {
+      "dish_hindi": "अवलेह के साथ सब्ज़ियों का दलिया, उबला अंडा",
+      "dish_english": "Vegetable Dalia with Boiled Egg",
+      "ingredients_hindi": "अवलेह, मटर, गाजर, शिमला मिर्च, पानी, नमक, घी, उबला अंडा",
+      "ingredients_list_hi": [
+        "अवलेह",
+        "मटर",
+        "गाजर",
+        "शिमला मिर्च",
+        "पानी",
+        "नमक",
+        "घी",
+        "उबला अंडा"
+      ],
+      "ingredients_list_en": [
+        "Dalia (broken wheat)",
+        "Peas",
+        "Carrot",
+        "Bell Pepper",
+        "Water",
+        "Salt",
+        "Ghee",
+        "Boiled Egg"
+      ],
+      "prep_notes_hi": "अवलेह को गी में भूने और सब्ज़ियों के साथ पकाएं। अंडा केवल वीज़ और रूममेट-2 के लिए हैं।",
+      "prep_notes_en": "Roast the dalia in ghee and cook with vegetables. Egg is for Vizz and Flatmate-2 only.",
+      "vizz_macros": {
+        "cal": 410,
+        "protein": 16,
+        "fat": 13,
+        "carbs": 60
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=vegetable%20dalia%20recipe%20recipe"
+    },
+    "lunch": {
+      "dish_hindi": "पनीर पराठा, दही और अचार",
+      "dish_english": "Paneer Paratha with Curd and Pickle",
+      "ingredients_hindi": "गेहूं का आटा, पनीर, हरा धनिया, हरी मिर्च, नमक, दही, अचार",
+      "ingredients_list_hi": [
+        "गेहूं का आटा",
+        "पनीर",
+        "हरा धनिया",
+        "हरी मिर्च",
+        "नमक",
+        "दही",
+        "अचार"
+      ],
+      "ingredients_list_en": [
+        "Wheat flour",
+        "Paneer",
+        "Coriander",
+        "Green Chili",
+        "Salt",
+        "Curd",
+        "Pickle"
+      ],
+      "prep_notes_hi": "पानीर पराठा ठंडा होने पर भी अच्छा रहता है और माइक्रोवेव में आसानी से गरम होता है।",
+      "prep_notes_en": "Paneer paratha holds well unrefrigerated and reheats easily in the microwave.",
+      "vizz_macros": {
+        "cal": 680,
+        "protein": 26,
+        "fat": 32,
+        "carbs": 78
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=paneer%20paratha%20recipe%20recipe"
+    },
+    "dinner": {
+      "dish_hindi": "मिक्स वेज करी और चपाती",
+      "dish_english": "Mixed Vegetable Curry with Chapati",
+      "ingredients_hindi": "मटर, गाजर, आलू, शिमला मिर्च, टमाटर, प्याज, जीरा, गरम मसाला, नमक, तेल, गेहूं का आटा",
+      "ingredients_list_hi": [
+        "मटर",
+        "गाजर",
+        "आलू",
+        "शिमला मिर्च",
+        "टमाटर",
+        "प्याज",
+        "जीरा",
+        "गरम मसाला",
+        "नमक",
+        "तेल",
+        "गेहूं का आटा"
+      ],
+      "ingredients_list_en": [
+        "Peas",
+        "Carrot",
+        "Potato",
+        "Bell Pepper",
+        "Tomato",
+        "Onion",
+        "Cumin",
+        "Garam Masala",
+        "Salt",
+        "Oil",
+        "Wheat flour"
+      ],
+      "prep_notes_hi": "सभी सब्ज़ियों को तेल में भूनें और मसालों के साथ पकाएं। चपाती को सुनहरा होने तक सेकें।",
+      "prep_notes_en": "Sauté all vegetables in oil and cook with spices. Cook chapati until golden brown.",
+      "vizz_macros": {
+        "cal": 610,
+        "protein": 18,
+        "fat": 22,
+        "carbs": 90
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=mixed%20veg%20curry%20recipe%20recipe"
+    },
+    "vizz_daily_total_from_meals": {
+      "cal": 1700,
+      "protein": 60,
+      "fat": 67,
+      "carbs": 228
+    },
+    "vizz_daily_total_with_shake": {
+      "cal": 2000,
+      "protein": 100,
+      "fat": 72,
+      "carbs": 253
+    },
+    "macro_check": "Close, but a bit low on protein and fat, and a little high on carbs."
   }
 ]

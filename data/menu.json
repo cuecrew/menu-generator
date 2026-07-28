@@ -1,121 +1,125 @@
 {
-  "date": "2026-07-28 (Tuesday)",
-  "date_display": "Tuesday, July 28",
-  "date_short": "Tue · Jul 28",
+  "date": "2026-07-29 (Wednesday)",
+  "date_display": "Wednesday, July 29",
+  "date_short": "Wed · Jul 29",
   "generated_label": "Generated last night for today",
   "breakfast": {
-    "dish_hindi": "अंकुरित मूंग चिल्ला, चटनी और उबला अंडा",
-    "dish_english": "Sprouted Moong Chilla with Chutney and Boiled Egg",
-    "ingredients_hindi": "अंकुरित मूंग, बेसन, हरा धनिया, हरी मिर्च, नमक, तेल, उबला अंडा",
+    "dish_hindi": "अवलेह के साथ सब्ज़ियों का दलिया, उबला अंडा",
+    "dish_english": "Vegetable Dalia with Boiled Egg",
+    "ingredients_hindi": "अवलेह, मटर, गाजर, शिमला मिर्च, पानी, नमक, घी, उबला अंडा",
     "ingredients_list_hi": [
-      "अंकुरित मूंग",
-      "बेसन",
-      "हरा धनिया",
-      "हरी मिर्च",
+      "अवलेह",
+      "मटर",
+      "गाजर",
+      "शिमला मिर्च",
+      "पानी",
       "नमक",
-      "तेल",
+      "घी",
       "उबला अंडा"
     ],
     "ingredients_list_en": [
-      "Sprouted Moong",
-      "Gram Flour",
-      "Coriander Leaves",
-      "Green Chili",
-      "Salt",
-      "Oil",
-      "Boiled Egg"
-    ],
-    "prep_notes_hi": "मूंग और बेसन का मिश्रण बनाकर अच्छे से घोलें। गर्म तवे पर थोड़ा तेल लगाकर चिल्ला सेंके।",
-    "prep_notes_en": "Mix moong sprouts with gram flour to make a batter. Cook on a hot pan with a bit of oil.",
-    "vizz_macros": {
-      "cal": 350,
-      "protein": 18,
-      "fat": 10,
-      "carbs": 45
-    },
-    "youtube_url": "https://www.youtube.com/results?search_query=moong%20chilla%20recipe%20hindi%20recipe"
-  },
-  "lunch": {
-    "dish_hindi": "मसूर दाल और जीरा चावल, पापड़",
-    "dish_english": "Masoor Dal and Jeera Rice with Papad",
-    "ingredients_hindi": "मसूर दाल, चावल, जीरा, हरी मिर्च, धनिया पाउडर, हल्दी, नमक, घी, पापड़",
-    "ingredients_list_hi": [
-      "मसूर दाल",
-      "चावल",
-      "जीरा",
-      "हरी मिर्च",
-      "धनिया पाउडर",
-      "हल्दी",
-      "नमक",
-      "घी",
-      "पापड़"
-    ],
-    "ingredients_list_en": [
-      "Red Lentils (Masoor Dal)",
-      "Rice",
-      "Cumin Seeds",
-      "Green Chili",
-      "Coriander Powder",
-      "Turmeric",
+      "Dalia (broken wheat)",
+      "Peas",
+      "Carrot",
+      "Bell Pepper",
+      "Water",
       "Salt",
       "Ghee",
-      "Papad"
+      "Boiled Egg"
     ],
-    "prep_notes_hi": "दाल अच्छी तरह पकाएं ताकि यह चार से पांच घंटे तक ताजा रहे। चावल को जीरा, घी के साथ बनाएं।",
-    "prep_notes_en": "Cook the lentils thoroughly so they stay fresh for 4-5 hours. Use cumin and ghee for fragrant rice.",
+    "prep_notes_hi": "अवलेह को गी में भूने और सब्ज़ियों के साथ पकाएं। अंडा केवल वीज़ और रूममेट-2 के लिए हैं।",
+    "prep_notes_en": "Roast the dalia in ghee and cook with vegetables. Egg is for Vizz and Flatmate-2 only.",
     "vizz_macros": {
-      "cal": 650,
-      "protein": 22,
-      "fat": 12,
-      "carbs": 108
+      "cal": 410,
+      "protein": 16,
+      "fat": 13,
+      "carbs": 60
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=masoor%20dal%20jeera%20rice%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=vegetable%20dalia%20recipe%20recipe"
   },
-  "dinner": {
-    "dish_hindi": "एगलेस वेज बिरयानी, रायता और अचार",
-    "dish_english": "Eggless Veg Biryani with Raita and Pickle",
-    "ingredients_hindi": "बासमती चावल, सब्जियाँ, बिरयानी मसाला, दही, पुदीना पत्ते, नमक, तेल, अचार",
+  "lunch": {
+    "dish_hindi": "पनीर पराठा, दही और अचार",
+    "dish_english": "Paneer Paratha with Curd and Pickle",
+    "ingredients_hindi": "गेहूं का आटा, पनीर, हरा धनिया, हरी मिर्च, नमक, दही, अचार",
     "ingredients_list_hi": [
-      "बासमती चावल",
-      "सब्जियाँ",
-      "बिरयानी मसाला",
-      "दही",
-      "पुदीना पत्ते",
+      "गेहूं का आटा",
+      "पनीर",
+      "हरा धनिया",
+      "हरी मिर्च",
       "नमक",
-      "तेल",
+      "दही",
       "अचार"
     ],
     "ingredients_list_en": [
-      "Basmati Rice",
-      "Vegetables",
-      "Biryani Masala",
-      "Yogurt",
-      "Mint Leaves",
+      "Wheat flour",
+      "Paneer",
+      "Coriander",
+      "Green Chili",
       "Salt",
-      "Oil",
+      "Curd",
       "Pickle"
     ],
-    "prep_notes_hi": "चावल और सब्जियों को बिरयानी मसाले के साथ पकाएं। गरमा गरम रायता और अचार के साथ परोसें।",
-    "prep_notes_en": "Cook rice and vegetables with biryani spices. Serve hot with raita and pickle.",
+    "prep_notes_hi": "पानीर पराठा ठंडा होने पर भी अच्छा रहता है और माइक्रोवेव में आसानी से गरम होता है।",
+    "prep_notes_en": "Paneer paratha holds well unrefrigerated and reheats easily in the microwave.",
     "vizz_macros": {
-      "cal": 700,
-      "protein": 10,
-      "fat": 18,
-      "carbs": 110
+      "cal": 680,
+      "protein": 26,
+      "fat": 32,
+      "carbs": 78
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=veg%20biryani%20recipe%20hindi%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=paneer%20paratha%20recipe%20recipe"
+  },
+  "dinner": {
+    "dish_hindi": "मिक्स वेज करी और चपाती",
+    "dish_english": "Mixed Vegetable Curry with Chapati",
+    "ingredients_hindi": "मटर, गाजर, आलू, शिमला मिर्च, टमाटर, प्याज, जीरा, गरम मसाला, नमक, तेल, गेहूं का आटा",
+    "ingredients_list_hi": [
+      "मटर",
+      "गाजर",
+      "आलू",
+      "शिमला मिर्च",
+      "टमाटर",
+      "प्याज",
+      "जीरा",
+      "गरम मसाला",
+      "नमक",
+      "तेल",
+      "गेहूं का आटा"
+    ],
+    "ingredients_list_en": [
+      "Peas",
+      "Carrot",
+      "Potato",
+      "Bell Pepper",
+      "Tomato",
+      "Onion",
+      "Cumin",
+      "Garam Masala",
+      "Salt",
+      "Oil",
+      "Wheat flour"
+    ],
+    "prep_notes_hi": "सभी सब्ज़ियों को तेल में भूनें और मसालों के साथ पकाएं। चपाती को सुनहरा होने तक सेकें।",
+    "prep_notes_en": "Sauté all vegetables in oil and cook with spices. Cook chapati until golden brown.",
+    "vizz_macros": {
+      "cal": 610,
+      "protein": 18,
+      "fat": 22,
+      "carbs": 90
+    },
+    "youtube_url": "https://www.youtube.com/results?search_query=mixed%20veg%20curry%20recipe%20recipe"
   },
   "vizz_daily_total_from_meals": {
     "cal": 1700,
-    "protein": 50,
-    "fat": 40,
-    "carbs": 263
+    "protein": 60,
+    "fat": 67,
+    "carbs": 228
   },
   "vizz_daily_total_with_shake": {
     "cal": 2000,
-    "protein": 90,
-    "fat": 45,
-    "carbs": 288
+    "protein": 100,
+    "fat": 72,
+    "carbs": 253
   },
-  "macro_check": "Calorie and carb targets met. Protein target slightly low at 90g vs 110g. Fat is acceptable."
+  "macro_check": "Close, but a bit low on protein and fat, and a little high on carbs."
 }
