@@ -1,116 +1,5 @@
 [
   {
-    "date": "2026-06-30 (Tuesday)",
-    "date_display": "Tuesday, June 30",
-    "date_short": "Tue · Jun 30",
-    "generated_label": "Generated last night for today",
-    "breakfast": {
-      "dish_hindi": "उपमा, उबला अंडा (केवल Vizz और Flatmate-2 के लिए)",
-      "dish_english": "Upma, Boiled Egg (for Vizz and Flatmate-2 only)",
-      "ingredients_hindi": "सूजी, प्याज, हरी मिर्च, सरसों के दाने, करी पत्ता",
-      "ingredients_list_hi": [
-        "सूजी",
-        "प्याज",
-        "हरी मिर्च",
-        "सरसों के दाने",
-        "करी पत्ता"
-      ],
-      "ingredients_list_en": [
-        "Semolina (Suji)",
-        "Onion",
-        "Green Chili",
-        "Mustard Seeds",
-        "Curry Leaves"
-      ],
-      "prep_notes_hi": "सूजी को पहले सूखा भूने। प्याज और हरी मिर्च को हल्का तलें। तब तक पकाएं जब तक सूजी नरम न हो जाए।",
-      "prep_notes_en": "Dry roast the semolina first. Lightly fry the onions and green chilies. Cook until the semolina is soft.",
-      "vizz_macros": {
-        "cal": 300,
-        "protein": 8,
-        "fat": 6,
-        "carbs": 50
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=upma%20recipe%20hindi%20recipe"
-    },
-    "lunch": {
-      "dish_hindi": "चना दाल बिरयानी, दही",
-      "dish_english": "Chana Dal Biryani with Yogurt",
-      "ingredients_hindi": "बासमती चावल, चना दाल, प्याज, टमाटर, गरम मसाला, दही",
-      "ingredients_list_hi": [
-        "बासमती चावल",
-        "चना दाल",
-        "प्याज",
-        "टमाटर",
-        "गरम मसाला",
-        "दही"
-      ],
-      "ingredients_list_en": [
-        "Basmati Rice",
-        "Chana Dal (Split Chickpeas)",
-        "Onion",
-        "Tomato",
-        "Garam Masala",
-        "Yogurt"
-      ],
-      "prep_notes_hi": "यह एक सूखा पकवान है और यात्रा के लिए उपयुक्त है। माइक्रोवेव में आसानी से गरम किया जा सकता है।",
-      "prep_notes_en": "This is a dry dish suitable for travel. It can be easily reheated in a microwave.",
-      "vizz_macros": {
-        "cal": 500,
-        "protein": 18,
-        "fat": 8,
-        "carbs": 85
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=chana%20dal%20biryani%20recipe%20recipe"
-    },
-    "dinner": {
-      "dish_hindi": "पालक पनीर, रोटी, आम का अचार",
-      "dish_english": "Palak Paneer, Roti, Mango Pickle",
-      "ingredients_hindi": "पालक, पनीर, प्याज, हरी मिर्च, अदरक, लहसुन, गरम मसाला, रोटी",
-      "ingredients_list_hi": [
-        "पालक",
-        "पनीर",
-        "प्याज",
-        "हरी मिर्च",
-        "अदरक",
-        "लहसुन",
-        "गरम मसाला",
-        "रोटी"
-      ],
-      "ingredients_list_en": [
-        "Spinach",
-        "Paneer",
-        "Onion",
-        "Green Chili",
-        "Ginger",
-        "Garlic",
-        "Garam Masala",
-        "Roti"
-      ],
-      "prep_notes_hi": "पालक को हल्का उबालें और उसे पीस लें। पनीर को हल्का भूने और मसाले मिलाकर पकाएं।",
-      "prep_notes_en": "Blanch the spinach lightly and blend it. Lightly fry the paneer and cook it with spices.",
-      "vizz_macros": {
-        "cal": 600,
-        "protein": 25,
-        "fat": 15,
-        "carbs": 65
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=palak%20paneer%20recipe%20recipe"
-    },
-    "vizz_daily_total_from_meals": {
-      "cal": 1400,
-      "protein": 51,
-      "fat": 29,
-      "carbs": 200
-    },
-    "vizz_daily_total_with_shake": {
-      "cal": 1700,
-      "protein": 91,
-      "fat": 34,
-      "carbs": 225
-    },
-    "macro_check": "Falls short on protein; needs ~19g more to hit the target."
-  },
-  {
     "date": "2026-07-01 (Wednesday)",
     "date_display": "Wednesday, July 1",
     "date_short": "Wed · Jul 1",
@@ -3552,5 +3441,124 @@
       "carbs": 253
     },
     "macro_check": "Close, but a bit low on protein and fat, and a little high on carbs."
+  },
+  {
+    "date": "2026-07-30 (Thursday)",
+    "date_display": "Thursday, July 30",
+    "date_short": "Thu · Jul 30",
+    "generated_label": "Generated last night for today",
+    "breakfast": {
+      "dish_hindi": "उपमा और उबला हुआ अंडा",
+      "dish_english": "Upma with Boiled Egg",
+      "ingredients_hindi": "सूजी, प्याज, हरी मिर्च, गाजर, मटर, कड़ी पत्ता, सरसों के बीज, उबला हुआ अंडा",
+      "ingredients_list_hi": [
+        "सूजी",
+        "प्याज",
+        "हरी मिर्च",
+        "गाजर",
+        "मटर",
+        "कड़ी पत्ता",
+        "सरसों के बीज",
+        "उबला हुआ अंडा"
+      ],
+      "ingredients_list_en": [
+        "Semolina",
+        "Onion",
+        "Green Chili",
+        "Carrot",
+        "Peas",
+        "Curry Leaves",
+        "Mustard Seeds",
+        "Boiled Egg"
+      ],
+      "prep_notes_hi": "सबसे पहले सूजी को हल्का भून लें। फिर तड़का लगाकर सब्जियाँ डालें। सूजी और पानी मिलाकर चलाते हुए पकाएं।",
+      "prep_notes_en": "Lightly roast the semolina first. Then prepare the tempering and add vegetables. Combine semolina with water and cook while stirring.",
+      "vizz_macros": {
+        "cal": 400,
+        "protein": 12,
+        "fat": 15,
+        "carbs": 55
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=upma%20recipe%20hindi%20recipe"
+    },
+    "lunch": {
+      "dish_hindi": "राजमा चावल और पापड़",
+      "dish_english": "Rajma with Rice and Papad",
+      "ingredients_hindi": "राजमा, बासमती चावल, प्याज, टमाटर, अदरक, लहसुन, गरम मसाला, पापड़",
+      "ingredients_list_hi": [
+        "राजमा",
+        "बासमती चावल",
+        "प्याज",
+        "टमाटर",
+        "अदरक",
+        "लहसुन",
+        "गरम मसाला",
+        "पापड़"
+      ],
+      "ingredients_list_en": [
+        "Kidney Beans",
+        "Basmati Rice",
+        "Onion",
+        "Tomato",
+        "Ginger",
+        "Garlic",
+        "Garam Masala",
+        "Papad"
+      ],
+      "prep_notes_hi": "राजमा को अच्छी तरह पकाया जाना चाहिए। यह डिश आसानी से माइक्रोवेव में गरम की जा सकती है, ट्रांसपोर्टेबल है।",
+      "prep_notes_en": "Rajma should be cooked thoroughly. This dish reheats well in the microwave and is portable.",
+      "vizz_macros": {
+        "cal": 650,
+        "protein": 22,
+        "fat": 10,
+        "carbs": 110
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=rajma%20chawal%20recipe%20recipe"
+    },
+    "dinner": {
+      "dish_hindi": "पास्ता सलाद, लहसुन ब्रेड और मिक्स्ड फ्रूट्स (Flatmate-3 के लिए)",
+      "dish_english": "Pasta Salad with Garlic Bread and Mixed Fruits (for Flatmate-3)",
+      "ingredients_hindi": "पास्ता, बेल पेपर, जैतून, चेरी टमाटर, जैतून का तेल, लहसुन की ब्रेड, मौसमी फल",
+      "ingredients_list_hi": [
+        "पास्ता",
+        "बेल पेपर",
+        "जैतून",
+        "चेरी टमाटर",
+        "जैतून का तेल",
+        "लहसुन की ब्रेड",
+        "मौसमी फल"
+      ],
+      "ingredients_list_en": [
+        "Pasta",
+        "Bell Pepper",
+        "Olives",
+        "Cherry Tomatoes",
+        "Olive Oil",
+        "Garlic Bread",
+        "Seasonal Fruits"
+      ],
+      "prep_notes_hi": "पास्ता को अल डेंटे पकाएं। जैतून और बेल पेपर को मसलने से बचें। फलों को फ्रूटी कट में सर्व करें।",
+      "prep_notes_en": "Cook the pasta al dente. Avoid mashing the olives and bell peppers. Serve fruits as a fruit cut.",
+      "vizz_macros": {
+        "cal": 650,
+        "protein": 16,
+        "fat": 20,
+        "carbs": 95
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=pasta%20salad%20recipe%20recipe"
+    },
+    "vizz_daily_total_from_meals": {
+      "cal": 1700,
+      "protein": 50,
+      "fat": 45,
+      "carbs": 260
+    },
+    "vizz_daily_total_with_shake": {
+      "cal": 2000,
+      "protein": 90,
+      "fat": 50,
+      "carbs": 285
+    },
+    "macro_check": "Calories and fat meet targets, but protein is short by 20g. Consider adding high-protein snacks or more protein-rich components."
   }
 ]

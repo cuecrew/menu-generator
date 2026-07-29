@@ -1,125 +1,119 @@
 {
-  "date": "2026-07-29 (Wednesday)",
-  "date_display": "Wednesday, July 29",
-  "date_short": "Wed · Jul 29",
+  "date": "2026-07-30 (Thursday)",
+  "date_display": "Thursday, July 30",
+  "date_short": "Thu · Jul 30",
   "generated_label": "Generated last night for today",
   "breakfast": {
-    "dish_hindi": "अवलेह के साथ सब्ज़ियों का दलिया, उबला अंडा",
-    "dish_english": "Vegetable Dalia with Boiled Egg",
-    "ingredients_hindi": "अवलेह, मटर, गाजर, शिमला मिर्च, पानी, नमक, घी, उबला अंडा",
+    "dish_hindi": "उपमा और उबला हुआ अंडा",
+    "dish_english": "Upma with Boiled Egg",
+    "ingredients_hindi": "सूजी, प्याज, हरी मिर्च, गाजर, मटर, कड़ी पत्ता, सरसों के बीज, उबला हुआ अंडा",
     "ingredients_list_hi": [
-      "अवलेह",
-      "मटर",
+      "सूजी",
+      "प्याज",
+      "हरी मिर्च",
       "गाजर",
-      "शिमला मिर्च",
-      "पानी",
-      "नमक",
-      "घी",
-      "उबला अंडा"
+      "मटर",
+      "कड़ी पत्ता",
+      "सरसों के बीज",
+      "उबला हुआ अंडा"
     ],
     "ingredients_list_en": [
-      "Dalia (broken wheat)",
-      "Peas",
+      "Semolina",
+      "Onion",
+      "Green Chili",
       "Carrot",
-      "Bell Pepper",
-      "Water",
-      "Salt",
-      "Ghee",
+      "Peas",
+      "Curry Leaves",
+      "Mustard Seeds",
       "Boiled Egg"
     ],
-    "prep_notes_hi": "अवलेह को गी में भूने और सब्ज़ियों के साथ पकाएं। अंडा केवल वीज़ और रूममेट-2 के लिए हैं।",
-    "prep_notes_en": "Roast the dalia in ghee and cook with vegetables. Egg is for Vizz and Flatmate-2 only.",
+    "prep_notes_hi": "सबसे पहले सूजी को हल्का भून लें। फिर तड़का लगाकर सब्जियाँ डालें। सूजी और पानी मिलाकर चलाते हुए पकाएं।",
+    "prep_notes_en": "Lightly roast the semolina first. Then prepare the tempering and add vegetables. Combine semolina with water and cook while stirring.",
     "vizz_macros": {
-      "cal": 410,
-      "protein": 16,
-      "fat": 13,
-      "carbs": 60
+      "cal": 400,
+      "protein": 12,
+      "fat": 15,
+      "carbs": 55
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=vegetable%20dalia%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=upma%20recipe%20hindi%20recipe"
   },
   "lunch": {
-    "dish_hindi": "पनीर पराठा, दही और अचार",
-    "dish_english": "Paneer Paratha with Curd and Pickle",
-    "ingredients_hindi": "गेहूं का आटा, पनीर, हरा धनिया, हरी मिर्च, नमक, दही, अचार",
+    "dish_hindi": "राजमा चावल और पापड़",
+    "dish_english": "Rajma with Rice and Papad",
+    "ingredients_hindi": "राजमा, बासमती चावल, प्याज, टमाटर, अदरक, लहसुन, गरम मसाला, पापड़",
     "ingredients_list_hi": [
-      "गेहूं का आटा",
-      "पनीर",
-      "हरा धनिया",
-      "हरी मिर्च",
-      "नमक",
-      "दही",
-      "अचार"
+      "राजमा",
+      "बासमती चावल",
+      "प्याज",
+      "टमाटर",
+      "अदरक",
+      "लहसुन",
+      "गरम मसाला",
+      "पापड़"
     ],
     "ingredients_list_en": [
-      "Wheat flour",
-      "Paneer",
-      "Coriander",
-      "Green Chili",
-      "Salt",
-      "Curd",
-      "Pickle"
+      "Kidney Beans",
+      "Basmati Rice",
+      "Onion",
+      "Tomato",
+      "Ginger",
+      "Garlic",
+      "Garam Masala",
+      "Papad"
     ],
-    "prep_notes_hi": "पानीर पराठा ठंडा होने पर भी अच्छा रहता है और माइक्रोवेव में आसानी से गरम होता है।",
-    "prep_notes_en": "Paneer paratha holds well unrefrigerated and reheats easily in the microwave.",
+    "prep_notes_hi": "राजमा को अच्छी तरह पकाया जाना चाहिए। यह डिश आसानी से माइक्रोवेव में गरम की जा सकती है, ट्रांसपोर्टेबल है।",
+    "prep_notes_en": "Rajma should be cooked thoroughly. This dish reheats well in the microwave and is portable.",
     "vizz_macros": {
-      "cal": 680,
-      "protein": 26,
-      "fat": 32,
-      "carbs": 78
+      "cal": 650,
+      "protein": 22,
+      "fat": 10,
+      "carbs": 110
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=paneer%20paratha%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=rajma%20chawal%20recipe%20recipe"
   },
   "dinner": {
-    "dish_hindi": "मिक्स वेज करी और चपाती",
-    "dish_english": "Mixed Vegetable Curry with Chapati",
-    "ingredients_hindi": "मटर, गाजर, आलू, शिमला मिर्च, टमाटर, प्याज, जीरा, गरम मसाला, नमक, तेल, गेहूं का आटा",
+    "dish_hindi": "पास्ता सलाद, लहसुन ब्रेड और मिक्स्ड फ्रूट्स (Flatmate-3 के लिए)",
+    "dish_english": "Pasta Salad with Garlic Bread and Mixed Fruits (for Flatmate-3)",
+    "ingredients_hindi": "पास्ता, बेल पेपर, जैतून, चेरी टमाटर, जैतून का तेल, लहसुन की ब्रेड, मौसमी फल",
     "ingredients_list_hi": [
-      "मटर",
-      "गाजर",
-      "आलू",
-      "शिमला मिर्च",
-      "टमाटर",
-      "प्याज",
-      "जीरा",
-      "गरम मसाला",
-      "नमक",
-      "तेल",
-      "गेहूं का आटा"
+      "पास्ता",
+      "बेल पेपर",
+      "जैतून",
+      "चेरी टमाटर",
+      "जैतून का तेल",
+      "लहसुन की ब्रेड",
+      "मौसमी फल"
     ],
     "ingredients_list_en": [
-      "Peas",
-      "Carrot",
-      "Potato",
+      "Pasta",
       "Bell Pepper",
-      "Tomato",
-      "Onion",
-      "Cumin",
-      "Garam Masala",
-      "Salt",
-      "Oil",
-      "Wheat flour"
+      "Olives",
+      "Cherry Tomatoes",
+      "Olive Oil",
+      "Garlic Bread",
+      "Seasonal Fruits"
     ],
-    "prep_notes_hi": "सभी सब्ज़ियों को तेल में भूनें और मसालों के साथ पकाएं। चपाती को सुनहरा होने तक सेकें।",
-    "prep_notes_en": "Sauté all vegetables in oil and cook with spices. Cook chapati until golden brown.",
+    "prep_notes_hi": "पास्ता को अल डेंटे पकाएं। जैतून और बेल पेपर को मसलने से बचें। फलों को फ्रूटी कट में सर्व करें।",
+    "prep_notes_en": "Cook the pasta al dente. Avoid mashing the olives and bell peppers. Serve fruits as a fruit cut.",
     "vizz_macros": {
-      "cal": 610,
-      "protein": 18,
-      "fat": 22,
-      "carbs": 90
+      "cal": 650,
+      "protein": 16,
+      "fat": 20,
+      "carbs": 95
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=mixed%20veg%20curry%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=pasta%20salad%20recipe%20recipe"
   },
   "vizz_daily_total_from_meals": {
     "cal": 1700,
-    "protein": 60,
-    "fat": 67,
-    "carbs": 228
+    "protein": 50,
+    "fat": 45,
+    "carbs": 260
   },
   "vizz_daily_total_with_shake": {
     "cal": 2000,
-    "protein": 100,
-    "fat": 72,
-    "carbs": 253
+    "protein": 90,
+    "fat": 50,
+    "carbs": 285
   },
-  "macro_check": "Close, but a bit low on protein and fat, and a little high on carbs."
+  "macro_check": "Calories and fat meet targets, but protein is short by 20g. Consider adding high-protein snacks or more protein-rich components."
 }
