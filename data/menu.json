@@ -1,119 +1,113 @@
 {
-  "date": "2026-07-30 (Thursday)",
-  "date_display": "Thursday, July 30",
-  "date_short": "Thu · Jul 30",
+  "date": "2026-08-01 (Saturday)",
+  "date_display": "Saturday, August 1",
+  "date_short": "Sat · Aug 1",
   "generated_label": "Generated last night for today",
   "breakfast": {
-    "dish_hindi": "उपमा और उबला हुआ अंडा",
-    "dish_english": "Upma with Boiled Egg",
-    "ingredients_hindi": "सूजी, प्याज, हरी मिर्च, गाजर, मटर, कड़ी पत्ता, सरसों के बीज, उबला हुआ अंडा",
+    "dish_hindi": "आलू पराठा और दही के साथ उबला अंडा",
+    "dish_english": "Aloo Paratha with Yogurt and Boiled Egg",
+    "ingredients_hindi": "आलू, गेहूं का आटा, दही, अंडा, धनिया, हरा मिर्च, मसाले",
     "ingredients_list_hi": [
-      "सूजी",
-      "प्याज",
-      "हरी मिर्च",
-      "गाजर",
-      "मटर",
-      "कड़ी पत्ता",
-      "सरसों के बीज",
-      "उबला हुआ अंडा"
+      "आलू",
+      "गेहूं का आटा",
+      "दही",
+      "अंडा",
+      "धनिया",
+      "हरा मिर्च",
+      "मसाले"
     ],
     "ingredients_list_en": [
-      "Semolina",
-      "Onion",
-      "Green Chili",
-      "Carrot",
-      "Peas",
-      "Curry Leaves",
-      "Mustard Seeds",
-      "Boiled Egg"
+      "Potato",
+      "Whole wheat flour",
+      "Yogurt",
+      "Egg",
+      "Coriander",
+      "Green chili",
+      "Spices"
     ],
-    "prep_notes_hi": "सबसे पहले सूजी को हल्का भून लें। फिर तड़का लगाकर सब्जियाँ डालें। सूजी और पानी मिलाकर चलाते हुए पकाएं।",
-    "prep_notes_en": "Lightly roast the semolina first. Then prepare the tempering and add vegetables. Combine semolina with water and cook while stirring.",
+    "prep_notes_hi": "आलू को अच्छी तरह मैश करके उसमें मसाले डालें। आटे को गूंध लें और पराठे बेलकर तवे पर सेंक लें।",
+    "prep_notes_en": "Mash the potatoes well and mix with spices. Knead the dough and roll out parathas. Cook on a griddle.",
     "vizz_macros": {
-      "cal": 400,
-      "protein": 12,
+      "cal": 490,
+      "protein": 18,
       "fat": 15,
-      "carbs": 55
+      "carbs": 65
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=upma%20recipe%20hindi%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=aloo%20paratha%20recipe%20recipe"
   },
   "lunch": {
-    "dish_hindi": "राजमा चावल और पापड़",
-    "dish_english": "Rajma with Rice and Papad",
-    "ingredients_hindi": "राजमा, बासमती चावल, प्याज, टमाटर, अदरक, लहसुन, गरम मसाला, पापड़",
+    "dish_hindi": "छोले के साथ चावल, पापड़ और अचार",
+    "dish_english": "Chole with Rice, Papad and Pickle",
+    "ingredients_hindi": "चना, बासमती चावल, पापड़, अचार, मसाले, टमाटर, प्याज",
     "ingredients_list_hi": [
-      "राजमा",
+      "चना",
       "बासमती चावल",
-      "प्याज",
+      "पापड़",
+      "अचार",
+      "मसाले",
       "टमाटर",
-      "अदरक",
-      "लहसुन",
-      "गरम मसाला",
-      "पापड़"
+      "प्याज"
     ],
     "ingredients_list_en": [
-      "Kidney Beans",
-      "Basmati Rice",
-      "Onion",
+      "Chickpeas",
+      "Basmati rice",
+      "Papad",
+      "Pickle",
+      "Spices",
       "Tomato",
-      "Ginger",
-      "Garlic",
-      "Garam Masala",
-      "Papad"
+      "Onion"
     ],
-    "prep_notes_hi": "राजमा को अच्छी तरह पकाया जाना चाहिए। यह डिश आसानी से माइक्रोवेव में गरम की जा सकती है, ट्रांसपोर्टेबल है।",
-    "prep_notes_en": "Rajma should be cooked thoroughly. This dish reheats well in the microwave and is portable.",
+    "prep_notes_hi": "छोले को उबालकर मसाले और सब्जियों के साथ पकाएं। इसे चावल के साथ पैक कर लें, जहां भी ले जाएं और माइक्रोवेव में गरम करें।",
+    "prep_notes_en": "Boil chickpeas and cook with spices and vegetables. Pack with rice, travels well and can be reheated in a microwave.",
     "vizz_macros": {
-      "cal": 650,
-      "protein": 22,
-      "fat": 10,
-      "carbs": 110
+      "cal": 700,
+      "protein": 25,
+      "fat": 8,
+      "carbs": 125
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=rajma%20chawal%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=chole%20rice%20recipe%20recipe"
   },
   "dinner": {
-    "dish_hindi": "पास्ता सलाद, लहसुन ब्रेड और मिक्स्ड फ्रूट्स (Flatmate-3 के लिए)",
-    "dish_english": "Pasta Salad with Garlic Bread and Mixed Fruits (for Flatmate-3)",
-    "ingredients_hindi": "पास्ता, बेल पेपर, जैतून, चेरी टमाटर, जैतून का तेल, लहसुन की ब्रेड, मौसमी फल",
+    "dish_hindi": "खिचड़ी के साथ धनिया चटनी",
+    "dish_english": "Khichdi with Coriander Chutney",
+    "ingredients_hindi": "चावल, मूंग दाल, गाजर, मटर, धनिया, चटनी के मसाले",
     "ingredients_list_hi": [
-      "पास्ता",
-      "बेल पेपर",
-      "जैतून",
-      "चेरी टमाटर",
-      "जैतून का तेल",
-      "लहसुन की ब्रेड",
-      "मौसमी फल"
+      "चावल",
+      "मूंग दाल",
+      "गाजर",
+      "मटर",
+      "धनिया",
+      "चटनी के मसाले"
     ],
     "ingredients_list_en": [
-      "Pasta",
-      "Bell Pepper",
-      "Olives",
-      "Cherry Tomatoes",
-      "Olive Oil",
-      "Garlic Bread",
-      "Seasonal Fruits"
+      "Rice",
+      "Moong dal",
+      "Carrot",
+      "Peas",
+      "Coriander",
+      "Chutney spices"
     ],
-    "prep_notes_hi": "पास्ता को अल डेंटे पकाएं। जैतून और बेल पेपर को मसलने से बचें। फलों को फ्रूटी कट में सर्व करें।",
-    "prep_notes_en": "Cook the pasta al dente. Avoid mashing the olives and bell peppers. Serve fruits as a fruit cut.",
+    "prep_notes_hi": "चावल और दाल को सब्जियों के साथ मिलाकर, कुकर में पकाएं। धनिया चटनी के साथ परोसें।",
+    "prep_notes_en": "Combine rice and dal with vegetables, cook in a pressure cooker. Serve with coriander chutney.",
     "vizz_macros": {
-      "cal": 650,
-      "protein": 16,
-      "fat": 20,
-      "carbs": 95
+      "cal": 450,
+      "protein": 14,
+      "fat": 5,
+      "carbs": 84
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=pasta%20salad%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=khichdi%20recipe%20recipe"
   },
   "vizz_daily_total_from_meals": {
-    "cal": 1700,
-    "protein": 50,
-    "fat": 45,
-    "carbs": 260
+    "cal": 1640,
+    "protein": 57,
+    "fat": 28,
+    "carbs": 274
   },
   "vizz_daily_total_with_shake": {
-    "cal": 2000,
-    "protein": 90,
-    "fat": 50,
-    "carbs": 285
+    "cal": 1940,
+    "protein": 97,
+    "fat": 33,
+    "carbs": 299
   },
-  "macro_check": "Calories and fat meet targets, but protein is short by 20g. Consider adding high-protein snacks or more protein-rich components."
+  "macro_check": "Needs additional 60 cal, 13g protein, 27g carbs to hit target; consider adding peanuts or seeds."
 }
