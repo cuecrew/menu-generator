@@ -1,128 +1,5 @@
 [
   {
-    "date": "2026-07-02 (Thursday)",
-    "date_display": "Thursday, July 2",
-    "date_short": "Thu · Jul 2",
-    "generated_label": "Generated last night for today",
-    "breakfast": {
-      "dish_hindi": "वेजिटेबल दलिया, उबला अंडा (Vizz और Flatmate-2 के लिए)",
-      "dish_english": "Vegetable Dalia, Boiled Egg (for Vizz and Flatmate-2)",
-      "ingredients_hindi": "दलिया, गाजर, मटर, शिमला मिर्च, प्याज, हरी मिर्च, अदरक, नमक, उबला अंडा",
-      "ingredients_list_hi": [
-        "दलिया",
-        "गाजर",
-        "मटर",
-        "शिमला मिर्च",
-        "प्याज",
-        "हरी मिर्च",
-        "अदरक",
-        "नमक",
-        "उबला अंडा"
-      ],
-      "ingredients_list_en": [
-        "Dalia (broken wheat)",
-        "Carrot",
-        "Green Peas",
-        "Bell Pepper",
-        "Onion",
-        "Green Chilli",
-        "Ginger",
-        "Salt",
-        "Boiled Egg"
-      ],
-      "prep_notes_hi": "दलिया को अच्छे से धो लें और सब्जियों के साथ धीमी आंच पर पकाएं। स्वादयीन बनाने के लिए नमक मिलाएं।",
-      "prep_notes_en": "Rinse the dalia well and cook with vegetables on low heat. Add salt to taste for flavor.",
-      "vizz_macros": {
-        "cal": 320,
-        "protein": 14,
-        "fat": 7,
-        "carbs": 54
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=vegetable%20dalia%20recipe%20recipe"
-    },
-    "lunch": {
-      "dish_hindi": "नींबू चावल, रायता",
-      "dish_english": "Lemon Rice with Raita",
-      "ingredients_hindi": "बासमती चावल, नींबू, मूँगफली, सरसों के दाने, करी पत्ता, हरी मिर्च, अदरक, रायता सामग्री",
-      "ingredients_list_hi": [
-        "बासमती चावल",
-        "नींबू",
-        "मूँगफली",
-        "सरसों के दाने",
-        "करी पत्ता",
-        "हरी मिर्च",
-        "अदरक",
-        "रायता सामग्री"
-      ],
-      "ingredients_list_en": [
-        "Basmati Rice",
-        "Lemon",
-        "Peanuts",
-        "Mustard Seeds",
-        "Curry Leaves",
-        "Green Chilli",
-        "Ginger",
-        "Raita Ingredients"
-      ],
-      "prep_notes_hi": "यह चावल लंच के लिए अच्छी तरह से यात्रा कर सकता है और गरम किया जा सकता है। चावल को नींबू के रस और तड़के के साथ मिलाएं।",
-      "prep_notes_en": "This rice travels well for lunch and can be reheated. Mix rice with lemon juice and tempering.",
-      "vizz_macros": {
-        "cal": 450,
-        "protein": 9,
-        "fat": 12,
-        "carbs": 78
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=lemon%20rice%20recipe%20recipe"
-    },
-    "dinner": {
-      "dish_hindi": "मटर पनीर करी, चपाती",
-      "dish_english": "Matar Paneer Curry with Chapati",
-      "ingredients_hindi": "पनीर, मटर, टमाटर, प्याज, अदरक-लहसुन पेस्ट, लाल मिर्च पाउडर, गरम मसाला, चपाती सामग्री",
-      "ingredients_list_hi": [
-        "पनीर",
-        "मटर",
-        "टमाटर",
-        "प्याज",
-        "अदरक-लहसुन पेस्ट",
-        "लाल मिर्च पाउडर",
-        "गरम मसाला",
-        "चपाती सामग्री"
-      ],
-      "ingredients_list_en": [
-        "Paneer",
-        "Green Peas",
-        "Tomato",
-        "Onion",
-        "Ginger-Garlic Paste",
-        "Red Chilli Powder",
-        "Garam Masala",
-        "Chapati Ingredients"
-      ],
-      "prep_notes_hi": "प्याज, अदरक-लहसुन पेस्ट को तेल में भूनें, फिर टमाटर और मसाले डालें। पनीर और मटर को मिलाएं और धीमी आंच पर पकाएं।",
-      "prep_notes_en": "Saute onion, ginger-garlic paste in oil, then add tomatoes and spices. Mix paneer and peas, cook on low heat.",
-      "vizz_macros": {
-        "cal": 620,
-        "protein": 20,
-        "fat": 22,
-        "carbs": 80
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=matar%20paneer%20curry%20recipe%20recipe"
-    },
-    "vizz_daily_total_from_meals": {
-      "cal": 1390,
-      "protein": 43,
-      "fat": 41,
-      "carbs": 212
-    },
-    "vizz_daily_total_with_shake": {
-      "cal": 1690,
-      "protein": 83,
-      "fat": 46,
-      "carbs": 237
-    },
-    "macro_check": "Hits carbs target; protein slightly low, total calories below needed."
-  },
-  {
     "date": "2026-07-03 (Friday)",
     "date_display": "Friday, July 3",
     "date_short": "Fri · Jul 3",
@@ -3572,5 +3449,130 @@
       "carbs": 299
     },
     "macro_check": "Needs additional 60 cal, 13g protein, 27g carbs to hit target; consider adding peanuts or seeds."
+  },
+  {
+    "date": "2026-08-02 (Sunday)",
+    "date_display": "Sunday, August 2",
+    "date_short": "Sun · Aug 2",
+    "generated_label": "Generated last night for today",
+    "breakfast": {
+      "dish_hindi": "ओट्स पोहा और नमकीन दही, उबला हुआ अंडा",
+      "dish_english": "Oats Poha with Spiced Yogurt and Boiled Egg",
+      "ingredients_hindi": "ओट्स, पोहा, प्याज़, मटर, गाजर, हरी मिर्च, दही, अंडा, नमक, जीरा",
+      "ingredients_list_hi": [
+        "ओट्स",
+        "पोहा",
+        "प्याज़",
+        "मटर",
+        "गाजर",
+        "हरी मिर्च",
+        "दही",
+        "अंडा",
+        "नमक",
+        "जीरा"
+      ],
+      "ingredients_list_en": [
+        "Oats",
+        "Poha (flattened rice)",
+        "Onion",
+        "Green Peas",
+        "Carrot",
+        "Green Chili",
+        "Yogurt",
+        "Egg",
+        "Salt",
+        "Cumin"
+      ],
+      "prep_notes_hi": "पोहे को धोकर निकाल लें, ओट्स को हल्का भूनें। प्याज़, मटर, गाजर पकाएं, फिर पोहा और ओट्स मिलाएं।",
+      "prep_notes_en": "Wash and drain poha, lightly roast oats. Cook onion, peas, and carrot, then mix in poha and oats.",
+      "vizz_macros": {
+        "cal": 400,
+        "protein": 16,
+        "fat": 10,
+        "carbs": 65
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=oats%20poha%20recipe%20recipe"
+    },
+    "lunch": {
+      "dish_hindi": "मटर पुलाव और बूंदी रायता",
+      "dish_english": "Matar Pulao with Boondi Raita",
+      "ingredients_hindi": "बासमती चावल, मटर, प्याज़, जीरा, बूंदी, दही, नमक",
+      "ingredients_list_hi": [
+        "बासमती चावल",
+        "मटर",
+        "प्याज़",
+        "जीरा",
+        "बूंदी",
+        "दही",
+        "नमक"
+      ],
+      "ingredients_list_en": [
+        "Basmati Rice",
+        "Green Peas",
+        "Onion",
+        "Cumin",
+        "Boondi",
+        "Yogurt",
+        "Salt"
+      ],
+      "prep_notes_hi": "यह कार्यालय ले जाने के लिए उपयुक्त है और माइक्रोवेव में गरम किया जा सकता है।",
+      "prep_notes_en": "This is suitable for taking to the office and can be reheated in the microwave.",
+      "vizz_macros": {
+        "cal": 500,
+        "protein": 12,
+        "fat": 10,
+        "carbs": 90
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=matar%20pulao%20recipe%20recipe"
+    },
+    "dinner": {
+      "dish_hindi": "पालक पनीर, तवा रोटी और पापड़",
+      "dish_english": "Palak Paneer with Chapati and Papad",
+      "ingredients_hindi": "पालक, पनीर, प्याज़, टमाटर, अदरक, लहसुन, मसाले, गेहूं का आटा, पापड़",
+      "ingredients_list_hi": [
+        "पालक",
+        "पनीर",
+        "प्याज़",
+        "टमाटर",
+        "अदरक",
+        "लहसुन",
+        "मसाले",
+        "गेहूं का आटा",
+        "पापड़"
+      ],
+      "ingredients_list_en": [
+        "Spinach",
+        "Paneer",
+        "Onion",
+        "Tomato",
+        "Ginger",
+        "Garlic",
+        "Spices",
+        "Wheat Flour",
+        "Papad"
+      ],
+      "prep_notes_hi": "पालक को अच्छी तरह धोकर उबालें। मसाले और टमाटर के साथ पकाएं। पनीर डालें और रोटी के साथ परोसें।",
+      "prep_notes_en": "Wash the spinach thoroughly and boil. Cook with spices and tomato. Add paneer and serve with chapati.",
+      "vizz_macros": {
+        "cal": 800,
+        "protein": 30,
+        "fat": 25,
+        "carbs": 65
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=palak%20paneer%20recipe%20recipe"
+    },
+    "vizz_daily_total_from_meals": {
+      "cal": 1700,
+      "protein": 58,
+      "fat": 45,
+      "carbs": 220
+    },
+    "vizz_daily_total_with_shake": {
+      "cal": 2000,
+      "protein": 98,
+      "fat": 50,
+      "carbs": 245
+    },
+    "macro_check": "Hits calorie and carb targets, but falls short on protein by 12g and fat by 10g."
   }
 ]

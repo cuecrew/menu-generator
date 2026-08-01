@@ -1,113 +1,125 @@
 {
-  "date": "2026-08-01 (Saturday)",
-  "date_display": "Saturday, August 1",
-  "date_short": "Sat · Aug 1",
+  "date": "2026-08-02 (Sunday)",
+  "date_display": "Sunday, August 2",
+  "date_short": "Sun · Aug 2",
   "generated_label": "Generated last night for today",
   "breakfast": {
-    "dish_hindi": "आलू पराठा और दही के साथ उबला अंडा",
-    "dish_english": "Aloo Paratha with Yogurt and Boiled Egg",
-    "ingredients_hindi": "आलू, गेहूं का आटा, दही, अंडा, धनिया, हरा मिर्च, मसाले",
+    "dish_hindi": "ओट्स पोहा और नमकीन दही, उबला हुआ अंडा",
+    "dish_english": "Oats Poha with Spiced Yogurt and Boiled Egg",
+    "ingredients_hindi": "ओट्स, पोहा, प्याज़, मटर, गाजर, हरी मिर्च, दही, अंडा, नमक, जीरा",
     "ingredients_list_hi": [
-      "आलू",
-      "गेहूं का आटा",
+      "ओट्स",
+      "पोहा",
+      "प्याज़",
+      "मटर",
+      "गाजर",
+      "हरी मिर्च",
       "दही",
       "अंडा",
-      "धनिया",
-      "हरा मिर्च",
-      "मसाले"
+      "नमक",
+      "जीरा"
     ],
     "ingredients_list_en": [
-      "Potato",
-      "Whole wheat flour",
+      "Oats",
+      "Poha (flattened rice)",
+      "Onion",
+      "Green Peas",
+      "Carrot",
+      "Green Chili",
       "Yogurt",
       "Egg",
-      "Coriander",
-      "Green chili",
-      "Spices"
+      "Salt",
+      "Cumin"
     ],
-    "prep_notes_hi": "आलू को अच्छी तरह मैश करके उसमें मसाले डालें। आटे को गूंध लें और पराठे बेलकर तवे पर सेंक लें।",
-    "prep_notes_en": "Mash the potatoes well and mix with spices. Knead the dough and roll out parathas. Cook on a griddle.",
+    "prep_notes_hi": "पोहे को धोकर निकाल लें, ओट्स को हल्का भूनें। प्याज़, मटर, गाजर पकाएं, फिर पोहा और ओट्स मिलाएं।",
+    "prep_notes_en": "Wash and drain poha, lightly roast oats. Cook onion, peas, and carrot, then mix in poha and oats.",
     "vizz_macros": {
-      "cal": 490,
-      "protein": 18,
-      "fat": 15,
+      "cal": 400,
+      "protein": 16,
+      "fat": 10,
       "carbs": 65
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=aloo%20paratha%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=oats%20poha%20recipe%20recipe"
   },
   "lunch": {
-    "dish_hindi": "छोले के साथ चावल, पापड़ और अचार",
-    "dish_english": "Chole with Rice, Papad and Pickle",
-    "ingredients_hindi": "चना, बासमती चावल, पापड़, अचार, मसाले, टमाटर, प्याज",
+    "dish_hindi": "मटर पुलाव और बूंदी रायता",
+    "dish_english": "Matar Pulao with Boondi Raita",
+    "ingredients_hindi": "बासमती चावल, मटर, प्याज़, जीरा, बूंदी, दही, नमक",
     "ingredients_list_hi": [
-      "चना",
       "बासमती चावल",
-      "पापड़",
-      "अचार",
-      "मसाले",
-      "टमाटर",
-      "प्याज"
+      "मटर",
+      "प्याज़",
+      "जीरा",
+      "बूंदी",
+      "दही",
+      "नमक"
     ],
     "ingredients_list_en": [
-      "Chickpeas",
-      "Basmati rice",
-      "Papad",
-      "Pickle",
-      "Spices",
-      "Tomato",
-      "Onion"
+      "Basmati Rice",
+      "Green Peas",
+      "Onion",
+      "Cumin",
+      "Boondi",
+      "Yogurt",
+      "Salt"
     ],
-    "prep_notes_hi": "छोले को उबालकर मसाले और सब्जियों के साथ पकाएं। इसे चावल के साथ पैक कर लें, जहां भी ले जाएं और माइक्रोवेव में गरम करें।",
-    "prep_notes_en": "Boil chickpeas and cook with spices and vegetables. Pack with rice, travels well and can be reheated in a microwave.",
+    "prep_notes_hi": "यह कार्यालय ले जाने के लिए उपयुक्त है और माइक्रोवेव में गरम किया जा सकता है।",
+    "prep_notes_en": "This is suitable for taking to the office and can be reheated in the microwave.",
     "vizz_macros": {
-      "cal": 700,
-      "protein": 25,
-      "fat": 8,
-      "carbs": 125
+      "cal": 500,
+      "protein": 12,
+      "fat": 10,
+      "carbs": 90
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=chole%20rice%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=matar%20pulao%20recipe%20recipe"
   },
   "dinner": {
-    "dish_hindi": "खिचड़ी के साथ धनिया चटनी",
-    "dish_english": "Khichdi with Coriander Chutney",
-    "ingredients_hindi": "चावल, मूंग दाल, गाजर, मटर, धनिया, चटनी के मसाले",
+    "dish_hindi": "पालक पनीर, तवा रोटी और पापड़",
+    "dish_english": "Palak Paneer with Chapati and Papad",
+    "ingredients_hindi": "पालक, पनीर, प्याज़, टमाटर, अदरक, लहसुन, मसाले, गेहूं का आटा, पापड़",
     "ingredients_list_hi": [
-      "चावल",
-      "मूंग दाल",
-      "गाजर",
-      "मटर",
-      "धनिया",
-      "चटनी के मसाले"
+      "पालक",
+      "पनीर",
+      "प्याज़",
+      "टमाटर",
+      "अदरक",
+      "लहसुन",
+      "मसाले",
+      "गेहूं का आटा",
+      "पापड़"
     ],
     "ingredients_list_en": [
-      "Rice",
-      "Moong dal",
-      "Carrot",
-      "Peas",
-      "Coriander",
-      "Chutney spices"
+      "Spinach",
+      "Paneer",
+      "Onion",
+      "Tomato",
+      "Ginger",
+      "Garlic",
+      "Spices",
+      "Wheat Flour",
+      "Papad"
     ],
-    "prep_notes_hi": "चावल और दाल को सब्जियों के साथ मिलाकर, कुकर में पकाएं। धनिया चटनी के साथ परोसें।",
-    "prep_notes_en": "Combine rice and dal with vegetables, cook in a pressure cooker. Serve with coriander chutney.",
+    "prep_notes_hi": "पालक को अच्छी तरह धोकर उबालें। मसाले और टमाटर के साथ पकाएं। पनीर डालें और रोटी के साथ परोसें।",
+    "prep_notes_en": "Wash the spinach thoroughly and boil. Cook with spices and tomato. Add paneer and serve with chapati.",
     "vizz_macros": {
-      "cal": 450,
-      "protein": 14,
-      "fat": 5,
-      "carbs": 84
+      "cal": 800,
+      "protein": 30,
+      "fat": 25,
+      "carbs": 65
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=khichdi%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=palak%20paneer%20recipe%20recipe"
   },
   "vizz_daily_total_from_meals": {
-    "cal": 1640,
-    "protein": 57,
-    "fat": 28,
-    "carbs": 274
+    "cal": 1700,
+    "protein": 58,
+    "fat": 45,
+    "carbs": 220
   },
   "vizz_daily_total_with_shake": {
-    "cal": 1940,
-    "protein": 97,
-    "fat": 33,
-    "carbs": 299
+    "cal": 2000,
+    "protein": 98,
+    "fat": 50,
+    "carbs": 245
   },
-  "macro_check": "Needs additional 60 cal, 13g protein, 27g carbs to hit target; consider adding peanuts or seeds."
+  "macro_check": "Hits calorie and carb targets, but falls short on protein by 12g and fat by 10g."
 }
