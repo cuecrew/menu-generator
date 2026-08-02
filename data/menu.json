@@ -1,125 +1,139 @@
 {
-  "date": "2026-08-02 (Sunday)",
-  "date_display": "Sunday, August 2",
-  "date_short": "Sun · Aug 2",
+  "date": "2026-08-03 (Monday)",
+  "date_display": "Monday, August 3",
+  "date_short": "Mon · Aug 3",
   "generated_label": "Generated last night for today",
   "breakfast": {
-    "dish_hindi": "ओट्स पोहा और नमकीन दही, उबला हुआ अंडा",
-    "dish_english": "Oats Poha with Spiced Yogurt and Boiled Egg",
-    "ingredients_hindi": "ओट्स, पोहा, प्याज़, मटर, गाजर, हरी मिर्च, दही, अंडा, नमक, जीरा",
+    "dish_hindi": "पोहा और उबला अंडा",
+    "dish_english": "Poha with Boiled Egg",
+    "ingredients_hindi": "पोहा, प्याज, मटर, हरी मिर्च, नींबू, धनिया, नमक, तेल, उबला अंडा",
     "ingredients_list_hi": [
-      "ओट्स",
       "पोहा",
-      "प्याज़",
+      "प्याज",
       "मटर",
-      "गाजर",
       "हरी मिर्च",
-      "दही",
-      "अंडा",
+      "नींबू",
+      "धनिया",
       "नमक",
-      "जीरा"
+      "तेल",
+      "उबला अंडा"
     ],
     "ingredients_list_en": [
-      "Oats",
       "Poha (flattened rice)",
       "Onion",
-      "Green Peas",
-      "Carrot",
-      "Green Chili",
-      "Yogurt",
-      "Egg",
+      "Peas",
+      "Green chili",
+      "Lemon",
+      "Coriander",
       "Salt",
-      "Cumin"
+      "Oil",
+      "Boiled egg"
     ],
-    "prep_notes_hi": "पोहे को धोकर निकाल लें, ओट्स को हल्का भूनें। प्याज़, मटर, गाजर पकाएं, फिर पोहा और ओट्स मिलाएं।",
-    "prep_notes_en": "Wash and drain poha, lightly roast oats. Cook onion, peas, and carrot, then mix in poha and oats.",
+    "prep_notes_hi": "आधा पका हुआ प्याज और मटर के साथ पोहे को भून लें। स्वाद के अनुसार नमक डालें और नींबू का रस डालें। धनिया से सजाएँ।",
+    "prep_notes_en": "Sauté poha with half-cooked onions and peas. Add salt to taste and a squeeze of lemon. Garnish with coriander.",
     "vizz_macros": {
-      "cal": 400,
-      "protein": 16,
-      "fat": 10,
-      "carbs": 65
+      "cal": 370,
+      "protein": 12,
+      "fat": 11,
+      "carbs": 58
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=oats%20poha%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=poha%20recipe%20hindi%20recipe"
   },
   "lunch": {
-    "dish_hindi": "मटर पुलाव और बूंदी रायता",
-    "dish_english": "Matar Pulao with Boondi Raita",
-    "ingredients_hindi": "बासमती चावल, मटर, प्याज़, जीरा, बूंदी, दही, नमक",
+    "dish_hindi": "तुअर दाल और बासमती चावल, पापड़ और आम का आचार",
+    "dish_english": "Toor Dal with Basmati Rice, Papad & Mango Pickle",
+    "ingredients_hindi": "तुअर दाल, बासमती चावल,जीरा, प्याज, टमाटर, अदरक, लहसुन, हरी मिर्च, घी, नमक, हल्दी, पापड़, आम का आचार",
     "ingredients_list_hi": [
+      "तुअर दाल",
       "बासमती चावल",
-      "मटर",
-      "प्याज़",
       "जीरा",
-      "बूंदी",
-      "दही",
-      "नमक"
-    ],
-    "ingredients_list_en": [
-      "Basmati Rice",
-      "Green Peas",
-      "Onion",
-      "Cumin",
-      "Boondi",
-      "Yogurt",
-      "Salt"
-    ],
-    "prep_notes_hi": "यह कार्यालय ले जाने के लिए उपयुक्त है और माइक्रोवेव में गरम किया जा सकता है।",
-    "prep_notes_en": "This is suitable for taking to the office and can be reheated in the microwave.",
-    "vizz_macros": {
-      "cal": 500,
-      "protein": 12,
-      "fat": 10,
-      "carbs": 90
-    },
-    "youtube_url": "https://www.youtube.com/results?search_query=matar%20pulao%20recipe%20recipe"
-  },
-  "dinner": {
-    "dish_hindi": "पालक पनीर, तवा रोटी और पापड़",
-    "dish_english": "Palak Paneer with Chapati and Papad",
-    "ingredients_hindi": "पालक, पनीर, प्याज़, टमाटर, अदरक, लहसुन, मसाले, गेहूं का आटा, पापड़",
-    "ingredients_list_hi": [
-      "पालक",
-      "पनीर",
-      "प्याज़",
+      "प्याज",
       "टमाटर",
       "अदरक",
       "लहसुन",
-      "मसाले",
-      "गेहूं का आटा",
-      "पापड़"
+      "हरी मिर्च",
+      "घी",
+      "नमक",
+      "हल्दी",
+      "पापड़",
+      "आम का आचार"
     ],
     "ingredients_list_en": [
-      "Spinach",
-      "Paneer",
+      "Toor dal (pigeon peas)",
+      "Basmati rice",
+      "Cumin seeds",
       "Onion",
       "Tomato",
       "Ginger",
       "Garlic",
-      "Spices",
-      "Wheat Flour",
-      "Papad"
+      "Green chili",
+      "Ghee",
+      "Salt",
+      "Turmeric",
+      "Papad",
+      "Mango pickle"
     ],
-    "prep_notes_hi": "पालक को अच्छी तरह धोकर उबालें। मसाले और टमाटर के साथ पकाएं। पनीर डालें और रोटी के साथ परोसें।",
-    "prep_notes_en": "Wash the spinach thoroughly and boil. Cook with spices and tomato. Add paneer and serve with chapati.",
+    "prep_notes_hi": "दाल को जीरा, प्याज, टमाटर के तड़के के साथ बेल के। स्वाद के अनुसार नमक डालें। अच्छी तरह से पैक करके यात्रा योग्य बनाएं।",
+    "prep_notes_en": "Prepare the dal with cumin, onion, and tomato tempering. Add salt to taste. Pack well to make it travel-friendly.",
     "vizz_macros": {
-      "cal": 800,
-      "protein": 30,
-      "fat": 25,
-      "carbs": 65
+      "cal": 690,
+      "protein": 28,
+      "fat": 9,
+      "carbs": 128
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=palak%20paneer%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=toor%20dal%20rice%20recipe%20recipe"
+  },
+  "dinner": {
+    "dish_hindi": "मिक्स वेज पुलाव और रायता",
+    "dish_english": "Mixed Vegetable Pulao with Raita",
+    "ingredients_hindi": "बासमती चावल, मिश्रित सब्जियाँ (गाजर, मटर, बीन्स), जीरा, इलायची, लौंग, दालचीनी, नमक, दही, काला नमक, भुना जीरा पाउडर, पुदीना",
+    "ingredients_list_hi": [
+      "बासमती चावल",
+      "मिश्रित सब्जियाँ",
+      "जीरा",
+      "इलायची",
+      "लौंग",
+      "दालचीनी",
+      "नमक",
+      "दही",
+      "काला नमक",
+      "भुना जीरा पाउडर",
+      "पुदीना"
+    ],
+    "ingredients_list_en": [
+      "Basmati rice",
+      "Mixed vegetables (carrot, peas, beans)",
+      "Cumin seeds",
+      "Cardamom",
+      "Clove",
+      "Cinnamon",
+      "Salt",
+      "Curd",
+      "Black salt",
+      "Roasted cumin powder",
+      "Mint leaves"
+    ],
+    "prep_notes_hi": "बासमती चावल को मसालों के साथ मिलाकर पका लें। इसे मिश्रित सब्जियों के साथ भूनें। ठंडा रायता के साथ परोसें।",
+    "prep_notes_en": "Cook basmati rice with spices and sauté it with mixed vegetables. Serve with cool raita.",
+    "vizz_macros": {
+      "cal": 640,
+      "protein": 16,
+      "fat": 8,
+      "carbs": 115
+    },
+    "youtube_url": "https://www.youtube.com/results?search_query=veg%20pulao%20recipe%20hindi%20recipe"
   },
   "vizz_daily_total_from_meals": {
     "cal": 1700,
-    "protein": 58,
-    "fat": 45,
-    "carbs": 220
+    "protein": 56,
+    "fat": 28,
+    "carbs": 301
   },
   "vizz_daily_total_with_shake": {
     "cal": 2000,
-    "protein": 98,
-    "fat": 50,
-    "carbs": 245
+    "protein": 96,
+    "fat": 33,
+    "carbs": 326
   },
-  "macro_check": "Hits calorie and carb targets, but falls short on protein by 12g and fat by 10g."
+  "macro_check": "Overall calorie, protein, fat, and carb targets were met. Protein slightly below; consider more dal or paneer for future meals."
 }
