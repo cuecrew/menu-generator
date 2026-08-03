@@ -1,139 +1,125 @@
 {
-  "date": "2026-08-03 (Monday)",
-  "date_display": "Monday, August 3",
-  "date_short": "Mon · Aug 3",
+  "date": "2026-08-04 (Tuesday)",
+  "date_display": "Tuesday, August 4",
+  "date_short": "Tue · Aug 4",
   "generated_label": "Generated last night for today",
   "breakfast": {
-    "dish_hindi": "पोहा और उबला अंडा",
-    "dish_english": "Poha with Boiled Egg",
-    "ingredients_hindi": "पोहा, प्याज, मटर, हरी मिर्च, नींबू, धनिया, नमक, तेल, उबला अंडा",
+    "dish_hindi": "दलीया उपमा, उबला अंडा",
+    "dish_english": "Dalia Upma with Boiled Egg",
+    "ingredients_hindi": "दलीया, सब्जियाँ (गाजर, मटर, प्याज), सरसों के बीज, करी पत्ता, हल्दी, नमक, घी, उबला अंडा",
     "ingredients_list_hi": [
-      "पोहा",
-      "प्याज",
+      "दलीया",
+      "गाजर",
       "मटर",
-      "हरी मिर्च",
-      "नींबू",
-      "धनिया",
+      "प्याज",
+      "सरसों के बीज",
+      "करी पत्ता",
+      "हल्दी",
       "नमक",
-      "तेल",
+      "घी",
       "उबला अंडा"
     ],
     "ingredients_list_en": [
-      "Poha (flattened rice)",
-      "Onion",
+      "Dalia",
+      "Carrot",
       "Peas",
-      "Green chili",
-      "Lemon",
-      "Coriander",
+      "Onion",
+      "Mustard seeds",
+      "Curry leaves",
+      "Turmeric",
       "Salt",
-      "Oil",
-      "Boiled egg"
+      "Ghee",
+      "Boiled Egg"
     ],
-    "prep_notes_hi": "आधा पका हुआ प्याज और मटर के साथ पोहे को भून लें। स्वाद के अनुसार नमक डालें और नींबू का रस डालें। धनिया से सजाएँ।",
-    "prep_notes_en": "Sauté poha with half-cooked onions and peas. Add salt to taste and a squeeze of lemon. Garnish with coriander.",
+    "prep_notes_hi": "दलीया को उबाल लें और घी में सरसों के बीज और करी पत्ता डालें। कटी सब्जियाँ डालें और हल्दी व नमक से पकाएं।",
+    "prep_notes_en": "Boil the dalia and temper with mustard seeds and curry leaves in ghee. Add chopped vegetables and cook with turmeric and salt.",
     "vizz_macros": {
-      "cal": 370,
-      "protein": 12,
-      "fat": 11,
-      "carbs": 58
+      "cal": 360,
+      "protein": 16,
+      "fat": 12,
+      "carbs": 50
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=poha%20recipe%20hindi%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=dalia%20upma%20recipe%20hindi%20recipe"
   },
   "lunch": {
-    "dish_hindi": "तुअर दाल और बासमती चावल, पापड़ और आम का आचार",
-    "dish_english": "Toor Dal with Basmati Rice, Papad & Mango Pickle",
-    "ingredients_hindi": "तुअर दाल, बासमती चावल,जीरा, प्याज, टमाटर, अदरक, लहसुन, हरी मिर्च, घी, नमक, हल्दी, पापड़, आम का आचार",
+    "dish_hindi": "राजमा चावल, पापड़ और अचार",
+    "dish_english": "Rajma Rice with Papad and Pickle",
+    "ingredients_hindi": "राजमा, बासमती चावल, तेल, टमाटर, प्याज, अदरक लहसुन पेस्ट, मसाले, पापड़, अचार",
     "ingredients_list_hi": [
-      "तुअर दाल",
+      "राजमा",
       "बासमती चावल",
-      "जीरा",
-      "प्याज",
+      "तेल",
       "टमाटर",
-      "अदरक",
-      "लहसुन",
-      "हरी मिर्च",
-      "घी",
-      "नमक",
-      "हल्दी",
-      "पापड़",
-      "आम का आचार"
+      "प्याज",
+      "अदरक लहसुन पेस्ट",
+      "मसाले",
+      "पापड़",
+      "अचार"
     ],
     "ingredients_list_en": [
-      "Toor dal (pigeon peas)",
+      "Kidney beans",
       "Basmati rice",
-      "Cumin seeds",
-      "Onion",
+      "Oil",
       "Tomato",
-      "Ginger",
-      "Garlic",
-      "Green chili",
-      "Ghee",
-      "Salt",
-      "Turmeric",
+      "Onion",
+      "Ginger garlic paste",
+      "Spices",
       "Papad",
-      "Mango pickle"
+      "Pickle"
     ],
-    "prep_notes_hi": "दाल को जीरा, प्याज, टमाटर के तड़के के साथ बेल के। स्वाद के अनुसार नमक डालें। अच्छी तरह से पैक करके यात्रा योग्य बनाएं।",
-    "prep_notes_en": "Prepare the dal with cumin, onion, and tomato tempering. Add salt to taste. Pack well to make it travel-friendly.",
+    "prep_notes_hi": "राजमा को रातभर भिगोएं और मसालों के साथ पकाएं। इसे अच्छी तरह पकाएं ताकि ऑफिस में ट्रेवल और रिहीट हो सके।",
+    "prep_notes_en": "Soak kidney beans overnight and cook with spices. Ensure it's well-cooked to travel well and reheat in the office.",
     "vizz_macros": {
-      "cal": 690,
-      "protein": 28,
-      "fat": 9,
-      "carbs": 128
+      "cal": 700,
+      "protein": 25,
+      "fat": 10,
+      "carbs": 120
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=toor%20dal%20rice%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=rajma%20rice%20recipe%20recipe"
   },
   "dinner": {
-    "dish_hindi": "मिक्स वेज पुलाव और रायता",
-    "dish_english": "Mixed Vegetable Pulao with Raita",
-    "ingredients_hindi": "बासमती चावल, मिश्रित सब्जियाँ (गाजर, मटर, बीन्स), जीरा, इलायची, लौंग, दालचीनी, नमक, दही, काला नमक, भुना जीरा पाउडर, पुदीना",
+    "dish_hindi": "कढ़ी पकोड़ा, चपाती और प्याज़",
+    "dish_english": "Kadhi Pakora with Chapati and Onion",
+    "ingredients_hindi": "बेसन, दही, बेसन पकोड़े, मसाले, चपाती, प्याज़, तेल",
     "ingredients_list_hi": [
-      "बासमती चावल",
-      "मिश्रित सब्जियाँ",
-      "जीरा",
-      "इलायची",
-      "लौंग",
-      "दालचीनी",
-      "नमक",
+      "बेसन",
       "दही",
-      "काला नमक",
-      "भुना जीरा पाउडर",
-      "पुदीना"
+      "बेसन पकोड़े",
+      "मसाले",
+      "चपाती",
+      "प्याज़",
+      "तेल"
     ],
     "ingredients_list_en": [
-      "Basmati rice",
-      "Mixed vegetables (carrot, peas, beans)",
-      "Cumin seeds",
-      "Cardamom",
-      "Clove",
-      "Cinnamon",
-      "Salt",
-      "Curd",
-      "Black salt",
-      "Roasted cumin powder",
-      "Mint leaves"
+      "Gram flour",
+      "Yogurt",
+      "Gram flour fritters",
+      "Spices",
+      "Chapati",
+      "Onion",
+      "Oil"
     ],
-    "prep_notes_hi": "बासमती चावल को मसालों के साथ मिलाकर पका लें। इसे मिश्रित सब्जियों के साथ भूनें। ठंडा रायता के साथ परोसें।",
-    "prep_notes_en": "Cook basmati rice with spices and sauté it with mixed vegetables. Serve with cool raita.",
+    "prep_notes_hi": "दही और बेसन को मिलाकर पकोड़ों के साथ पकाएं। इसे अच्छी तरह उबालें ताकि पकौड़े तैयार हो सकें।",
+    "prep_notes_en": "Mix yogurt with gram flour and cook with fritters. Boil well to prepare the pakoras.",
     "vizz_macros": {
       "cal": 640,
-      "protein": 16,
-      "fat": 8,
-      "carbs": 115
+      "protein": 12,
+      "fat": 20,
+      "carbs": 90
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=veg%20pulao%20recipe%20hindi%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=kadhi%20pakora%20recipe%20recipe"
   },
   "vizz_daily_total_from_meals": {
     "cal": 1700,
-    "protein": 56,
-    "fat": 28,
-    "carbs": 301
+    "protein": 53,
+    "fat": 42,
+    "carbs": 260
   },
   "vizz_daily_total_with_shake": {
     "cal": 2000,
-    "protein": 96,
-    "fat": 33,
-    "carbs": 326
+    "protein": 93,
+    "fat": 47,
+    "carbs": 285
   },
-  "macro_check": "Overall calorie, protein, fat, and carb targets were met. Protein slightly below; consider more dal or paneer for future meals."
+  "macro_check": "Calories, protein, and fat are slightly below targets; carbs slightly higher. Consider protein snack."
 }

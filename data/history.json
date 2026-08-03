@@ -1,120 +1,5 @@
 [
   {
-    "date": "2026-07-04 (Saturday)",
-    "date_display": "Saturday, July 4",
-    "date_short": "Sat · Jul 4",
-    "generated_label": "Generated last night for today",
-    "breakfast": {
-      "dish_hindi": "पोहा, उबला अंडा (विज्ज और फ़्लैटमेट-2 के लिए)",
-      "dish_english": "Poha with Boiled Egg (for Vizz and Flatmate-2)",
-      "ingredients_hindi": "पोहा, प्याज, हरी मिर्च, मूंगफली, नमक, हल्दी, करी पत्ता, उबला अंडा",
-      "ingredients_list_hi": [
-        "पोहा",
-        "प्याज",
-        "हरी मिर्च",
-        "मूंगफली",
-        "नमक",
-        "हल्दी",
-        "करी पत्ता",
-        "उबला अंडा"
-      ],
-      "ingredients_list_en": [
-        "Poha (flattened rice)",
-        "Onion",
-        "Green Chili",
-        "Peanuts",
-        "Salt",
-        "Turmeric",
-        "Curry Leaves",
-        "Boiled Egg"
-      ],
-      "prep_notes_hi": "पोहा धोकर चिनिंत करें। मूंगफली भूनकर बाकी सामग्रियों के साथ मिलाएं। अच्छी तरह पकाएं और गरमागरम परोसें।",
-      "prep_notes_en": "Rinse the poha and drain. Roast the peanuts and mix with other ingredients. Cook thoroughly and serve hot.",
-      "vizz_macros": {
-        "cal": 380,
-        "protein": 12,
-        "fat": 11,
-        "carbs": 55
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=poha%20recipe%20hindi%20recipe"
-    },
-    "lunch": {
-      "dish_hindi": "किम्वा पुलाव, टमाटर की चटनी",
-      "dish_english": "Quinoa Pulao with Tomato Chutney",
-      "ingredients_hindi": "क्विनोआ, सब्जियाँ, मसाले, टमाटर, हरी मिर्च, अदरक, लहसुन",
-      "ingredients_list_hi": [
-        "क्विनोआ",
-        "सब्जियाँ",
-        "मसाले",
-        "टमाटर",
-        "हरी मिर्च",
-        "अदरक",
-        "लहसुन"
-      ],
-      "ingredients_list_en": [
-        "Quinoa",
-        "Vegetables",
-        "Spices",
-        "Tomato",
-        "Green Chili",
-        "Ginger",
-        "Garlic"
-      ],
-      "prep_notes_hi": "क्विनोआ को मसालों में मिलाकर सब्जियों के साथ पकाएं। टमाटर की चटनी के साथ परोसें। यह भोजन यात्रा के लिए उपयुक्त है और माइक्रोवेव में गरम किया जा सकता है।",
-      "prep_notes_en": "Cook quinoa with spices and vegetables. Serve with tomato chutney. Suitable for travel and can be reheated in the microwave.",
-      "vizz_macros": {
-        "cal": 450,
-        "protein": 15,
-        "fat": 10,
-        "carbs": 75
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=quinoa%20pulao%20recipe%20recipe"
-    },
-    "dinner": {
-      "dish_hindi": "मिस्सी रोटी, बीन करी, मिक्स आचार",
-      "dish_english": "Missi Roti with Bean Curry and Mixed Pickle",
-      "ingredients_hindi": "बेसन, गेहूं का आटा, राजमा, मसाले, तेल, मिक्स आचार",
-      "ingredients_list_hi": [
-        "बेसन",
-        "गेहूं का आटा",
-        "राजमा",
-        "मसाले",
-        "तेल",
-        "मिक्स आचार"
-      ],
-      "ingredients_list_en": [
-        "Chickpea Flour",
-        "Wheat Flour",
-        "Kidney Beans",
-        "Spices",
-        "Oil",
-        "Mixed Pickle"
-      ],
-      "prep_notes_hi": "राजमा को मसालों में पकाएं। मिस्सी रोटी बनाने के लिए आटा मिलाएं और पकाएं। आचार के साथ परोसें।",
-      "prep_notes_en": "Cook kidney beans with spices. Mix flours to make missi roti and cook. Serve with pickle.",
-      "vizz_macros": {
-        "cal": 480,
-        "protein": 18,
-        "fat": 23,
-        "carbs": 65
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=missi%20roti%20bean%20curry%20recipe"
-    },
-    "vizz_daily_total_from_meals": {
-      "cal": 1310,
-      "protein": 45,
-      "fat": 44,
-      "carbs": 195
-    },
-    "vizz_daily_total_with_shake": {
-      "cal": 1610,
-      "protein": 85,
-      "fat": 49,
-      "carbs": 220
-    },
-    "macro_check": "Calories slightly lower; protein is sufficient. Carbs hit the target but minor protein gap remains."
-  },
-  {
     "date": "2026-07-05 (Sunday)",
     "date_display": "Sunday, July 5",
     "date_short": "Sun · Jul 5",
@@ -3576,5 +3461,130 @@
       "carbs": 326
     },
     "macro_check": "Overall calorie, protein, fat, and carb targets were met. Protein slightly below; consider more dal or paneer for future meals."
+  },
+  {
+    "date": "2026-08-04 (Tuesday)",
+    "date_display": "Tuesday, August 4",
+    "date_short": "Tue · Aug 4",
+    "generated_label": "Generated last night for today",
+    "breakfast": {
+      "dish_hindi": "दलीया उपमा, उबला अंडा",
+      "dish_english": "Dalia Upma with Boiled Egg",
+      "ingredients_hindi": "दलीया, सब्जियाँ (गाजर, मटर, प्याज), सरसों के बीज, करी पत्ता, हल्दी, नमक, घी, उबला अंडा",
+      "ingredients_list_hi": [
+        "दलीया",
+        "गाजर",
+        "मटर",
+        "प्याज",
+        "सरसों के बीज",
+        "करी पत्ता",
+        "हल्दी",
+        "नमक",
+        "घी",
+        "उबला अंडा"
+      ],
+      "ingredients_list_en": [
+        "Dalia",
+        "Carrot",
+        "Peas",
+        "Onion",
+        "Mustard seeds",
+        "Curry leaves",
+        "Turmeric",
+        "Salt",
+        "Ghee",
+        "Boiled Egg"
+      ],
+      "prep_notes_hi": "दलीया को उबाल लें और घी में सरसों के बीज और करी पत्ता डालें। कटी सब्जियाँ डालें और हल्दी व नमक से पकाएं।",
+      "prep_notes_en": "Boil the dalia and temper with mustard seeds and curry leaves in ghee. Add chopped vegetables and cook with turmeric and salt.",
+      "vizz_macros": {
+        "cal": 360,
+        "protein": 16,
+        "fat": 12,
+        "carbs": 50
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=dalia%20upma%20recipe%20hindi%20recipe"
+    },
+    "lunch": {
+      "dish_hindi": "राजमा चावल, पापड़ और अचार",
+      "dish_english": "Rajma Rice with Papad and Pickle",
+      "ingredients_hindi": "राजमा, बासमती चावल, तेल, टमाटर, प्याज, अदरक लहसुन पेस्ट, मसाले, पापड़, अचार",
+      "ingredients_list_hi": [
+        "राजमा",
+        "बासमती चावल",
+        "तेल",
+        "टमाटर",
+        "प्याज",
+        "अदरक लहसुन पेस्ट",
+        "मसाले",
+        "पापड़",
+        "अचार"
+      ],
+      "ingredients_list_en": [
+        "Kidney beans",
+        "Basmati rice",
+        "Oil",
+        "Tomato",
+        "Onion",
+        "Ginger garlic paste",
+        "Spices",
+        "Papad",
+        "Pickle"
+      ],
+      "prep_notes_hi": "राजमा को रातभर भिगोएं और मसालों के साथ पकाएं। इसे अच्छी तरह पकाएं ताकि ऑफिस में ट्रेवल और रिहीट हो सके।",
+      "prep_notes_en": "Soak kidney beans overnight and cook with spices. Ensure it's well-cooked to travel well and reheat in the office.",
+      "vizz_macros": {
+        "cal": 700,
+        "protein": 25,
+        "fat": 10,
+        "carbs": 120
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=rajma%20rice%20recipe%20recipe"
+    },
+    "dinner": {
+      "dish_hindi": "कढ़ी पकोड़ा, चपाती और प्याज़",
+      "dish_english": "Kadhi Pakora with Chapati and Onion",
+      "ingredients_hindi": "बेसन, दही, बेसन पकोड़े, मसाले, चपाती, प्याज़, तेल",
+      "ingredients_list_hi": [
+        "बेसन",
+        "दही",
+        "बेसन पकोड़े",
+        "मसाले",
+        "चपाती",
+        "प्याज़",
+        "तेल"
+      ],
+      "ingredients_list_en": [
+        "Gram flour",
+        "Yogurt",
+        "Gram flour fritters",
+        "Spices",
+        "Chapati",
+        "Onion",
+        "Oil"
+      ],
+      "prep_notes_hi": "दही और बेसन को मिलाकर पकोड़ों के साथ पकाएं। इसे अच्छी तरह उबालें ताकि पकौड़े तैयार हो सकें।",
+      "prep_notes_en": "Mix yogurt with gram flour and cook with fritters. Boil well to prepare the pakoras.",
+      "vizz_macros": {
+        "cal": 640,
+        "protein": 12,
+        "fat": 20,
+        "carbs": 90
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=kadhi%20pakora%20recipe%20recipe"
+    },
+    "vizz_daily_total_from_meals": {
+      "cal": 1700,
+      "protein": 53,
+      "fat": 42,
+      "carbs": 260
+    },
+    "vizz_daily_total_with_shake": {
+      "cal": 2000,
+      "protein": 93,
+      "fat": 47,
+      "carbs": 285
+    },
+    "macro_check": "Calories, protein, and fat are slightly below targets; carbs slightly higher. Consider protein snack."
   }
 ]
