@@ -1,125 +1,107 @@
 {
-  "date": "2026-08-04 (Tuesday)",
-  "date_display": "Tuesday, August 4",
-  "date_short": "Tue · Aug 4",
+  "date": "2026-08-05 (Wednesday)",
+  "date_display": "Wednesday, August 5",
+  "date_short": "Wed · Aug 5",
   "generated_label": "Generated last night for today",
   "breakfast": {
-    "dish_hindi": "दलीया उपमा, उबला अंडा",
-    "dish_english": "Dalia Upma with Boiled Egg",
-    "ingredients_hindi": "दलीया, सब्जियाँ (गाजर, मटर, प्याज), सरसों के बीज, करी पत्ता, हल्दी, नमक, घी, उबला अंडा",
+    "dish_hindi": "चिड़वा उपमा, उबले अंडे",
+    "dish_english": "Chivda Upma with Boiled Eggs",
+    "ingredients_hindi": "चिड़वा, प्याज, हरी मिर्च, नमक, हल्दी, उबले अंडे",
     "ingredients_list_hi": [
-      "दलीया",
-      "गाजर",
-      "मटर",
+      "चिड़वा",
       "प्याज",
-      "सरसों के बीज",
-      "करी पत्ता",
-      "हल्दी",
+      "हरी मिर्च",
       "नमक",
-      "घी",
-      "उबला अंडा"
+      "हल्दी",
+      "उबले अंडे"
     ],
     "ingredients_list_en": [
-      "Dalia",
-      "Carrot",
-      "Peas",
+      "Chivda (flattened rice)",
       "Onion",
-      "Mustard seeds",
-      "Curry leaves",
-      "Turmeric",
+      "Green chili",
       "Salt",
-      "Ghee",
-      "Boiled Egg"
+      "Turmeric",
+      "Boiled eggs"
     ],
-    "prep_notes_hi": "दलीया को उबाल लें और घी में सरसों के बीज और करी पत्ता डालें। कटी सब्जियाँ डालें और हल्दी व नमक से पकाएं।",
-    "prep_notes_en": "Boil the dalia and temper with mustard seeds and curry leaves in ghee. Add chopped vegetables and cook with turmeric and salt.",
+    "prep_notes_hi": "चिड़वा को पहले पानी में हल्का मुलायम करने दें। प्याज और हरी मिर्च को अच्छी तरह से भूनें। उबले अंडे के साथ परोसें।",
+    "prep_notes_en": "Soak the chivda briefly to soften slightly. Sauté the onions and green chilies well. Serve with boiled eggs.",
     "vizz_macros": {
-      "cal": 360,
+      "cal": 420,
       "protein": 16,
-      "fat": 12,
-      "carbs": 50
+      "fat": 13,
+      "carbs": 60
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=dalia%20upma%20recipe%20hindi%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=chivda%20upma%20recipe%20recipe"
   },
   "lunch": {
-    "dish_hindi": "राजमा चावल, पापड़ और अचार",
-    "dish_english": "Rajma Rice with Papad and Pickle",
-    "ingredients_hindi": "राजमा, बासमती चावल, तेल, टमाटर, प्याज, अदरक लहसुन पेस्ट, मसाले, पापड़, अचार",
+    "dish_hindi": "वेजिटेबल पुलाव, पुदीने की चटनी",
+    "dish_english": "Vegetable Pulao with Mint Chutney",
+    "ingredients_hindi": "बासमती चावल, मटर, गाजर, बीन्स, पुदीने की चटनी",
     "ingredients_list_hi": [
-      "राजमा",
       "बासमती चावल",
-      "तेल",
-      "टमाटर",
-      "प्याज",
-      "अदरक लहसुन पेस्ट",
-      "मसाले",
-      "पापड़",
-      "अचार"
+      "मटर",
+      "गाजर",
+      "बीन्स",
+      "पुदीने की चटनी"
     ],
     "ingredients_list_en": [
-      "Kidney beans",
       "Basmati rice",
-      "Oil",
-      "Tomato",
-      "Onion",
-      "Ginger garlic paste",
-      "Spices",
-      "Papad",
-      "Pickle"
+      "Peas",
+      "Carrot",
+      "Beans",
+      "Mint chutney"
     ],
-    "prep_notes_hi": "राजमा को रातभर भिगोएं और मसालों के साथ पकाएं। इसे अच्छी तरह पकाएं ताकि ऑफिस में ट्रेवल और रिहीट हो सके।",
-    "prep_notes_en": "Soak kidney beans overnight and cook with spices. Ensure it's well-cooked to travel well and reheat in the office.",
+    "prep_notes_hi": "वेजिटेबल पुलाव को थोड़ी कम मात्रा में पानी में पकाएं ताकि यह ज्यादा गीला न हो। इसे राज़ में रखें और माइक्रोवेव में गरम करें।",
+    "prep_notes_en": "Cook the vegetable pulao with a bit less water to prevent sogginess. Pack it appropriately and reheat in the microwave.",
     "vizz_macros": {
-      "cal": 700,
-      "protein": 25,
+      "cal": 600,
+      "protein": 14,
       "fat": 10,
-      "carbs": 120
+      "carbs": 112
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=rajma%20rice%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=vegetable%20pulao%20recipe%20recipe"
   },
   "dinner": {
-    "dish_hindi": "कढ़ी पकोड़ा, चपाती और प्याज़",
-    "dish_english": "Kadhi Pakora with Chapati and Onion",
-    "ingredients_hindi": "बेसन, दही, बेसन पकोड़े, मसाले, चपाती, प्याज़, तेल",
+    "dish_hindi": "आलू-गोभी की सब्ज़ी, चपाती और दही",
+    "dish_english": "Aloo Gobi Sabzi with Chapati and Yogurt",
+    "ingredients_hindi": "आलू, गोभी, टमाटर, मसाले, चपाती, दही",
     "ingredients_list_hi": [
-      "बेसन",
-      "दही",
-      "बेसन पकोड़े",
+      "आलू",
+      "गोभी",
+      "टमाटर",
       "मसाले",
       "चपाती",
-      "प्याज़",
-      "तेल"
+      "दही"
     ],
     "ingredients_list_en": [
-      "Gram flour",
-      "Yogurt",
-      "Gram flour fritters",
+      "Potato",
+      "Cauliflower",
+      "Tomato",
       "Spices",
       "Chapati",
-      "Onion",
-      "Oil"
+      "Yogurt"
     ],
-    "prep_notes_hi": "दही और बेसन को मिलाकर पकोड़ों के साथ पकाएं। इसे अच्छी तरह उबालें ताकि पकौड़े तैयार हो सकें।",
-    "prep_notes_en": "Mix yogurt with gram flour and cook with fritters. Boil well to prepare the pakoras.",
+    "prep_notes_hi": "आलू और गोभी को समान टुकड़ों में काटें। अच्छी तरह से मसाले भूनें और धीमी आंच पर पकाएं।",
+    "prep_notes_en": "Cut potatoes and cauliflower into similar-sized pieces. Sauté the spices well and cook on low flame.",
     "vizz_macros": {
-      "cal": 640,
-      "protein": 12,
-      "fat": 20,
-      "carbs": 90
+      "cal": 680,
+      "protein": 10,
+      "fat": 18,
+      "carbs": 100
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=kadhi%20pakora%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=aloo%20gobi%20recipe%20recipe"
   },
   "vizz_daily_total_from_meals": {
     "cal": 1700,
-    "protein": 53,
-    "fat": 42,
-    "carbs": 260
+    "protein": 40,
+    "fat": 41,
+    "carbs": 272
   },
   "vizz_daily_total_with_shake": {
     "cal": 2000,
-    "protein": 93,
-    "fat": 47,
-    "carbs": 285
+    "protein": 80,
+    "fat": 46,
+    "carbs": 297
   },
-  "macro_check": "Calories, protein, and fat are slightly below targets; carbs slightly higher. Consider protein snack."
+  "macro_check": "Caloric and fat targets hit; protein slightly low, carb intake slightly high."
 }
