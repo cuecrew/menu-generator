@@ -1,107 +1,109 @@
 {
-  "date": "2026-08-05 (Wednesday)",
-  "date_display": "Wednesday, August 5",
-  "date_short": "Wed · Aug 5",
+  "date": "2026-08-06 (Thursday)",
+  "date_display": "Thursday, August 6",
+  "date_short": "Thu · Aug 6",
   "generated_label": "Generated last night for today",
   "breakfast": {
-    "dish_hindi": "चिड़वा उपमा, उबले अंडे",
-    "dish_english": "Chivda Upma with Boiled Eggs",
-    "ingredients_hindi": "चिड़वा, प्याज, हरी मिर्च, नमक, हल्दी, उबले अंडे",
+    "dish_hindi": "ओट्स परांठा, हरी चटनी",
+    "dish_english": "Oats Paratha with Green Chutney",
+    "ingredients_hindi": "ओट्स, गेंहू का आटा, पालक, हरी मिर्च, धनिया",
     "ingredients_list_hi": [
-      "चिड़वा",
-      "प्याज",
+      "ओट्स",
+      "गेंहू का आटा",
+      "पालक",
       "हरी मिर्च",
-      "नमक",
-      "हल्दी",
-      "उबले अंडे"
+      "धनिया"
     ],
     "ingredients_list_en": [
-      "Chivda (flattened rice)",
-      "Onion",
-      "Green chili",
-      "Salt",
-      "Turmeric",
-      "Boiled eggs"
+      "Oats",
+      "Wheat Flour",
+      "Spinach",
+      "Green Chili",
+      "Coriander"
     ],
-    "prep_notes_hi": "चिड़वा को पहले पानी में हल्का मुलायम करने दें। प्याज और हरी मिर्च को अच्छी तरह से भूनें। उबले अंडे के साथ परोसें।",
-    "prep_notes_en": "Soak the chivda briefly to soften slightly. Sauté the onions and green chilies well. Serve with boiled eggs.",
+    "prep_notes_hi": "ओट्स और आटे को मिलाकर पालक और मसालों के साथ गूंथें। गर्म तवे पर परांठा बनाएं।",
+    "prep_notes_en": "Mix oats with flour, spinach, and spices to knead. Cook paratha on a hot griddle.",
     "vizz_macros": {
-      "cal": 420,
-      "protein": 16,
-      "fat": 13,
+      "cal": 320,
+      "protein": 10,
+      "fat": 6,
       "carbs": 60
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=chivda%20upma%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=oats%20paratha%20recipe%20recipe"
   },
   "lunch": {
-    "dish_hindi": "वेजिटेबल पुलाव, पुदीने की चटनी",
-    "dish_english": "Vegetable Pulao with Mint Chutney",
-    "ingredients_hindi": "बासमती चावल, मटर, गाजर, बीन्स, पुदीने की चटनी",
+    "dish_hindi": "पालक पनीर, चपाती, आचार",
+    "dish_english": "Palak Paneer with Chapati and Pickle",
+    "ingredients_hindi": "पालक, पनीर, प्याज, टमाटर, गरम मसाला, लाल मिर्च, गेंहू का आटा",
     "ingredients_list_hi": [
-      "बासमती चावल",
-      "मटर",
-      "गाजर",
-      "बीन्स",
-      "पुदीने की चटनी"
+      "पालक",
+      "पनीर",
+      "प्याज",
+      "टमाटर",
+      "गरम मसाला",
+      "लाल मिर्च",
+      "गेंहू का आटा"
     ],
     "ingredients_list_en": [
-      "Basmati rice",
-      "Peas",
-      "Carrot",
-      "Beans",
-      "Mint chutney"
+      "Spinach",
+      "Paneer",
+      "Onion",
+      "Tomato",
+      "Garam Masala",
+      "Red Chili",
+      "Wheat Flour"
     ],
-    "prep_notes_hi": "वेजिटेबल पुलाव को थोड़ी कम मात्रा में पानी में पकाएं ताकि यह ज्यादा गीला न हो। इसे राज़ में रखें और माइक्रोवेव में गरम करें।",
-    "prep_notes_en": "Cook the vegetable pulao with a bit less water to prevent sogginess. Pack it appropriately and reheat in the microwave.",
+    "prep_notes_hi": "इस व्यंजन को आसानी से ऑफिस ले जाकर गर्म किया जा सकता है।",
+    "prep_notes_en": "This dish is easily portable for office and can be reheated well.",
     "vizz_macros": {
-      "cal": 600,
-      "protein": 14,
-      "fat": 10,
-      "carbs": 112
+      "cal": 650,
+      "protein": 35,
+      "fat": 25,
+      "carbs": 70
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=vegetable%20pulao%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=palak%20paneer%20chapati%20recipe%20recipe"
   },
   "dinner": {
-    "dish_hindi": "आलू-गोभी की सब्ज़ी, चपाती और दही",
-    "dish_english": "Aloo Gobi Sabzi with Chapati and Yogurt",
-    "ingredients_hindi": "आलू, गोभी, टमाटर, मसाले, चपाती, दही",
+    "dish_hindi": "लेमन राइस, मूंग दाल, पापड़",
+    "dish_english": "Lemon Rice with Moong Dal and Papad",
+    "ingredients_hindi": "बासमती चावल, नींबू, मूंग दाल, सरसों के बीज, करी पत्ते, हरी मिर्च",
     "ingredients_list_hi": [
-      "आलू",
-      "गोभी",
-      "टमाटर",
-      "मसाले",
-      "चपाती",
-      "दही"
+      "बासमती चावल",
+      "नींबू",
+      "मूंग दाल",
+      "सरसों के बीज",
+      "करी पत्ते",
+      "हरी मिर्च"
     ],
     "ingredients_list_en": [
-      "Potato",
-      "Cauliflower",
-      "Tomato",
-      "Spices",
-      "Chapati",
-      "Yogurt"
+      "Basmati Rice",
+      "Lemon",
+      "Moong Dal",
+      "Mustard Seeds",
+      "Curry Leaves",
+      "Green Chili"
     ],
-    "prep_notes_hi": "आलू और गोभी को समान टुकड़ों में काटें। अच्छी तरह से मसाले भूनें और धीमी आंच पर पकाएं।",
-    "prep_notes_en": "Cut potatoes and cauliflower into similar-sized pieces. Sauté the spices well and cook on low flame.",
+    "prep_notes_hi": "नींबू के रस और मसालों के साथ चावल को फेंटें। मूंग दाल को हल्के मसालों के साथ पकाएं।",
+    "prep_notes_en": "Fluff the rice with lemon juice and spices. Cook moong dal with light spices.",
     "vizz_macros": {
-      "cal": 680,
-      "protein": 10,
-      "fat": 18,
-      "carbs": 100
+      "cal": 730,
+      "protein": 27,
+      "fat": 15,
+      "carbs": 90
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=aloo%20gobi%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=lemon%20rice%20moong%20dal%20recipe%20recipe"
   },
   "vizz_daily_total_from_meals": {
     "cal": 1700,
-    "protein": 40,
-    "fat": 41,
-    "carbs": 272
+    "protein": 72,
+    "fat": 46,
+    "carbs": 220
   },
   "vizz_daily_total_with_shake": {
     "cal": 2000,
-    "protein": 80,
-    "fat": 46,
-    "carbs": 297
+    "protein": 112,
+    "fat": 51,
+    "carbs": 245
   },
-  "macro_check": "Caloric and fat targets hit; protein slightly low, carb intake slightly high."
+  "macro_check": "Macros meet the targets, with a slight excess in carbs, but protein target is well met."
 }
