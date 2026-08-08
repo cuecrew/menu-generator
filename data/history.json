@@ -1,104 +1,5 @@
 [
   {
-    "date": "2026-07-08 (Wednesday)",
-    "date_display": "Wednesday, July 8",
-    "date_short": "Wed · Jul 8",
-    "generated_label": "Generated last night for today",
-    "breakfast": {
-      "dish_hindi": "मिर्च पराठा और दही, उबला अंडा (केवल Vizz और Flatmate-2 के लिए)",
-      "dish_english": "Chili Stuffed Paratha with Curd, Boiled Egg (for Vizz and Flatmate-2 only)",
-      "ingredients_hindi": "गेहूं का आटा, हरी मिर्च, उबला अंडा, दही",
-      "ingredients_list_hi": [
-        "गेहूं का आटा",
-        "हरी मिर्च",
-        "उबला अंडा",
-        "दही"
-      ],
-      "ingredients_list_en": [
-        "Wheat Flour",
-        "Green Chili",
-        "Boiled Egg",
-        "Curd"
-      ],
-      "prep_notes_hi": "आटे को अच्छी तरह गूंध लें और पतला बेलें। मिर्च का मिश्रण भरकर पराठे को घी में सेकें।",
-      "prep_notes_en": "Knead the dough thoroughly and roll thin. Fill with chili mixture and cook the paratha in ghee.",
-      "vizz_macros": {
-        "cal": 490,
-        "protein": 17,
-        "fat": 17,
-        "carbs": 60
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=chili%20paratha%20recipe%20recipe"
-    },
-    "lunch": {
-      "dish_hindi": "हरी मटर पुलाव, पुदीना रायता",
-      "dish_english": "Green Pea Pulao, Mint Raita",
-      "ingredients_hindi": "बासमती चावल, हरी मटर, पुदीना, दही",
-      "ingredients_list_hi": [
-        "बासमती चावल",
-        "हरी मटर",
-        "पुदीना",
-        "दही"
-      ],
-      "ingredients_list_en": [
-        "Basmati Rice",
-        "Green Peas",
-        "Mint",
-        "Curd"
-      ],
-      "prep_notes_hi": "इस डिश को लंच बॉक्स में आराम से पैक करें। यह 4-5 घंटों तक ताजा रहता है और माइक्रोवेव में आसानी से गरम किया जा सकता है।",
-      "prep_notes_en": "Pack this dish comfortably in a lunch box. It stays fresh for 4-5 hours and reheats well in a microwave.",
-      "vizz_macros": {
-        "cal": 450,
-        "protein": 10,
-        "fat": 8,
-        "carbs": 82
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=peas%20pulao%20recipe%20recipe"
-    },
-    "dinner": {
-      "dish_hindi": "मलाई कोफ्ता, चपाती और प्याज का सलाद",
-      "dish_english": "Malai Kofta, Chapati, and Onion Salad",
-      "ingredients_hindi": "आलू, पनीर, क्रीम, गेहूं का आटा, प्याज",
-      "ingredients_list_hi": [
-        "आलू",
-        "पनीर",
-        "क्रीम",
-        "गेहूं का आटा",
-        "प्याज"
-      ],
-      "ingredients_list_en": [
-        "Potato",
-        "Paneer",
-        "Cream",
-        "Wheat Flour",
-        "Onion"
-      ],
-      "prep_notes_hi": "काफी मलाई वाला कोफ्ता तैयार करें। गरम चपाती और ताजे कटे प्याज के साथ परोसें।",
-      "prep_notes_en": "Prepare a rich creamy kofta. Serve with hot chapati and freshly sliced onions.",
-      "vizz_macros": {
-        "cal": 760,
-        "protein": 28,
-        "fat": 20,
-        "carbs": 82
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=malai%20kofta%20recipe%20recipe"
-    },
-    "vizz_daily_total_from_meals": {
-      "cal": 1700,
-      "protein": 55,
-      "fat": 45,
-      "carbs": 224
-    },
-    "vizz_daily_total_with_shake": {
-      "cal": 2000,
-      "protein": 95,
-      "fat": 50,
-      "carbs": 249
-    },
-    "macro_check": "Calories and carbs met. Protein intake slightly below target, consider adding more protein-rich foods."
-  },
-  {
     "date": "2026-07-09 (Thursday)",
     "date_display": "Thursday, July 9",
     "date_short": "Thu · Jul 9",
@@ -3558,5 +3459,118 @@
       "carbs": 295
     },
     "macro_check": "Protein slightly under target, consider adding a side of yogurt to breakfast."
+  },
+  {
+    "date": "2026-08-09 (Sunday)",
+    "date_display": "Sunday, August 9",
+    "date_short": "Sun · Aug 9",
+    "generated_label": "Generated last night for today",
+    "breakfast": {
+      "dish_hindi": "वेजिटेबल उपमा, उबले अंडे",
+      "dish_english": "Vegetable Upma with Boiled Eggs",
+      "ingredients_hindi": "रवा, मटर, गाजर, प्याज, टमाटर, हरी मिर्च, धनिया, अंडे",
+      "ingredients_list_hi": [
+        "रवा",
+        "मटर",
+        "गाजर",
+        "प्याज",
+        "टमाटर",
+        "हरी मिर्च",
+        "धनिया",
+        "अंडे"
+      ],
+      "ingredients_list_en": [
+        "Rava (semolina)",
+        "Peas",
+        "Carrot",
+        "Onion",
+        "Tomato",
+        "Green Chili",
+        "Coriander",
+        "Eggs"
+      ],
+      "prep_notes_hi": "रवा को पहले भून लें। सब्जियों को अच्छी तरह से पकने तक तलें। अंडे को अलग से उबालें।",
+      "prep_notes_en": "Roast the semolina before cooking. Fry the vegetables until cooked thoroughly. Boil the eggs separately.",
+      "vizz_macros": {
+        "cal": 380,
+        "protein": 12,
+        "fat": 6,
+        "carbs": 72
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=vegetable%20upma%20recipe%20recipe"
+    },
+    "lunch": {
+      "dish_hindi": "राजमा चावल, बूँदी रायता",
+      "dish_english": "Rajma Rice with Boondi Raita",
+      "ingredients_hindi": "राजमा, चावल, जीरा, दही, बूँदी, मसाले",
+      "ingredients_list_hi": [
+        "राजमा",
+        "चावल",
+        "जीरा",
+        "दही",
+        "बूँदी",
+        "मसाले"
+      ],
+      "ingredients_list_en": [
+        "Rajma (Kidney Beans)",
+        "Rice",
+        "Cumin",
+        "Curd",
+        "Boondi",
+        "Spices"
+      ],
+      "prep_notes_hi": "राजमा को रात भर भिगो दें। चावल और राजमा को अलग से पकाएं। ऑफिस ले जाने हेतु यह पकवान अच्छी तरह से यात्रा और माइक्रोवेव गर्म होगा।",
+      "prep_notes_en": "Soak rajma overnight. Cook rice and rajma separately. This dish travels and reheats well for office.",
+      "vizz_macros": {
+        "cal": 650,
+        "protein": 23,
+        "fat": 8,
+        "carbs": 116
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=rajma%20rice%20recipe%20recipe"
+    },
+    "dinner": {
+      "dish_hindi": "पनीर तवा मसाला, नान, प्याज",
+      "dish_english": "Paneer Tawa Masala with Naan and Onion",
+      "ingredients_hindi": "पनीर, नान, प्याज, टमाटर, मिर्च मसाला, हरा धनिया",
+      "ingredients_list_hi": [
+        "पनीर",
+        "नान",
+        "प्याज",
+        "टमाटर",
+        "मिर्च मसाला",
+        "हरा धनिया"
+      ],
+      "ingredients_list_en": [
+        "Paneer",
+        "Naan",
+        "Onion",
+        "Tomato",
+        "Chili Powder",
+        "Coriander"
+      ],
+      "prep_notes_hi": "पनीर को तवा पर हल्का भून लें। टमाटर और मसाले मिलाकर ग्रेवी तैयार करें।",
+      "prep_notes_en": "Lightly roast the paneer on a tawa. Prepare gravy by adding tomatoes and spices.",
+      "vizz_macros": {
+        "cal": 680,
+        "protein": 24,
+        "fat": 30,
+        "carbs": 70
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=paneer%20tawa%20masala%20recipe%20recipe"
+    },
+    "vizz_daily_total_from_meals": {
+      "cal": 1710,
+      "protein": 59,
+      "fat": 44,
+      "carbs": 258
+    },
+    "vizz_daily_total_with_shake": {
+      "cal": 2010,
+      "protein": 99,
+      "fat": 49,
+      "carbs": 283
+    },
+    "macro_check": "Hits calorie and fat targets. Protein slightly below target, carbs slightly above."
   }
 ]
