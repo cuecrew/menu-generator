@@ -1,117 +1,115 @@
 {
-  "date": "2026-08-10 (Monday)",
-  "date_display": "Monday, August 10",
-  "date_short": "Mon · Aug 10",
+  "date": "2026-08-11 (Tuesday)",
+  "date_display": "Tuesday, August 11",
+  "date_short": "Tue · Aug 11",
   "generated_label": "Generated last night for today",
   "breakfast": {
-    "dish_hindi": "मसाला ओट्स और उबला अंडा (विज और फ्लैटमेट-2 के लिए)",
-    "dish_english": "Masala Oats and Boiled Egg (for Vizz and Flatmate-2)",
-    "ingredients_hindi": "ओट्स, टमाटर, हरी मिर्च, प्याज, गाजर, नमक, हल्दी, उबला अंडा (केवल विज और फ्लैटमेट-2)",
+    "dish_hindi": "पालक पराठा और उबला अंडा",
+    "dish_english": "Spinach Paratha with Boiled Egg",
+    "ingredients_hindi": "गेहूं का आटा, पालक, नमक, तेल, पानी, उबला अंडा",
     "ingredients_list_hi": [
-      "ओट्स",
-      "टमाटर",
-      "हरी मिर्च",
-      "प्याज",
-      "गाजर",
+      "गेहूं का आटा",
+      "पालक",
       "नमक",
-      "हल्दी",
+      "तेल",
+      "पानी",
       "उबला अंडा"
     ],
     "ingredients_list_en": [
-      "Oats",
-      "Tomato",
-      "Green Chili",
-      "Onion",
-      "Carrot",
+      "Wheat flour",
+      "Spinach",
       "Salt",
-      "Turmeric",
+      "Oil",
+      "Water",
       "Boiled Egg"
     ],
-    "prep_notes_hi": "ओट्स को अच्छे से पकाएं ताकि वे नरम और क्रीमी बनें। मसाला और सब्जियों को अच्छी तरह से मिलाएं।",
-    "prep_notes_en": "Cook the oats until soft and creamy. Mix the masala and vegetables well.",
+    "prep_notes_hi": "पालक को काटकर आटे में मिलाएँ। हल्का नमक और तेल डालकर नरम आटा गूँथें। तवा गर्म करें और पराठा सेंके।",
+    "prep_notes_en": "Chop spinach and mix with flour. Add a little salt and oil, then knead to a soft dough. Heat a griddle and cook the paratha.",
     "vizz_macros": {
-      "cal": 370,
-      "protein": 18,
+      "cal": 350,
+      "protein": 12,
       "fat": 10,
-      "carbs": 50
+      "carbs": 55
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=masala%20oats%20recipe%20hindi%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=spinach%20paratha%20recipe%20recipe"
   },
   "lunch": {
-    "dish_hindi": "मूर्ति डाल चावल के साथ अद्रक और अचार",
-    "dish_english": "Mixed Dal with Brown Rice, Ginger, and Pickle",
-    "ingredients_hindi": "मूंग दाल, अरहर दाल, चना दाल, भूरा चावल, अदरक, अचार, नमक",
+    "dish_hindi": "मसूर दाल खिचड़ी और पापड़",
+    "dish_english": "Masoor Dal Khichdi with Papad",
+    "ingredients_hindi": "मसूर दाल, चावल, नमक, हल्दी, जीरा, हरी मिर्च, पापड़",
     "ingredients_list_hi": [
-      "मूंग दाल",
-      "अरहर दाल",
-      "चना दाल",
-      "भूरा चावल",
-      "अदरक",
-      "अचार",
-      "नमक"
-    ],
-    "ingredients_list_en": [
-      "Moong Dal",
-      "Arhar Dal",
-      "Chana Dal",
-      "Brown Rice",
-      "Ginger",
-      "Pickle",
-      "Salt"
-    ],
-    "prep_notes_hi": "यह पकवान कार्य यात्रा के लिए अच्छा है और चावल और दाल को माइक्रोवेव में गर्म किया जा सकता है।",
-    "prep_notes_en": "This dish travels well for work and the rice and dal can be reheated in the microwave.",
-    "vizz_macros": {
-      "cal": 690,
-      "protein": 35,
-      "fat": 7,
-      "carbs": 120
-    },
-    "youtube_url": "https://www.youtube.com/results?search_query=mixed%20dal%20recipe%20recipe"
-  },
-  "dinner": {
-    "dish_hindi": "साबुदाना खिचड़ी और दही",
-    "dish_english": "Sabudana Khichdi with Curd",
-    "ingredients_hindi": "साबुदाना, आलू, मूंगफली, जीरा, हरी मिर्च, दही, नमक",
-    "ingredients_list_hi": [
-      "साबुदाना",
-      "आलू",
-      "मूंगफली",
+      "मसूर दाल",
+      "चावल",
+      "नमक",
+      "हल्दी",
       "जीरा",
       "हरी मिर्च",
-      "दही",
-      "नमक"
+      "पापड़"
     ],
     "ingredients_list_en": [
-      "Sabudana",
-      "Potato",
-      "Peanut",
-      "Cumin",
-      "Green Chili",
-      "Curd",
-      "Salt"
+      "Red lentils (Masoor dal)",
+      "Rice",
+      "Salt",
+      "Turmeric",
+      "Cumin seeds",
+      "Green chili",
+      "Papad"
     ],
-    "prep_notes_hi": "साबुदाना को पहले से भिगोकर रखें ताकि वह अच्छी तरह से पक सके। मूंगफली और आलू को अच्छे से पकाएं।",
-    "prep_notes_en": "Soak sabudana beforehand to ensure it cooks well. Cook peanuts and potatoes thoroughly.",
+    "prep_notes_hi": "दाल और चावल को मिलाकर कुछ घंटों भिगो दें। मसालों के साथ पकाएं। यह यात्रा के लिए अनुकूल है और माइक्रोवेव में गर्म किया जा सकता है।",
+    "prep_notes_en": "Soak the dal and rice together for a few hours. Cook with spices. This travels well and can be reheated in the microwave.",
     "vizz_macros": {
-      "cal": 640,
-      "protein": 14,
-      "fat": 25,
-      "carbs": 90
+      "cal": 400,
+      "protein": 18,
+      "fat": 3,
+      "carbs": 75
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=sabudana%20khichdi%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=masoor%20dal%20khichdi%20recipe%20recipe"
+  },
+  "dinner": {
+    "dish_hindi": "पनीर टिक्का और धनिया की चटनी",
+    "dish_english": "Paneer Tikka with Coriander Chutney",
+    "ingredients_hindi": "पनीर, दही, धनिया पाउडर, गरम मसाला, लाल मिर्च पाउडर, नमक, तेल, धनिया",
+    "ingredients_list_hi": [
+      "पनीर",
+      "दही",
+      "धनिया पाउडर",
+      "गरम मसाला",
+      "लाल मिर्च पाउडर",
+      "नमक",
+      "तेल",
+      "धनिया"
+    ],
+    "ingredients_list_en": [
+      "Paneer",
+      "Yogurt",
+      "Coriander powder",
+      "Garam masala",
+      "Red chili powder",
+      "Salt",
+      "Oil",
+      "Coriander"
+    ],
+    "prep_notes_hi": "पनीर को मसालों और दही के मिश्रण में मैरिनेट करें। तवे पर तेल लगाकर ग्रिल करें। धनिया चटनी के साथ परोसें।",
+    "prep_notes_en": "Marinate the paneer in a spice and yogurt mixture. Grill on a pan with oil. Serve with coriander chutney.",
+    "vizz_macros": {
+      "cal": 450,
+      "protein": 25,
+      "fat": 25,
+      "carbs": 10
+    },
+    "youtube_url": "https://www.youtube.com/results?search_query=paneer%20tikka%20recipe%20recipe"
   },
   "vizz_daily_total_from_meals": {
-    "cal": 1700,
-    "protein": 67,
-    "fat": 42,
-    "carbs": 260
+    "cal": 1200,
+    "protein": 55,
+    "fat": 38,
+    "carbs": 140
   },
   "vizz_daily_total_with_shake": {
-    "cal": 2000,
-    "protein": 107,
-    "fat": 47,
-    "carbs": 285
+    "cal": 1500,
+    "protein": 95,
+    "fat": 43,
+    "carbs": 165
   },
-  "macro_check": "Total is slightly exceeding target carbs, but protein and fat targets are adequately met."
+  "macro_check": "Does not fully meet target; significant shortfall in calories and carbs, moderate shortfall in protein."
 }

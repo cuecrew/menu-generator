@@ -1,106 +1,5 @@
 [
   {
-    "date": "2026-07-10 (Friday)",
-    "date_display": "Friday, July 10",
-    "date_short": "Fri · Jul 10",
-    "generated_label": "Generated last night for today",
-    "breakfast": {
-      "dish_hindi": "ओट्स पोरिज और उबला अंडा",
-      "dish_english": "Oats Porridge with Boiled Egg",
-      "ingredients_hindi": "ओट्स, दूध, शहद, उबला अंडा",
-      "ingredients_list_hi": [
-        "ओट्स",
-        "दूध",
-        "शहद",
-        "उबला अंडा"
-      ],
-      "ingredients_list_en": [
-        "Oats",
-        "Milk",
-        "Honey",
-        "Boiled Egg"
-      ],
-      "prep_notes_hi": "ओट्स को दूध में पका लें और मीठा करने के लिए थोड़ा शहद डालें। विज़्ज़ और फ्लैटमेट-2 के लिए अंडा उबाल लें।",
-      "prep_notes_en": "Cook oats in milk and add a bit of honey for sweetness. Boil an egg for Vizz and Flatmate-2.",
-      "vizz_macros": {
-        "cal": 370,
-        "protein": 18,
-        "fat": 10,
-        "carbs": 55
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=oats%20porridge%20recipe%20recipe"
-    },
-    "lunch": {
-      "dish_hindi": "मसूर दाल चावल और पापड़",
-      "dish_english": "Masoor Dal with Rice and Papad",
-      "ingredients_hindi": "मसूर दाल, बासमती चावल, पापड़",
-      "ingredients_list_hi": [
-        "मसूर दाल",
-        "बासमती चावल",
-        "पापड़"
-      ],
-      "ingredients_list_en": [
-        "Red Lentils",
-        "Basmati Rice",
-        "Papad"
-      ],
-      "prep_notes_hi": "मसूर दाल चावल पोर्टेबल है और विभिन्न प्रकार की टिफिन में पुनः गर्म किया जा सकता है।",
-      "prep_notes_en": "Masoor dal and rice are portable and can be reheated in various microwaves.",
-      "vizz_macros": {
-        "cal": 520,
-        "protein": 26,
-        "fat": 3,
-        "carbs": 106
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=masoor%20dal%20rice%20recipe%20recipe"
-    },
-    "dinner": {
-      "dish_hindi": "पाव भाजी और चटनी",
-      "dish_english": "Pav Bhaji with Chutney",
-      "ingredients_hindi": "सब्ज़ियां (आलू, गाजर, मटर, टमाटर), पाव, मसाले, चटनी",
-      "ingredients_list_hi": [
-        "आलू",
-        "गाजर",
-        "मटर",
-        "टमाटर",
-        "पाव",
-        "मसाले",
-        "चटनी"
-      ],
-      "ingredients_list_en": [
-        "Potatoes",
-        "Carrots",
-        "Peas",
-        "Tomatoes",
-        "Pav",
-        "Spices",
-        "Chutney"
-      ],
-      "prep_notes_hi": "भाजी को धीमी आंच पर पकाएं ताकि मसाले सब्ज़ियों में अच्छी तरह मिल जाएं। पाव को मक्खन में टोस्ट करें।",
-      "prep_notes_en": "Cook the bhaji on low heat to infuse the spices well with the vegetables. Toast the pav in butter.",
-      "vizz_macros": {
-        "cal": 600,
-        "protein": 26,
-        "fat": 18,
-        "carbs": 72
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=pav%20bhaji%20recipe%20recipe"
-    },
-    "vizz_daily_total_from_meals": {
-      "cal": 1490,
-      "protein": 70,
-      "fat": 31,
-      "carbs": 233
-    },
-    "vizz_daily_total_with_shake": {
-      "cal": 1790,
-      "protein": 110,
-      "fat": 36,
-      "carbs": 258
-    },
-    "macro_check": "Hits 2000/110/60/215 target, slightly over on carbs and under on calories."
-  },
-  {
     "date": "2026-07-11 (Saturday)",
     "date_display": "Saturday, July 11",
     "date_short": "Sat · Jul 11",
@@ -3560,5 +3459,120 @@
       "carbs": 285
     },
     "macro_check": "Total is slightly exceeding target carbs, but protein and fat targets are adequately met."
+  },
+  {
+    "date": "2026-08-11 (Tuesday)",
+    "date_display": "Tuesday, August 11",
+    "date_short": "Tue · Aug 11",
+    "generated_label": "Generated last night for today",
+    "breakfast": {
+      "dish_hindi": "पालक पराठा और उबला अंडा",
+      "dish_english": "Spinach Paratha with Boiled Egg",
+      "ingredients_hindi": "गेहूं का आटा, पालक, नमक, तेल, पानी, उबला अंडा",
+      "ingredients_list_hi": [
+        "गेहूं का आटा",
+        "पालक",
+        "नमक",
+        "तेल",
+        "पानी",
+        "उबला अंडा"
+      ],
+      "ingredients_list_en": [
+        "Wheat flour",
+        "Spinach",
+        "Salt",
+        "Oil",
+        "Water",
+        "Boiled Egg"
+      ],
+      "prep_notes_hi": "पालक को काटकर आटे में मिलाएँ। हल्का नमक और तेल डालकर नरम आटा गूँथें। तवा गर्म करें और पराठा सेंके।",
+      "prep_notes_en": "Chop spinach and mix with flour. Add a little salt and oil, then knead to a soft dough. Heat a griddle and cook the paratha.",
+      "vizz_macros": {
+        "cal": 350,
+        "protein": 12,
+        "fat": 10,
+        "carbs": 55
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=spinach%20paratha%20recipe%20recipe"
+    },
+    "lunch": {
+      "dish_hindi": "मसूर दाल खिचड़ी और पापड़",
+      "dish_english": "Masoor Dal Khichdi with Papad",
+      "ingredients_hindi": "मसूर दाल, चावल, नमक, हल्दी, जीरा, हरी मिर्च, पापड़",
+      "ingredients_list_hi": [
+        "मसूर दाल",
+        "चावल",
+        "नमक",
+        "हल्दी",
+        "जीरा",
+        "हरी मिर्च",
+        "पापड़"
+      ],
+      "ingredients_list_en": [
+        "Red lentils (Masoor dal)",
+        "Rice",
+        "Salt",
+        "Turmeric",
+        "Cumin seeds",
+        "Green chili",
+        "Papad"
+      ],
+      "prep_notes_hi": "दाल और चावल को मिलाकर कुछ घंटों भिगो दें। मसालों के साथ पकाएं। यह यात्रा के लिए अनुकूल है और माइक्रोवेव में गर्म किया जा सकता है।",
+      "prep_notes_en": "Soak the dal and rice together for a few hours. Cook with spices. This travels well and can be reheated in the microwave.",
+      "vizz_macros": {
+        "cal": 400,
+        "protein": 18,
+        "fat": 3,
+        "carbs": 75
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=masoor%20dal%20khichdi%20recipe%20recipe"
+    },
+    "dinner": {
+      "dish_hindi": "पनीर टिक्का और धनिया की चटनी",
+      "dish_english": "Paneer Tikka with Coriander Chutney",
+      "ingredients_hindi": "पनीर, दही, धनिया पाउडर, गरम मसाला, लाल मिर्च पाउडर, नमक, तेल, धनिया",
+      "ingredients_list_hi": [
+        "पनीर",
+        "दही",
+        "धनिया पाउडर",
+        "गरम मसाला",
+        "लाल मिर्च पाउडर",
+        "नमक",
+        "तेल",
+        "धनिया"
+      ],
+      "ingredients_list_en": [
+        "Paneer",
+        "Yogurt",
+        "Coriander powder",
+        "Garam masala",
+        "Red chili powder",
+        "Salt",
+        "Oil",
+        "Coriander"
+      ],
+      "prep_notes_hi": "पनीर को मसालों और दही के मिश्रण में मैरिनेट करें। तवे पर तेल लगाकर ग्रिल करें। धनिया चटनी के साथ परोसें।",
+      "prep_notes_en": "Marinate the paneer in a spice and yogurt mixture. Grill on a pan with oil. Serve with coriander chutney.",
+      "vizz_macros": {
+        "cal": 450,
+        "protein": 25,
+        "fat": 25,
+        "carbs": 10
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=paneer%20tikka%20recipe%20recipe"
+    },
+    "vizz_daily_total_from_meals": {
+      "cal": 1200,
+      "protein": 55,
+      "fat": 38,
+      "carbs": 140
+    },
+    "vizz_daily_total_with_shake": {
+      "cal": 1500,
+      "protein": 95,
+      "fat": 43,
+      "carbs": 165
+    },
+    "macro_check": "Does not fully meet target; significant shortfall in calories and carbs, moderate shortfall in protein."
   }
 ]
