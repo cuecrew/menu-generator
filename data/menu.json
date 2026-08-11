@@ -1,115 +1,115 @@
 {
-  "date": "2026-08-11 (Tuesday)",
-  "date_display": "Tuesday, August 11",
-  "date_short": "Tue · Aug 11",
+  "date": "2026-08-12 (Wednesday)",
+  "date_display": "Wednesday, August 12",
+  "date_short": "Wed · Aug 12",
   "generated_label": "Generated last night for today",
   "breakfast": {
-    "dish_hindi": "पालक पराठा और उबला अंडा",
-    "dish_english": "Spinach Paratha with Boiled Egg",
-    "ingredients_hindi": "गेहूं का आटा, पालक, नमक, तेल, पानी, उबला अंडा",
+    "dish_hindi": "उपमा, उबला अंडा",
+    "dish_english": "Upma with Boiled Egg",
+    "ingredients_hindi": "सूजी, प्याज, मटर, गाजर, सरसों के बीज, करी पत्ते, हरी मिर्च, उबला अंडा",
     "ingredients_list_hi": [
-      "गेहूं का आटा",
-      "पालक",
-      "नमक",
-      "तेल",
-      "पानी",
+      "सूजी",
+      "प्याज",
+      "मटर",
+      "गाजर",
+      "सरसों के बीज",
+      "करी पत्ते",
+      "हरी मिर्च",
       "उबला अंडा"
     ],
     "ingredients_list_en": [
-      "Wheat flour",
-      "Spinach",
-      "Salt",
-      "Oil",
-      "Water",
+      "Semolina",
+      "Onion",
+      "Peas",
+      "Carrot",
+      "Mustard Seeds",
+      "Curry Leaves",
+      "Green Chilli",
       "Boiled Egg"
     ],
-    "prep_notes_hi": "पालक को काटकर आटे में मिलाएँ। हल्का नमक और तेल डालकर नरम आटा गूँथें। तवा गर्म करें और पराठा सेंके।",
-    "prep_notes_en": "Chop spinach and mix with flour. Add a little salt and oil, then knead to a soft dough. Heat a griddle and cook the paratha.",
+    "prep_notes_hi": "सूजी को सूखी कढ़ाई में अच्छी तरह भूनें। सब्जियों को पहले हल्का भून कर फिर सूजी में मिलाएँ।",
+    "prep_notes_en": "Roast the semolina well in a dry pan. Lightly sauté the vegetables first, then mix in with the semolina.",
     "vizz_macros": {
-      "cal": 350,
+      "cal": 370,
       "protein": 12,
       "fat": 10,
       "carbs": 55
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=spinach%20paratha%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=upma%20recipe%20hindi%20recipe"
   },
   "lunch": {
-    "dish_hindi": "मसूर दाल खिचड़ी और पापड़",
-    "dish_english": "Masoor Dal Khichdi with Papad",
-    "ingredients_hindi": "मसूर दाल, चावल, नमक, हल्दी, जीरा, हरी मिर्च, पापड़",
+    "dish_hindi": "छोले चावल, चटनी",
+    "dish_english": "Chole with Rice and Chutney",
+    "ingredients_hindi": "काबुली चना, चावल, प्याज, टमाटर, अदरक, लहसुन, मसाले",
     "ingredients_list_hi": [
-      "मसूर दाल",
+      "काबुली चना",
       "चावल",
-      "नमक",
-      "हल्दी",
-      "जीरा",
-      "हरी मिर्च",
-      "पापड़"
+      "प्याज",
+      "टमाटर",
+      "अदरक",
+      "लहसुन",
+      "मसाले"
     ],
     "ingredients_list_en": [
-      "Red lentils (Masoor dal)",
+      "Chickpeas",
       "Rice",
-      "Salt",
-      "Turmeric",
-      "Cumin seeds",
-      "Green chili",
-      "Papad"
+      "Onion",
+      "Tomato",
+      "Ginger",
+      "Garlic",
+      "Spices"
     ],
-    "prep_notes_hi": "दाल और चावल को मिलाकर कुछ घंटों भिगो दें। मसालों के साथ पकाएं। यह यात्रा के लिए अनुकूल है और माइक्रोवेव में गर्म किया जा सकता है।",
-    "prep_notes_en": "Soak the dal and rice together for a few hours. Cook with spices. This travels well and can be reheated in the microwave.",
+    "prep_notes_hi": "चावल को स्टीम कर लें और छोले को अच्छी तरह मसालों के साथ भूनें। यात्रा के लिए अच्छा और माइक्रोवेव में गरम करें।",
+    "prep_notes_en": "Steam the rice and sauté the chickpeas well with spices. It travels well and reheats in the microwave.",
     "vizz_macros": {
-      "cal": 400,
-      "protein": 18,
-      "fat": 3,
-      "carbs": 75
+      "cal": 660,
+      "protein": 24,
+      "fat": 10,
+      "carbs": 115
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=masoor%20dal%20khichdi%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=chole%20rice%20recipe%20recipe"
   },
   "dinner": {
-    "dish_hindi": "पनीर टिक्का और धनिया की चटनी",
-    "dish_english": "Paneer Tikka with Coriander Chutney",
-    "ingredients_hindi": "पनीर, दही, धनिया पाउडर, गरम मसाला, लाल मिर्च पाउडर, नमक, तेल, धनिया",
+    "dish_hindi": "पास्ता सलाद, लहसुन की ब्रेड",
+    "dish_english": "Pasta Salad with Garlic Bread",
+    "ingredients_hindi": "पास्ता, बेल पेपर, जैतून, टमाटर, जैतून का तेल, लहसुन की ब्रेड",
     "ingredients_list_hi": [
-      "पनीर",
-      "दही",
-      "धनिया पाउडर",
-      "गरम मसाला",
-      "लाल मिर्च पाउडर",
-      "नमक",
-      "तेल",
-      "धनिया"
+      "पास्ता",
+      "बेल पेपर",
+      "जैतून",
+      "टमाटर",
+      "जैतून का तेल",
+      "लहसुन की ब्रेड"
     ],
     "ingredients_list_en": [
-      "Paneer",
-      "Yogurt",
-      "Coriander powder",
-      "Garam masala",
-      "Red chili powder",
-      "Salt",
-      "Oil",
-      "Coriander"
+      "Pasta",
+      "Bell Pepper",
+      "Olives",
+      "Tomato",
+      "Olive Oil",
+      "Garlic Bread"
     ],
-    "prep_notes_hi": "पनीर को मसालों और दही के मिश्रण में मैरिनेट करें। तवे पर तेल लगाकर ग्रिल करें। धनिया चटनी के साथ परोसें।",
-    "prep_notes_en": "Marinate the paneer in a spice and yogurt mixture. Grill on a pan with oil. Serve with coriander chutney.",
+    "prep_notes_hi": "पास्ता को अल डेंटे पकाएं और ठंडा करें। सब्जियों और तेल के साथ मिलाएं, लहसुन की ब्रेड के साथ परोसें।",
+    "prep_notes_en": "Cook pasta al dente and cool. Mix with vegetables and oil, serve with garlic bread.",
     "vizz_macros": {
-      "cal": 450,
-      "protein": 25,
+      "cal": 670,
+      "protein": 16,
       "fat": 25,
-      "carbs": 10
+      "carbs": 90
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=paneer%20tikka%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=pasta%20salad%20recipe%20recipe"
   },
   "vizz_daily_total_from_meals": {
-    "cal": 1200,
-    "protein": 55,
-    "fat": 38,
-    "carbs": 140
+    "cal": 1700,
+    "protein": 52,
+    "fat": 45,
+    "carbs": 260
   },
   "vizz_daily_total_with_shake": {
-    "cal": 1500,
-    "protein": 95,
-    "fat": 43,
-    "carbs": 165
+    "cal": 2000,
+    "protein": 92,
+    "fat": 50,
+    "carbs": 285
   },
-  "macro_check": "Does not fully meet target; significant shortfall in calories and carbs, moderate shortfall in protein."
+  "macro_check": "Approaches targets well; protein slightly below ideal, consider higher-protein snack."
 }
