@@ -1,115 +1,135 @@
 {
-  "date": "2026-08-12 (Wednesday)",
-  "date_display": "Wednesday, August 12",
-  "date_short": "Wed · Aug 12",
+  "date": "2026-08-13 (Thursday)",
+  "date_display": "Thursday, August 13",
+  "date_short": "Thu · Aug 13",
   "generated_label": "Generated last night for today",
   "breakfast": {
-    "dish_hindi": "उपमा, उबला अंडा",
-    "dish_english": "Upma with Boiled Egg",
-    "ingredients_hindi": "सूजी, प्याज, मटर, गाजर, सरसों के बीज, करी पत्ते, हरी मिर्च, उबला अंडा",
+    "dish_hindi": "मूंग दाल चिल्ला, हरी चटनी और उबला अंडा",
+    "dish_english": "Moong Dal Chilla with Green Chutney & Boiled Egg",
+    "ingredients_hindi": "मूंग दाल, पानी, नमक, हरी मिर्च, अदरक, प्याज, धनिया पत्ती, हरी चटनी, उबला अंडा",
     "ingredients_list_hi": [
-      "सूजी",
-      "प्याज",
-      "मटर",
-      "गाजर",
-      "सरसों के बीज",
-      "करी पत्ते",
+      "मूंग दाल",
+      "पानी",
+      "नमक",
       "हरी मिर्च",
+      "अदरक",
+      "प्याज",
+      "धनिया पत्ती",
+      "हरी चटनी",
       "उबला अंडा"
     ],
     "ingredients_list_en": [
-      "Semolina",
+      "Moong Dal",
+      "Water",
+      "Salt",
+      "Green Chili",
+      "Ginger",
       "Onion",
-      "Peas",
-      "Carrot",
-      "Mustard Seeds",
-      "Curry Leaves",
-      "Green Chilli",
+      "Coriander Leaves",
+      "Green Chutney",
       "Boiled Egg"
     ],
-    "prep_notes_hi": "सूजी को सूखी कढ़ाई में अच्छी तरह भूनें। सब्जियों को पहले हल्का भून कर फिर सूजी में मिलाएँ।",
-    "prep_notes_en": "Roast the semolina well in a dry pan. Lightly sauté the vegetables first, then mix in with the semolina.",
+    "prep_notes_hi": "मूंग दाल को रातभर भिगो दें। फिर हरी मिर्च और अदरक के साथ पीस लें। प्याज और धनिया डालें। तवे पर छोटे पैनकेक की तरह पकाएं।",
+    "prep_notes_en": "Soak moong dal overnight. Grind with green chili and ginger. Add onions and coriander. Cook on a griddle like small pancakes.",
     "vizz_macros": {
-      "cal": 370,
-      "protein": 12,
-      "fat": 10,
-      "carbs": 55
+      "cal": 400,
+      "protein": 18,
+      "fat": 17,
+      "carbs": 45
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=upma%20recipe%20hindi%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=moong%20dal%20chilla%20recipe%20recipe"
   },
   "lunch": {
-    "dish_hindi": "छोले चावल, चटनी",
-    "dish_english": "Chole with Rice and Chutney",
-    "ingredients_hindi": "काबुली चना, चावल, प्याज, टमाटर, अदरक, लहसुन, मसाले",
+    "dish_hindi": "पनीर पुलाव और हरी चटनी",
+    "dish_english": "Paneer Pulao with Green Chutney",
+    "ingredients_hindi": "बासमती चावल, पनीर, मटर, गाजर, शिमलामिर्च, प्याज, हरी मिर्च, धनिया पत्ती, नमक, घी, हरी चटनी",
     "ingredients_list_hi": [
-      "काबुली चना",
-      "चावल",
+      "बासमती चावल",
+      "पनीर",
+      "मटर",
+      "गाजर",
+      "शिमलामिर्च",
       "प्याज",
-      "टमाटर",
-      "अदरक",
-      "लहसुन",
-      "मसाले"
+      "हरी मिर्च",
+      "धनिया पत्ती",
+      "नमक",
+      "घी",
+      "हरी चटनी"
     ],
     "ingredients_list_en": [
-      "Chickpeas",
-      "Rice",
+      "Basmati Rice",
+      "Paneer",
+      "Peas",
+      "Carrot",
+      "Bell Pepper",
       "Onion",
-      "Tomato",
-      "Ginger",
-      "Garlic",
-      "Spices"
+      "Green Chili",
+      "Coriander Leaves",
+      "Salt",
+      "Ghee",
+      "Green Chutney"
     ],
-    "prep_notes_hi": "चावल को स्टीम कर लें और छोले को अच्छी तरह मसालों के साथ भूनें। यात्रा के लिए अच्छा और माइक्रोवेव में गरम करें।",
-    "prep_notes_en": "Steam the rice and sauté the chickpeas well with spices. It travels well and reheats in the microwave.",
+    "prep_notes_hi": "यह व्यंजन आसानी से कार्यालय के लिए ले जाया जा सकता है और गर्म होने पर स्वादिष्ट रहता है।",
+    "prep_notes_en": "This dish can be easily packed for office and retains its taste when reheated.",
     "vizz_macros": {
-      "cal": 660,
-      "protein": 24,
-      "fat": 10,
-      "carbs": 115
+      "cal": 650,
+      "protein": 25,
+      "fat": 27,
+      "carbs": 75
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=chole%20rice%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=paneer%20pulao%20recipe%20recipe"
   },
   "dinner": {
-    "dish_hindi": "पास्ता सलाद, लहसुन की ब्रेड",
-    "dish_english": "Pasta Salad with Garlic Bread",
-    "ingredients_hindi": "पास्ता, बेल पेपर, जैतून, टमाटर, जैतून का तेल, लहसुन की ब्रेड",
+    "dish_hindi": "चना दाल और गेहूँ की रोटी के साथ प्याज और अचार",
+    "dish_english": "Chana Dal with Wheat Roti, Onion & Pickle",
+    "ingredients_hindi": "चना दाल, पानी, हल्दी, नमक, हरी मिर्च, अदरक, कुचला लहसुन, घी, गेहूँ का आटा, प्याज, अचार",
     "ingredients_list_hi": [
-      "पास्ता",
-      "बेल पेपर",
-      "जैतून",
-      "टमाटर",
-      "जैतून का तेल",
-      "लहसुन की ब्रेड"
+      "चना दाल",
+      "पानी",
+      "हल्दी",
+      "नमक",
+      "हरी मिर्च",
+      "अदरक",
+      "कुचला लहसुन",
+      "घी",
+      "गेहूँ का आटा",
+      "प्याज",
+      "अचार"
     ],
     "ingredients_list_en": [
-      "Pasta",
-      "Bell Pepper",
-      "Olives",
-      "Tomato",
-      "Olive Oil",
-      "Garlic Bread"
+      "Chana Dal",
+      "Water",
+      "Turmeric",
+      "Salt",
+      "Green Chili",
+      "Ginger",
+      "Crushed Garlic",
+      "Ghee",
+      "Wheat Flour",
+      "Onion",
+      "Pickle"
     ],
-    "prep_notes_hi": "पास्ता को अल डेंटे पकाएं और ठंडा करें। सब्जियों और तेल के साथ मिलाएं, लहसुन की ब्रेड के साथ परोसें।",
-    "prep_notes_en": "Cook pasta al dente and cool. Mix with vegetables and oil, serve with garlic bread.",
+    "prep_notes_hi": "चना दाल को तब तक पकाएं जब तक कि अच्छी तरह से गल न जाए। इसे घी में तड़का दें। रोटी को ताजे आटे से बनाएं।",
+    "prep_notes_en": "Cook chana dal until it softens nicely. Temper with ghee and spices. Make roti from fresh dough.",
     "vizz_macros": {
-      "cal": 670,
-      "protein": 16,
-      "fat": 25,
-      "carbs": 90
+      "cal": 650,
+      "protein": 28,
+      "fat": 17,
+      "carbs": 100
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=pasta%20salad%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=chana%20dal%20recipe%20recipe"
   },
   "vizz_daily_total_from_meals": {
     "cal": 1700,
-    "protein": 52,
-    "fat": 45,
-    "carbs": 260
+    "protein": 71,
+    "fat": 61,
+    "carbs": 220
   },
   "vizz_daily_total_with_shake": {
     "cal": 2000,
-    "protein": 92,
-    "fat": 50,
-    "carbs": 285
+    "protein": 111,
+    "fat": 66,
+    "carbs": 245
   },
-  "macro_check": "Approaches targets well; protein slightly below ideal, consider higher-protein snack."
+  "macro_check": "Hits 2000 cal, 111g protein, 66g fat, 245g carbs target. Slightly over on carbs."
 }
