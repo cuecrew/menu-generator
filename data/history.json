@@ -1,118 +1,5 @@
 [
   {
-    "date": "2026-07-13 (Monday)",
-    "date_display": "Monday, July 13",
-    "date_short": "Mon · Jul 13",
-    "generated_label": "Generated last night for today",
-    "breakfast": {
-      "dish_hindi": "अलसी के बीज और फ्रूट्स के साथ ओट्स",
-      "dish_english": "Oats with Flaxseeds and Fruits",
-      "ingredients_hindi": "ओट्स, अलसी के बीज, दूध, शहद, केले, सेब",
-      "ingredients_list_hi": [
-        "ओट्स",
-        "अलसी के बीज",
-        "दूध",
-        "शहद",
-        "केले",
-        "सेब"
-      ],
-      "ingredients_list_en": [
-        "Oats",
-        "Flaxseeds",
-        "Milk",
-        "Honey",
-        "Bananas",
-        "Apples"
-      ],
-      "prep_notes_hi": "ओट्स को दूध के साथ उबाल लें और फिर अलसी, शहद, और फलों के टुकड़े डालें।",
-      "prep_notes_en": "Boil the oats in milk, then add flaxseeds, honey, and pieces of fruits.",
-      "vizz_macros": {
-        "cal": 350,
-        "protein": 12,
-        "fat": 7,
-        "carbs": 55
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=oats%20breakfast%20recipe%20recipe"
-    },
-    "lunch": {
-      "dish_hindi": "राजमा चावल, प्याज़ के साथ",
-      "dish_english": "Rajma with Rice and Onion Slices",
-      "ingredients_hindi": "राजमा, चावल, टमाटर, प्याज, अदरक, लहसुन, गरम मसाला",
-      "ingredients_list_hi": [
-        "राजमा",
-        "चावल",
-        "टमाटर",
-        "प्याज",
-        "अदरक",
-        "लहसुन",
-        "गरम मसाला"
-      ],
-      "ingredients_list_en": [
-        "Kidney Beans",
-        "Rice",
-        "Tomato",
-        "Onion",
-        "Ginger",
-        "Garlic",
-        "Garam Masala"
-      ],
-      "prep_notes_hi": "राजमा को रातभर भिगोकर रखें। इसे चावल के साथ पैक करें। माइक्रोवेव में आसानी से दोबारा गरम कर सकते हैं।",
-      "prep_notes_en": "Soak kidney beans overnight. Pack it along with rice. It reheats easily in a microwave.",
-      "vizz_macros": {
-        "cal": 640,
-        "protein": 24,
-        "fat": 8,
-        "carbs": 110
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=rajma%20rice%20recipe%20recipe"
-    },
-    "dinner": {
-      "dish_hindi": "मिक्स वेज पनीर, रोटी, दही",
-      "dish_english": "Mixed Veg Paneer, Roti, Yogurt",
-      "ingredients_hindi": "पनीर, मिक्स सब्जियाँ, गेहूं का आटा, दही, जीरा, हल्दी, नमक",
-      "ingredients_list_hi": [
-        "पनीर",
-        "मिक्स सब्जियाँ",
-        "गेहूं का आटा",
-        "दही",
-        "जीरा",
-        "हल्दी",
-        "नमक"
-      ],
-      "ingredients_list_en": [
-        "Paneer",
-        "Mixed Vegetables",
-        "Wheat Flour",
-        "Yogurt",
-        "Cumin Seeds",
-        "Turmeric",
-        "Salt"
-      ],
-      "prep_notes_hi": "सब्जियों को छोटे टुकड़ों में काटें। पनीर के साथ सब्जियों को भून लें।",
-      "prep_notes_en": "Chop the vegetables into small pieces. Saute the vegetables along with paneer.",
-      "vizz_macros": {
-        "cal": 650,
-        "protein": 28,
-        "fat": 30,
-        "carbs": 98
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=mixed%20veg%20paneer%20recipe%20recipe"
-    },
-    "vizz_daily_total_from_meals": {
-      "cal": 1640,
-      "protein": 64,
-      "fat": 45,
-      "carbs": 263
-    },
-    "vizz_daily_total_with_shake": {
-      "cal": 1940,
-      "protein": 104,
-      "fat": 50,
-      "carbs": 288
-    },
-    "macro_check": "Targets met for cal and fat. Minor gaps in protein (104/110) and surplus carbs (288/215)."
-  },
-  {
     "date": "2026-07-14 (Tuesday)",
     "date_display": "Tuesday, July 14",
     "date_short": "Tue · Jul 14",
@@ -3584,5 +3471,114 @@
       "carbs": 245
     },
     "macro_check": "Hits 2000 cal, 111g protein, 66g fat, 245g carbs target. Slightly over on carbs."
+  },
+  {
+    "date": "2026-08-14 (Friday)",
+    "date_display": "Friday, August 14",
+    "date_short": "Fri · Aug 14",
+    "generated_label": "Generated last night for today",
+    "breakfast": {
+      "dish_hindi": "बेसन का चीला और उबला हुआ अंडा",
+      "dish_english": "Besan Chilla with Boiled Egg",
+      "ingredients_hindi": "बेसन, प्याज, टमाटर, हरी मिर्च, धनिया, अंडा",
+      "ingredients_list_hi": [
+        "बेसन",
+        "प्याज",
+        "टमाटर",
+        "हरी मिर्च",
+        "धनिया",
+        "अंडा"
+      ],
+      "ingredients_list_en": [
+        "Besan (gram flour)",
+        "Onion",
+        "Tomato",
+        "Green Chili",
+        "Coriander",
+        "Egg"
+      ],
+      "prep_notes_hi": "बेसन, पानी, और मसाले मिलाकर पेस्ट बनाएं। नॉन-स्टिक तवे पर थोड़ा तेल लगाकर चीला पकाएं।",
+      "prep_notes_en": "Mix besan, water, and spices into a batter. Cook chilla on a non-stick pan with a little oil.",
+      "vizz_macros": {
+        "cal": 400,
+        "protein": 16,
+        "fat": 18,
+        "carbs": 44
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=besan%20chilla%20recipe%20recipe"
+    },
+    "lunch": {
+      "dish_hindi": "राजमा चावल और सलाद",
+      "dish_english": "Rajma with Rice and Salad",
+      "ingredients_hindi": "राजमा, चावल, प्याज, टमाटर, खीरा, जीरा",
+      "ingredients_list_hi": [
+        "राजमा",
+        "चावल",
+        "प्याज",
+        "टमाटर",
+        "खीरा",
+        "जीरा"
+      ],
+      "ingredients_list_en": [
+        "Rajma (kidney beans)",
+        "Rice",
+        "Onion",
+        "Tomato",
+        "Cucumber",
+        "Cumin"
+      ],
+      "prep_notes_hi": "राजमा को रात भर भिगोकर रखे और पकाकर सजीव छोले की तरह। यह यात्रा और तापमान के लिए उपयुक्त होगा।",
+      "prep_notes_en": "Soak rajma overnight and cook similar to chole. This will travel and reheat well.",
+      "vizz_macros": {
+        "cal": 700,
+        "protein": 24,
+        "fat": 8,
+        "carbs": 130
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=rajma%20rice%20recipe%20recipe"
+    },
+    "dinner": {
+      "dish_hindi": "सोया मंचूरियन और तली हुई चावल",
+      "dish_english": "Soya Manchurian and Fried Rice",
+      "ingredients_hindi": "सोया बारीक, कैप्सिकम, प्याज, लहसुन, चावल, सोया सॉस",
+      "ingredients_list_hi": [
+        "सोया बारीक",
+        "कैप्सिकम",
+        "प्याज",
+        "लहसुन",
+        "चावल",
+        "सोया सॉस"
+      ],
+      "ingredients_list_en": [
+        "Soya chunks",
+        "Capsicum",
+        "Onion",
+        "Garlic",
+        "Rice",
+        "Soy sauce"
+      ],
+      "prep_notes_hi": "सोया को भिगोकर भून लें। सब्जियों को ताजी और कुरकुरी रखना है।",
+      "prep_notes_en": "Soak and sauté soya chunks. Keep vegetables fresh and crunchy.",
+      "vizz_macros": {
+        "cal": 600,
+        "protein": 30,
+        "fat": 12,
+        "carbs": 92
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=soya%20manchurian%20recipe%20recipe"
+    },
+    "vizz_daily_total_from_meals": {
+      "cal": 1700,
+      "protein": 70,
+      "fat": 38,
+      "carbs": 266
+    },
+    "vizz_daily_total_with_shake": {
+      "cal": 2000,
+      "protein": 110,
+      "fat": 43,
+      "carbs": 291
+    },
+    "macro_check": "Meets 2000 cal and 110g protein with shake. Carbs slightly high, fats on target."
   }
 ]

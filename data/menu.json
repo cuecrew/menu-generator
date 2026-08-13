@@ -1,135 +1,109 @@
 {
-  "date": "2026-08-13 (Thursday)",
-  "date_display": "Thursday, August 13",
-  "date_short": "Thu · Aug 13",
+  "date": "2026-08-14 (Friday)",
+  "date_display": "Friday, August 14",
+  "date_short": "Fri · Aug 14",
   "generated_label": "Generated last night for today",
   "breakfast": {
-    "dish_hindi": "मूंग दाल चिल्ला, हरी चटनी और उबला अंडा",
-    "dish_english": "Moong Dal Chilla with Green Chutney & Boiled Egg",
-    "ingredients_hindi": "मूंग दाल, पानी, नमक, हरी मिर्च, अदरक, प्याज, धनिया पत्ती, हरी चटनी, उबला अंडा",
+    "dish_hindi": "बेसन का चीला और उबला हुआ अंडा",
+    "dish_english": "Besan Chilla with Boiled Egg",
+    "ingredients_hindi": "बेसन, प्याज, टमाटर, हरी मिर्च, धनिया, अंडा",
     "ingredients_list_hi": [
-      "मूंग दाल",
-      "पानी",
-      "नमक",
-      "हरी मिर्च",
-      "अदरक",
+      "बेसन",
       "प्याज",
-      "धनिया पत्ती",
-      "हरी चटनी",
-      "उबला अंडा"
+      "टमाटर",
+      "हरी मिर्च",
+      "धनिया",
+      "अंडा"
     ],
     "ingredients_list_en": [
-      "Moong Dal",
-      "Water",
-      "Salt",
-      "Green Chili",
-      "Ginger",
+      "Besan (gram flour)",
       "Onion",
-      "Coriander Leaves",
-      "Green Chutney",
-      "Boiled Egg"
+      "Tomato",
+      "Green Chili",
+      "Coriander",
+      "Egg"
     ],
-    "prep_notes_hi": "मूंग दाल को रातभर भिगो दें। फिर हरी मिर्च और अदरक के साथ पीस लें। प्याज और धनिया डालें। तवे पर छोटे पैनकेक की तरह पकाएं।",
-    "prep_notes_en": "Soak moong dal overnight. Grind with green chili and ginger. Add onions and coriander. Cook on a griddle like small pancakes.",
+    "prep_notes_hi": "बेसन, पानी, और मसाले मिलाकर पेस्ट बनाएं। नॉन-स्टिक तवे पर थोड़ा तेल लगाकर चीला पकाएं।",
+    "prep_notes_en": "Mix besan, water, and spices into a batter. Cook chilla on a non-stick pan with a little oil.",
     "vizz_macros": {
       "cal": 400,
-      "protein": 18,
-      "fat": 17,
-      "carbs": 45
+      "protein": 16,
+      "fat": 18,
+      "carbs": 44
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=moong%20dal%20chilla%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=besan%20chilla%20recipe%20recipe"
   },
   "lunch": {
-    "dish_hindi": "पनीर पुलाव और हरी चटनी",
-    "dish_english": "Paneer Pulao with Green Chutney",
-    "ingredients_hindi": "बासमती चावल, पनीर, मटर, गाजर, शिमलामिर्च, प्याज, हरी मिर्च, धनिया पत्ती, नमक, घी, हरी चटनी",
+    "dish_hindi": "राजमा चावल और सलाद",
+    "dish_english": "Rajma with Rice and Salad",
+    "ingredients_hindi": "राजमा, चावल, प्याज, टमाटर, खीरा, जीरा",
     "ingredients_list_hi": [
-      "बासमती चावल",
-      "पनीर",
-      "मटर",
-      "गाजर",
-      "शिमलामिर्च",
+      "राजमा",
+      "चावल",
       "प्याज",
-      "हरी मिर्च",
-      "धनिया पत्ती",
-      "नमक",
-      "घी",
-      "हरी चटनी"
+      "टमाटर",
+      "खीरा",
+      "जीरा"
     ],
     "ingredients_list_en": [
-      "Basmati Rice",
-      "Paneer",
-      "Peas",
-      "Carrot",
-      "Bell Pepper",
+      "Rajma (kidney beans)",
+      "Rice",
       "Onion",
-      "Green Chili",
-      "Coriander Leaves",
-      "Salt",
-      "Ghee",
-      "Green Chutney"
+      "Tomato",
+      "Cucumber",
+      "Cumin"
     ],
-    "prep_notes_hi": "यह व्यंजन आसानी से कार्यालय के लिए ले जाया जा सकता है और गर्म होने पर स्वादिष्ट रहता है।",
-    "prep_notes_en": "This dish can be easily packed for office and retains its taste when reheated.",
+    "prep_notes_hi": "राजमा को रात भर भिगोकर रखे और पकाकर सजीव छोले की तरह। यह यात्रा और तापमान के लिए उपयुक्त होगा।",
+    "prep_notes_en": "Soak rajma overnight and cook similar to chole. This will travel and reheat well.",
     "vizz_macros": {
-      "cal": 650,
-      "protein": 25,
-      "fat": 27,
-      "carbs": 75
+      "cal": 700,
+      "protein": 24,
+      "fat": 8,
+      "carbs": 130
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=paneer%20pulao%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=rajma%20rice%20recipe%20recipe"
   },
   "dinner": {
-    "dish_hindi": "चना दाल और गेहूँ की रोटी के साथ प्याज और अचार",
-    "dish_english": "Chana Dal with Wheat Roti, Onion & Pickle",
-    "ingredients_hindi": "चना दाल, पानी, हल्दी, नमक, हरी मिर्च, अदरक, कुचला लहसुन, घी, गेहूँ का आटा, प्याज, अचार",
+    "dish_hindi": "सोया मंचूरियन और तली हुई चावल",
+    "dish_english": "Soya Manchurian and Fried Rice",
+    "ingredients_hindi": "सोया बारीक, कैप्सिकम, प्याज, लहसुन, चावल, सोया सॉस",
     "ingredients_list_hi": [
-      "चना दाल",
-      "पानी",
-      "हल्दी",
-      "नमक",
-      "हरी मिर्च",
-      "अदरक",
-      "कुचला लहसुन",
-      "घी",
-      "गेहूँ का आटा",
+      "सोया बारीक",
+      "कैप्सिकम",
       "प्याज",
-      "अचार"
+      "लहसुन",
+      "चावल",
+      "सोया सॉस"
     ],
     "ingredients_list_en": [
-      "Chana Dal",
-      "Water",
-      "Turmeric",
-      "Salt",
-      "Green Chili",
-      "Ginger",
-      "Crushed Garlic",
-      "Ghee",
-      "Wheat Flour",
+      "Soya chunks",
+      "Capsicum",
       "Onion",
-      "Pickle"
+      "Garlic",
+      "Rice",
+      "Soy sauce"
     ],
-    "prep_notes_hi": "चना दाल को तब तक पकाएं जब तक कि अच्छी तरह से गल न जाए। इसे घी में तड़का दें। रोटी को ताजे आटे से बनाएं।",
-    "prep_notes_en": "Cook chana dal until it softens nicely. Temper with ghee and spices. Make roti from fresh dough.",
+    "prep_notes_hi": "सोया को भिगोकर भून लें। सब्जियों को ताजी और कुरकुरी रखना है।",
+    "prep_notes_en": "Soak and sauté soya chunks. Keep vegetables fresh and crunchy.",
     "vizz_macros": {
-      "cal": 650,
-      "protein": 28,
-      "fat": 17,
-      "carbs": 100
+      "cal": 600,
+      "protein": 30,
+      "fat": 12,
+      "carbs": 92
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=chana%20dal%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=soya%20manchurian%20recipe%20recipe"
   },
   "vizz_daily_total_from_meals": {
     "cal": 1700,
-    "protein": 71,
-    "fat": 61,
-    "carbs": 220
+    "protein": 70,
+    "fat": 38,
+    "carbs": 266
   },
   "vizz_daily_total_with_shake": {
     "cal": 2000,
-    "protein": 111,
-    "fat": 66,
-    "carbs": 245
+    "protein": 110,
+    "fat": 43,
+    "carbs": 291
   },
-  "macro_check": "Hits 2000 cal, 111g protein, 66g fat, 245g carbs target. Slightly over on carbs."
+  "macro_check": "Meets 2000 cal and 110g protein with shake. Carbs slightly high, fats on target."
 }
