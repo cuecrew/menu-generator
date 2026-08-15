@@ -1,119 +1,123 @@
 {
-  "date": "2026-08-15 (Saturday)",
-  "date_display": "Saturday, August 15",
-  "date_short": "Sat · Aug 15",
+  "date": "2026-08-16 (Sunday)",
+  "date_display": "Sunday, August 16",
+  "date_short": "Sun · Aug 16",
   "generated_label": "Generated last night for today",
   "breakfast": {
-    "dish_hindi": "दही वड़ा और उबला अंडा",
-    "dish_english": "Dahi Vada with Boiled Egg",
-    "ingredients_hindi": "मूंग दाल, दही, अंडा, हरी मिर्च, अदरक, नमक, तेल, जीरा, हींग",
+    "dish_hindi": "उपमा और उबला अंडा",
+    "dish_english": "Upma with Boiled Egg",
+    "ingredients_hindi": "रवा, प्याज, गाजर, हरी मटर, हरी मिर्च, करी पत्ता, सरसों के बीज, उबला अंडा",
     "ingredients_list_hi": [
-      "मूंग दाल",
-      "दही",
-      "अंडा",
+      "रवा",
+      "प्याज",
+      "गाजर",
+      "हरी मटर",
       "हरी मिर्च",
-      "अदरक",
-      "नमक",
-      "तेल",
-      "जीरा",
-      "हींग"
+      "करी पत्ता",
+      "सरसों के बीज",
+      "उबला अंडा"
     ],
     "ingredients_list_en": [
-      "Moong Dal",
-      "Curd",
-      "Egg",
-      "Green Chilies",
-      "Ginger",
-      "Salt",
-      "Oil",
-      "Cumin Seeds",
-      "Asafoetida"
+      "Semolina (Rava)",
+      "Onion",
+      "Carrot",
+      "Green Peas",
+      "Green Chilli",
+      "Curry Leaves",
+      "Mustard Seeds",
+      "Boiled Egg"
     ],
-    "prep_notes_hi": "दही वड़े बनाने के लिए मूंग दाल का पेस्ट बना लें। छोटे वड़े तलें और दही के साथ परोसें।",
-    "prep_notes_en": "Prepare a paste of moong dal to make vadas. Fry small vadas and serve with curd.",
+    "prep_notes_hi": "रवा को अच्छी तरह से भूने ताकि उसका रंग हल्का सुनहरा हो जाए। सब्ज़ियों को अच्छी तरह से काटें और अधिक न पकाएँ।",
+    "prep_notes_en": "Roast the semolina until it turns light golden. Chop vegetables finely and do not overcook them.",
     "vizz_macros": {
-      "cal": 350,
-      "protein": 10,
-      "fat": 12,
-      "carbs": 50
+      "cal": 420,
+      "protein": 14,
+      "fat": 11,
+      "carbs": 72
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=dahi%20vada%20recipe%20hindi%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=upma%20recipe%20hindi%20recipe"
   },
   "lunch": {
-    "dish_hindi": "पालक पनीर पराठा और हरी चटनी",
-    "dish_english": "Palak Paneer Paratha with Green Chutney",
-    "ingredients_hindi": "गेहूं का आटा, पालक, पनीर, हरी मिर्च, नमक, घी, हरी चटनी",
+    "dish_hindi": "मसूर दाल चावल और पापड़",
+    "dish_english": "Masoor Dal with Rice and Papad",
+    "ingredients_hindi": "मसूर दाल, चावल, प्याज़, टमाटर, अदरक, लहसुन, जीरा, पापड़",
     "ingredients_list_hi": [
-      "गेहूं का आटा",
-      "पालक",
-      "पनीर",
-      "हरी मिर्च",
-      "नमक",
-      "घी",
-      "हरी चटनी"
+      "मसूर दाल",
+      "चावल",
+      "प्याज़",
+      "टमाटर",
+      "अदरक",
+      "लहसुन",
+      "जीरा",
+      "पापड़"
     ],
     "ingredients_list_en": [
-      "Whole Wheat Flour",
-      "Spinach",
-      "Paneer",
-      "Green Chilies",
-      "Salt",
-      "Ghee",
-      "Green Chutney"
+      "Red Lentils (Masoor Dal)",
+      "Rice",
+      "Onion",
+      "Tomato",
+      "Ginger",
+      "Garlic",
+      "Cumin Seeds",
+      "Papad"
     ],
-    "prep_notes_hi": "पालक और पनीर के मिश्रण से पराठा भरें। घी में सेंकें। यह यात्रा और पुनः गरम करने के लिए उपयुक्त है।",
-    "prep_notes_en": "Fill the paratha with a mixture of spinach and paneer. Cook in ghee. Suitable for travel and reheating.",
+    "prep_notes_hi": "दाल और चावल को ठीक से पकाएँ ताकि वे अच्छी तरह से मिक्स हो जाएं। इसे माइक्रोवेव में फिर से गरम किया जा सकता है।",
+    "prep_notes_en": "Cook the lentils and rice well enough so they mix perfectly. It can be reheated in the microwave.",
     "vizz_macros": {
-      "cal": 480,
-      "protein": 20,
-      "fat": 20,
-      "carbs": 55
+      "cal": 640,
+      "protein": 24,
+      "fat": 6,
+      "carbs": 120
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=palak%20paneer%20paratha%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=masoor%20dal%20recipe%20recipe"
   },
   "dinner": {
-    "dish_hindi": "खीरा और मिर्च पकोड़ा के साथ चावल",
-    "dish_english": "Rice with Cucumber and Pepper Pakora",
-    "ingredients_hindi": "चावल, खीरा, मिर्च, बेसन, नमक, तेल, मसाले",
+    "dish_hindi": "मिक्स वेजिटेबल करी और चपाती",
+    "dish_english": "Mixed Vegetable Curry with Chapati",
+    "ingredients_hindi": "मिश्रित सब्जियाँ, प्याज़, टमाटर, अदरक, लहसुन, जीरा, धनिया पाउडर, हल्दी, गाड़ी रोटी",
     "ingredients_list_hi": [
-      "चावल",
-      "खीरा",
-      "मिर्च",
-      "बेसन",
-      "नमक",
-      "तेल",
-      "मसाले"
+      "मिश्रित सब्जियाँ",
+      "प्याज़",
+      "टमाटर",
+      "अदरक",
+      "लहसुन",
+      "जीरा",
+      "धनिया पाउडर",
+      "हल्दी",
+      "गाड़ी रोटी"
     ],
     "ingredients_list_en": [
-      "Rice",
-      "Cucumber",
-      "Pepper",
-      "Gram Flour",
-      "Salt",
-      "Oil",
-      "Spices"
+      "Mixed Vegetables",
+      "Onion",
+      "Tomato",
+      "Ginger",
+      "Garlic",
+      "Cumin Seeds",
+      "Coriander Powder",
+      "Turmeric",
+      "Wheat Chapati"
     ],
-    "prep_notes_hi": "पकौड़े के लिए बेसन का पेस्ट और मसाले मिलाएं। खीरा और मिर्च के टुकड़ो को तलें। चावल के साथ परोसें।",
-    "prep_notes_en": "Prepare a batter with gram flour and spices for pakoras. Fry cucumber and pepper pieces. Serve with rice.",
+    "prep_notes_hi": "सब्जियों को अच्छे से पकाएं ताकि वे नरम हो जाएँ और सभी मसाले ठीक से मिल जाएं।",
+    "prep_notes_en": "Cook the vegetables well so they soften and absorb the spices completely.",
     "vizz_macros": {
-      "cal": 500,
-      "protein": 15,
-      "fat": 13,
-      "carbs": 80
+      "cal": 640,
+      "protein": 18,
+      "fat": 18,
+      "carbs": 104
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=pakora%20recipe%20hindi%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=mixed%20vegetable%20curry%20recipe%20recipe"
   },
   "vizz_daily_total_from_meals": {
-    "cal": 1330,
-    "protein": 45,
-    "fat": 45,
-    "carbs": 185
+    "cal": 1700,
+    "protein": 56,
+    "fat": 35,
+    "carbs": 296
   },
   "vizz_daily_total_with_shake": {
-    "cal": 1630,
-    "protein": 85,
-    "fat": 50,
-    "carbs": 210
+    "cal": 2000,
+    "protein": 96,
+    "fat": 40,
+    "carbs": 321
   },
-  "macro_check": "This hits the carb target but is low by 25g protein and 10g fat. Consider supplementing with more paneer or dal."
+  "macro_check": "Protein lower by 14g; overall calories, fats, and carbs are balanced."
 }

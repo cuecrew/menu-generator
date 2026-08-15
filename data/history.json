@@ -1,120 +1,5 @@
 [
   {
-    "date": "2026-07-15 (Wednesday)",
-    "date_display": "Wednesday, July 15",
-    "date_short": "Wed · Jul 15",
-    "generated_label": "Generated last night for today",
-    "breakfast": {
-      "dish_hindi": "अंकुरित मूँग की चाट, उबला अंडा",
-      "dish_english": "Moong Sprout Salad, Boiled Egg",
-      "ingredients_hindi": "अंकुरित मूँग, टमाटर, प्याज, हरी मिर्च, नींबू, नमक, उबला अंडा",
-      "ingredients_list_hi": [
-        "अंकुरित मूँग",
-        "टमाटर",
-        "प्याज",
-        "हरी मिर्च",
-        "नींबू",
-        "नमक",
-        "उबला अंडा"
-      ],
-      "ingredients_list_en": [
-        "Sprouted Moong",
-        "Tomato",
-        "Onion",
-        "Green Chili",
-        "Lemon",
-        "Salt",
-        "Boiled Egg"
-      ],
-      "prep_notes_hi": "अंकुरित मूँग को धोकर टमाटर, प्याज और हरी मिर्च के साथ मिलाएं। ऊपर से नींबू और नमक डालें। एक तरफ उबले अंडे तैयार रखें।",
-      "prep_notes_en": "Mix sprouted moong with chopped tomato, onion, and green chili. Add lemon and salt. Keep boiled eggs ready for side.",
-      "vizz_macros": {
-        "cal": 250,
-        "protein": 12,
-        "fat": 7,
-        "carbs": 32
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=moong%20sprout%20salad%20recipe%20recipe"
-    },
-    "lunch": {
-      "dish_hindi": "चना दाल पुलाव, पुदीना चटनी",
-      "dish_english": "Chana Dal Pulao, Mint Chutney",
-      "ingredients_hindi": "बासमती चावल, चना दाल, पुदीना पत्ते, हरी मिर्च, प्याज, जीरा, नमक",
-      "ingredients_list_hi": [
-        "बासमती चावल",
-        "चना दाल",
-        "पुदीना पत्ते",
-        "हरी मिर्च",
-        "प्याज",
-        "जीरा",
-        "नमक"
-      ],
-      "ingredients_list_en": [
-        "Basmati Rice",
-        "Chana Dal",
-        "Mint Leaves",
-        "Green Chili",
-        "Onion",
-        "Cumin",
-        "Salt"
-      ],
-      "prep_notes_hi": "चना दाल और चावल को पकाकर पुलाव बनाएं। पुदीना चटनी को एक अलग डिब्बे में पैक करें। यात्रा और रीहीटिंग के लिए उपयुक्त।",
-      "prep_notes_en": "Cook chana dal and rice together for pulao. Pack mint chutney separately. Suitable for travel and reheating.",
-      "vizz_macros": {
-        "cal": 400,
-        "protein": 15,
-        "fat": 10,
-        "carbs": 65
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=chana%20dal%20pulao%20recipe%20recipe"
-    },
-    "dinner": {
-      "dish_hindi": "मसाला मसूर दाल, तवा रोटी, दही",
-      "dish_english": "Masala Masoor Dal, Tawa Roti, Yogurt",
-      "ingredients_hindi": "मसूर दाल, अदरक-लहसुन पेस्ट, प्याज, टमाटर, मसाले, आटा, दही",
-      "ingredients_list_hi": [
-        "मसूर दाल",
-        "अदरक-लहसुन पेस्ट",
-        "प्याज",
-        "टमाटर",
-        "मसाले",
-        "आटा",
-        "दही"
-      ],
-      "ingredients_list_en": [
-        "Masoor Dal",
-        "Ginger-Garlic Paste",
-        "Onion",
-        "Tomato",
-        "Spices",
-        "Flour",
-        "Yogurt"
-      ],
-      "prep_notes_hi": "मसूर दाल को मसालों के साथ पकाएं। तवे पर रोटी सेकें। दही को ठंडा परोसें।",
-      "prep_notes_en": "Cook masoor dal with spices. Prepare roti on tawa. Serve yogurt chilled.",
-      "vizz_macros": {
-        "cal": 350,
-        "protein": 18,
-        "fat": 7,
-        "carbs": 60
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=masala%20masoor%20dal%20recipe%20recipe"
-    },
-    "vizz_daily_total_from_meals": {
-      "cal": 1000,
-      "protein": 45,
-      "fat": 24,
-      "carbs": 157
-    },
-    "vizz_daily_total_with_shake": {
-      "cal": 1300,
-      "protein": 85,
-      "fat": 29,
-      "carbs": 182
-    },
-    "macro_check": "Calorie and carb targets not met; protein slightly under. Consider a protein-rich snack."
-  },
-  {
     "date": "2026-07-16 (Thursday)",
     "date_display": "Thursday, July 16",
     "date_short": "Thu · Jul 16",
@@ -3588,5 +3473,128 @@
       "carbs": 210
     },
     "macro_check": "This hits the carb target but is low by 25g protein and 10g fat. Consider supplementing with more paneer or dal."
+  },
+  {
+    "date": "2026-08-16 (Sunday)",
+    "date_display": "Sunday, August 16",
+    "date_short": "Sun · Aug 16",
+    "generated_label": "Generated last night for today",
+    "breakfast": {
+      "dish_hindi": "उपमा और उबला अंडा",
+      "dish_english": "Upma with Boiled Egg",
+      "ingredients_hindi": "रवा, प्याज, गाजर, हरी मटर, हरी मिर्च, करी पत्ता, सरसों के बीज, उबला अंडा",
+      "ingredients_list_hi": [
+        "रवा",
+        "प्याज",
+        "गाजर",
+        "हरी मटर",
+        "हरी मिर्च",
+        "करी पत्ता",
+        "सरसों के बीज",
+        "उबला अंडा"
+      ],
+      "ingredients_list_en": [
+        "Semolina (Rava)",
+        "Onion",
+        "Carrot",
+        "Green Peas",
+        "Green Chilli",
+        "Curry Leaves",
+        "Mustard Seeds",
+        "Boiled Egg"
+      ],
+      "prep_notes_hi": "रवा को अच्छी तरह से भूने ताकि उसका रंग हल्का सुनहरा हो जाए। सब्ज़ियों को अच्छी तरह से काटें और अधिक न पकाएँ।",
+      "prep_notes_en": "Roast the semolina until it turns light golden. Chop vegetables finely and do not overcook them.",
+      "vizz_macros": {
+        "cal": 420,
+        "protein": 14,
+        "fat": 11,
+        "carbs": 72
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=upma%20recipe%20hindi%20recipe"
+    },
+    "lunch": {
+      "dish_hindi": "मसूर दाल चावल और पापड़",
+      "dish_english": "Masoor Dal with Rice and Papad",
+      "ingredients_hindi": "मसूर दाल, चावल, प्याज़, टमाटर, अदरक, लहसुन, जीरा, पापड़",
+      "ingredients_list_hi": [
+        "मसूर दाल",
+        "चावल",
+        "प्याज़",
+        "टमाटर",
+        "अदरक",
+        "लहसुन",
+        "जीरा",
+        "पापड़"
+      ],
+      "ingredients_list_en": [
+        "Red Lentils (Masoor Dal)",
+        "Rice",
+        "Onion",
+        "Tomato",
+        "Ginger",
+        "Garlic",
+        "Cumin Seeds",
+        "Papad"
+      ],
+      "prep_notes_hi": "दाल और चावल को ठीक से पकाएँ ताकि वे अच्छी तरह से मिक्स हो जाएं। इसे माइक्रोवेव में फिर से गरम किया जा सकता है।",
+      "prep_notes_en": "Cook the lentils and rice well enough so they mix perfectly. It can be reheated in the microwave.",
+      "vizz_macros": {
+        "cal": 640,
+        "protein": 24,
+        "fat": 6,
+        "carbs": 120
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=masoor%20dal%20recipe%20recipe"
+    },
+    "dinner": {
+      "dish_hindi": "मिक्स वेजिटेबल करी और चपाती",
+      "dish_english": "Mixed Vegetable Curry with Chapati",
+      "ingredients_hindi": "मिश्रित सब्जियाँ, प्याज़, टमाटर, अदरक, लहसुन, जीरा, धनिया पाउडर, हल्दी, गाड़ी रोटी",
+      "ingredients_list_hi": [
+        "मिश्रित सब्जियाँ",
+        "प्याज़",
+        "टमाटर",
+        "अदरक",
+        "लहसुन",
+        "जीरा",
+        "धनिया पाउडर",
+        "हल्दी",
+        "गाड़ी रोटी"
+      ],
+      "ingredients_list_en": [
+        "Mixed Vegetables",
+        "Onion",
+        "Tomato",
+        "Ginger",
+        "Garlic",
+        "Cumin Seeds",
+        "Coriander Powder",
+        "Turmeric",
+        "Wheat Chapati"
+      ],
+      "prep_notes_hi": "सब्जियों को अच्छे से पकाएं ताकि वे नरम हो जाएँ और सभी मसाले ठीक से मिल जाएं।",
+      "prep_notes_en": "Cook the vegetables well so they soften and absorb the spices completely.",
+      "vizz_macros": {
+        "cal": 640,
+        "protein": 18,
+        "fat": 18,
+        "carbs": 104
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=mixed%20vegetable%20curry%20recipe%20recipe"
+    },
+    "vizz_daily_total_from_meals": {
+      "cal": 1700,
+      "protein": 56,
+      "fat": 35,
+      "carbs": 296
+    },
+    "vizz_daily_total_with_shake": {
+      "cal": 2000,
+      "protein": 96,
+      "fat": 40,
+      "carbs": 321
+    },
+    "macro_check": "Protein lower by 14g; overall calories, fats, and carbs are balanced."
   }
 ]
