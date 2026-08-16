@@ -1,123 +1,103 @@
 {
-  "date": "2026-08-16 (Sunday)",
-  "date_display": "Sunday, August 16",
-  "date_short": "Sun · Aug 16",
+  "date": "2026-08-17 (Monday)",
+  "date_display": "Monday, August 17",
+  "date_short": "Mon · Aug 17",
   "generated_label": "Generated last night for today",
   "breakfast": {
-    "dish_hindi": "उपमा और उबला अंडा",
-    "dish_english": "Upma with Boiled Egg",
-    "ingredients_hindi": "रवा, प्याज, गाजर, हरी मटर, हरी मिर्च, करी पत्ता, सरसों के बीज, उबला अंडा",
+    "dish_hindi": "आलू पराठा, दही",
+    "dish_english": "Aloo Paratha with Yogurt",
+    "ingredients_hindi": "आटा, आलू, धनिया, हरी मिर्च, दही",
     "ingredients_list_hi": [
-      "रवा",
-      "प्याज",
-      "गाजर",
-      "हरी मटर",
+      "आटा",
+      "आलू",
+      "धनिया",
       "हरी मिर्च",
-      "करी पत्ता",
-      "सरसों के बीज",
-      "उबला अंडा"
+      "दही"
     ],
     "ingredients_list_en": [
-      "Semolina (Rava)",
-      "Onion",
-      "Carrot",
-      "Green Peas",
-      "Green Chilli",
-      "Curry Leaves",
-      "Mustard Seeds",
-      "Boiled Egg"
+      "Wheat flour",
+      "Potato",
+      "Coriander leaves",
+      "Green chili",
+      "Yogurt"
     ],
-    "prep_notes_hi": "रवा को अच्छी तरह से भूने ताकि उसका रंग हल्का सुनहरा हो जाए। सब्ज़ियों को अच्छी तरह से काटें और अधिक न पकाएँ।",
-    "prep_notes_en": "Roast the semolina until it turns light golden. Chop vegetables finely and do not overcook them.",
+    "prep_notes_hi": "आटा अच्छे से गूँथें और पतला बेलें। तवे पर धीमी आंच पर सेंकें। साथ में ताज़ा दही परोसे।",
+    "prep_notes_en": "Knead the dough well and roll it out thin. Cook on a tawa on low flame. Serve with fresh yogurt.",
     "vizz_macros": {
-      "cal": 420,
-      "protein": 14,
-      "fat": 11,
-      "carbs": 72
+      "cal": 400,
+      "protein": 10,
+      "fat": 15,
+      "carbs": 60
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=upma%20recipe%20hindi%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=aloo%20paratha%20recipe%20hindi%20recipe"
   },
   "lunch": {
-    "dish_hindi": "मसूर दाल चावल और पापड़",
-    "dish_english": "Masoor Dal with Rice and Papad",
-    "ingredients_hindi": "मसूर दाल, चावल, प्याज़, टमाटर, अदरक, लहसुन, जीरा, पापड़",
+    "dish_hindi": "प्याज समोसा और चटनी",
+    "dish_english": "Onion Samosa with Chutney",
+    "ingredients_hindi": "मैदा, प्याज, अदरक, हरी मिर्च, चटनी सामग्री",
     "ingredients_list_hi": [
-      "मसूर दाल",
-      "चावल",
-      "प्याज़",
-      "टमाटर",
+      "मैदा",
+      "प्याज",
       "अदरक",
-      "लहसुन",
-      "जीरा",
-      "पापड़"
+      "हरी मिर्च",
+      "चटनी सामग्री"
     ],
     "ingredients_list_en": [
-      "Red Lentils (Masoor Dal)",
-      "Rice",
+      "All-purpose flour",
       "Onion",
-      "Tomato",
       "Ginger",
-      "Garlic",
-      "Cumin Seeds",
-      "Papad"
+      "Green chili",
+      "Chutney ingredients"
     ],
-    "prep_notes_hi": "दाल और चावल को ठीक से पकाएँ ताकि वे अच्छी तरह से मिक्स हो जाएं। इसे माइक्रोवेव में फिर से गरम किया जा सकता है।",
-    "prep_notes_en": "Cook the lentils and rice well enough so they mix perfectly. It can be reheated in the microwave.",
+    "prep_notes_hi": "समोसा ठंडा होकर भी अच्छा लगेगा। तवा पर धीमी आंच पर सेंकें। ओवन में गरम करें।",
+    "prep_notes_en": "The samosa remains good when cold. Cook on low flame on tawa. Reheat in the microwave.",
     "vizz_macros": {
-      "cal": 640,
-      "protein": 24,
-      "fat": 6,
-      "carbs": 120
+      "cal": 500,
+      "protein": 12,
+      "fat": 20,
+      "carbs": 70
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=masoor%20dal%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=onion%20samosa%20recipe%20recipe"
   },
   "dinner": {
-    "dish_hindi": "मिक्स वेजिटेबल करी और चपाती",
-    "dish_english": "Mixed Vegetable Curry with Chapati",
-    "ingredients_hindi": "मिश्रित सब्जियाँ, प्याज़, टमाटर, अदरक, लहसुन, जीरा, धनिया पाउडर, हल्दी, गाड़ी रोटी",
+    "dish_hindi": "हरी सब्ज़ियों का सूप और मक्खन वाली ब्रेड",
+    "dish_english": "Green Vegetable Soup with Buttered Bread",
+    "ingredients_hindi": "पालक, मटर, गाजर, मक्खन, ब्रेड",
     "ingredients_list_hi": [
-      "मिश्रित सब्जियाँ",
-      "प्याज़",
-      "टमाटर",
-      "अदरक",
-      "लहसुन",
-      "जीरा",
-      "धनिया पाउडर",
-      "हल्दी",
-      "गाड़ी रोटी"
+      "पालक",
+      "मटर",
+      "गाजर",
+      "मक्खन",
+      "ब्रेड"
     ],
     "ingredients_list_en": [
-      "Mixed Vegetables",
-      "Onion",
-      "Tomato",
-      "Ginger",
-      "Garlic",
-      "Cumin Seeds",
-      "Coriander Powder",
-      "Turmeric",
-      "Wheat Chapati"
+      "Spinach",
+      "Peas",
+      "Carrot",
+      "Butter",
+      "Bread"
     ],
-    "prep_notes_hi": "सब्जियों को अच्छे से पकाएं ताकि वे नरम हो जाएँ और सभी मसाले ठीक से मिल जाएं।",
-    "prep_notes_en": "Cook the vegetables well so they soften and absorb the spices completely.",
+    "prep_notes_hi": "सब्ज़ियों को अच्छे से उबालकर छान लें। ब्रेड को मक्खन लगाकर ग्रिल करें।",
+    "prep_notes_en": "Boil the vegetables well and strain. Grill the bread with butter.",
     "vizz_macros": {
-      "cal": 640,
-      "protein": 18,
-      "fat": 18,
-      "carbs": 104
+      "cal": 350,
+      "protein": 5,
+      "fat": 8,
+      "carbs": 65
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=mixed%20vegetable%20curry%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=vegetable%20soup%20recipe%20recipe"
   },
   "vizz_daily_total_from_meals": {
-    "cal": 1700,
-    "protein": 56,
-    "fat": 35,
-    "carbs": 296
+    "cal": 1250,
+    "protein": 27,
+    "fat": 43,
+    "carbs": 195
   },
   "vizz_daily_total_with_shake": {
-    "cal": 2000,
-    "protein": 96,
-    "fat": 40,
-    "carbs": 321
+    "cal": 1550,
+    "protein": 67,
+    "fat": 48,
+    "carbs": 220
   },
-  "macro_check": "Protein lower by 14g; overall calories, fats, and carbs are balanced."
+  "macro_check": "Calories and protein slightly under target; consider increasing veggie protein sources."
 }

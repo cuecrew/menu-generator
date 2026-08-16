@@ -1,136 +1,5 @@
 [
   {
-    "date": "2026-07-16 (Thursday)",
-    "date_display": "Thursday, July 16",
-    "date_short": "Thu · Jul 16",
-    "generated_label": "Generated last night for today",
-    "breakfast": {
-      "dish_hindi": "उपमा, उबला अंडा (विज्ज़ और रूममेट-2 के लिए)",
-      "dish_english": "Upma with Boiled Egg (for Vizz and Flatmate-2)",
-      "ingredients_hindi": "सूजी, सरसों के बीज, कढ़ी पत्ता, हरी मिर्च, अदरक, प्याज, मटर, गाजर, काजू, तेल",
-      "ingredients_list_hi": [
-        "सूजी",
-        "सरसों के बीज",
-        "कढ़ी पत्ता",
-        "हरी मिर्च",
-        "अदरक",
-        "प्याज",
-        "मटर",
-        "गाजर",
-        "काजू",
-        "तेल"
-      ],
-      "ingredients_list_en": [
-        "Semolina (Sooji)",
-        "Mustard seeds",
-        "Curry leaves",
-        "Green chilis",
-        "Ginger",
-        "Onion",
-        "Peas",
-        "Carrot",
-        "Cashew nuts",
-        "Oil"
-      ],
-      "prep_notes_hi": "सूजी को भूनने पर ध्यान दें ताकि उसमें खुशबू आए। सभी सब्ज़ियों को समान आकार में काटें ताकि वे जल्दी पकें।",
-      "prep_notes_en": "Roast the semolina till it gives off a nutty aroma. Chop all vegetables uniformly for even cooking.",
-      "vizz_macros": {
-        "cal": 370,
-        "protein": 10,
-        "fat": 8,
-        "carbs": 66
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=upma%20recipe%20hindi%20recipe"
-    },
-    "lunch": {
-      "dish_hindi": "पालक पनीर, जीरा चावल, मिक्स अचार",
-      "dish_english": "Palak Paneer with Jeera Rice and Mixed Pickle",
-      "ingredients_hindi": "पालक, पनीर, अदरक, लहसुन, हरी मिर्च, टमाटर, प्याज, जीरा, चावल, तेल, अचार",
-      "ingredients_list_hi": [
-        "पालक",
-        "पनीर",
-        "अदरक",
-        "लहसुन",
-        "हरी मिर्च",
-        "टमाटर",
-        "प्याज",
-        "जीरा",
-        "चावल",
-        "तेल",
-        "अचार"
-      ],
-      "ingredients_list_en": [
-        "Spinach",
-        "Paneer",
-        "Ginger",
-        "Garlic",
-        "Green chilis",
-        "Tomato",
-        "Onion",
-        "Cumin seeds",
-        "Rice",
-        "Oil",
-        "Pickle"
-      ],
-      "prep_notes_hi": "पालक को अच्छी तरह से धोकर बारीक पेस्ट बना लें। चावल को मसालों के साथ भूनकर उबालें ताकि वह स्वादिष्ट हो और यात्रा के अनुकूल हो।",
-      "prep_notes_en": "Thoroughly wash and blend spinach into a fine paste. Temper and cook the rice with spices for flavor; ensure it's travel-friendly.",
-      "vizz_macros": {
-        "cal": 620,
-        "protein": 28,
-        "fat": 22,
-        "carbs": 84
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=palak%20paneer%20jeera%20rice%20recipe"
-    },
-    "dinner": {
-      "dish_hindi": "पनीर भुर्जी, तवा परांठा, दही",
-      "dish_english": "Paneer Bhurji with Tawa Paratha and Yogurt",
-      "ingredients_hindi": "पनीर, प्याज, टमाटर, हरी मिर्च, गरम मसाला, हल्दी, तवा परांठा के लिए आटा, दही",
-      "ingredients_list_hi": [
-        "पनीर",
-        "प्याज",
-        "टमाटर",
-        "हरी मिर्च",
-        "गरम मसाला",
-        "हल्दी",
-        "आटा",
-        "दही"
-      ],
-      "ingredients_list_en": [
-        "Paneer",
-        "Onion",
-        "Tomato",
-        "Green chilis",
-        "Garam masala",
-        "Turmeric",
-        "Wheat flour",
-        "Yogurt"
-      ],
-      "prep_notes_hi": "पनीर को क्रम्बल करके अच्छी तरह से तवे पर मसालों के साथ पकाएं। परांठे के आटे को मुलायम गूंधें।",
-      "prep_notes_en": "Crumble the paneer and cook it well on a pan with the spices. Knead the paratha dough to a soft consistency.",
-      "vizz_macros": {
-        "cal": 710,
-        "protein": 32,
-        "fat": 30,
-        "carbs": 90
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=paneer%20bhurji%20recipe%20recipe"
-    },
-    "vizz_daily_total_from_meals": {
-      "cal": 1700,
-      "protein": 70,
-      "fat": 60,
-      "carbs": 240
-    },
-    "vizz_daily_total_with_shake": {
-      "cal": 2000,
-      "protein": 110,
-      "fat": 65,
-      "carbs": 265
-    },
-    "macro_check": "This hits the 2000 cal/110g protein/60g fat/215g carb target. Carbs slightly exceed but are acceptable."
-  },
-  {
     "date": "2026-07-17 (Friday)",
     "date_display": "Friday, July 17",
     "date_short": "Fri · Jul 17",
@@ -3596,5 +3465,108 @@
       "carbs": 321
     },
     "macro_check": "Protein lower by 14g; overall calories, fats, and carbs are balanced."
+  },
+  {
+    "date": "2026-08-17 (Monday)",
+    "date_display": "Monday, August 17",
+    "date_short": "Mon · Aug 17",
+    "generated_label": "Generated last night for today",
+    "breakfast": {
+      "dish_hindi": "आलू पराठा, दही",
+      "dish_english": "Aloo Paratha with Yogurt",
+      "ingredients_hindi": "आटा, आलू, धनिया, हरी मिर्च, दही",
+      "ingredients_list_hi": [
+        "आटा",
+        "आलू",
+        "धनिया",
+        "हरी मिर्च",
+        "दही"
+      ],
+      "ingredients_list_en": [
+        "Wheat flour",
+        "Potato",
+        "Coriander leaves",
+        "Green chili",
+        "Yogurt"
+      ],
+      "prep_notes_hi": "आटा अच्छे से गूँथें और पतला बेलें। तवे पर धीमी आंच पर सेंकें। साथ में ताज़ा दही परोसे।",
+      "prep_notes_en": "Knead the dough well and roll it out thin. Cook on a tawa on low flame. Serve with fresh yogurt.",
+      "vizz_macros": {
+        "cal": 400,
+        "protein": 10,
+        "fat": 15,
+        "carbs": 60
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=aloo%20paratha%20recipe%20hindi%20recipe"
+    },
+    "lunch": {
+      "dish_hindi": "प्याज समोसा और चटनी",
+      "dish_english": "Onion Samosa with Chutney",
+      "ingredients_hindi": "मैदा, प्याज, अदरक, हरी मिर्च, चटनी सामग्री",
+      "ingredients_list_hi": [
+        "मैदा",
+        "प्याज",
+        "अदरक",
+        "हरी मिर्च",
+        "चटनी सामग्री"
+      ],
+      "ingredients_list_en": [
+        "All-purpose flour",
+        "Onion",
+        "Ginger",
+        "Green chili",
+        "Chutney ingredients"
+      ],
+      "prep_notes_hi": "समोसा ठंडा होकर भी अच्छा लगेगा। तवा पर धीमी आंच पर सेंकें। ओवन में गरम करें।",
+      "prep_notes_en": "The samosa remains good when cold. Cook on low flame on tawa. Reheat in the microwave.",
+      "vizz_macros": {
+        "cal": 500,
+        "protein": 12,
+        "fat": 20,
+        "carbs": 70
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=onion%20samosa%20recipe%20recipe"
+    },
+    "dinner": {
+      "dish_hindi": "हरी सब्ज़ियों का सूप और मक्खन वाली ब्रेड",
+      "dish_english": "Green Vegetable Soup with Buttered Bread",
+      "ingredients_hindi": "पालक, मटर, गाजर, मक्खन, ब्रेड",
+      "ingredients_list_hi": [
+        "पालक",
+        "मटर",
+        "गाजर",
+        "मक्खन",
+        "ब्रेड"
+      ],
+      "ingredients_list_en": [
+        "Spinach",
+        "Peas",
+        "Carrot",
+        "Butter",
+        "Bread"
+      ],
+      "prep_notes_hi": "सब्ज़ियों को अच्छे से उबालकर छान लें। ब्रेड को मक्खन लगाकर ग्रिल करें।",
+      "prep_notes_en": "Boil the vegetables well and strain. Grill the bread with butter.",
+      "vizz_macros": {
+        "cal": 350,
+        "protein": 5,
+        "fat": 8,
+        "carbs": 65
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=vegetable%20soup%20recipe%20recipe"
+    },
+    "vizz_daily_total_from_meals": {
+      "cal": 1250,
+      "protein": 27,
+      "fat": 43,
+      "carbs": 195
+    },
+    "vizz_daily_total_with_shake": {
+      "cal": 1550,
+      "protein": 67,
+      "fat": 48,
+      "carbs": 220
+    },
+    "macro_check": "Calories and protein slightly under target; consider increasing veggie protein sources."
   }
 ]
