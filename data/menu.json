@@ -1,103 +1,139 @@
 {
-  "date": "2026-08-17 (Monday)",
-  "date_display": "Monday, August 17",
-  "date_short": "Mon · Aug 17",
+  "date": "2026-08-18 (Tuesday)",
+  "date_display": "Tuesday, August 18",
+  "date_short": "Tue · Aug 18",
   "generated_label": "Generated last night for today",
   "breakfast": {
-    "dish_hindi": "आलू पराठा, दही",
-    "dish_english": "Aloo Paratha with Yogurt",
-    "ingredients_hindi": "आटा, आलू, धनिया, हरी मिर्च, दही",
+    "dish_hindi": "अंडा और ओट्स का उपमा",
+    "dish_english": "Egg and Oats Upma",
+    "ingredients_hindi": "ओट्स, अंडा, प्याज, टमाटर, हरी मिर्च, करी पत्ता, सरसों के दाने, नमक, हल्दी, तेल",
     "ingredients_list_hi": [
-      "आटा",
-      "आलू",
-      "धनिया",
+      "ओट्स",
+      "अंडा",
+      "प्याज",
+      "टमाटर",
       "हरी मिर्च",
-      "दही"
+      "करी पत्ता",
+      "सरसों के दाने",
+      "नमक",
+      "हल्दी",
+      "तेल"
     ],
     "ingredients_list_en": [
-      "Wheat flour",
-      "Potato",
-      "Coriander leaves",
-      "Green chili",
-      "Yogurt"
+      "Oats",
+      "Egg",
+      "Onion",
+      "Tomato",
+      "Green Chilli",
+      "Curry Leaves",
+      "Mustard Seeds",
+      "Salt",
+      "Turmeric",
+      "Oil"
     ],
-    "prep_notes_hi": "आटा अच्छे से गूँथें और पतला बेलें। तवे पर धीमी आंच पर सेंकें। साथ में ताज़ा दही परोसे।",
-    "prep_notes_en": "Knead the dough well and roll it out thin. Cook on a tawa on low flame. Serve with fresh yogurt.",
+    "prep_notes_hi": "ओट्स को पहले थोड़े पानी में भिगो दें। पैन में सरसों के दाने और करी पत्ता का तड़का तैयार करें, फिर प्याज और हरी मिर्च को भूनें। इसमें टमाटर और अन्य सामग्री डालें। अंत में अंडा फोड़ दें।",
+    "prep_notes_en": "Soak oats in a bit of water first. Prepare a tempering with mustard seeds and curry leaves, then sauté onions and green chillies. Add tomatoes and other ingredients. Finally, crack the egg over it.",
     "vizz_macros": {
-      "cal": 400,
-      "protein": 10,
+      "cal": 370,
+      "protein": 22,
       "fat": 15,
-      "carbs": 60
+      "carbs": 45
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=aloo%20paratha%20recipe%20hindi%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=oats%20upma%20recipe%20hindi%20recipe"
   },
   "lunch": {
-    "dish_hindi": "प्याज समोसा और चटनी",
-    "dish_english": "Onion Samosa with Chutney",
-    "ingredients_hindi": "मैदा, प्याज, अदरक, हरी मिर्च, चटनी सामग्री",
+    "dish_hindi": "राजमा और जीरा राइस, पापड़",
+    "dish_english": "Rajma with Jeera Rice and Papad",
+    "ingredients_hindi": "राजमा, बासमती चावल, जीरा, प्याज, लहसुन, अदरक, टमाटर, गरम मसाला, धनिया पाउडर, नमक, तेल",
     "ingredients_list_hi": [
-      "मैदा",
+      "राजमा",
+      "बासमती चावल",
+      "जीरा",
       "प्याज",
+      "लहसुन",
       "अदरक",
-      "हरी मिर्च",
-      "चटनी सामग्री"
+      "टमाटर",
+      "गरम मसाला",
+      "धनिया पाउडर",
+      "नमक",
+      "तेल"
     ],
     "ingredients_list_en": [
-      "All-purpose flour",
+      "Kidney Beans",
+      "Basmati Rice",
+      "Cumin Seeds",
       "Onion",
+      "Garlic",
       "Ginger",
-      "Green chili",
-      "Chutney ingredients"
+      "Tomato",
+      "Garam Masala",
+      "Coriander Powder",
+      "Salt",
+      "Oil"
     ],
-    "prep_notes_hi": "समोसा ठंडा होकर भी अच्छा लगेगा। तवा पर धीमी आंच पर सेंकें। ओवन में गरम करें।",
-    "prep_notes_en": "The samosa remains good when cold. Cook on low flame on tawa. Reheat in the microwave.",
+    "prep_notes_hi": "राजमा को रात भर भिगो दें। इसे कुकर में उबालें और फिर मसालेदार ग्रेवी में पकाएं। जीरा राइस को साधारण भात की तरह बनाएं, बस जीरा का तड़का दें। यह यात्रा के लिए अच्छा है और माइक्रोवेव में आसानी से गरम किया जा सकता है।",
+    "prep_notes_en": "Soak kidney beans overnight. Boil them in a cooker, then simmer in spiced gravy. Prepare jeera rice like plain rice, adding cumin seeds. This travels well and is easily reheated in a microwave.",
     "vizz_macros": {
-      "cal": 500,
-      "protein": 12,
-      "fat": 20,
-      "carbs": 70
+      "cal": 650,
+      "protein": 25,
+      "fat": 12,
+      "carbs": 90
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=onion%20samosa%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=rajma%20chawal%20recipe%20recipe"
   },
   "dinner": {
-    "dish_hindi": "हरी सब्ज़ियों का सूप और मक्खन वाली ब्रेड",
-    "dish_english": "Green Vegetable Soup with Buttered Bread",
-    "ingredients_hindi": "पालक, मटर, गाजर, मक्खन, ब्रेड",
+    "dish_hindi": "हक्का नूडल्स और मिक्स वेज मंचूरियन",
+    "dish_english": "Hakka Noodles with Mixed Veg Manchurian",
+    "ingredients_hindi": "नूडल्स, गोभी, गाजर, शिमला मिर्च, प्याज, लहसुन, अदरक, सोया सॉस, टमाटर केचप, चिली सॉस, नमक, तेल",
     "ingredients_list_hi": [
-      "पालक",
-      "मटर",
+      "नूडल्स",
+      "गोभी",
       "गाजर",
-      "मक्खन",
-      "ब्रेड"
+      "शिमला मिर्च",
+      "प्याज",
+      "लहसुन",
+      "अदरक",
+      "सोया सॉस",
+      "टमाटर केचप",
+      "चिली सॉस",
+      "नमक",
+      "तेल"
     ],
     "ingredients_list_en": [
-      "Spinach",
-      "Peas",
+      "Noodles",
+      "Cabbage",
       "Carrot",
-      "Butter",
-      "Bread"
+      "Bell Pepper",
+      "Onion",
+      "Garlic",
+      "Ginger",
+      "Soy Sauce",
+      "Tomato Ketchup",
+      "Chili Sauce",
+      "Salt",
+      "Oil"
     ],
-    "prep_notes_hi": "सब्ज़ियों को अच्छे से उबालकर छान लें। ब्रेड को मक्खन लगाकर ग्रिल करें।",
-    "prep_notes_en": "Boil the vegetables well and strain. Grill the bread with butter.",
+    "prep_notes_hi": "नूडल्स को हल्के उबालें और ठंडे पानी से धो लें। सब्जियों को कटी हुई रखें और तेज आंच पर भूनें। मंचूरियन बॉल्स को तलें और सॉस में मिलाएं।",
+    "prep_notes_en": "Boil noodles lightly and rinse with cold water. Keep vegetables chopped and fry on high flame. Fry Manchurian balls and mix in sauce.",
     "vizz_macros": {
-      "cal": 350,
-      "protein": 5,
-      "fat": 8,
-      "carbs": 65
+      "cal": 680,
+      "protein": 20,
+      "fat": 20,
+      "carbs": 95
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=vegetable%20soup%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=veg%20hakka%20noodles%20recipe%20recipe"
   },
   "vizz_daily_total_from_meals": {
-    "cal": 1250,
-    "protein": 27,
-    "fat": 43,
-    "carbs": 195
+    "cal": 1700,
+    "protein": 67,
+    "fat": 47,
+    "carbs": 230
   },
   "vizz_daily_total_with_shake": {
-    "cal": 1550,
-    "protein": 67,
-    "fat": 48,
-    "carbs": 220
+    "cal": 2000,
+    "protein": 107,
+    "fat": 52,
+    "carbs": 255
   },
-  "macro_check": "Calories and protein slightly under target; consider increasing veggie protein sources."
+  "macro_check": "Hit 2000/110/60/215 target; protein close enough, fat slightly below, carbs exceeded."
 }

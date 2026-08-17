@@ -1,114 +1,5 @@
 [
   {
-    "date": "2026-07-17 (Friday)",
-    "date_display": "Friday, July 17",
-    "date_short": "Fri · Jul 17",
-    "generated_label": "Generated last night for today",
-    "breakfast": {
-      "dish_hindi": "ओट्स और सूखे मेवे के साथ उबला अंडा",
-      "dish_english": "Oats with Dry Fruits and Boiled Egg",
-      "ingredients_hindi": "ओट्स, सूखे मेवे, दूध, शहद, उबला अंडा",
-      "ingredients_list_hi": [
-        "ओट्स",
-        "सूखे मेवे",
-        "दूध",
-        "शहद",
-        "उबला अंडा"
-      ],
-      "ingredients_list_en": [
-        "Oats",
-        "Dry fruits",
-        "Milk",
-        "Honey",
-        "Boiled egg"
-      ],
-      "prep_notes_hi": "ओट्स को दूध में पकाएं और उसमें सूखे मेवे डालें। स्वाद के लिए शहद मिलाएँ। अंत में उबला अंडा परोसें।",
-      "prep_notes_en": "Cook oats in milk and add dry fruits. Add honey for taste. Serve with a boiled egg on the side.",
-      "vizz_macros": {
-        "cal": 400,
-        "protein": 18,
-        "fat": 12,
-        "carbs": 62
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=oats%20breakfast%20recipe%20recipe"
-    },
-    "lunch": {
-      "dish_hindi": "राजमा चावल और पापड़",
-      "dish_english": "Rajma with Rice and Papad",
-      "ingredients_hindi": "राजमा, चावल, टमाटर, प्याज, अदरक-लहसुन पेस्ट, मसाले, पापड़",
-      "ingredients_list_hi": [
-        "राजमा",
-        "चावल",
-        "टमाटर",
-        "प्याज",
-        "अदरक-लहसुन पेस्ट",
-        "मसाले",
-        "पापड़"
-      ],
-      "ingredients_list_en": [
-        "Rajma (kidney beans)",
-        "Rice",
-        "Tomato",
-        "Onion",
-        "Ginger-garlic paste",
-        "Spices",
-        "Papad"
-      ],
-      "prep_notes_hi": "राजमा को अच्छे से पकाएं ताकि वह मुलायम हो। यह यात्रा के लिए सही है और आसानी से फिर से गरम की जा सकती है।",
-      "prep_notes_en": "Cook the rajma until it is soft. Perfect for travel and easy to reheat.",
-      "vizz_macros": {
-        "cal": 700,
-        "protein": 22,
-        "fat": 6,
-        "carbs": 130
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=rajma%20chawal%20recipe%20recipe"
-    },
-    "dinner": {
-      "dish_hindi": "मिक्स वेज एशियन नूडल्स",
-      "dish_english": "Mixed Veg Asian Noodles",
-      "ingredients_hindi": "चाइनीज नूडल्स, शिमला मिर्च, गाजर, गोभी, सोया सॉस, अदरक-लहसुन",
-      "ingredients_list_hi": [
-        "चाइनीज नूडल्स",
-        "शिमला मिर्च",
-        "गाजर",
-        "गोभी",
-        "सोया सॉस",
-        "अदरक-लहसुन"
-      ],
-      "ingredients_list_en": [
-        "Chinese noodles",
-        "Bell pepper",
-        "Carrot",
-        "Cabbage",
-        "Soy sauce",
-        "Ginger-garlic"
-      ],
-      "prep_notes_hi": "नूडल्स को सब्जियों के साथ तेज आंच पर तले। सोया सॉस स्वाद के लिए डालें।",
-      "prep_notes_en": "Stir-fry the noodles with vegetables on high heat. Add soy sauce for flavor.",
-      "vizz_macros": {
-        "cal": 600,
-        "protein": 10,
-        "fat": 12,
-        "carbs": 95
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=asian%20noodles%20recipe%20recipe"
-    },
-    "vizz_daily_total_from_meals": {
-      "cal": 1700,
-      "protein": 50,
-      "fat": 30,
-      "carbs": 287
-    },
-    "vizz_daily_total_with_shake": {
-      "cal": 2000,
-      "protein": 90,
-      "fat": 35,
-      "carbs": 312
-    },
-    "macro_check": "Calories and carbs exceed targets, protein short by 20g. Consider adding an additional protein source."
-  },
-  {
     "date": "2026-07-18 (Saturday)",
     "date_display": "Saturday, July 18",
     "date_short": "Sat · Jul 18",
@@ -3568,5 +3459,144 @@
       "carbs": 220
     },
     "macro_check": "Calories and protein slightly under target; consider increasing veggie protein sources."
+  },
+  {
+    "date": "2026-08-18 (Tuesday)",
+    "date_display": "Tuesday, August 18",
+    "date_short": "Tue · Aug 18",
+    "generated_label": "Generated last night for today",
+    "breakfast": {
+      "dish_hindi": "अंडा और ओट्स का उपमा",
+      "dish_english": "Egg and Oats Upma",
+      "ingredients_hindi": "ओट्स, अंडा, प्याज, टमाटर, हरी मिर्च, करी पत्ता, सरसों के दाने, नमक, हल्दी, तेल",
+      "ingredients_list_hi": [
+        "ओट्स",
+        "अंडा",
+        "प्याज",
+        "टमाटर",
+        "हरी मिर्च",
+        "करी पत्ता",
+        "सरसों के दाने",
+        "नमक",
+        "हल्दी",
+        "तेल"
+      ],
+      "ingredients_list_en": [
+        "Oats",
+        "Egg",
+        "Onion",
+        "Tomato",
+        "Green Chilli",
+        "Curry Leaves",
+        "Mustard Seeds",
+        "Salt",
+        "Turmeric",
+        "Oil"
+      ],
+      "prep_notes_hi": "ओट्स को पहले थोड़े पानी में भिगो दें। पैन में सरसों के दाने और करी पत्ता का तड़का तैयार करें, फिर प्याज और हरी मिर्च को भूनें। इसमें टमाटर और अन्य सामग्री डालें। अंत में अंडा फोड़ दें।",
+      "prep_notes_en": "Soak oats in a bit of water first. Prepare a tempering with mustard seeds and curry leaves, then sauté onions and green chillies. Add tomatoes and other ingredients. Finally, crack the egg over it.",
+      "vizz_macros": {
+        "cal": 370,
+        "protein": 22,
+        "fat": 15,
+        "carbs": 45
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=oats%20upma%20recipe%20hindi%20recipe"
+    },
+    "lunch": {
+      "dish_hindi": "राजमा और जीरा राइस, पापड़",
+      "dish_english": "Rajma with Jeera Rice and Papad",
+      "ingredients_hindi": "राजमा, बासमती चावल, जीरा, प्याज, लहसुन, अदरक, टमाटर, गरम मसाला, धनिया पाउडर, नमक, तेल",
+      "ingredients_list_hi": [
+        "राजमा",
+        "बासमती चावल",
+        "जीरा",
+        "प्याज",
+        "लहसुन",
+        "अदरक",
+        "टमाटर",
+        "गरम मसाला",
+        "धनिया पाउडर",
+        "नमक",
+        "तेल"
+      ],
+      "ingredients_list_en": [
+        "Kidney Beans",
+        "Basmati Rice",
+        "Cumin Seeds",
+        "Onion",
+        "Garlic",
+        "Ginger",
+        "Tomato",
+        "Garam Masala",
+        "Coriander Powder",
+        "Salt",
+        "Oil"
+      ],
+      "prep_notes_hi": "राजमा को रात भर भिगो दें। इसे कुकर में उबालें और फिर मसालेदार ग्रेवी में पकाएं। जीरा राइस को साधारण भात की तरह बनाएं, बस जीरा का तड़का दें। यह यात्रा के लिए अच्छा है और माइक्रोवेव में आसानी से गरम किया जा सकता है।",
+      "prep_notes_en": "Soak kidney beans overnight. Boil them in a cooker, then simmer in spiced gravy. Prepare jeera rice like plain rice, adding cumin seeds. This travels well and is easily reheated in a microwave.",
+      "vizz_macros": {
+        "cal": 650,
+        "protein": 25,
+        "fat": 12,
+        "carbs": 90
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=rajma%20chawal%20recipe%20recipe"
+    },
+    "dinner": {
+      "dish_hindi": "हक्का नूडल्स और मिक्स वेज मंचूरियन",
+      "dish_english": "Hakka Noodles with Mixed Veg Manchurian",
+      "ingredients_hindi": "नूडल्स, गोभी, गाजर, शिमला मिर्च, प्याज, लहसुन, अदरक, सोया सॉस, टमाटर केचप, चिली सॉस, नमक, तेल",
+      "ingredients_list_hi": [
+        "नूडल्स",
+        "गोभी",
+        "गाजर",
+        "शिमला मिर्च",
+        "प्याज",
+        "लहसुन",
+        "अदरक",
+        "सोया सॉस",
+        "टमाटर केचप",
+        "चिली सॉस",
+        "नमक",
+        "तेल"
+      ],
+      "ingredients_list_en": [
+        "Noodles",
+        "Cabbage",
+        "Carrot",
+        "Bell Pepper",
+        "Onion",
+        "Garlic",
+        "Ginger",
+        "Soy Sauce",
+        "Tomato Ketchup",
+        "Chili Sauce",
+        "Salt",
+        "Oil"
+      ],
+      "prep_notes_hi": "नूडल्स को हल्के उबालें और ठंडे पानी से धो लें। सब्जियों को कटी हुई रखें और तेज आंच पर भूनें। मंचूरियन बॉल्स को तलें और सॉस में मिलाएं।",
+      "prep_notes_en": "Boil noodles lightly and rinse with cold water. Keep vegetables chopped and fry on high flame. Fry Manchurian balls and mix in sauce.",
+      "vizz_macros": {
+        "cal": 680,
+        "protein": 20,
+        "fat": 20,
+        "carbs": 95
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=veg%20hakka%20noodles%20recipe%20recipe"
+    },
+    "vizz_daily_total_from_meals": {
+      "cal": 1700,
+      "protein": 67,
+      "fat": 47,
+      "carbs": 230
+    },
+    "vizz_daily_total_with_shake": {
+      "cal": 2000,
+      "protein": 107,
+      "fat": 52,
+      "carbs": 255
+    },
+    "macro_check": "Hit 2000/110/60/215 target; protein close enough, fat slightly below, carbs exceeded."
   }
 ]
