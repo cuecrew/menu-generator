@@ -1,122 +1,5 @@
 [
   {
-    "date": "2026-07-18 (Saturday)",
-    "date_display": "Saturday, July 18",
-    "date_short": "Sat · Jul 18",
-    "generated_label": "Generated last night for today",
-    "breakfast": {
-      "dish_hindi": "साबूदाना खिचड़ी, उबला अंडा (विज़ और फ्लैटमेट-2 के लिए)",
-      "dish_english": "Sabudana Khichdi, Boiled Egg (for Vizz and Flatmate-2)",
-      "ingredients_hindi": "साबूदाना, आलू, मूंगफली, जीरा, हरी मिर्च, धनिया पत्ती, उबाल अंडा",
-      "ingredients_list_hi": [
-        "साबूदाना",
-        "आलू",
-        "मूंगफली",
-        "जीरा",
-        "हरी मिर्च",
-        "धनिया पत्ती",
-        "उबाल अंडा"
-      ],
-      "ingredients_list_en": [
-        "Tapioca pearls",
-        "Potatoes",
-        "Peanuts",
-        "Cumin seeds",
-        "Green chilies",
-        "Coriander leaves",
-        "Boiled egg"
-      ],
-      "prep_notes_hi": "साबूदाना को पूरी रात भिगोकर रखें। पकाने से पहले मूँगफली का पाउडर बना लें और आलू को हल्का फ्राई करें।",
-      "prep_notes_en": "Soak the sabudana overnight. Make peanut powder and lightly fry potatoes before cooking.",
-      "vizz_macros": {
-        "cal": 380,
-        "protein": 9,
-        "fat": 15,
-        "carbs": 52
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=sabudana%20khichdi%20recipe%20recipe"
-    },
-    "lunch": {
-      "dish_hindi": "कढ़ी पकोड़ा और चावल",
-      "dish_english": "Kadhi Pakora with Basmati Rice",
-      "ingredients_hindi": "बेसन, दही, हरी मिर्च, अदरक, जीरा, धनिया पत्ती, चावल",
-      "ingredients_list_hi": [
-        "बेसन",
-        "दही",
-        "हरी मिर्च",
-        "अदरक",
-        "जीरा",
-        "धनिया पत्ती",
-        "चावल"
-      ],
-      "ingredients_list_en": [
-        "Gram flour",
-        "Yogurt",
-        "Green chilies",
-        "Ginger",
-        "Cumin seeds",
-        "Coriander leaves",
-        "Rice"
-      ],
-      "prep_notes_hi": "यह लंच ऑफिस ले जाने के लिए और गर्म करने के लिए सही है। बेसन के पकोड़े बनाकर कढ़ी में डालें और अच्छी तरह उबालें।",
-      "prep_notes_en": "This lunch is perfect for office and reheating. Make the gram flour fritters and add them to the yogurt gravy, then simmer well.",
-      "vizz_macros": {
-        "cal": 470,
-        "protein": 14,
-        "fat": 12,
-        "carbs": 72
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=kadhi%20pakora%20rice%20recipe%20recipe"
-    },
-    "dinner": {
-      "dish_hindi": "मटर पनीर और हरियाली पराठा",
-      "dish_english": "Matar Paneer and Spinach Paratha",
-      "ingredients_hindi": "मटर, पनीर, टमाटर, अदरक, लहसुन, हरी मिर्च, गेहूं का आटा, पालक",
-      "ingredients_list_hi": [
-        "मटर",
-        "पनीर",
-        "टमाटर",
-        "अदरक",
-        "लहसुन",
-        "हरी मिर्च",
-        "गेहूं का आटा",
-        "पालक"
-      ],
-      "ingredients_list_en": [
-        "Peas",
-        "Paneer",
-        "Tomatoes",
-        "Ginger",
-        "Garlic",
-        "Green chilies",
-        "Wheat flour",
-        "Spinach"
-      ],
-      "prep_notes_hi": "पहले पनीर और मटर को टमाटर के साथ मिला कर धीमी आंच पर पकाएं। हरियाली पराठे के लिए पालक का पेस्ट आटे में मिलाएं।",
-      "prep_notes_en": "Cook paneer and peas with tomatoes on a slow flame first. For spinach paratha, mix spinach paste into the dough.",
-      "vizz_macros": {
-        "cal": 550,
-        "protein": 28,
-        "fat": 18,
-        "carbs": 65
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=matar%20paneer%20recipe%20recipe"
-    },
-    "vizz_daily_total_from_meals": {
-      "cal": 1400,
-      "protein": 51,
-      "fat": 45,
-      "carbs": 189
-    },
-    "vizz_daily_total_with_shake": {
-      "cal": 1700,
-      "protein": 91,
-      "fat": 50,
-      "carbs": 214
-    },
-    "macro_check": "Good balance but slightly low on protein; carbs are decent."
-  },
-  {
     "date": "2026-07-19 (Sunday)",
     "date_display": "Sunday, July 19",
     "date_short": "Sun · Jul 19",
@@ -3598,5 +3481,110 @@
       "carbs": 255
     },
     "macro_check": "Hit 2000/110/60/215 target; protein close enough, fat slightly below, carbs exceeded."
+  },
+  {
+    "date": "2026-08-19 (Wednesday)",
+    "date_display": "Wednesday, August 19",
+    "date_short": "Wed · Aug 19",
+    "generated_label": "Generated last night for today",
+    "breakfast": {
+      "dish_hindi": "दालिया, उबला अंडा (केवल विज़ और फ़्लैटमेट-2 के लिए)",
+      "dish_english": "Dalia with Boiled Egg (only for Vizz and Flatmate-2)",
+      "ingredients_hindi": "दालिया, दूध, चीनी, उबला अंडा",
+      "ingredients_list_hi": [
+        "दालिया",
+        "दूध",
+        "चीनी",
+        "उबला अंडा"
+      ],
+      "ingredients_list_en": [
+        "Dalia (broken wheat)",
+        "Milk",
+        "Sugar",
+        "Boiled Egg"
+      ],
+      "prep_notes_hi": "दालिया को अच्छे से धोकर पानी में 15 मिनट तक भिगो दें। धीमी आंच पर गाढ़ा होने तक दूध के साथ पकाएं।",
+      "prep_notes_en": "Wash the dalia thoroughly and soak in water for 15 minutes. Cook with milk on low heat until thickened.",
+      "vizz_macros": {
+        "cal": 350,
+        "protein": 12,
+        "fat": 7,
+        "carbs": 55
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=dalia%20recipe%20hindi%20recipe"
+    },
+    "lunch": {
+      "dish_hindi": "पनीर बटर मसाला, जीरा चावल और पापड़",
+      "dish_english": "Paneer Butter Masala with Jeera Rice and Papad",
+      "ingredients_hindi": "पनीर, मक्खन, टमाटर, प्याज, जीरा, चावल, पापड़",
+      "ingredients_list_hi": [
+        "पनीर",
+        "मक्खन",
+        "टमाटर",
+        "प्याज",
+        "जीरा",
+        "चावल",
+        "पापड़"
+      ],
+      "ingredients_list_en": [
+        "Paneer",
+        "Butter",
+        "Tomato",
+        "Onion",
+        "Cumin",
+        "Rice",
+        "Papad"
+      ],
+      "prep_notes_hi": "यह बहुत प्रभावी रूप से यात्रा कर सकता है और माइक्रोवेव में आसानी से गर्म किया जा सकता है।",
+      "prep_notes_en": "This travels well and can be easily reheated in a microwave.",
+      "vizz_macros": {
+        "cal": 600,
+        "protein": 25,
+        "fat": 25,
+        "carbs": 70
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=paneer%20butter%20masala%20recipe%20recipe"
+    },
+    "dinner": {
+      "dish_hindi": "वेगन बर्गर, मसाला आलू और हरी चटनी",
+      "dish_english": "Vegan Burger with Masala Potatoes and Green Chutney",
+      "ingredients_hindi": "बर्गर बन, सब्ज़ियाँ, मसाले, आलू, हरी चटनी",
+      "ingredients_list_hi": [
+        "बर्गर बन",
+        "सब्ज़ियाँ",
+        "मसाले",
+        "आलू",
+        "हरी चटनी"
+      ],
+      "ingredients_list_en": [
+        "Burger bun",
+        "Vegetables",
+        "Spices",
+        "Potatoes",
+        "Green Chutney"
+      ],
+      "prep_notes_hi": "बर्गर पैटी बनाने के लिए सब्जियों को अच्छे से मैश करें। आलू को मसाले के साथ अच्छे से भूनें।",
+      "prep_notes_en": "Mash the vegetables thoroughly to form burger patties. Roast the potatoes well with spices.",
+      "vizz_macros": {
+        "cal": 550,
+        "protein": 15,
+        "fat": 15,
+        "carbs": 85
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=vegan%20burger%20recipe%20recipe"
+    },
+    "vizz_daily_total_from_meals": {
+      "cal": 1500,
+      "protein": 52,
+      "fat": 47,
+      "carbs": 210
+    },
+    "vizz_daily_total_with_shake": {
+      "cal": 1800,
+      "protein": 92,
+      "fat": 52,
+      "carbs": 235
+    },
+    "macro_check": "Falls short on protein, totaling 92g. Calories and carbs meet the target, but slightly low on protein."
   }
 ]
