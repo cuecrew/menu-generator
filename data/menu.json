@@ -1,105 +1,119 @@
 {
-  "date": "2026-08-19 (Wednesday)",
-  "date_display": "Wednesday, August 19",
-  "date_short": "Wed · Aug 19",
+  "date": "2026-08-20 (Thursday)",
+  "date_display": "Thursday, August 20",
+  "date_short": "Thu · Aug 20",
   "generated_label": "Generated last night for today",
   "breakfast": {
-    "dish_hindi": "दालिया, उबला अंडा (केवल विज़ और फ़्लैटमेट-2 के लिए)",
-    "dish_english": "Dalia with Boiled Egg (only for Vizz and Flatmate-2)",
-    "ingredients_hindi": "दालिया, दूध, चीनी, उबला अंडा",
+    "dish_hindi": "पालक पोहा",
+    "dish_english": "Palak Poha",
+    "ingredients_hindi": "पालक, पोहा, प्याज, हरी मिर्च, सरसों के बीज, नींबू, मूंगफली",
     "ingredients_list_hi": [
-      "दालिया",
-      "दूध",
-      "चीनी",
-      "उबला अंडा"
+      "पालक",
+      "पोहा",
+      "प्याज",
+      "हरी मिर्च",
+      "सरसों के बीज",
+      "नींबू",
+      "मूंगफली"
     ],
     "ingredients_list_en": [
-      "Dalia (broken wheat)",
-      "Milk",
-      "Sugar",
-      "Boiled Egg"
+      "Spinach",
+      "Poha (flattened rice)",
+      "Onion",
+      "Green chili",
+      "Mustard seeds",
+      "Lemon",
+      "Peanuts"
     ],
-    "prep_notes_hi": "दालिया को अच्छे से धोकर पानी में 15 मिनट तक भिगो दें। धीमी आंच पर गाढ़ा होने तक दूध के साथ पकाएं।",
-    "prep_notes_en": "Wash the dalia thoroughly and soak in water for 15 minutes. Cook with milk on low heat until thickened.",
+    "prep_notes_hi": "पालक और पोहा को अलग-अलग धो कर रख लें। सरसों के बीज को तेल में छौक लें और फिर अन्य सामग्री मिलाएं।",
+    "prep_notes_en": "Wash spinach and poha separately. Temper mustard seeds in oil and then add other ingredients.",
     "vizz_macros": {
       "cal": 350,
-      "protein": 12,
-      "fat": 7,
+      "protein": 8,
+      "fat": 10,
       "carbs": 55
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=dalia%20recipe%20hindi%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=palak%20poha%20recipe%20recipe"
   },
   "lunch": {
-    "dish_hindi": "पनीर बटर मसाला, जीरा चावल और पापड़",
-    "dish_english": "Paneer Butter Masala with Jeera Rice and Papad",
-    "ingredients_hindi": "पनीर, मक्खन, टमाटर, प्याज, जीरा, चावल, पापड़",
+    "dish_hindi": "दाल चावल और पापड़",
+    "dish_english": "Dal Chawal with Papad",
+    "ingredients_hindi": "चना दाल, बासमती चावल, अदरक, लहसुन, प्याज, टमाटर, जीरा, हल्दी, नमक, पापड़",
     "ingredients_list_hi": [
-      "पनीर",
-      "मक्खन",
-      "टमाटर",
+      "चना दाल",
+      "बासमती चावल",
+      "अदरक",
+      "लहसुन",
       "प्याज",
+      "टमाटर",
       "जीरा",
-      "चावल",
-      "पापड़"
+      "हल्दी",
+      "नमक",
+      "पापड़"
     ],
     "ingredients_list_en": [
-      "Paneer",
-      "Butter",
-      "Tomato",
+      "Chana Dal",
+      "Basmati Rice",
+      "Ginger",
+      "Garlic",
       "Onion",
-      "Cumin",
-      "Rice",
+      "Tomato",
+      "Cumin seeds",
+      "Turmeric",
+      "Salt",
       "Papad"
     ],
-    "prep_notes_hi": "यह बहुत प्रभावी रूप से यात्रा कर सकता है और माइक्रोवेव में आसानी से गर्म किया जा सकता है।",
-    "prep_notes_en": "This travels well and can be easily reheated in a microwave.",
+    "prep_notes_hi": "दाल और चावल को अच्छी तरह से पकाएं। इसे पैक करना आसान है और अच्छे से गरम हो सकता है।",
+    "prep_notes_en": "Cook the dal and rice thoroughly. It packs well and reheats effectively.",
     "vizz_macros": {
-      "cal": 600,
-      "protein": 25,
-      "fat": 25,
-      "carbs": 70
+      "cal": 650,
+      "protein": 16,
+      "fat": 5,
+      "carbs": 125
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=paneer%20butter%20masala%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=dal%20chawal%20recipe%20recipe"
   },
   "dinner": {
-    "dish_hindi": "वेगन बर्गर, मसाला आलू और हरी चटनी",
-    "dish_english": "Vegan Burger with Masala Potatoes and Green Chutney",
-    "ingredients_hindi": "बर्गर बन, सब्ज़ियाँ, मसाले, आलू, हरी चटनी",
+    "dish_hindi": "पास्ता अल्फ्रेड़ो, गार्लिक ब्रेड के साथ",
+    "dish_english": "Pasta Alfredo with Garlic Bread",
+    "ingredients_hindi": "पास्ता, क्रीम, मक्खन, लहसुन, मिक्स हर्ब्स, चीज़",
     "ingredients_list_hi": [
-      "बर्गर बन",
-      "सब्ज़ियाँ",
-      "मसाले",
-      "आलू",
-      "हरी चटनी"
+      "पास्ता",
+      "क्रीम",
+      "मक्खन",
+      "लहसुन",
+      "मिक्स हर्ब्स",
+      "चीज़"
     ],
     "ingredients_list_en": [
-      "Burger bun",
-      "Vegetables",
-      "Spices",
-      "Potatoes",
-      "Green Chutney"
+      "Pasta",
+      "Cream",
+      "Butter",
+      "Garlic",
+      "Mixed herbs",
+      "Cheese"
     ],
-    "prep_notes_hi": "बर्गर पैटी बनाने के लिए सब्जियों को अच्छे से मैश करें। आलू को मसाले के साथ अच्छे से भूनें।",
-    "prep_notes_en": "Mash the vegetables thoroughly to form burger patties. Roast the potatoes well with spices.",
+    "prep_notes_hi": "पास्ता को उबालें और फिर क्रीम सॉस के साथ टॉस करें। गार्लिक ब्रेड को बेक करें।",
+    "prep_notes_en": "Boil the pasta and toss it in the cream sauce. Bake the garlic bread.",
     "vizz_macros": {
-      "cal": 550,
-      "protein": 15,
-      "fat": 15,
-      "carbs": 85
+      "cal": 700,
+      "protein": 18,
+      "fat": 30,
+      "carbs": 90
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=vegan%20burger%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=pasta%20alfredo%20recipe%20recipe"
   },
   "vizz_daily_total_from_meals": {
-    "cal": 1500,
-    "protein": 52,
-    "fat": 47,
-    "carbs": 210
+    "cal": 1700,
+    "protein": 42,
+    "fat": 45,
+    "carbs": 270
   },
   "vizz_daily_total_with_shake": {
-    "cal": 1800,
-    "protein": 92,
-    "fat": 52,
-    "carbs": 235
+    "cal": 2000,
+    "protein": 82,
+    "fat": 50,
+    "carbs": 295
   },
-  "macro_check": "Falls short on protein, totaling 92g. Calories and carbs meet the target, but slightly low on protein."
+  "macro_check": "Target calories met; protein slightly below and carbs higher than target. Consider adding an additional protein source."
 }
