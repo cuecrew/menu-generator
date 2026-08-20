@@ -1,119 +1,131 @@
 {
-  "date": "2026-08-20 (Thursday)",
-  "date_display": "Thursday, August 20",
-  "date_short": "Thu · Aug 20",
+  "date": "2026-08-21 (Friday)",
+  "date_display": "Friday, August 21",
+  "date_short": "Fri · Aug 21",
   "generated_label": "Generated last night for today",
   "breakfast": {
-    "dish_hindi": "पालक पोहा",
-    "dish_english": "Palak Poha",
-    "ingredients_hindi": "पालक, पोहा, प्याज, हरी मिर्च, सरसों के बीज, नींबू, मूंगफली",
+    "dish_hindi": "सब्जियों के साथ ओट्स, उबला अंडा (केवल Vizz और Flatmate-2 के लिए)",
+    "dish_english": "Oats with Vegetables, Boiled Egg (only for Vizz and Flatmate-2)",
+    "ingredients_hindi": "ओट्स, गाजर, मटर, शिमला मिर्च, उबला अंडा, नमक, काली मिर्च",
     "ingredients_list_hi": [
-      "पालक",
-      "पोहा",
-      "प्याज",
-      "हरी मिर्च",
-      "सरसों के बीज",
-      "नींबू",
-      "मूंगफली"
+      "ओट्स",
+      "गाजर",
+      "मटर",
+      "शिमला मिर्च",
+      "उबला अंडा",
+      "नमक",
+      "काली मिर्च"
     ],
     "ingredients_list_en": [
-      "Spinach",
-      "Poha (flattened rice)",
-      "Onion",
-      "Green chili",
-      "Mustard seeds",
-      "Lemon",
-      "Peanuts"
+      "Oats",
+      "Carrot",
+      "Green Peas",
+      "Bell Pepper",
+      "Boiled Egg",
+      "Salt",
+      "Black Pepper"
     ],
-    "prep_notes_hi": "पालक और पोहा को अलग-अलग धो कर रख लें। सरसों के बीज को तेल में छौक लें और फिर अन्य सामग्री मिलाएं।",
-    "prep_notes_en": "Wash spinach and poha separately. Temper mustard seeds in oil and then add other ingredients.",
+    "prep_notes_hi": "ओट्स को गर्म पानी में पकाएं और सब्जियां डालें। नमक और काली मिर्च स्वादानुसार डालें। उबला अंडा तैयार रखें।",
+    "prep_notes_en": "Cook oats in hot water and add vegetables. Season with salt and black pepper. Serve with boiled egg.",
     "vizz_macros": {
-      "cal": 350,
-      "protein": 8,
+      "cal": 370,
+      "protein": 18,
       "fat": 10,
-      "carbs": 55
+      "carbs": 52
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=palak%20poha%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=vegetable%20oats%20recipe%20hindi%20recipe"
   },
   "lunch": {
-    "dish_hindi": "दाल चावल और पापड़",
-    "dish_english": "Dal Chawal with Papad",
-    "ingredients_hindi": "चना दाल, बासमती चावल, अदरक, लहसुन, प्याज, टमाटर, जीरा, हल्दी, नमक, पापड़",
+    "dish_hindi": "पनीर भुर्जी और चपाती",
+    "dish_english": "Paneer Bhurji with Chapati",
+    "ingredients_hindi": "पनीर, प्याज, टमाटर, हरी मिर्च, अदरक, हल्दी, धनिया पाउडर, गरम मसाला, नमक, चपाती",
     "ingredients_list_hi": [
-      "चना दाल",
-      "बासमती चावल",
-      "अदरक",
-      "लहसुन",
+      "पनीर",
       "प्याज",
       "टमाटर",
-      "जीरा",
+      "हरी मिर्च",
+      "अदरक",
       "हल्दी",
+      "धनिया पाउडर",
+      "गरम मसाला",
       "नमक",
-      "पापड़"
+      "चपाती"
     ],
     "ingredients_list_en": [
-      "Chana Dal",
-      "Basmati Rice",
-      "Ginger",
-      "Garlic",
+      "Paneer",
       "Onion",
       "Tomato",
-      "Cumin seeds",
+      "Green Chili",
+      "Ginger",
       "Turmeric",
+      "Coriander Powder",
+      "Garam Masala",
       "Salt",
-      "Papad"
+      "Chapati"
     ],
-    "prep_notes_hi": "दाल और चावल को अच्छी तरह से पकाएं। इसे पैक करना आसान है और अच्छे से गरम हो सकता है।",
-    "prep_notes_en": "Cook the dal and rice thoroughly. It packs well and reheats effectively.",
+    "prep_notes_hi": "पनीर भुर्जी और चपाती एक साथ बॉक्स में पैक करें। यह ऑफिस के लिए उपयुक्त है और माइक्रोवेव में आसानी से गरम किया जा सकता है।",
+    "prep_notes_en": "Pack paneer bhurji and chapati together. Suitable for office and easily microwavable.",
     "vizz_macros": {
-      "cal": 650,
-      "protein": 16,
-      "fat": 5,
-      "carbs": 125
+      "cal": 600,
+      "protein": 28,
+      "fat": 25,
+      "carbs": 65
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=dal%20chawal%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=paneer%20bhurji%20recipe%20hindi%20recipe"
   },
   "dinner": {
-    "dish_hindi": "पास्ता अल्फ्रेड़ो, गार्लिक ब्रेड के साथ",
-    "dish_english": "Pasta Alfredo with Garlic Bread",
-    "ingredients_hindi": "पास्ता, क्रीम, मक्खन, लहसुन, मिक्स हर्ब्स, चीज़",
+    "dish_hindi": "मिस्सी रोटी और मिक्स वेज सब्जी, दही, आचार",
+    "dish_english": "Missi Roti with Mixed Vegetable Curry, Curd, Pickle",
+    "ingredients_hindi": "बेसन, गेहूं का आटा, हरा धनिया, मेथी, गाजर, बीन्स, फूलगोभी, अदरक-लहसुन पेस्ट, जीरा, हरी मिर्च, दही, आचार",
     "ingredients_list_hi": [
-      "पास्ता",
-      "क्रीम",
-      "मक्खन",
-      "लहसुन",
-      "मिक्स हर्ब्स",
-      "चीज़"
+      "बेसन",
+      "गेहूं का आटा",
+      "हरा धनिया",
+      "मेथी",
+      "गाजर",
+      "बीन्स",
+      "फूलगोभी",
+      "अदरक-लहसुन पेस्ट",
+      "जीरा",
+      "हरी मिर्च",
+      "दही",
+      "आचार"
     ],
     "ingredients_list_en": [
-      "Pasta",
-      "Cream",
-      "Butter",
-      "Garlic",
-      "Mixed herbs",
-      "Cheese"
+      "Gram Flour",
+      "Wheat Flour",
+      "Coriander Leaves",
+      "Fenugreek",
+      "Carrot",
+      "Beans",
+      "Cauliflower",
+      "Ginger-Garlic Paste",
+      "Cumin",
+      "Green Chilies",
+      "Curd",
+      "Pickle"
     ],
-    "prep_notes_hi": "पास्ता को उबालें और फिर क्रीम सॉस के साथ टॉस करें। गार्लिक ब्रेड को बेक करें।",
-    "prep_notes_en": "Boil the pasta and toss it in the cream sauce. Bake the garlic bread.",
+    "prep_notes_hi": "मिस्सी रोटी को मध्यम आँच पर तवा पर सेंकें। सब्जी को अच्छी तरह से पकाकर जायकेदार बनाएं। दही और आचार साथ में परोसें।",
+    "prep_notes_en": "Cook missi roti on a hot griddle. Make the mixed vegetable curry flavorful and well-cooked. Serve with curd and pickle.",
     "vizz_macros": {
-      "cal": 700,
-      "protein": 18,
-      "fat": 30,
+      "cal": 730,
+      "protein": 24,
+      "fat": 18,
       "carbs": 90
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=pasta%20alfredo%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=missi%20roti%20and%20vegetable%20curry%20recipe"
   },
   "vizz_daily_total_from_meals": {
     "cal": 1700,
-    "protein": 42,
-    "fat": 45,
-    "carbs": 270
+    "protein": 70,
+    "fat": 53,
+    "carbs": 207
   },
   "vizz_daily_total_with_shake": {
     "cal": 2000,
-    "protein": 82,
-    "fat": 50,
-    "carbs": 295
+    "protein": 110,
+    "fat": 58,
+    "carbs": 232
   },
-  "macro_check": "Target calories met; protein slightly below and carbs higher than target. Consider adding an additional protein source."
+  "macro_check": "Hits 2000/110/60/215 target; fat short by 2g, carbs exceed by 17g. Protein balanced by shake."
 }

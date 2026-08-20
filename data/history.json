@@ -1,136 +1,5 @@
 [
   {
-    "date": "2026-07-20 (Monday)",
-    "date_display": "Monday, July 20",
-    "date_short": "Mon · Jul 20",
-    "generated_label": "Generated last night for today",
-    "breakfast": {
-      "dish_hindi": "उपमा, नारियल चटनी और उबला अंडा (विज़ और फ्लैटमेट-2 के लिए)",
-      "dish_english": "Upma with Coconut Chutney and Boiled Egg (for Vizz and Flatmate-2)",
-      "ingredients_hindi": "सूजी, पानी, प्याज, मटर, गाजर, हरी मिर्च, नारियल, अदरक, हल्दी, तेल, नमक",
-      "ingredients_list_hi": [
-        "सूजी",
-        "पानी",
-        "प्याज",
-        "मटर",
-        "गाजर",
-        "हरी मिर्च",
-        "नारियल",
-        "अदरक",
-        "हल्दी",
-        "तेल",
-        "नमक"
-      ],
-      "ingredients_list_en": [
-        "Semolina",
-        "Water",
-        "Onion",
-        "Peas",
-        "Carrot",
-        "Green Chili",
-        "Coconut",
-        "Ginger",
-        "Turmeric",
-        "Oil",
-        "Salt"
-      ],
-      "prep_notes_hi": "सूजी को हल्का भूनकर पानी में पकाएं। सब्जियाँ और मसाले मिलाकर कुछ मिनट तक पकाएँ। चटनी के लिए नारियल और अदरक का पेस्ट बनाएं।",
-      "prep_notes_en": "Lightly roast semolina and cook with water. Add vegetables and spices, cook for few minutes. For chutney, make a paste of coconut and ginger.",
-      "vizz_macros": {
-        "cal": 430,
-        "protein": 12,
-        "fat": 14,
-        "carbs": 60
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=upma%20recipe%20hindi%20recipe"
-    },
-    "lunch": {
-      "dish_hindi": "पालक पनीर पराठा, दही और आचार",
-      "dish_english": "Spinach Paneer Paratha with Curd and Pickle",
-      "ingredients_hindi": "पालक, पनीर, गेहूं का आटा, हरी मिर्च, अदरक, मसाले, तेल, दही, आचार",
-      "ingredients_list_hi": [
-        "पालक",
-        "पनीर",
-        "गेहूं का आटा",
-        "हरी मिर्च",
-        "अदरक",
-        "मसाले",
-        "तेल",
-        "दही",
-        "आचार"
-      ],
-      "ingredients_list_en": [
-        "Spinach",
-        "Paneer",
-        "Wheat Flour",
-        "Green Chili",
-        "Ginger",
-        "Spices",
-        "Oil",
-        "Curd",
-        "Pickle"
-      ],
-      "prep_notes_hi": "पराठा बनाने के लिए पालक और पनीर का भरावन तैयार करें। पैक किए जाने के लिए यह अच्छा है और माइक्रोवेव में गरम कर लें।",
-      "prep_notes_en": "Prepare filling of spinach and paneer for paratha. It travels well and can be reheated in microwave.",
-      "vizz_macros": {
-        "cal": 650,
-        "protein": 25,
-        "fat": 30,
-        "carbs": 70
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=palak%20paneer%20paratha%20recipe%20recipe"
-    },
-    "dinner": {
-      "dish_hindi": "छोले चावल और ककड़ी का रायता",
-      "dish_english": "Chole with Rice and Cucumber Raita",
-      "ingredients_hindi": "काबुली चना, बासमती चावल, प्याज, टमाटर, अदरक, लहसुन, मसाले, दही, ककड़ी",
-      "ingredients_list_hi": [
-        "काबुली चना",
-        "बासमती चावल",
-        "प्याज",
-        "टमाटर",
-        "अदरक",
-        "लहसुन",
-        "मसाले",
-        "दही",
-        "ककड़ी"
-      ],
-      "ingredients_list_en": [
-        "Chickpeas",
-        "Basmati Rice",
-        "Onion",
-        "Tomato",
-        "Ginger",
-        "Garlic",
-        "Spices",
-        "Curd",
-        "Cucumber"
-      ],
-      "prep_notes_hi": "चना को पहले से भिगो लें। मसाले और टमाटर के साथ पकाएं। चावल अलग से पकाएं।",
-      "prep_notes_en": "Soak chickpeas in advance. Cook with spices and tomatoes. Cook rice separately.",
-      "vizz_macros": {
-        "cal": 620,
-        "protein": 28,
-        "fat": 10,
-        "carbs": 110
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=chole%20rice%20recipe%20recipe"
-    },
-    "vizz_daily_total_from_meals": {
-      "cal": 1700,
-      "protein": 65,
-      "fat": 54,
-      "carbs": 240
-    },
-    "vizz_daily_total_with_shake": {
-      "cal": 2000,
-      "protein": 105,
-      "fat": 59,
-      "carbs": 265
-    },
-    "macro_check": "Almost hits the 2000/110/60/215 target. Protein slightly below; carbs are a bit high due to rice and paratha."
-  },
-  {
     "date": "2026-07-21 (Tuesday)",
     "date_display": "Tuesday, July 21",
     "date_short": "Tue · Jul 21",
@@ -3578,5 +3447,136 @@
       "carbs": 295
     },
     "macro_check": "Target calories met; protein slightly below and carbs higher than target. Consider adding an additional protein source."
+  },
+  {
+    "date": "2026-08-21 (Friday)",
+    "date_display": "Friday, August 21",
+    "date_short": "Fri · Aug 21",
+    "generated_label": "Generated last night for today",
+    "breakfast": {
+      "dish_hindi": "सब्जियों के साथ ओट्स, उबला अंडा (केवल Vizz और Flatmate-2 के लिए)",
+      "dish_english": "Oats with Vegetables, Boiled Egg (only for Vizz and Flatmate-2)",
+      "ingredients_hindi": "ओट्स, गाजर, मटर, शिमला मिर्च, उबला अंडा, नमक, काली मिर्च",
+      "ingredients_list_hi": [
+        "ओट्स",
+        "गाजर",
+        "मटर",
+        "शिमला मिर्च",
+        "उबला अंडा",
+        "नमक",
+        "काली मिर्च"
+      ],
+      "ingredients_list_en": [
+        "Oats",
+        "Carrot",
+        "Green Peas",
+        "Bell Pepper",
+        "Boiled Egg",
+        "Salt",
+        "Black Pepper"
+      ],
+      "prep_notes_hi": "ओट्स को गर्म पानी में पकाएं और सब्जियां डालें। नमक और काली मिर्च स्वादानुसार डालें। उबला अंडा तैयार रखें।",
+      "prep_notes_en": "Cook oats in hot water and add vegetables. Season with salt and black pepper. Serve with boiled egg.",
+      "vizz_macros": {
+        "cal": 370,
+        "protein": 18,
+        "fat": 10,
+        "carbs": 52
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=vegetable%20oats%20recipe%20hindi%20recipe"
+    },
+    "lunch": {
+      "dish_hindi": "पनीर भुर्जी और चपाती",
+      "dish_english": "Paneer Bhurji with Chapati",
+      "ingredients_hindi": "पनीर, प्याज, टमाटर, हरी मिर्च, अदरक, हल्दी, धनिया पाउडर, गरम मसाला, नमक, चपाती",
+      "ingredients_list_hi": [
+        "पनीर",
+        "प्याज",
+        "टमाटर",
+        "हरी मिर्च",
+        "अदरक",
+        "हल्दी",
+        "धनिया पाउडर",
+        "गरम मसाला",
+        "नमक",
+        "चपाती"
+      ],
+      "ingredients_list_en": [
+        "Paneer",
+        "Onion",
+        "Tomato",
+        "Green Chili",
+        "Ginger",
+        "Turmeric",
+        "Coriander Powder",
+        "Garam Masala",
+        "Salt",
+        "Chapati"
+      ],
+      "prep_notes_hi": "पनीर भुर्जी और चपाती एक साथ बॉक्स में पैक करें। यह ऑफिस के लिए उपयुक्त है और माइक्रोवेव में आसानी से गरम किया जा सकता है।",
+      "prep_notes_en": "Pack paneer bhurji and chapati together. Suitable for office and easily microwavable.",
+      "vizz_macros": {
+        "cal": 600,
+        "protein": 28,
+        "fat": 25,
+        "carbs": 65
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=paneer%20bhurji%20recipe%20hindi%20recipe"
+    },
+    "dinner": {
+      "dish_hindi": "मिस्सी रोटी और मिक्स वेज सब्जी, दही, आचार",
+      "dish_english": "Missi Roti with Mixed Vegetable Curry, Curd, Pickle",
+      "ingredients_hindi": "बेसन, गेहूं का आटा, हरा धनिया, मेथी, गाजर, बीन्स, फूलगोभी, अदरक-लहसुन पेस्ट, जीरा, हरी मिर्च, दही, आचार",
+      "ingredients_list_hi": [
+        "बेसन",
+        "गेहूं का आटा",
+        "हरा धनिया",
+        "मेथी",
+        "गाजर",
+        "बीन्स",
+        "फूलगोभी",
+        "अदरक-लहसुन पेस्ट",
+        "जीरा",
+        "हरी मिर्च",
+        "दही",
+        "आचार"
+      ],
+      "ingredients_list_en": [
+        "Gram Flour",
+        "Wheat Flour",
+        "Coriander Leaves",
+        "Fenugreek",
+        "Carrot",
+        "Beans",
+        "Cauliflower",
+        "Ginger-Garlic Paste",
+        "Cumin",
+        "Green Chilies",
+        "Curd",
+        "Pickle"
+      ],
+      "prep_notes_hi": "मिस्सी रोटी को मध्यम आँच पर तवा पर सेंकें। सब्जी को अच्छी तरह से पकाकर जायकेदार बनाएं। दही और आचार साथ में परोसें।",
+      "prep_notes_en": "Cook missi roti on a hot griddle. Make the mixed vegetable curry flavorful and well-cooked. Serve with curd and pickle.",
+      "vizz_macros": {
+        "cal": 730,
+        "protein": 24,
+        "fat": 18,
+        "carbs": 90
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=missi%20roti%20and%20vegetable%20curry%20recipe"
+    },
+    "vizz_daily_total_from_meals": {
+      "cal": 1700,
+      "protein": 70,
+      "fat": 53,
+      "carbs": 207
+    },
+    "vizz_daily_total_with_shake": {
+      "cal": 2000,
+      "protein": 110,
+      "fat": 58,
+      "carbs": 232
+    },
+    "macro_check": "Hits 2000/110/60/215 target; fat short by 2g, carbs exceed by 17g. Protein balanced by shake."
   }
 ]
