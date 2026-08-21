@@ -1,131 +1,123 @@
 {
-  "date": "2026-08-21 (Friday)",
-  "date_display": "Friday, August 21",
-  "date_short": "Fri · Aug 21",
+  "date": "2026-08-22 (Saturday)",
+  "date_display": "Saturday, August 22",
+  "date_short": "Sat · Aug 22",
   "generated_label": "Generated last night for today",
   "breakfast": {
-    "dish_hindi": "सब्जियों के साथ ओट्स, उबला अंडा (केवल Vizz और Flatmate-2 के लिए)",
-    "dish_english": "Oats with Vegetables, Boiled Egg (only for Vizz and Flatmate-2)",
-    "ingredients_hindi": "ओट्स, गाजर, मटर, शिमला मिर्च, उबला अंडा, नमक, काली मिर्च",
+    "dish_hindi": "उपमा, उबला अंडा (केवल Vizz और Flatmate-2 के लिए)",
+    "dish_english": "Upma with Boiled Egg (only for Vizz and Flatmate-2)",
+    "ingredients_hindi": "सूजी, प्याज, हरी मिर्च, सरसों के बीज, करी पत्ते, नमक, तेल, उबला अंडा",
     "ingredients_list_hi": [
-      "ओट्स",
-      "गाजर",
-      "मटर",
-      "शिमला मिर्च",
-      "उबला अंडा",
+      "सूजी",
+      "प्याज",
+      "हरी मिर्च",
+      "सरसों के बीज",
+      "करी पत्ते",
       "नमक",
-      "काली मिर्च"
+      "तेल",
+      "उबला अंडा"
     ],
     "ingredients_list_en": [
-      "Oats",
-      "Carrot",
-      "Green Peas",
-      "Bell Pepper",
-      "Boiled Egg",
+      "Semolina",
+      "Onion",
+      "Green Chili",
+      "Mustard Seeds",
+      "Curry Leaves",
       "Salt",
-      "Black Pepper"
+      "Oil",
+      "Boiled Egg"
     ],
-    "prep_notes_hi": "ओट्स को गर्म पानी में पकाएं और सब्जियां डालें। नमक और काली मिर्च स्वादानुसार डालें। उबला अंडा तैयार रखें।",
-    "prep_notes_en": "Cook oats in hot water and add vegetables. Season with salt and black pepper. Serve with boiled egg.",
+    "prep_notes_hi": "सूजी को सूखा भूनें जब तक कि वह सुनहरी न हो जाए। अन्य मसालों के साथ अच्छी तरह से मिलाकर पकाएं।",
+    "prep_notes_en": "Dry roast the semolina until it turns golden. Cook well with other spices and mix thoroughly.",
     "vizz_macros": {
       "cal": 370,
-      "protein": 18,
-      "fat": 10,
-      "carbs": 52
+      "protein": 12,
+      "fat": 15,
+      "carbs": 50
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=vegetable%20oats%20recipe%20hindi%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=upma%20recipe%20hindi%20recipe"
   },
   "lunch": {
-    "dish_hindi": "पनीर भुर्जी और चपाती",
-    "dish_english": "Paneer Bhurji with Chapati",
-    "ingredients_hindi": "पनीर, प्याज, टमाटर, हरी मिर्च, अदरक, हल्दी, धनिया पाउडर, गरम मसाला, नमक, चपाती",
+    "dish_hindi": "राजमा चावल, प्याज के साथ",
+    "dish_english": "Rajma with Rice and Onion",
+    "ingredients_hindi": "राजमा, चावल, प्याज, अदरक, लहसुन, टमाटर, मसाले, नमक",
     "ingredients_list_hi": [
-      "पनीर",
+      "राजमा",
+      "चावल",
       "प्याज",
-      "टमाटर",
-      "हरी मिर्च",
       "अदरक",
-      "हल्दी",
-      "धनिया पाउडर",
-      "गरम मसाला",
-      "नमक",
-      "चपाती"
+      "लहसुन",
+      "टमाटर",
+      "मसाले",
+      "नमक"
     ],
     "ingredients_list_en": [
-      "Paneer",
+      "Kidney Beans",
+      "Rice",
       "Onion",
-      "Tomato",
-      "Green Chili",
       "Ginger",
-      "Turmeric",
-      "Coriander Powder",
-      "Garam Masala",
-      "Salt",
-      "Chapati"
+      "Garlic",
+      "Tomato",
+      "Spices",
+      "Salt"
     ],
-    "prep_notes_hi": "पनीर भुर्जी और चपाती एक साथ बॉक्स में पैक करें। यह ऑफिस के लिए उपयुक्त है और माइक्रोवेव में आसानी से गरम किया जा सकता है।",
-    "prep_notes_en": "Pack paneer bhurji and chapati together. Suitable for office and easily microwavable.",
+    "prep_notes_hi": "राजमा को रातभर भिगोकर रखें। इस बात का ध्यान रखें कि यह दोपहर के खाने के लिए पोर्टेबल और गर्म करने योग्य हो।",
+    "prep_notes_en": "Soak the kidney beans overnight. Ensure it's portable for lunch and reheatable.",
     "vizz_macros": {
-      "cal": 600,
+      "cal": 700,
       "protein": 28,
-      "fat": 25,
-      "carbs": 65
+      "fat": 5,
+      "carbs": 127
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=paneer%20bhurji%20recipe%20hindi%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=rajma%20chawal%20recipe%20recipe"
   },
   "dinner": {
-    "dish_hindi": "मिस्सी रोटी और मिक्स वेज सब्जी, दही, आचार",
-    "dish_english": "Missi Roti with Mixed Vegetable Curry, Curd, Pickle",
-    "ingredients_hindi": "बेसन, गेहूं का आटा, हरा धनिया, मेथी, गाजर, बीन्स, फूलगोभी, अदरक-लहसुन पेस्ट, जीरा, हरी मिर्च, दही, आचार",
+    "dish_hindi": "एशियन नूडल्स, मिर्च सॉस के साथ",
+    "dish_english": "Asian Noodles with Chili Sauce",
+    "ingredients_hindi": "नूडल्स, गाजर, शिमला मिर्च, सोया सॉस, मिर्च सॉस, हरी प्याज, लहसुन, तेल, नमक",
     "ingredients_list_hi": [
-      "बेसन",
-      "गेहूं का आटा",
-      "हरा धनिया",
-      "मेथी",
+      "नूडल्स",
       "गाजर",
-      "बीन्स",
-      "फूलगोभी",
-      "अदरक-लहसुन पेस्ट",
-      "जीरा",
-      "हरी मिर्च",
-      "दही",
-      "आचार"
+      "शिमला मिर्च",
+      "सोया सॉस",
+      "मिर्च सॉस",
+      "हरी प्याज",
+      "लहसुन",
+      "तेल",
+      "नमक"
     ],
     "ingredients_list_en": [
-      "Gram Flour",
-      "Wheat Flour",
-      "Coriander Leaves",
-      "Fenugreek",
+      "Noodles",
       "Carrot",
-      "Beans",
-      "Cauliflower",
-      "Ginger-Garlic Paste",
-      "Cumin",
-      "Green Chilies",
-      "Curd",
-      "Pickle"
+      "Bell Pepper",
+      "Soy Sauce",
+      "Chili Sauce",
+      "Spring Onion",
+      "Garlic",
+      "Oil",
+      "Salt"
     ],
-    "prep_notes_hi": "मिस्सी रोटी को मध्यम आँच पर तवा पर सेंकें। सब्जी को अच्छी तरह से पकाकर जायकेदार बनाएं। दही और आचार साथ में परोसें।",
-    "prep_notes_en": "Cook missi roti on a hot griddle. Make the mixed vegetable curry flavorful and well-cooked. Serve with curd and pickle.",
+    "prep_notes_hi": "सभी सब्जियों को पतला काटें। बहुत अधिक पकाने से बचें, ताकि सब्जियां क्रिस्पी रहें।",
+    "prep_notes_en": "Thinly slice all vegetables. Avoid overcooking to keep the vegetables crisp.",
     "vizz_macros": {
-      "cal": 730,
-      "protein": 24,
-      "fat": 18,
+      "cal": 630,
+      "protein": 10,
+      "fat": 25,
       "carbs": 90
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=missi%20roti%20and%20vegetable%20curry%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=asian%20noodles%20recipe%20recipe"
   },
   "vizz_daily_total_from_meals": {
     "cal": 1700,
-    "protein": 70,
-    "fat": 53,
-    "carbs": 207
+    "protein": 50,
+    "fat": 45,
+    "carbs": 267
   },
   "vizz_daily_total_with_shake": {
     "cal": 2000,
-    "protein": 110,
-    "fat": 58,
-    "carbs": 232
+    "protein": 90,
+    "fat": 50,
+    "carbs": 292
   },
-  "macro_check": "Hits 2000/110/60/215 target; fat short by 2g, carbs exceed by 17g. Protein balanced by shake."
+  "macro_check": "Carbs slightly over target but overall balance is good; protein on the lower side due to vegetarian meals."
 }
