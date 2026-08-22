@@ -1,132 +1,5 @@
 [
   {
-    "date": "2026-07-22 (Wednesday)",
-    "date_display": "Wednesday, July 22",
-    "date_short": "Wed · Jul 22",
-    "generated_label": "Generated last night for today",
-    "breakfast": {
-      "dish_hindi": "ओट्स उपमा और उबला अंडा",
-      "dish_english": "Oats Upma with Boiled Egg",
-      "ingredients_hindi": "ओट्स, प्याज, टमाटर, गाजर, मटर, सरसों के बीज, करी पत्ता, नमक, उबला अंडा",
-      "ingredients_list_hi": [
-        "ओट्स",
-        "प्याज",
-        "टमाटर",
-        "गाजर",
-        "मटर",
-        "सरसों के बीज",
-        "करी पत्ता",
-        "नमक",
-        "उबला अंडा"
-      ],
-      "ingredients_list_en": [
-        "Oats",
-        "Onion",
-        "Tomato",
-        "Carrot",
-        "Peas",
-        "Mustard seeds",
-        "Curry leaves",
-        "Salt",
-        "Boiled Egg"
-      ],
-      "prep_notes_hi": "ओट्स को अच्छी तरह सेंक लें। प्याज और गाजर को हल्का भूनें। जब सब्जियां नरम हो जाएं, तो ओट्स और पानी डालें।",
-      "prep_notes_en": "Toast the oats well. Lightly sauté the onions and carrots. Once vegetables are soft, add oats and water.",
-      "vizz_macros": {
-        "cal": 370,
-        "protein": 18,
-        "fat": 10,
-        "carbs": 50
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=oats%20upma%20recipe%20recipe"
-    },
-    "lunch": {
-      "dish_hindi": "मसूर दाल और ब्राउन राइस",
-      "dish_english": "Masoor Dal with Brown Rice",
-      "ingredients_hindi": "मसूर दाल, चावल, प्याज, टमाटर, लहसुन, अदरक, हल्दी, जीरा, नमक",
-      "ingredients_list_hi": [
-        "मसूर दाल",
-        "चावल",
-        "प्याज",
-        "टमाटर",
-        "लहसुन",
-        "अदरक",
-        "हल्दी",
-        "जीरा",
-        "नमक"
-      ],
-      "ingredients_list_en": [
-        "Masoor Dal",
-        "Brown Rice",
-        "Onion",
-        "Tomato",
-        "Garlic",
-        "Ginger",
-        "Turmeric",
-        "Cumin",
-        "Salt"
-      ],
-      "prep_notes_hi": "मसूर दाल और चावल को एक साथ पकाएं। यह भोजन ऑफिस में ले जाने के लिए उपयुक्त और गर्म करने योग्य है।",
-      "prep_notes_en": "Cook Masoor Dal and Brown Rice together. This meal is suitable for office carry and reheating.",
-      "vizz_macros": {
-        "cal": 630,
-        "protein": 25,
-        "fat": 5,
-        "carbs": 118
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=masoor%20dal%20brown%20rice%20recipe"
-    },
-    "dinner": {
-      "dish_hindi": "बिन्स करी और ज्वार रोटी",
-      "dish_english": "Beans Curry with Jowar Roti",
-      "ingredients_hindi": "सेम, प्याज, टमाटर, लहसुन, अदरक, जीरा, धनिया, नमक, ज्वार आटा",
-      "ingredients_list_hi": [
-        "सेम",
-        "प्याज",
-        "टमाटर",
-        "लहसुन",
-        "अदरक",
-        "जीरा",
-        "धनिया",
-        "नमक",
-        "ज्वार आटा"
-      ],
-      "ingredients_list_en": [
-        "Beans",
-        "Onion",
-        "Tomato",
-        "Garlic",
-        "Ginger",
-        "Cumin",
-        "Coriander",
-        "Salt",
-        "Jowar Flour"
-      ],
-      "prep_notes_hi": "प्याज और अदरक-लहसुन का पेस्ट भूनें, फिर टमाटर डालें। सेम पकने के बाद, इसे ज्वार रोटी के साथ परोसें।",
-      "prep_notes_en": "Sauté onion and ginger-garlic paste, then add tomatoes. Once beans are cooked, serve with jowar roti.",
-      "vizz_macros": {
-        "cal": 700,
-        "protein": 22,
-        "fat": 16,
-        "carbs": 85
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=beans%20curry%20jowar%20roti%20recipe"
-    },
-    "vizz_daily_total_from_meals": {
-      "cal": 1700,
-      "protein": 65,
-      "fat": 31,
-      "carbs": 253
-    },
-    "vizz_daily_total_with_shake": {
-      "cal": 2000,
-      "protein": 105,
-      "fat": 36,
-      "carbs": 278
-    },
-    "macro_check": "Calorie and protein targets largely hit with meals and shake; carbs slightly overshoot."
-  },
-  {
     "date": "2026-07-23 (Thursday)",
     "date_display": "Thursday, July 23",
     "date_short": "Thu · Jul 23",
@@ -3580,5 +3453,130 @@
       "carbs": 292
     },
     "macro_check": "Carbs slightly over target but overall balance is good; protein on the lower side due to vegetarian meals."
+  },
+  {
+    "date": "2026-08-23 (Sunday)",
+    "date_display": "Sunday, August 23",
+    "date_short": "Sun · Aug 23",
+    "generated_label": "Generated last night for today",
+    "breakfast": {
+      "dish_hindi": "मसाला पराठा, दही",
+      "dish_english": "Masala Paratha with Curd",
+      "ingredients_hindi": "गेहूं का आटा, आलू, हरी मिर्च, जीरा, नमक, घी, दही",
+      "ingredients_list_hi": [
+        "गेहूं का आटा",
+        "आलू",
+        "हरी मिर्च",
+        "जीरा",
+        "नमक",
+        "घी",
+        "दही"
+      ],
+      "ingredients_list_en": [
+        "Wheat flour",
+        "Potato",
+        "Green chili",
+        "Cumin",
+        "Salt",
+        "Ghee",
+        "Curd"
+      ],
+      "prep_notes_hi": "आलू को अच्छे से मसल लें और सब मसाले उसमें मिलाएं। आटे का नरम गोला बनाकर भरावन को बेल लें।",
+      "prep_notes_en": "Mash the potatoes well and mix all the spices into them. Make a soft dough ball and roll it with the stuffing.",
+      "vizz_macros": {
+        "cal": 350,
+        "protein": 8,
+        "fat": 12,
+        "carbs": 55
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=masala%20paratha%20recipe%20recipe"
+    },
+    "lunch": {
+      "dish_hindi": "छोले चावल और प्याज",
+      "dish_english": "Chole with Rice and Onion",
+      "ingredients_hindi": "चने, चावल, टमाटर, प्याज, अदरक, लहसुन, जीरा, गरम मसाला, धनिया पाउडर, हल्दी, नमक",
+      "ingredients_list_hi": [
+        "चने",
+        "चावल",
+        "टमाटर",
+        "प्याज",
+        "अदरक",
+        "लहसुन",
+        "जीरा",
+        "गरम मसाला",
+        "धनिया पाउडर",
+        "हल्दी",
+        "नमक"
+      ],
+      "ingredients_list_en": [
+        "Chickpeas",
+        "Rice",
+        "Tomato",
+        "Onion",
+        "Ginger",
+        "Garlic",
+        "Cumin",
+        "Garam masala",
+        "Coriander powder",
+        "Turmeric",
+        "Salt"
+      ],
+      "prep_notes_hi": "छोले को अच्छी तरह पकाएं ताकि सफ़र में अच्छी तरह रह सके। दोपहर के भोजन में माइक्रोवेव में गरम कर सकते हैं।",
+      "prep_notes_en": "Cook the chickpeas thoroughly so they hold up well for travel. Can be reheated in the microwave for lunch.",
+      "vizz_macros": {
+        "cal": 650,
+        "protein": 20,
+        "fat": 10,
+        "carbs": 110
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=chole%20recipe%20hindi%20recipe"
+    },
+    "dinner": {
+      "dish_hindi": "बेसन का चीला, हरी चटनी",
+      "dish_english": "Besan Chilla with Green Chutney",
+      "ingredients_hindi": "बेसन, हरी मिर्च, प्याज़, अदरक, तेल, हरा धनिया, नमक, पानी",
+      "ingredients_list_hi": [
+        "बेसन",
+        "हरी मिर्च",
+        "प्याज़",
+        "अदरक",
+        "तेल",
+        "हरा धनिया",
+        "नमक",
+        "पानी"
+      ],
+      "ingredients_list_en": [
+        "Gram flour",
+        "Green chili",
+        "Onion",
+        "Ginger",
+        "Oil",
+        "Coriander leaves",
+        "Salt",
+        "Water"
+      ],
+      "prep_notes_hi": "बेसन का घोल तैयार करके प्याज़ और हरी मिर्च मिला लें। थोड़े से तेल में दोनों तरफ से सुनहरा सेकें।",
+      "prep_notes_en": "Prepare the batter by mixing onions and green chili. Cook on both sides with a little oil until golden.",
+      "vizz_macros": {
+        "cal": 300,
+        "protein": 12,
+        "fat": 8,
+        "carbs": 45
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=besan%20chilla%20recipe%20recipe"
+    },
+    "vizz_daily_total_from_meals": {
+      "cal": 1300,
+      "protein": 40,
+      "fat": 30,
+      "carbs": 210
+    },
+    "vizz_daily_total_with_shake": {
+      "cal": 1600,
+      "protein": 80,
+      "fat": 35,
+      "carbs": 235
+    },
+    "macro_check": "Calories and protein are below target; consider light snacks to bridge gaps."
   }
 ]

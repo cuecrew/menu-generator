@@ -1,123 +1,125 @@
 {
-  "date": "2026-08-22 (Saturday)",
-  "date_display": "Saturday, August 22",
-  "date_short": "Sat · Aug 22",
+  "date": "2026-08-23 (Sunday)",
+  "date_display": "Sunday, August 23",
+  "date_short": "Sun · Aug 23",
   "generated_label": "Generated last night for today",
   "breakfast": {
-    "dish_hindi": "उपमा, उबला अंडा (केवल Vizz और Flatmate-2 के लिए)",
-    "dish_english": "Upma with Boiled Egg (only for Vizz and Flatmate-2)",
-    "ingredients_hindi": "सूजी, प्याज, हरी मिर्च, सरसों के बीज, करी पत्ते, नमक, तेल, उबला अंडा",
+    "dish_hindi": "मसाला पराठा, दही",
+    "dish_english": "Masala Paratha with Curd",
+    "ingredients_hindi": "गेहूं का आटा, आलू, हरी मिर्च, जीरा, नमक, घी, दही",
     "ingredients_list_hi": [
-      "सूजी",
-      "प्याज",
+      "गेहूं का आटा",
+      "आलू",
       "हरी मिर्च",
-      "सरसों के बीज",
-      "करी पत्ते",
+      "जीरा",
       "नमक",
-      "तेल",
-      "उबला अंडा"
+      "घी",
+      "दही"
     ],
     "ingredients_list_en": [
-      "Semolina",
-      "Onion",
-      "Green Chili",
-      "Mustard Seeds",
-      "Curry Leaves",
+      "Wheat flour",
+      "Potato",
+      "Green chili",
+      "Cumin",
       "Salt",
-      "Oil",
-      "Boiled Egg"
+      "Ghee",
+      "Curd"
     ],
-    "prep_notes_hi": "सूजी को सूखा भूनें जब तक कि वह सुनहरी न हो जाए। अन्य मसालों के साथ अच्छी तरह से मिलाकर पकाएं।",
-    "prep_notes_en": "Dry roast the semolina until it turns golden. Cook well with other spices and mix thoroughly.",
+    "prep_notes_hi": "आलू को अच्छे से मसल लें और सब मसाले उसमें मिलाएं। आटे का नरम गोला बनाकर भरावन को बेल लें।",
+    "prep_notes_en": "Mash the potatoes well and mix all the spices into them. Make a soft dough ball and roll it with the stuffing.",
     "vizz_macros": {
-      "cal": 370,
-      "protein": 12,
-      "fat": 15,
-      "carbs": 50
+      "cal": 350,
+      "protein": 8,
+      "fat": 12,
+      "carbs": 55
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=upma%20recipe%20hindi%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=masala%20paratha%20recipe%20recipe"
   },
   "lunch": {
-    "dish_hindi": "राजमा चावल, प्याज के साथ",
-    "dish_english": "Rajma with Rice and Onion",
-    "ingredients_hindi": "राजमा, चावल, प्याज, अदरक, लहसुन, टमाटर, मसाले, नमक",
+    "dish_hindi": "छोले चावल और प्याज",
+    "dish_english": "Chole with Rice and Onion",
+    "ingredients_hindi": "चने, चावल, टमाटर, प्याज, अदरक, लहसुन, जीरा, गरम मसाला, धनिया पाउडर, हल्दी, नमक",
     "ingredients_list_hi": [
-      "राजमा",
+      "चने",
       "चावल",
+      "टमाटर",
       "प्याज",
       "अदरक",
       "लहसुन",
-      "टमाटर",
-      "मसाले",
+      "जीरा",
+      "गरम मसाला",
+      "धनिया पाउडर",
+      "हल्दी",
       "नमक"
     ],
     "ingredients_list_en": [
-      "Kidney Beans",
+      "Chickpeas",
       "Rice",
+      "Tomato",
       "Onion",
       "Ginger",
       "Garlic",
-      "Tomato",
-      "Spices",
+      "Cumin",
+      "Garam masala",
+      "Coriander powder",
+      "Turmeric",
       "Salt"
     ],
-    "prep_notes_hi": "राजमा को रातभर भिगोकर रखें। इस बात का ध्यान रखें कि यह दोपहर के खाने के लिए पोर्टेबल और गर्म करने योग्य हो।",
-    "prep_notes_en": "Soak the kidney beans overnight. Ensure it's portable for lunch and reheatable.",
+    "prep_notes_hi": "छोले को अच्छी तरह पकाएं ताकि सफ़र में अच्छी तरह रह सके। दोपहर के भोजन में माइक्रोवेव में गरम कर सकते हैं।",
+    "prep_notes_en": "Cook the chickpeas thoroughly so they hold up well for travel. Can be reheated in the microwave for lunch.",
     "vizz_macros": {
-      "cal": 700,
-      "protein": 28,
-      "fat": 5,
-      "carbs": 127
+      "cal": 650,
+      "protein": 20,
+      "fat": 10,
+      "carbs": 110
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=rajma%20chawal%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=chole%20recipe%20hindi%20recipe"
   },
   "dinner": {
-    "dish_hindi": "एशियन नूडल्स, मिर्च सॉस के साथ",
-    "dish_english": "Asian Noodles with Chili Sauce",
-    "ingredients_hindi": "नूडल्स, गाजर, शिमला मिर्च, सोया सॉस, मिर्च सॉस, हरी प्याज, लहसुन, तेल, नमक",
+    "dish_hindi": "बेसन का चीला, हरी चटनी",
+    "dish_english": "Besan Chilla with Green Chutney",
+    "ingredients_hindi": "बेसन, हरी मिर्च, प्याज़, अदरक, तेल, हरा धनिया, नमक, पानी",
     "ingredients_list_hi": [
-      "नूडल्स",
-      "गाजर",
-      "शिमला मिर्च",
-      "सोया सॉस",
-      "मिर्च सॉस",
-      "हरी प्याज",
-      "लहसुन",
+      "बेसन",
+      "हरी मिर्च",
+      "प्याज़",
+      "अदरक",
       "तेल",
-      "नमक"
+      "हरा धनिया",
+      "नमक",
+      "पानी"
     ],
     "ingredients_list_en": [
-      "Noodles",
-      "Carrot",
-      "Bell Pepper",
-      "Soy Sauce",
-      "Chili Sauce",
-      "Spring Onion",
-      "Garlic",
+      "Gram flour",
+      "Green chili",
+      "Onion",
+      "Ginger",
       "Oil",
-      "Salt"
+      "Coriander leaves",
+      "Salt",
+      "Water"
     ],
-    "prep_notes_hi": "सभी सब्जियों को पतला काटें। बहुत अधिक पकाने से बचें, ताकि सब्जियां क्रिस्पी रहें।",
-    "prep_notes_en": "Thinly slice all vegetables. Avoid overcooking to keep the vegetables crisp.",
+    "prep_notes_hi": "बेसन का घोल तैयार करके प्याज़ और हरी मिर्च मिला लें। थोड़े से तेल में दोनों तरफ से सुनहरा सेकें।",
+    "prep_notes_en": "Prepare the batter by mixing onions and green chili. Cook on both sides with a little oil until golden.",
     "vizz_macros": {
-      "cal": 630,
-      "protein": 10,
-      "fat": 25,
-      "carbs": 90
+      "cal": 300,
+      "protein": 12,
+      "fat": 8,
+      "carbs": 45
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=asian%20noodles%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=besan%20chilla%20recipe%20recipe"
   },
   "vizz_daily_total_from_meals": {
-    "cal": 1700,
-    "protein": 50,
-    "fat": 45,
-    "carbs": 267
+    "cal": 1300,
+    "protein": 40,
+    "fat": 30,
+    "carbs": 210
   },
   "vizz_daily_total_with_shake": {
-    "cal": 2000,
-    "protein": 90,
-    "fat": 50,
-    "carbs": 292
+    "cal": 1600,
+    "protein": 80,
+    "fat": 35,
+    "carbs": 235
   },
-  "macro_check": "Carbs slightly over target but overall balance is good; protein on the lower side due to vegetarian meals."
+  "macro_check": "Calories and protein are below target; consider light snacks to bridge gaps."
 }
