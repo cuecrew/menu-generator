@@ -1,108 +1,5 @@
 [
   {
-    "date": "2026-07-23 (Thursday)",
-    "date_display": "Thursday, July 23",
-    "date_short": "Thu · Jul 23",
-    "generated_label": "Generated last night for today",
-    "breakfast": {
-      "dish_hindi": "इडली सांभर और नारियल की चटनी, उबला हुआ अंडा (केवल विज़ और फ्लैटमेट-2 के लिए)",
-      "dish_english": "Idli with Sambar and Coconut Chutney, Boiled Egg (for Vizz and Flatmate-2 only)",
-      "ingredients_hindi": "चावल, उरद दाल, नारियल, चना दाल, मसाले, उबला अंडा",
-      "ingredients_list_hi": [
-        "चावल",
-        "उरद दाल",
-        "नारियल",
-        "चना दाल",
-        "मसाले",
-        "उबला अंडा"
-      ],
-      "ingredients_list_en": [
-        "Rice",
-        "Urad Dal",
-        "Coconut",
-        "Chana Dal",
-        "Spices",
-        "Boiled Egg"
-      ],
-      "prep_notes_hi": "इडली के लिए बैटर पहले से तैयार कर लें। सांभर में प्याज और टमाटर अच्छी तरह पकाएं। चटनी में मिक्सर में नारियल और मसाले पीसें।",
-      "prep_notes_en": "Prepare the idli batter in advance. Cook onion and tomato thoroughly for the sambar. Blend coconut and spices for chutney.",
-      "vizz_macros": {
-        "cal": 350,
-        "protein": 15,
-        "fat": 10,
-        "carbs": 50
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=idli%20sambar%20recipe%20recipe"
-    },
-    "lunch": {
-      "dish_hindi": "पालक पनीर और चावल, पापड़",
-      "dish_english": "Palak Paneer with Rice, Papad",
-      "ingredients_hindi": "पालक, पनीर, चावल, मसाले, पापड़",
-      "ingredients_list_hi": [
-        "पालक",
-        "पनीर",
-        "चावल",
-        "मसाले",
-        "पापड़"
-      ],
-      "ingredients_list_en": [
-        "Spinach",
-        "Paneer",
-        "Rice",
-        "Spices",
-        "Papad"
-      ],
-      "prep_notes_hi": "पालक और पनीर की करी को ठीक से पका लें। यह लंच के लिए उपयुक्त और फिर से गरम किया जा सकता है।",
-      "prep_notes_en": "Cook the spinach and paneer curry thoroughly. This is suitable and reheatable for lunch.",
-      "vizz_macros": {
-        "cal": 600,
-        "protein": 30,
-        "fat": 20,
-        "carbs": 70
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=palak%20paneer%20recipe%20recipe"
-    },
-    "dinner": {
-      "dish_hindi": "वेजिटेबल बिरयानी, रायता",
-      "dish_english": "Vegetable Biryani with Raita",
-      "ingredients_hindi": "बासमती चावल, सब्जियाँ, मसाले, दही",
-      "ingredients_list_hi": [
-        "बासमती चावल",
-        "सब्जियाँ",
-        "मसाले",
-        "दही"
-      ],
-      "ingredients_list_en": [
-        "Basmati Rice",
-        "Vegetables",
-        "Spices",
-        "Curd"
-      ],
-      "prep_notes_hi": "चावल को प्रेशर कुकर में पकाएं और सब्जियों को हल्का फ्राई करें। दही से रायता बनाएं।",
-      "prep_notes_en": "Cook rice in a pressure cooker and lightly fry the vegetables. Make raita with curd.",
-      "vizz_macros": {
-        "cal": 450,
-        "protein": 10,
-        "fat": 15,
-        "carbs": 70
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=vegetable%20biryani%20recipe%20recipe"
-    },
-    "vizz_daily_total_from_meals": {
-      "cal": 1400,
-      "protein": 55,
-      "fat": 45,
-      "carbs": 190
-    },
-    "vizz_daily_total_with_shake": {
-      "cal": 1700,
-      "protein": 95,
-      "fat": 50,
-      "carbs": 215
-    },
-    "macro_check": "Meals and shake meet calorie and carb targets, slightly under protein target, adjust with additional protein sources if needed."
-  },
-  {
     "date": "2026-07-24 (Friday)",
     "date_display": "Friday, July 24",
     "date_short": "Fri · Jul 24",
@@ -3578,5 +3475,118 @@
       "carbs": 235
     },
     "macro_check": "Calories and protein are below target; consider light snacks to bridge gaps."
+  },
+  {
+    "date": "2026-08-24 (Monday)",
+    "date_display": "Monday, August 24",
+    "date_short": "Mon · Aug 24",
+    "generated_label": "Generated last night for today",
+    "breakfast": {
+      "dish_hindi": "झटपट पोहा",
+      "dish_english": "Quick Poha",
+      "ingredients_hindi": "पोहा, प्याज, हरी मिर्च, मूंगफली, हल्दी, नमक, नींबू",
+      "ingredients_list_hi": [
+        "पोहा",
+        "प्याज",
+        "हरी मिर्च",
+        "मूंगफली",
+        "हल्दी",
+        "नमक",
+        "नींबू"
+      ],
+      "ingredients_list_en": [
+        "Poha (flattened rice)",
+        "Onion",
+        "Green chili",
+        "Peanuts",
+        "Turmeric",
+        "Salt",
+        "Lemon"
+      ],
+      "prep_notes_hi": "पोहा को भिगोने में देरी ना करें। प्याज और मूंगफली को धीमी आँच पर धर पकाएं ताकि वे कुरकुरा बने रहें। नींबू रस से जायका बढ़ता है।",
+      "prep_notes_en": "Do not soak the poha for long. Saute the onions and peanuts on low heat to keep them crunchy. Lemon juice enhances the taste.",
+      "vizz_macros": {
+        "cal": 380,
+        "protein": 7,
+        "fat": 12,
+        "carbs": 60
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=poha%20recipe%20hindi%20recipe"
+    },
+    "lunch": {
+      "dish_hindi": "पनीर पुलाव, दही",
+      "dish_english": "Paneer Pulao with Curd",
+      "ingredients_hindi": "बासमती चावल, पनीर, मटर, गाजर, जीरा, हरी मिर्च, नमक, घी",
+      "ingredients_list_hi": [
+        "बासमती चावल",
+        "पनीर",
+        "मटर",
+        "गाजर",
+        "जीरा",
+        "हरी मिर्च",
+        "नमक",
+        "घी"
+      ],
+      "ingredients_list_en": [
+        "Basmati rice",
+        "Paneer",
+        "Green peas",
+        "Carrot",
+        "Cumin seeds",
+        "Green chili",
+        "Salt",
+        "Ghee"
+      ],
+      "prep_notes_hi": "यह एक यात्रा-सुलभ व्यंजन है और माइक्रोवेव में आसानी से गर्म हो सकता है। मटर और गाजर को हल्का उबाल लें ताकि वे कुरकुरे रहें।",
+      "prep_notes_en": "This is a travel-friendly dish and reheats well in the microwave. Parboil peas and carrots so they stay crunchy.",
+      "vizz_macros": {
+        "cal": 600,
+        "protein": 22,
+        "fat": 25,
+        "carbs": 80
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=paneer%20pulao%20recipe%20hindi%20recipe"
+    },
+    "dinner": {
+      "dish_hindi": "पास्ता पेस्तो, लहसुन की ब्रेड",
+      "dish_english": "Pasta Pesto with Garlic Bread",
+      "ingredients_hindi": "पास्ता, पेस्तो सॉस, लहसुन, मक्खन, रोटी",
+      "ingredients_list_hi": [
+        "पास्ता",
+        "पेस्तो सॉस",
+        "लहसुन",
+        "मक्खन",
+        "रोटी"
+      ],
+      "ingredients_list_en": [
+        "Pasta",
+        "Pesto sauce",
+        "Garlic",
+        "Butter",
+        "Bread"
+      ],
+      "prep_notes_hi": "पेस्तो सॉस को अच्छी तरह से मिला कर ना रखें। मक्खन में लहसुन ब्रेड को स्वादिष्ट बनाने के लिए तलें।",
+      "prep_notes_en": "Do not overmix pesto sauce. Fry garlic bread in butter for a delicious flavor.",
+      "vizz_macros": {
+        "cal": 720,
+        "protein": 20,
+        "fat": 30,
+        "carbs": 90
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=pasta%20pesto%20recipe%20recipe"
+    },
+    "vizz_daily_total_from_meals": {
+      "cal": 1700,
+      "protein": 49,
+      "fat": 67,
+      "carbs": 230
+    },
+    "vizz_daily_total_with_shake": {
+      "cal": 2000,
+      "protein": 89,
+      "fat": 72,
+      "carbs": 255
+    },
+    "macro_check": "Almost hits the target. Protein is slightly under expected target. Consider a breakfast with more protein."
   }
 ]

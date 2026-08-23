@@ -1,125 +1,113 @@
 {
-  "date": "2026-08-23 (Sunday)",
-  "date_display": "Sunday, August 23",
-  "date_short": "Sun · Aug 23",
+  "date": "2026-08-24 (Monday)",
+  "date_display": "Monday, August 24",
+  "date_short": "Mon · Aug 24",
   "generated_label": "Generated last night for today",
   "breakfast": {
-    "dish_hindi": "मसाला पराठा, दही",
-    "dish_english": "Masala Paratha with Curd",
-    "ingredients_hindi": "गेहूं का आटा, आलू, हरी मिर्च, जीरा, नमक, घी, दही",
+    "dish_hindi": "झटपट पोहा",
+    "dish_english": "Quick Poha",
+    "ingredients_hindi": "पोहा, प्याज, हरी मिर्च, मूंगफली, हल्दी, नमक, नींबू",
     "ingredients_list_hi": [
-      "गेहूं का आटा",
-      "आलू",
+      "पोहा",
+      "प्याज",
       "हरी मिर्च",
-      "जीरा",
+      "मूंगफली",
+      "हल्दी",
       "नमक",
-      "घी",
-      "दही"
+      "नींबू"
     ],
     "ingredients_list_en": [
-      "Wheat flour",
-      "Potato",
+      "Poha (flattened rice)",
+      "Onion",
       "Green chili",
-      "Cumin",
+      "Peanuts",
+      "Turmeric",
       "Salt",
-      "Ghee",
-      "Curd"
+      "Lemon"
     ],
-    "prep_notes_hi": "आलू को अच्छे से मसल लें और सब मसाले उसमें मिलाएं। आटे का नरम गोला बनाकर भरावन को बेल लें।",
-    "prep_notes_en": "Mash the potatoes well and mix all the spices into them. Make a soft dough ball and roll it with the stuffing.",
+    "prep_notes_hi": "पोहा को भिगोने में देरी ना करें। प्याज और मूंगफली को धीमी आँच पर धर पकाएं ताकि वे कुरकुरा बने रहें। नींबू रस से जायका बढ़ता है।",
+    "prep_notes_en": "Do not soak the poha for long. Saute the onions and peanuts on low heat to keep them crunchy. Lemon juice enhances the taste.",
     "vizz_macros": {
-      "cal": 350,
-      "protein": 8,
+      "cal": 380,
+      "protein": 7,
       "fat": 12,
-      "carbs": 55
+      "carbs": 60
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=masala%20paratha%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=poha%20recipe%20hindi%20recipe"
   },
   "lunch": {
-    "dish_hindi": "छोले चावल और प्याज",
-    "dish_english": "Chole with Rice and Onion",
-    "ingredients_hindi": "चने, चावल, टमाटर, प्याज, अदरक, लहसुन, जीरा, गरम मसाला, धनिया पाउडर, हल्दी, नमक",
+    "dish_hindi": "पनीर पुलाव, दही",
+    "dish_english": "Paneer Pulao with Curd",
+    "ingredients_hindi": "बासमती चावल, पनीर, मटर, गाजर, जीरा, हरी मिर्च, नमक, घी",
     "ingredients_list_hi": [
-      "चने",
-      "चावल",
-      "टमाटर",
-      "प्याज",
-      "अदरक",
-      "लहसुन",
+      "बासमती चावल",
+      "पनीर",
+      "मटर",
+      "गाजर",
       "जीरा",
-      "गरम मसाला",
-      "धनिया पाउडर",
-      "हल्दी",
-      "नमक"
+      "हरी मिर्च",
+      "नमक",
+      "घी"
     ],
     "ingredients_list_en": [
-      "Chickpeas",
-      "Rice",
-      "Tomato",
-      "Onion",
-      "Ginger",
-      "Garlic",
-      "Cumin",
-      "Garam masala",
-      "Coriander powder",
-      "Turmeric",
-      "Salt"
+      "Basmati rice",
+      "Paneer",
+      "Green peas",
+      "Carrot",
+      "Cumin seeds",
+      "Green chili",
+      "Salt",
+      "Ghee"
     ],
-    "prep_notes_hi": "छोले को अच्छी तरह पकाएं ताकि सफ़र में अच्छी तरह रह सके। दोपहर के भोजन में माइक्रोवेव में गरम कर सकते हैं।",
-    "prep_notes_en": "Cook the chickpeas thoroughly so they hold up well for travel. Can be reheated in the microwave for lunch.",
+    "prep_notes_hi": "यह एक यात्रा-सुलभ व्यंजन है और माइक्रोवेव में आसानी से गर्म हो सकता है। मटर और गाजर को हल्का उबाल लें ताकि वे कुरकुरे रहें।",
+    "prep_notes_en": "This is a travel-friendly dish and reheats well in the microwave. Parboil peas and carrots so they stay crunchy.",
     "vizz_macros": {
-      "cal": 650,
-      "protein": 20,
-      "fat": 10,
-      "carbs": 110
+      "cal": 600,
+      "protein": 22,
+      "fat": 25,
+      "carbs": 80
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=chole%20recipe%20hindi%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=paneer%20pulao%20recipe%20hindi%20recipe"
   },
   "dinner": {
-    "dish_hindi": "बेसन का चीला, हरी चटनी",
-    "dish_english": "Besan Chilla with Green Chutney",
-    "ingredients_hindi": "बेसन, हरी मिर्च, प्याज़, अदरक, तेल, हरा धनिया, नमक, पानी",
+    "dish_hindi": "पास्ता पेस्तो, लहसुन की ब्रेड",
+    "dish_english": "Pasta Pesto with Garlic Bread",
+    "ingredients_hindi": "पास्ता, पेस्तो सॉस, लहसुन, मक्खन, रोटी",
     "ingredients_list_hi": [
-      "बेसन",
-      "हरी मिर्च",
-      "प्याज़",
-      "अदरक",
-      "तेल",
-      "हरा धनिया",
-      "नमक",
-      "पानी"
+      "पास्ता",
+      "पेस्तो सॉस",
+      "लहसुन",
+      "मक्खन",
+      "रोटी"
     ],
     "ingredients_list_en": [
-      "Gram flour",
-      "Green chili",
-      "Onion",
-      "Ginger",
-      "Oil",
-      "Coriander leaves",
-      "Salt",
-      "Water"
+      "Pasta",
+      "Pesto sauce",
+      "Garlic",
+      "Butter",
+      "Bread"
     ],
-    "prep_notes_hi": "बेसन का घोल तैयार करके प्याज़ और हरी मिर्च मिला लें। थोड़े से तेल में दोनों तरफ से सुनहरा सेकें।",
-    "prep_notes_en": "Prepare the batter by mixing onions and green chili. Cook on both sides with a little oil until golden.",
+    "prep_notes_hi": "पेस्तो सॉस को अच्छी तरह से मिला कर ना रखें। मक्खन में लहसुन ब्रेड को स्वादिष्ट बनाने के लिए तलें।",
+    "prep_notes_en": "Do not overmix pesto sauce. Fry garlic bread in butter for a delicious flavor.",
     "vizz_macros": {
-      "cal": 300,
-      "protein": 12,
-      "fat": 8,
-      "carbs": 45
+      "cal": 720,
+      "protein": 20,
+      "fat": 30,
+      "carbs": 90
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=besan%20chilla%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=pasta%20pesto%20recipe%20recipe"
   },
   "vizz_daily_total_from_meals": {
-    "cal": 1300,
-    "protein": 40,
-    "fat": 30,
-    "carbs": 210
+    "cal": 1700,
+    "protein": 49,
+    "fat": 67,
+    "carbs": 230
   },
   "vizz_daily_total_with_shake": {
-    "cal": 1600,
-    "protein": 80,
-    "fat": 35,
-    "carbs": 235
+    "cal": 2000,
+    "protein": 89,
+    "fat": 72,
+    "carbs": 255
   },
-  "macro_check": "Calories and protein are below target; consider light snacks to bridge gaps."
+  "macro_check": "Almost hits the target. Protein is slightly under expected target. Consider a breakfast with more protein."
 }
