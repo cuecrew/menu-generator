@@ -1,118 +1,5 @@
 [
   {
-    "date": "2026-07-24 (Friday)",
-    "date_display": "Friday, July 24",
-    "date_short": "Fri · Jul 24",
-    "generated_label": "Generated last night for today",
-    "breakfast": {
-      "dish_hindi": "अंडा सैंडविच, टोमैटो केचप",
-      "dish_english": "Egg Sandwich with Tomato Ketchup",
-      "ingredients_hindi": "ब्रेड, उबला अंडा, मक्खन, नमक, काली मिर्च, टोमैटो केचप",
-      "ingredients_list_hi": [
-        "ब्रेड",
-        "उबला अंडा",
-        "मक्खन",
-        "नमक",
-        "काली मिर्च",
-        "टोमैटो केचप"
-      ],
-      "ingredients_list_en": [
-        "Bread",
-        "Boiled Egg",
-        "Butter",
-        "Salt",
-        "Black Pepper",
-        "Tomato Ketchup"
-      ],
-      "prep_notes_hi": "उबले अंडे को छोटे टुकड़ो में काटें। ब्रेड पर मक्खन लगाएँ। उसमें अंडा, नमक और काली मिर्च डालें।",
-      "prep_notes_en": "Cut the boiled eggs into small pieces. Spread butter on bread. Add eggs, salt, and black pepper.",
-      "vizz_macros": {
-        "cal": 400,
-        "protein": 14,
-        "fat": 20,
-        "carbs": 40
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=egg%20sandwich%20recipe%20recipe"
-    },
-    "lunch": {
-      "dish_hindi": "मूंग दाल और चावल, अचार",
-      "dish_english": "Moong Dal with Rice and Pickle",
-      "ingredients_hindi": "मूंग दाल, चावल, जीरा, हल्दी, नमक, लाल मिर्च, अचार",
-      "ingredients_list_hi": [
-        "मूंग दाल",
-        "चावल",
-        "जीरा",
-        "हल्दी",
-        "नमक",
-        "लाल मिर्च",
-        "अचार"
-      ],
-      "ingredients_list_en": [
-        "Moong Dal",
-        "Rice",
-        "Cumin",
-        "Turmeric",
-        "Salt",
-        "Red Chili",
-        "Pickle"
-      ],
-      "prep_notes_hi": "मूंग दाल और चावल को प्रेशर कुकर में पकाएँ। यह यात्रा तथा माइक्रोवेव गरम होने के लिए उपयुक्त है।",
-      "prep_notes_en": "Cook moong dal and rice in a pressure cooker. It is suitable for travel and can be reheated in a microwave.",
-      "vizz_macros": {
-        "cal": 630,
-        "protein": 19,
-        "fat": 3,
-        "carbs": 130
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=moong%20dal%20rice%20recipe%20recipe"
-    },
-    "dinner": {
-      "dish_hindi": "मिक्स वेजिटेबल स्टर फ्राई, चपाती",
-      "dish_english": "Mixed Vegetable Stir Fry with Chapati",
-      "ingredients_hindi": "गाजर, शिमला मिर्च, प्याज, गोभी, हरी मटर, तेल, चपाती",
-      "ingredients_list_hi": [
-        "गाजर",
-        "शिमला मिर्च",
-        "प्याज",
-        "गोभी",
-        "हरी मटर",
-        "तेल",
-        "चपाती"
-      ],
-      "ingredients_list_en": [
-        "Carrot",
-        "Capsicum",
-        "Onion",
-        "Cabbage",
-        "Green Peas",
-        "Oil",
-        "Chapati"
-      ],
-      "prep_notes_hi": "सब्जियों को छोटे टुकड़ों में काटें और तेल में हल्का फ्राई करें। अच्छी तरह मिलाएँ और चपाती के साथ परोसें।",
-      "prep_notes_en": "Chop the vegetables into small pieces and lightly fry in oil. Mix well and serve with chapati.",
-      "vizz_macros": {
-        "cal": 670,
-        "protein": 15,
-        "fat": 25,
-        "carbs": 105
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=mixed%20vegetable%20stir%20fry%20recipe%20recipe"
-    },
-    "vizz_daily_total_from_meals": {
-      "cal": 1700,
-      "protein": 48,
-      "fat": 48,
-      "carbs": 275
-    },
-    "vizz_daily_total_with_shake": {
-      "cal": 2000,
-      "protein": 88,
-      "fat": 53,
-      "carbs": 300
-    },
-    "macro_check": "Calories and carbs meet the target; protein falls short at 88g (goal: 110g). Consider a higher protein source like dal/legumes next time."
-  },
-  {
     "date": "2026-07-25 (Saturday)",
     "date_display": "Saturday, July 25",
     "date_short": "Sat · Jul 25",
@@ -3588,5 +3475,132 @@
       "carbs": 255
     },
     "macro_check": "Almost hits the target. Protein is slightly under expected target. Consider a breakfast with more protein."
+  },
+  {
+    "date": "2026-08-25 (Tuesday)",
+    "date_display": "Tuesday, August 25",
+    "date_short": "Tue · Aug 25",
+    "generated_label": "Generated last night for today",
+    "breakfast": {
+      "dish_hindi": "ओट्स उपमा, उबला हुआ अंडा (केवल Vizz और Flatmate-2 के लिए)",
+      "dish_english": "Oats Upma with Boiled Egg (only for Vizz and Flatmate-2)",
+      "ingredients_hindi": "ओट्स, प्याज, शिमला मिर्च, मटर, गाजर, राई, करी पत्ते, नमक, हरी मिर्च, उबला हुआ अंडा",
+      "ingredients_list_hi": [
+        "ओट्स",
+        "प्याज",
+        "शिमला मिर्च",
+        "मटर",
+        "गाजर",
+        "राई",
+        "करी पत्ते",
+        "नमक",
+        "हरी मिर्च",
+        "उबला हुआ अंडा"
+      ],
+      "ingredients_list_en": [
+        "Oats",
+        "Onion",
+        "Capsicum",
+        "Peas",
+        "Carrot",
+        "Mustard Seeds",
+        "Curry Leaves",
+        "Salt",
+        "Green Chili",
+        "Boiled Egg"
+      ],
+      "prep_notes_hi": "ओट्स को पहले थोड़ा भून लें ताकि वे कुरकुरे बनें। सब्जियों को अच्छे से पकाएं ताकि स्वाद बढ़ सके।",
+      "prep_notes_en": "Dry roast the oats slightly to make them crispy. Ensure the vegetables are cooked well to enhance flavor.",
+      "vizz_macros": {
+        "cal": 450,
+        "protein": 20,
+        "fat": 12,
+        "carbs": 70
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=oats%20upma%20recipe%20recipe"
+    },
+    "lunch": {
+      "dish_hindi": "सब्जी पुलाव, दही",
+      "dish_english": "Vegetable Pulao with Curd",
+      "ingredients_hindi": "बासमती चावल, मटर, गाजर, फूलगोभी, शिमला मिर्च, लौंग, इलायची, जीरा, दही",
+      "ingredients_list_hi": [
+        "बासमती चावल",
+        "मटर",
+        "गाजर",
+        "फूलगोभी",
+        "शिमला मिर्च",
+        "लौंग",
+        "इलायची",
+        "जीरा",
+        "दही"
+      ],
+      "ingredients_list_en": [
+        "Basmati Rice",
+        "Peas",
+        "Carrot",
+        "Cauliflower",
+        "Capsicum",
+        "Cloves",
+        "Cardamom",
+        "Cumin Seeds",
+        "Curd"
+      ],
+      "prep_notes_hi": "ये डिश यात्रा के लिए अच्छी है और आसानी से गर्म हो सकती है। चावल को हल्का ही पकाएं ताकि वे चिपचिपे न हों।",
+      "prep_notes_en": "This dish travels well and can be reheated easily. Cook the rice till just done to avoid sogginess.",
+      "vizz_macros": {
+        "cal": 560,
+        "protein": 14,
+        "fat": 10,
+        "carbs": 105
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=vegetable%20pulao%20recipe%20recipe"
+    },
+    "dinner": {
+      "dish_hindi": "पनीर भुर्जी, तंदूरी रोटी, पापड़",
+      "dish_english": "Paneer Bhurji with Tandoori Roti and Papad",
+      "ingredients_hindi": "पनीर, प्याज, टमाटर, अदरक, लहसुन, हरी मिर्च, तंदूरी रोटी, पापड़",
+      "ingredients_list_hi": [
+        "पनीर",
+        "प्याज",
+        "टमाटर",
+        "अदरक",
+        "लहसुन",
+        "हरी मिर्च",
+        "तंदूरी रोटी",
+        "पापड़"
+      ],
+      "ingredients_list_en": [
+        "Paneer",
+        "Onion",
+        "Tomato",
+        "Ginger",
+        "Garlic",
+        "Green Chili",
+        "Tandoori Roti",
+        "Papad"
+      ],
+      "prep_notes_hi": "पनीर को अच्छे से भूनें ताकि वह लाल हो जाए और मसाले अच्छी तरह मिल जाएं।",
+      "prep_notes_en": "Fry the paneer well until it turns reddish and the spices blend well.",
+      "vizz_macros": {
+        "cal": 690,
+        "protein": 36,
+        "fat": 23,
+        "carbs": 90
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=paneer%20bhurji%20recipe%20recipe"
+    },
+    "vizz_daily_total_from_meals": {
+      "cal": 1700,
+      "protein": 70,
+      "fat": 45,
+      "carbs": 265
+    },
+    "vizz_daily_total_with_shake": {
+      "cal": 2000,
+      "protein": 110,
+      "fat": 50,
+      "carbs": 290
+    },
+    "macro_check": "Hits 2000/110/60/215 target with slight excess in carbs; slight shortfall in fat but overall balanced."
   }
 ]
