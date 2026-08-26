@@ -1,138 +1,5 @@
 [
   {
-    "date": "2026-07-26 (Sunday)",
-    "date_display": "Sunday, July 26",
-    "date_short": "Sun · Jul 26",
-    "generated_label": "Generated last night for today",
-    "breakfast": {
-      "dish_hindi": "ओट्स उपमा और उबला अंडा (केवल विज़ और फ़्लैटमेट-2 के लिए)",
-      "dish_english": "Oats Upma and Boiled Egg (for Vizz and Flatmate-2 only)",
-      "ingredients_hindi": "ओट्स, प्याज, गाजर, मटर, तेल, सरसों के दाने, करी पत्ता, नमक, पानी, उबला अंडा",
-      "ingredients_list_hi": [
-        "ओट्स",
-        "प्याज",
-        "गाजर",
-        "मटर",
-        "तेल",
-        "सरसों के दाने",
-        "करी पत्ता",
-        "नमक",
-        "पानी",
-        "उबला अंडा"
-      ],
-      "ingredients_list_en": [
-        "Oats",
-        "Onion",
-        "Carrot",
-        "Peas",
-        "Oil",
-        "Mustard Seeds",
-        "Curry Leaves",
-        "Salt",
-        "Water",
-        "Boiled Egg"
-      ],
-      "prep_notes_hi": "ओट्स और सब्जियों को धीमी आंच पर पकाएं। सरसों और करी पत्ता के तड़के से स्वाद बढ़ाएं।",
-      "prep_notes_en": "Cook oats and vegetables on low flame. Enhance flavor with mustard and curry leaves tempering.",
-      "vizz_macros": {
-        "cal": 370,
-        "protein": 22,
-        "fat": 12,
-        "carbs": 50
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=oats%20upma%20recipe%20recipe"
-    },
-    "lunch": {
-      "dish_hindi": "पनीर बटर मसाला और बासमती चावल, पापड़",
-      "dish_english": "Paneer Butter Masala with Basmati Rice, Papad",
-      "ingredients_hindi": "पनीर, मक्खन, टमाटर, प्याज, गरम मसाला, लाल मिर्च, धनिया पाउडर, नमक, चावल, पापड़",
-      "ingredients_list_hi": [
-        "पनीर",
-        "मक्खन",
-        "टमाटर",
-        "प्याज",
-        "गरम मसाला",
-        "लाल मिर्च",
-        "धनिया पाउडर",
-        "नमक",
-        "चावल",
-        "पापड़"
-      ],
-      "ingredients_list_en": [
-        "Paneer",
-        "Butter",
-        "Tomato",
-        "Onion",
-        "Garam Masala",
-        "Red Chili",
-        "Coriander Powder",
-        "Salt",
-        "Rice",
-        "Papad"
-      ],
-      "prep_notes_hi": "यह पनीर बटर मसाला ऑफिस ले जाने के लिए उपयुक्त है, आसानी से गर्म किया जा सकता है।",
-      "prep_notes_en": "This Paneer Butter Masala is suitable for taking to office, easily reheatable.",
-      "vizz_macros": {
-        "cal": 610,
-        "protein": 24,
-        "fat": 24,
-        "carbs": 75
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=paneer%20butter%20masala%20recipe%20recipe"
-    },
-    "dinner": {
-      "dish_hindi": "हक्का नूडल्स और मंचूरियन",
-      "dish_english": "Hakka Noodles and Manchurian",
-      "ingredients_hindi": "नूडल्स, शिमला मिर्च, गाजर, बंद गोभी, सोया सॉस, अदरक, लहसुन, नमक, मंचूरियन बॉल्स, तेल",
-      "ingredients_list_hi": [
-        "नूडल्स",
-        "शिमला मिर्च",
-        "गाजर",
-        "बंद गोभी",
-        "सोया सॉस",
-        "अदरक",
-        "लहसुन",
-        "नमक",
-        "मंचूरियन बॉल्स",
-        "तेल"
-      ],
-      "ingredients_list_en": [
-        "Noodles",
-        "Capsicum",
-        "Carrot",
-        "Cabbage",
-        "Soy Sauce",
-        "Ginger",
-        "Garlic",
-        "Salt",
-        "Manchurian Balls",
-        "Oil"
-      ],
-      "prep_notes_hi": "सब्जियों को कुरकुरा रखने के लिए हल्का पकाएं। मंचूरियन बॉल्स को ताजा तले हुए सर्व करें।",
-      "prep_notes_en": "Cook vegetables lightly to keep them crisp. Serve freshly fried Manchurian balls.",
-      "vizz_macros": {
-        "cal": 720,
-        "protein": 18,
-        "fat": 18,
-        "carbs": 110
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=hakka%20noodles%20manchurian%20recipe"
-    },
-    "vizz_daily_total_from_meals": {
-      "cal": 1700,
-      "protein": 64,
-      "fat": 54,
-      "carbs": 235
-    },
-    "vizz_daily_total_with_shake": {
-      "cal": 2000,
-      "protein": 104,
-      "fat": 59,
-      "carbs": 260
-    },
-    "macro_check": "Protein slightly under target at 104g; otherwise on track with calories at 2000, fat at 59g, and carbs at 260g."
-  },
-  {
     "date": "2026-07-27 (Monday)",
     "date_display": "Monday, July 27",
     "date_short": "Mon · Jul 27",
@@ -3584,5 +3451,124 @@
       "carbs": 266
     },
     "macro_check": "Cal: 1830/2000, Protein: 88/110, Fat: 39/60, Carbs: 266/215. Needs more protein and fat. Consider adding nuts or additional paneer."
+  },
+  {
+    "date": "2026-08-27 (Thursday)",
+    "date_display": "Thursday, August 27",
+    "date_short": "Thu · Aug 27",
+    "generated_label": "Generated last night for today",
+    "breakfast": {
+      "dish_hindi": "सब्ज़ियों के साथ पालक पराठा, दही",
+      "dish_english": "Spinach Paratha with Vegetables & Curd",
+      "ingredients_hindi": "आटा, पालक, दही, गाजर, मटर, अदरक, मिर्च, नमक",
+      "ingredients_list_hi": [
+        "आटा",
+        "पालक",
+        "दही",
+        "गाजर",
+        "मटर",
+        "अदरक",
+        "मिर्च",
+        "नमक"
+      ],
+      "ingredients_list_en": [
+        "Whole wheat flour",
+        "Spinach",
+        "Curd",
+        "Carrot",
+        "Peas",
+        "Ginger",
+        "Chili",
+        "Salt"
+      ],
+      "prep_notes_hi": "पालक को बारीक काटें और आटे में मिलाकर नरम गूंध लें। सब्जियों को पीसकर पराठे के साथ परोसें।",
+      "prep_notes_en": "Finely chop spinach and knead into soft dough. Serve shredded vegetables alongside parathas.",
+      "vizz_macros": {
+        "cal": 350,
+        "protein": 12,
+        "fat": 8,
+        "carbs": 60
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=spinach%20paratha%20recipe%20recipe"
+    },
+    "lunch": {
+      "dish_hindi": "चने के साथ ब्राउन राइस, पापड़",
+      "dish_english": "Brown Rice with Chickpeas & Papad",
+      "ingredients_hindi": "ब्राउन राइस, चना, टमाटर, प्याज, जीरा, नमक, हल्दी, पापड़",
+      "ingredients_list_hi": [
+        "ब्राउन राइस",
+        "चना",
+        "टमाटर",
+        "प्याज",
+        "जीरा",
+        "नमक",
+        "हल्दी",
+        "पापड़"
+      ],
+      "ingredients_list_en": [
+        "Brown rice",
+        "Chickpeas",
+        "Tomato",
+        "Onion",
+        "Cumin",
+        "Salt",
+        "Turmeric",
+        "Papad"
+      ],
+      "prep_notes_hi": "यह व्यंजन गरम रखा जा सकता है और माइक्रोवेव में आसानी से गरम होता है। चनों को ठीक से उबालें।",
+      "prep_notes_en": "This dish holds well and reheats easily in a microwave. Ensure chickpeas are properly cooked.",
+      "vizz_macros": {
+        "cal": 450,
+        "protein": 18,
+        "fat": 6,
+        "carbs": 80
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=brown%20rice%20chickpeas%20recipe%20recipe"
+    },
+    "dinner": {
+      "dish_hindi": "टूफू स्टर-फ्राय नूडल्स, सोया सॉस",
+      "dish_english": "Tofu Stir-Fry Noodles with Soy Sauce",
+      "ingredients_hindi": "नूडल्स, टोफू, शिमला मिर्च, गाजर, सोया सॉस, लहसुन, तेल",
+      "ingredients_list_hi": [
+        "नूडल्स",
+        "टोफू",
+        "शिमला मिर्च",
+        "गाजर",
+        "सोया सॉस",
+        "लहसुन",
+        "तेल"
+      ],
+      "ingredients_list_en": [
+        "Noodles",
+        "Tofu",
+        "Bell pepper",
+        "Carrot",
+        "Soy sauce",
+        "Garlic",
+        "Oil"
+      ],
+      "prep_notes_hi": "नूडल्स को उबालें और सब्जियाँ एवं टोफू को तेज आँच पर भूनें। सोया सॉस डालकर अच्छे से मिलाएं।",
+      "prep_notes_en": "Boil noodles and stir-fry vegetables and tofu on high heat. Mix in soy sauce thoroughly.",
+      "vizz_macros": {
+        "cal": 500,
+        "protein": 20,
+        "fat": 10,
+        "carbs": 70
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=tofu%20noodles%20stir-fry%20recipe"
+    },
+    "vizz_daily_total_from_meals": {
+      "cal": 1300,
+      "protein": 50,
+      "fat": 24,
+      "carbs": 210
+    },
+    "vizz_daily_total_with_shake": {
+      "cal": 1600,
+      "protein": 90,
+      "fat": 29,
+      "carbs": 235
+    },
+    "macro_check": "Calories and carbs are sufficient, but protein and fat slightly below target. Consider adding an extra protein source or using higher-protein tofu."
   }
 ]

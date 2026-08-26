@@ -1,111 +1,119 @@
 {
-  "date": "2026-08-26 (Wednesday)",
-  "date_display": "Wednesday, August 26",
-  "date_short": "Wed · Aug 26",
+  "date": "2026-08-27 (Thursday)",
+  "date_display": "Thursday, August 27",
+  "date_short": "Thu · Aug 27",
   "generated_label": "Generated last night for today",
   "breakfast": {
-    "dish_hindi": "उत्तपम और नारियल चटनी, उबला अंडा (केवल विज़ और फ्लैटमेट-2)",
-    "dish_english": "Uttapam with Coconut Chutney, Boiled Egg (only for Vizz and Flatmate-2)",
-    "ingredients_hindi": "उत्तपम का बैटर, प्याज, टमाटर, नारियल चटनी, उबला अंडा",
+    "dish_hindi": "सब्ज़ियों के साथ पालक पराठा, दही",
+    "dish_english": "Spinach Paratha with Vegetables & Curd",
+    "ingredients_hindi": "आटा, पालक, दही, गाजर, मटर, अदरक, मिर्च, नमक",
     "ingredients_list_hi": [
-      "उत्तपम का बैटर",
-      "प्याज",
-      "टमाटर",
-      "नारियल चटनी",
-      "उबला अंडा"
+      "आटा",
+      "पालक",
+      "दही",
+      "गाजर",
+      "मटर",
+      "अदरक",
+      "मिर्च",
+      "नमक"
     ],
     "ingredients_list_en": [
-      "Uttapam batter",
-      "Onion",
-      "Tomato",
-      "Coconut Chutney",
-      "Boiled Egg"
+      "Whole wheat flour",
+      "Spinach",
+      "Curd",
+      "Carrot",
+      "Peas",
+      "Ginger",
+      "Chili",
+      "Salt"
     ],
-    "prep_notes_hi": "उत्तपम बैटर को पतला न रखें। मध्यम आंच पर सेंकें। नारियल चटनी के लिए ताजे नारियल का उपयोग करें।",
-    "prep_notes_en": "Do not make the uttapam batter too thin. Cook on medium flame. Use fresh coconut for the chutney.",
+    "prep_notes_hi": "पालक को बारीक काटें और आटे में मिलाकर नरम गूंध लें। सब्जियों को पीसकर पराठे के साथ परोसें।",
+    "prep_notes_en": "Finely chop spinach and knead into soft dough. Serve shredded vegetables alongside parathas.",
     "vizz_macros": {
-      "cal": 400,
+      "cal": 350,
       "protein": 12,
-      "fat": 15,
-      "carbs": 50
+      "fat": 8,
+      "carbs": 60
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=uttapam%20recipe%20hindi%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=spinach%20paratha%20recipe%20recipe"
   },
   "lunch": {
-    "dish_hindi": "राजमा और बासमती चावल, पापड़",
-    "dish_english": "Rajma with Basmati Rice, Papad",
-    "ingredients_hindi": "राजमा, बासमती चावल, टमाटर, प्याज, अदरक, लहसुन, पापड़",
+    "dish_hindi": "चने के साथ ब्राउन राइस, पापड़",
+    "dish_english": "Brown Rice with Chickpeas & Papad",
+    "ingredients_hindi": "ब्राउन राइस, चना, टमाटर, प्याज, जीरा, नमक, हल्दी, पापड़",
     "ingredients_list_hi": [
-      "राजमा",
-      "बासमती चावल",
+      "ब्राउन राइस",
+      "चना",
       "टमाटर",
       "प्याज",
-      "अदरक",
-      "लहसुन",
+      "जीरा",
+      "नमक",
+      "हल्दी",
       "पापड़"
     ],
     "ingredients_list_en": [
-      "Kidney beans",
-      "Basmati rice",
+      "Brown rice",
+      "Chickpeas",
       "Tomato",
       "Onion",
-      "Ginger",
-      "Garlic",
+      "Cumin",
+      "Salt",
+      "Turmeric",
       "Papad"
     ],
-    "prep_notes_hi": "राजमा को अच्छी तरह से भिगोकर पकाएं। यह परेशानी के बिना यात्रा और पुन: गर्म करने योग्य होना चाहिए।",
-    "prep_notes_en": "Soak the kidney beans well before cooking. It must travel well and be microwavable.",
+    "prep_notes_hi": "यह व्यंजन गरम रखा जा सकता है और माइक्रोवेव में आसानी से गरम होता है। चनों को ठीक से उबालें।",
+    "prep_notes_en": "This dish holds well and reheats easily in a microwave. Ensure chickpeas are properly cooked.",
     "vizz_macros": {
-      "cal": 580,
-      "protein": 21,
+      "cal": 450,
+      "protein": 18,
       "fat": 6,
-      "carbs": 101
+      "carbs": 80
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=rajma%20chawal%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=brown%20rice%20chickpeas%20recipe%20recipe"
   },
   "dinner": {
-    "dish_hindi": "मिक्स सब्ज़ी और रोटी, दही",
-    "dish_english": "Mixed Vegetable and Roti, Curd",
-    "ingredients_hindi": "मिश्रित सब्जियां, गेहूं का आटा, दही, अदरक, लहसुन, हल्दी, मिर्च पाउडर",
+    "dish_hindi": "टूफू स्टर-फ्राय नूडल्स, सोया सॉस",
+    "dish_english": "Tofu Stir-Fry Noodles with Soy Sauce",
+    "ingredients_hindi": "नूडल्स, टोफू, शिमला मिर्च, गाजर, सोया सॉस, लहसुन, तेल",
     "ingredients_list_hi": [
-      "मिश्रित सब्जियां",
-      "गेहूं का आटा",
-      "दही",
-      "अदरक",
+      "नूडल्स",
+      "टोफू",
+      "शिमला मिर्च",
+      "गाजर",
+      "सोया सॉस",
       "लहसुन",
-      "हल्दी",
-      "मिर्च पाउडर"
+      "तेल"
     ],
     "ingredients_list_en": [
-      "Mixed vegetables",
-      "Whole wheat flour",
-      "Curd",
-      "Ginger",
+      "Noodles",
+      "Tofu",
+      "Bell pepper",
+      "Carrot",
+      "Soy sauce",
       "Garlic",
-      "Turmeric",
-      "Chili powder"
+      "Oil"
     ],
-    "prep_notes_hi": "सब्जियों को समान आकार में काटें और हल्का फ्राई करें। रोटियों को मध्यम आंच पर सेंकें।",
-    "prep_notes_en": "Chop vegetables into uniform sizes and lightly stir-fry. Cook rotis on medium flame.",
+    "prep_notes_hi": "नूडल्स को उबालें और सब्जियाँ एवं टोफू को तेज आँच पर भूनें। सोया सॉस डालकर अच्छे से मिलाएं।",
+    "prep_notes_en": "Boil noodles and stir-fry vegetables and tofu on high heat. Mix in soy sauce thoroughly.",
     "vizz_macros": {
-      "cal": 550,
-      "protein": 15,
-      "fat": 13,
-      "carbs": 90
+      "cal": 500,
+      "protein": 20,
+      "fat": 10,
+      "carbs": 70
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=mixed%20veg%20curry%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=tofu%20noodles%20stir-fry%20recipe"
   },
   "vizz_daily_total_from_meals": {
-    "cal": 1530,
-    "protein": 48,
-    "fat": 34,
-    "carbs": 241
+    "cal": 1300,
+    "protein": 50,
+    "fat": 24,
+    "carbs": 210
   },
   "vizz_daily_total_with_shake": {
-    "cal": 1830,
-    "protein": 88,
-    "fat": 39,
-    "carbs": 266
+    "cal": 1600,
+    "protein": 90,
+    "fat": 29,
+    "carbs": 235
   },
-  "macro_check": "Cal: 1830/2000, Protein: 88/110, Fat: 39/60, Carbs: 266/215. Needs more protein and fat. Consider adding nuts or additional paneer."
+  "macro_check": "Calories and carbs are sufficient, but protein and fat slightly below target. Consider adding an extra protein source or using higher-protein tofu."
 }
