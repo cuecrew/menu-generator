@@ -1,119 +1,109 @@
 {
-  "date": "2026-08-27 (Thursday)",
-  "date_display": "Thursday, August 27",
-  "date_short": "Thu · Aug 27",
+  "date": "2026-08-29 (Saturday)",
+  "date_display": "Saturday, August 29",
+  "date_short": "Sat · Aug 29",
   "generated_label": "Generated last night for today",
   "breakfast": {
-    "dish_hindi": "सब्ज़ियों के साथ पालक पराठा, दही",
-    "dish_english": "Spinach Paratha with Vegetables & Curd",
-    "ingredients_hindi": "आटा, पालक, दही, गाजर, मटर, अदरक, मिर्च, नमक",
+    "dish_hindi": "पालक चिल्ला और उबला अंडा (केवल Vizz और Flatmate-2 के लिए)",
+    "dish_english": "Palak Chilla and Boiled Egg (for Vizz and Flatmate-2 only)",
+    "ingredients_hindi": "चना आटा, पालक, अदरक, हरी मिर्च, नमक, अंडा",
     "ingredients_list_hi": [
-      "आटा",
+      "चना आटा",
       "पालक",
-      "दही",
-      "गाजर",
-      "मटर",
       "अदरक",
-      "मिर्च",
-      "नमक"
+      "हरी मिर्च",
+      "नमक",
+      "अंडा"
     ],
     "ingredients_list_en": [
-      "Whole wheat flour",
+      "Chickpea flour",
       "Spinach",
-      "Curd",
-      "Carrot",
-      "Peas",
       "Ginger",
-      "Chili",
-      "Salt"
+      "Green chili",
+      "Salt",
+      "Egg"
     ],
-    "prep_notes_hi": "पालक को बारीक काटें और आटे में मिलाकर नरम गूंध लें। सब्जियों को पीसकर पराठे के साथ परोसें।",
-    "prep_notes_en": "Finely chop spinach and knead into soft dough. Serve shredded vegetables alongside parathas.",
+    "prep_notes_hi": "पानी के साथ चना आटा मिलाएं और पतला घोल तैयार करें। पालक, अदरक, और हरी मिर्च डालें। दोनों तरफ से सुनहरा होने तक पकाएं।",
+    "prep_notes_en": "Mix chickpea flour with water to create a thin batter. Add spinach, ginger, and green chili. Cook until golden on both sides.",
     "vizz_macros": {
       "cal": 350,
-      "protein": 12,
-      "fat": 8,
-      "carbs": 60
+      "protein": 18,
+      "fat": 10,
+      "carbs": 50
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=spinach%20paratha%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=palak%20chilla%20recipe%20recipe"
   },
   "lunch": {
-    "dish_hindi": "चने के साथ ब्राउन राइस, पापड़",
-    "dish_english": "Brown Rice with Chickpeas & Papad",
-    "ingredients_hindi": "ब्राउन राइस, चना, टमाटर, प्याज, जीरा, नमक, हल्दी, पापड़",
+    "dish_hindi": "मूंग दाल खिचड़ी और पापड़",
+    "dish_english": "Moong Dal Khichdi with Papad",
+    "ingredients_hindi": "चावल, मूंग दाल, हल्दी, नमक, पापड़",
     "ingredients_list_hi": [
-      "ब्राउन राइस",
-      "चना",
-      "टमाटर",
-      "प्याज",
-      "जीरा",
-      "नमक",
+      "चावल",
+      "मूंग दाल",
       "हल्दी",
+      "नमक",
       "पापड़"
     ],
     "ingredients_list_en": [
-      "Brown rice",
-      "Chickpeas",
-      "Tomato",
-      "Onion",
-      "Cumin",
-      "Salt",
+      "Rice",
+      "Moong dal",
       "Turmeric",
+      "Salt",
       "Papad"
     ],
-    "prep_notes_hi": "यह व्यंजन गरम रखा जा सकता है और माइक्रोवेव में आसानी से गरम होता है। चनों को ठीक से उबालें।",
-    "prep_notes_en": "This dish holds well and reheats easily in a microwave. Ensure chickpeas are properly cooked.",
+    "prep_notes_hi": "खिचड़ी बनाई जाती है ताकि 4-5 घंटों तक ताजगी बनी रहे। यह माइक्रोवेव में आसानी से गरम हो सकती है।",
+    "prep_notes_en": "Khichdi is prepared to stay fresh for 4-5 hours. It reheats easily in a microwave.",
     "vizz_macros": {
       "cal": 450,
-      "protein": 18,
-      "fat": 6,
+      "protein": 15,
+      "fat": 8,
       "carbs": 80
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=brown%20rice%20chickpeas%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=moong%20dal%20khichdi%20recipe%20recipe"
   },
   "dinner": {
-    "dish_hindi": "टूफू स्टर-फ्राय नूडल्स, सोया सॉस",
-    "dish_english": "Tofu Stir-Fry Noodles with Soy Sauce",
-    "ingredients_hindi": "नूडल्स, टोफू, शिमला मिर्च, गाजर, सोया सॉस, लहसुन, तेल",
+    "dish_hindi": "मटर पनीर और लहसुन की रोटी",
+    "dish_english": "Matar Paneer with Garlic Naan",
+    "ingredients_hindi": "पनीर, मटर, प्याज, टमाटर, मसाले, लहसुन, आटा",
     "ingredients_list_hi": [
-      "नूडल्स",
-      "टोफू",
-      "शिमला मिर्च",
-      "गाजर",
-      "सोया सॉस",
+      "पनीर",
+      "मटर",
+      "प्याज",
+      "टमाटर",
+      "मसाले",
       "लहसुन",
-      "तेल"
+      "आटा"
     ],
     "ingredients_list_en": [
-      "Noodles",
-      "Tofu",
-      "Bell pepper",
-      "Carrot",
-      "Soy sauce",
+      "Paneer",
+      "Peas",
+      "Onion",
+      "Tomato",
+      "Spices",
       "Garlic",
-      "Oil"
+      "Flour"
     ],
-    "prep_notes_hi": "नूडल्स को उबालें और सब्जियाँ एवं टोफू को तेज आँच पर भूनें। सोया सॉस डालकर अच्छे से मिलाएं।",
-    "prep_notes_en": "Boil noodles and stir-fry vegetables and tofu on high heat. Mix in soy sauce thoroughly.",
+    "prep_notes_hi": "पनीर और मटर को टमाटर प्याज के मसाले में पकाएं। लहसुन के साथ आटे की रोटी बनाएं।",
+    "prep_notes_en": "Cook paneer and peas in a tomato-onion spice mix. Make the naan with garlic in the dough.",
     "vizz_macros": {
-      "cal": 500,
-      "protein": 20,
-      "fat": 10,
-      "carbs": 70
+      "cal": 550,
+      "protein": 25,
+      "fat": 15,
+      "carbs": 75
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=tofu%20noodles%20stir-fry%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=matar%20paneer%20recipe%20recipe"
   },
   "vizz_daily_total_from_meals": {
-    "cal": 1300,
-    "protein": 50,
-    "fat": 24,
-    "carbs": 210
+    "cal": 1350,
+    "protein": 58,
+    "fat": 33,
+    "carbs": 205
   },
   "vizz_daily_total_with_shake": {
-    "cal": 1600,
-    "protein": 90,
-    "fat": 29,
-    "carbs": 235
+    "cal": 1650,
+    "protein": 98,
+    "fat": 38,
+    "carbs": 230
   },
-  "macro_check": "Calories and carbs are sufficient, but protein and fat slightly below target. Consider adding an extra protein source or using higher-protein tofu."
+  "macro_check": "Vizz's intake hits carb target, but protein is slightly low at 98g; consider supplementing with additional legumes or paneer."
 }

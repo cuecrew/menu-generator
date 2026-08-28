@@ -1,126 +1,5 @@
 [
   {
-    "date": "2026-07-27 (Monday)",
-    "date_display": "Monday, July 27",
-    "date_short": "Mon · Jul 27",
-    "generated_label": "Generated last night for today",
-    "breakfast": {
-      "dish_hindi": "इडली सांभर, नारियल चटनी",
-      "dish_english": "Idli Sambar with Coconut Chutney",
-      "ingredients_hindi": "इडली बैटर, उरद दाल, चने की दाल, सांभर मसाला, नारियल, टमाटर, प्याज, करी पत्ता, हरी मिर्च",
-      "ingredients_list_hi": [
-        "इडली बैटर",
-        "उरद दाल",
-        "चने की दाल",
-        "सांभर मसाला",
-        "नारियल",
-        "टमाटर",
-        "प्याज",
-        "करी पत्ता",
-        "हरी मिर्च"
-      ],
-      "ingredients_list_en": [
-        "Idli batter",
-        "Urad dal",
-        "Toor dal",
-        "Sambar masala",
-        "Coconut",
-        "Tomato",
-        "Onion",
-        "Curry leaves",
-        "Green chili"
-      ],
-      "prep_notes_hi": "इडली को बैटर से स्टीम करें। सांभर में तड़का दें और नारियल की चटनी बनाएं।",
-      "prep_notes_en": "Steam idlis from batter. Temper the sambar and prepare the coconut chutney.",
-      "vizz_macros": {
-        "cal": 400,
-        "protein": 10,
-        "fat": 5,
-        "carbs": 75
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=idli%20sambar%20recipe%20recipe"
-    },
-    "lunch": {
-      "dish_hindi": "पालक पनीर पुलाव, दही",
-      "dish_english": "Palak Paneer Pulao with Curd",
-      "ingredients_hindi": "बासमती चावल, पालक, पनीर, जीरा, अदरक, लहसुन, दही",
-      "ingredients_list_hi": [
-        "बासमती चावल",
-        "पालक",
-        "पनीर",
-        "जीरा",
-        "अदरक",
-        "लहसुन",
-        "दही"
-      ],
-      "ingredients_list_en": [
-        "Basmati rice",
-        "Spinach",
-        "Paneer",
-        "Cumin seeds",
-        "Ginger",
-        "Garlic",
-        "Curd"
-      ],
-      "prep_notes_hi": "पालक पनीर को चावल के साथ पकाएं। यह डिश यात्रा के लिए बढ़िया है और आसानी से पुनः गर्म होती है।",
-      "prep_notes_en": "Cook spinach and paneer with rice. This dish travels well and reheats easily.",
-      "vizz_macros": {
-        "cal": 600,
-        "protein": 18,
-        "fat": 20,
-        "carbs": 90
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=palak%20paneer%20pulao%20recipe%20recipe"
-    },
-    "dinner": {
-      "dish_hindi": "काबुली चना करी, जीरा राइस, प्याज का सलाद",
-      "dish_english": "Chickpea Curry with Jeera Rice and Onion Salad",
-      "ingredients_hindi": "काबुली चना, बासमती चावल, जीरा, टमाटर, प्याज, अदरक, लहसुन, धनिया पाउडर",
-      "ingredients_list_hi": [
-        "काबुली चना",
-        "बासमती चावल",
-        "जीरा",
-        "टमाटर",
-        "प्याज",
-        "अदरक",
-        "लहसुन",
-        "धनिया पाउडर"
-      ],
-      "ingredients_list_en": [
-        "Chickpeas",
-        "Basmati rice",
-        "Cumin seeds",
-        "Tomato",
-        "Onion",
-        "Ginger",
-        "Garlic",
-        "Coriander powder"
-      ],
-      "prep_notes_hi": "चना को रात भर भिगोकर उबालें। करी में मसाले मिला दें और जीरा राइस तैयार करें।",
-      "prep_notes_en": "Soak chickpeas overnight and cook. Add spices to curry and prepare jeera rice.",
-      "vizz_macros": {
-        "cal": 600,
-        "protein": 16,
-        "fat": 12,
-        "carbs": 100
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=chickpea%20curry%20recipe%20recipe"
-    },
-    "vizz_daily_total_from_meals": {
-      "cal": 1600,
-      "protein": 44,
-      "fat": 37,
-      "carbs": 265
-    },
-    "vizz_daily_total_with_shake": {
-      "cal": 1900,
-      "protein": 84,
-      "fat": 42,
-      "carbs": 290
-    },
-    "macro_check": "Calories and fat are slightly low. Protein target not fully met; consider adding more paneer."
-  },
-  {
     "date": "2026-07-28 (Tuesday)",
     "date_display": "Tuesday, July 28",
     "date_short": "Tue · Jul 28",
@@ -3570,5 +3449,114 @@
       "carbs": 235
     },
     "macro_check": "Calories and carbs are sufficient, but protein and fat slightly below target. Consider adding an extra protein source or using higher-protein tofu."
+  },
+  {
+    "date": "2026-08-29 (Saturday)",
+    "date_display": "Saturday, August 29",
+    "date_short": "Sat · Aug 29",
+    "generated_label": "Generated last night for today",
+    "breakfast": {
+      "dish_hindi": "पालक चिल्ला और उबला अंडा (केवल Vizz और Flatmate-2 के लिए)",
+      "dish_english": "Palak Chilla and Boiled Egg (for Vizz and Flatmate-2 only)",
+      "ingredients_hindi": "चना आटा, पालक, अदरक, हरी मिर्च, नमक, अंडा",
+      "ingredients_list_hi": [
+        "चना आटा",
+        "पालक",
+        "अदरक",
+        "हरी मिर्च",
+        "नमक",
+        "अंडा"
+      ],
+      "ingredients_list_en": [
+        "Chickpea flour",
+        "Spinach",
+        "Ginger",
+        "Green chili",
+        "Salt",
+        "Egg"
+      ],
+      "prep_notes_hi": "पानी के साथ चना आटा मिलाएं और पतला घोल तैयार करें। पालक, अदरक, और हरी मिर्च डालें। दोनों तरफ से सुनहरा होने तक पकाएं।",
+      "prep_notes_en": "Mix chickpea flour with water to create a thin batter. Add spinach, ginger, and green chili. Cook until golden on both sides.",
+      "vizz_macros": {
+        "cal": 350,
+        "protein": 18,
+        "fat": 10,
+        "carbs": 50
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=palak%20chilla%20recipe%20recipe"
+    },
+    "lunch": {
+      "dish_hindi": "मूंग दाल खिचड़ी और पापड़",
+      "dish_english": "Moong Dal Khichdi with Papad",
+      "ingredients_hindi": "चावल, मूंग दाल, हल्दी, नमक, पापड़",
+      "ingredients_list_hi": [
+        "चावल",
+        "मूंग दाल",
+        "हल्दी",
+        "नमक",
+        "पापड़"
+      ],
+      "ingredients_list_en": [
+        "Rice",
+        "Moong dal",
+        "Turmeric",
+        "Salt",
+        "Papad"
+      ],
+      "prep_notes_hi": "खिचड़ी बनाई जाती है ताकि 4-5 घंटों तक ताजगी बनी रहे। यह माइक्रोवेव में आसानी से गरम हो सकती है।",
+      "prep_notes_en": "Khichdi is prepared to stay fresh for 4-5 hours. It reheats easily in a microwave.",
+      "vizz_macros": {
+        "cal": 450,
+        "protein": 15,
+        "fat": 8,
+        "carbs": 80
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=moong%20dal%20khichdi%20recipe%20recipe"
+    },
+    "dinner": {
+      "dish_hindi": "मटर पनीर और लहसुन की रोटी",
+      "dish_english": "Matar Paneer with Garlic Naan",
+      "ingredients_hindi": "पनीर, मटर, प्याज, टमाटर, मसाले, लहसुन, आटा",
+      "ingredients_list_hi": [
+        "पनीर",
+        "मटर",
+        "प्याज",
+        "टमाटर",
+        "मसाले",
+        "लहसुन",
+        "आटा"
+      ],
+      "ingredients_list_en": [
+        "Paneer",
+        "Peas",
+        "Onion",
+        "Tomato",
+        "Spices",
+        "Garlic",
+        "Flour"
+      ],
+      "prep_notes_hi": "पनीर और मटर को टमाटर प्याज के मसाले में पकाएं। लहसुन के साथ आटे की रोटी बनाएं।",
+      "prep_notes_en": "Cook paneer and peas in a tomato-onion spice mix. Make the naan with garlic in the dough.",
+      "vizz_macros": {
+        "cal": 550,
+        "protein": 25,
+        "fat": 15,
+        "carbs": 75
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=matar%20paneer%20recipe%20recipe"
+    },
+    "vizz_daily_total_from_meals": {
+      "cal": 1350,
+      "protein": 58,
+      "fat": 33,
+      "carbs": 205
+    },
+    "vizz_daily_total_with_shake": {
+      "cal": 1650,
+      "protein": 98,
+      "fat": 38,
+      "carbs": 230
+    },
+    "macro_check": "Vizz's intake hits carb target, but protein is slightly low at 98g; consider supplementing with additional legumes or paneer."
   }
 ]
