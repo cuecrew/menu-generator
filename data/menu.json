@@ -4,118 +4,106 @@
   "date_short": "Sun · Aug 30",
   "generated_label": "Generated last night for today",
   "breakfast": {
-    "dish_hindi": "ओट्स उपमा, उबला अंडा (केवल Vizz और Flatmate-2 के लिए)",
-    "dish_english": "Oats Upma, Boiled Egg (for Vizz and Flatmate-2 only)",
-    "ingredients_hindi": "ओट्स, प्याज, टमाटर, गाजर, मटर, सरसों के दाने, हरी मिर्च, हल्दी, नमक, उबला अंडा",
+    "dish_hindi": "कांदा पोहा, उबले अंडे (केवल Vizz और Flatmate-2 के लिए)",
+    "dish_english": "Kanda Poha with Boiled Egg (for Vizz and Flatmate-2 only)",
+    "ingredients_hindi": "पोहा, प्याज, हरी मिर्च, मूंगफली, नींबू",
     "ingredients_list_hi": [
-      "ओट्स",
+      "पोहा",
       "प्याज",
-      "टमाटर",
-      "गाजर",
-      "मटर",
-      "सरसों के दाने",
       "हरी मिर्च",
-      "हल्दी",
-      "नमक",
-      "उबला अंडा"
+      "मूंगफली",
+      "नींबू"
     ],
     "ingredients_list_en": [
-      "Oats",
+      "Poha (flattened rice)",
       "Onion",
-      "Tomato",
-      "Carrot",
-      "Peas",
-      "Mustard seeds",
-      "Green chili",
-      "Turmeric",
-      "Salt",
-      "Boiled egg"
+      "Green Chili",
+      "Peanuts",
+      "Lemon"
     ],
-    "prep_notes_hi": "ओट्स को हल्का भूनें और फिर सब्जियों के साथ मिलाएं। अच्छी तरह पकने तक ढक कर पकाएं।",
-    "prep_notes_en": "Lightly roast the oats, then combine with vegetables. Cover and cook until well done.",
-    "vizz_macros": {
-      "cal": 370,
-      "protein": 18,
-      "fat": 10,
-      "carbs": 50
-    },
-    "youtube_url": "https://www.youtube.com/results?search_query=oats%20upma%20recipe%20hindi%20recipe"
-  },
-  "lunch": {
-    "dish_hindi": "सब्जी पुलाव, पुदीना रायता",
-    "dish_english": "Vegetable Pulao, Mint Raita",
-    "ingredients_hindi": "बासमती चावल, मिक्स सब्जियां, जीरा, धनिया, पुदीना, दही, नमक",
-    "ingredients_list_hi": [
-      "बासमती चावल",
-      "मिक्स सब्जियां",
-      "जीरा",
-      "धनिया",
-      "पुदीना",
-      "दही",
-      "नमक"
-    ],
-    "ingredients_list_en": [
-      "Basmati rice",
-      "Mixed vegetables",
-      "Cumin",
-      "Coriander",
-      "Mint",
-      "Yogurt",
-      "Salt"
-    ],
-    "prep_notes_hi": "यह डिश यात्रा के लिए उपयुक्त है और माइक्रोवेव में दोबारा गर्म की जा सकती है।",
-    "prep_notes_en": "This dish is suitable for travel and can be reheated in a microwave.",
-    "vizz_macros": {
-      "cal": 450,
-      "protein": 12,
-      "fat": 8,
-      "carbs": 78
-    },
-    "youtube_url": "https://www.youtube.com/results?search_query=vegetable%20pulao%20recipe%20hindi%20recipe"
-  },
-  "dinner": {
-    "dish_hindi": "मेंथी मूंग दाल, रोटी, सलाद",
-    "dish_english": "Fenugreek Moong Dal, Roti, Salad",
-    "ingredients_hindi": "मेंथी, मूंग दाल, गेहूं का आटा, टमाटर, प्याज, खीरा, हरी मिर्च",
-    "ingredients_list_hi": [
-      "मेंथी",
-      "मूंग दाल",
-      "गेहूं का आटा",
-      "टमाटर",
-      "प्याज",
-      "खीरा",
-      "हरी मिर्च"
-    ],
-    "ingredients_list_en": [
-      "Fenugreek",
-      "Moong dal",
-      "Wheat flour",
-      "Tomato",
-      "Onion",
-      "Cucumber",
-      "Green chili"
-    ],
-    "prep_notes_hi": "मेंथी और मूंग दाल को अच्छी तरह से मिलाकर हरी मिर्च से इसका स्वाद बढ़ाएं। रोटियों को गोल और फूली हुई बनाएं।",
-    "prep_notes_en": "Combine fenugreek and moong dal well, enhancing its taste with green chili. Make the rotis round and fluffy.",
+    "prep_notes_hi": "पोहा को धोकर पानी से छुटकारा पाएं। प्याज और हरी मिर्च को अच्छे से भूने। अंत में मूंगफली और नींबू का रस डालें।",
+    "prep_notes_en": "Rinse the poha and drain water thoroughly. Sauté onions and green chilies well. Add peanuts and lemon juice at the end.",
     "vizz_macros": {
       "cal": 400,
-      "protein": 16,
-      "fat": 8,
-      "carbs": 65
+      "protein": 8,
+      "fat": 12,
+      "carbs": 68
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=moong%20dal%20methi%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=kanda%20poha%20recipe%20recipe"
+  },
+  "lunch": {
+    "dish_hindi": "वल्लारी चावल पुलाव, दही",
+    "dish_english": "Vallarai Rice Pulao with Curd",
+    "ingredients_hindi": "वल्लारी के पत्ते, चावल, जीरा, अदरक, लहसुन, दही",
+    "ingredients_list_hi": [
+      "वल्लारी के पत्ते",
+      "चावल",
+      "जीरा",
+      "अदरक",
+      "लहसुन",
+      "दही"
+    ],
+    "ingredients_list_en": [
+      "Vallarai Leaves",
+      "Rice",
+      "Cumin Seeds",
+      "Ginger",
+      "Garlic",
+      "Curd"
+    ],
+    "prep_notes_hi": "वल्लारी के पत्तों को बारीकि से काटें। चावल को सुगंधित होने तक पकाएं। दही के साथ परोसें। यह यात्रा में ठीक रहेगा और माइक्रोवेव में गरम किया जा सकता है।",
+    "prep_notes_en": "Finely chop the vallarai leaves. Cook the rice until aromatic. Serve with curd. Will travel well and can be reheated in microwave.",
+    "vizz_macros": {
+      "cal": 450,
+      "protein": 10,
+      "fat": 5,
+      "carbs": 90
+    },
+    "youtube_url": "https://www.youtube.com/results?search_query=vallarai%20rice%20pulao%20recipe%20recipe"
+  },
+  "dinner": {
+    "dish_hindi": "राजमा करी, जीरा रोटी, सलाद",
+    "dish_english": "Rajma Curry with Jeera Roti and Salad",
+    "ingredients_hindi": "राजमा, टमाटर, प्याज, जीरा, आटा, खीरा, टमाटर",
+    "ingredients_list_hi": [
+      "राजमा",
+      "टमाटर",
+      "प्याज",
+      "जीरा",
+      "आटा",
+      "खीरा",
+      "टमाटर"
+    ],
+    "ingredients_list_en": [
+      "Kidney Beans",
+      "Tomato",
+      "Onion",
+      "Cumin Seeds",
+      "Wheat Flour",
+      "Cucumber",
+      "Tomato"
+    ],
+    "prep_notes_hi": "राजमा को रातभर भिगोकर कूकर में पकाएं। टमाटर और प्याज की ग्रेवी बनाएं। जीरा रोटी को तवे पर अच्छी तरह सेंके।",
+    "prep_notes_en": "Soak the kidney beans overnight and pressure cook them. Make a gravy of tomatoes and onions. Toast the jeera roti well on tawa.",
+    "vizz_macros": {
+      "cal": 850,
+      "protein": 24,
+      "fat": 15,
+      "carbs": 132
+    },
+    "youtube_url": "https://www.youtube.com/results?search_query=rajma%20curry%20recipe%20recipe"
   },
   "vizz_daily_total_from_meals": {
-    "cal": 1220,
-    "protein": 46,
-    "fat": 26,
-    "carbs": 193
+    "cal": 1700,
+    "protein": 42,
+    "fat": 32,
+    "carbs": 290
   },
   "vizz_daily_total_with_shake": {
-    "cal": 1520,
-    "protein": 86,
-    "fat": 31,
-    "carbs": 218
+    "cal": 2000,
+    "protein": 82,
+    "fat": 37,
+    "carbs": 315
   },
-  "macro_check": "Cal and carbs are on target, but protein and fat are slightly low. Consider adjusting for next meal planning."
+  "macro_check": "Hits calorie and carb targets, moderate on protein (82g) due to few options."
 }

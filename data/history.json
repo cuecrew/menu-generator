@@ -1,130 +1,5 @@
 [
   {
-    "date": "2026-07-29 (Wednesday)",
-    "date_display": "Wednesday, July 29",
-    "date_short": "Wed · Jul 29",
-    "generated_label": "Generated last night for today",
-    "breakfast": {
-      "dish_hindi": "अवलेह के साथ सब्ज़ियों का दलिया, उबला अंडा",
-      "dish_english": "Vegetable Dalia with Boiled Egg",
-      "ingredients_hindi": "अवलेह, मटर, गाजर, शिमला मिर्च, पानी, नमक, घी, उबला अंडा",
-      "ingredients_list_hi": [
-        "अवलेह",
-        "मटर",
-        "गाजर",
-        "शिमला मिर्च",
-        "पानी",
-        "नमक",
-        "घी",
-        "उबला अंडा"
-      ],
-      "ingredients_list_en": [
-        "Dalia (broken wheat)",
-        "Peas",
-        "Carrot",
-        "Bell Pepper",
-        "Water",
-        "Salt",
-        "Ghee",
-        "Boiled Egg"
-      ],
-      "prep_notes_hi": "अवलेह को गी में भूने और सब्ज़ियों के साथ पकाएं। अंडा केवल वीज़ और रूममेट-2 के लिए हैं।",
-      "prep_notes_en": "Roast the dalia in ghee and cook with vegetables. Egg is for Vizz and Flatmate-2 only.",
-      "vizz_macros": {
-        "cal": 410,
-        "protein": 16,
-        "fat": 13,
-        "carbs": 60
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=vegetable%20dalia%20recipe%20recipe"
-    },
-    "lunch": {
-      "dish_hindi": "पनीर पराठा, दही और अचार",
-      "dish_english": "Paneer Paratha with Curd and Pickle",
-      "ingredients_hindi": "गेहूं का आटा, पनीर, हरा धनिया, हरी मिर्च, नमक, दही, अचार",
-      "ingredients_list_hi": [
-        "गेहूं का आटा",
-        "पनीर",
-        "हरा धनिया",
-        "हरी मिर्च",
-        "नमक",
-        "दही",
-        "अचार"
-      ],
-      "ingredients_list_en": [
-        "Wheat flour",
-        "Paneer",
-        "Coriander",
-        "Green Chili",
-        "Salt",
-        "Curd",
-        "Pickle"
-      ],
-      "prep_notes_hi": "पानीर पराठा ठंडा होने पर भी अच्छा रहता है और माइक्रोवेव में आसानी से गरम होता है।",
-      "prep_notes_en": "Paneer paratha holds well unrefrigerated and reheats easily in the microwave.",
-      "vizz_macros": {
-        "cal": 680,
-        "protein": 26,
-        "fat": 32,
-        "carbs": 78
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=paneer%20paratha%20recipe%20recipe"
-    },
-    "dinner": {
-      "dish_hindi": "मिक्स वेज करी और चपाती",
-      "dish_english": "Mixed Vegetable Curry with Chapati",
-      "ingredients_hindi": "मटर, गाजर, आलू, शिमला मिर्च, टमाटर, प्याज, जीरा, गरम मसाला, नमक, तेल, गेहूं का आटा",
-      "ingredients_list_hi": [
-        "मटर",
-        "गाजर",
-        "आलू",
-        "शिमला मिर्च",
-        "टमाटर",
-        "प्याज",
-        "जीरा",
-        "गरम मसाला",
-        "नमक",
-        "तेल",
-        "गेहूं का आटा"
-      ],
-      "ingredients_list_en": [
-        "Peas",
-        "Carrot",
-        "Potato",
-        "Bell Pepper",
-        "Tomato",
-        "Onion",
-        "Cumin",
-        "Garam Masala",
-        "Salt",
-        "Oil",
-        "Wheat flour"
-      ],
-      "prep_notes_hi": "सभी सब्ज़ियों को तेल में भूनें और मसालों के साथ पकाएं। चपाती को सुनहरा होने तक सेकें।",
-      "prep_notes_en": "Sauté all vegetables in oil and cook with spices. Cook chapati until golden brown.",
-      "vizz_macros": {
-        "cal": 610,
-        "protein": 18,
-        "fat": 22,
-        "carbs": 90
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=mixed%20veg%20curry%20recipe%20recipe"
-    },
-    "vizz_daily_total_from_meals": {
-      "cal": 1700,
-      "protein": 60,
-      "fat": 67,
-      "carbs": 228
-    },
-    "vizz_daily_total_with_shake": {
-      "cal": 2000,
-      "protein": 100,
-      "fat": 72,
-      "carbs": 253
-    },
-    "macro_check": "Close, but a bit low on protein and fat, and a little high on carbs."
-  },
-  {
     "date": "2026-07-30 (Thursday)",
     "date_display": "Thursday, July 30",
     "date_short": "Thu · Jul 30",
@@ -3558,5 +3433,114 @@
       "carbs": 218
     },
     "macro_check": "Cal and carbs are on target, but protein and fat are slightly low. Consider adjusting for next meal planning."
+  },
+  {
+    "date": "2026-08-30 (Sunday)",
+    "date_display": "Sunday, August 30",
+    "date_short": "Sun · Aug 30",
+    "generated_label": "Generated last night for today",
+    "breakfast": {
+      "dish_hindi": "कांदा पोहा, उबले अंडे (केवल Vizz और Flatmate-2 के लिए)",
+      "dish_english": "Kanda Poha with Boiled Egg (for Vizz and Flatmate-2 only)",
+      "ingredients_hindi": "पोहा, प्याज, हरी मिर्च, मूंगफली, नींबू",
+      "ingredients_list_hi": [
+        "पोहा",
+        "प्याज",
+        "हरी मिर्च",
+        "मूंगफली",
+        "नींबू"
+      ],
+      "ingredients_list_en": [
+        "Poha (flattened rice)",
+        "Onion",
+        "Green Chili",
+        "Peanuts",
+        "Lemon"
+      ],
+      "prep_notes_hi": "पोहा को धोकर पानी से छुटकारा पाएं। प्याज और हरी मिर्च को अच्छे से भूने। अंत में मूंगफली और नींबू का रस डालें।",
+      "prep_notes_en": "Rinse the poha and drain water thoroughly. Sauté onions and green chilies well. Add peanuts and lemon juice at the end.",
+      "vizz_macros": {
+        "cal": 400,
+        "protein": 8,
+        "fat": 12,
+        "carbs": 68
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=kanda%20poha%20recipe%20recipe"
+    },
+    "lunch": {
+      "dish_hindi": "वल्लारी चावल पुलाव, दही",
+      "dish_english": "Vallarai Rice Pulao with Curd",
+      "ingredients_hindi": "वल्लारी के पत्ते, चावल, जीरा, अदरक, लहसुन, दही",
+      "ingredients_list_hi": [
+        "वल्लारी के पत्ते",
+        "चावल",
+        "जीरा",
+        "अदरक",
+        "लहसुन",
+        "दही"
+      ],
+      "ingredients_list_en": [
+        "Vallarai Leaves",
+        "Rice",
+        "Cumin Seeds",
+        "Ginger",
+        "Garlic",
+        "Curd"
+      ],
+      "prep_notes_hi": "वल्लारी के पत्तों को बारीकि से काटें। चावल को सुगंधित होने तक पकाएं। दही के साथ परोसें। यह यात्रा में ठीक रहेगा और माइक्रोवेव में गरम किया जा सकता है।",
+      "prep_notes_en": "Finely chop the vallarai leaves. Cook the rice until aromatic. Serve with curd. Will travel well and can be reheated in microwave.",
+      "vizz_macros": {
+        "cal": 450,
+        "protein": 10,
+        "fat": 5,
+        "carbs": 90
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=vallarai%20rice%20pulao%20recipe%20recipe"
+    },
+    "dinner": {
+      "dish_hindi": "राजमा करी, जीरा रोटी, सलाद",
+      "dish_english": "Rajma Curry with Jeera Roti and Salad",
+      "ingredients_hindi": "राजमा, टमाटर, प्याज, जीरा, आटा, खीरा, टमाटर",
+      "ingredients_list_hi": [
+        "राजमा",
+        "टमाटर",
+        "प्याज",
+        "जीरा",
+        "आटा",
+        "खीरा",
+        "टमाटर"
+      ],
+      "ingredients_list_en": [
+        "Kidney Beans",
+        "Tomato",
+        "Onion",
+        "Cumin Seeds",
+        "Wheat Flour",
+        "Cucumber",
+        "Tomato"
+      ],
+      "prep_notes_hi": "राजमा को रातभर भिगोकर कूकर में पकाएं। टमाटर और प्याज की ग्रेवी बनाएं। जीरा रोटी को तवे पर अच्छी तरह सेंके।",
+      "prep_notes_en": "Soak the kidney beans overnight and pressure cook them. Make a gravy of tomatoes and onions. Toast the jeera roti well on tawa.",
+      "vizz_macros": {
+        "cal": 850,
+        "protein": 24,
+        "fat": 15,
+        "carbs": 132
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=rajma%20curry%20recipe%20recipe"
+    },
+    "vizz_daily_total_from_meals": {
+      "cal": 1700,
+      "protein": 42,
+      "fat": 32,
+      "carbs": 290
+    },
+    "vizz_daily_total_with_shake": {
+      "cal": 2000,
+      "protein": 82,
+      "fat": 37,
+      "carbs": 315
+    },
+    "macro_check": "Hits calorie and carb targets, moderate on protein (82g) due to few options."
   }
 ]
