@@ -1,109 +1,121 @@
 {
-  "date": "2026-08-29 (Saturday)",
-  "date_display": "Saturday, August 29",
-  "date_short": "Sat · Aug 29",
+  "date": "2026-08-30 (Sunday)",
+  "date_display": "Sunday, August 30",
+  "date_short": "Sun · Aug 30",
   "generated_label": "Generated last night for today",
   "breakfast": {
-    "dish_hindi": "पालक चिल्ला और उबला अंडा (केवल Vizz और Flatmate-2 के लिए)",
-    "dish_english": "Palak Chilla and Boiled Egg (for Vizz and Flatmate-2 only)",
-    "ingredients_hindi": "चना आटा, पालक, अदरक, हरी मिर्च, नमक, अंडा",
+    "dish_hindi": "ओट्स उपमा, उबला अंडा (केवल Vizz और Flatmate-2 के लिए)",
+    "dish_english": "Oats Upma, Boiled Egg (for Vizz and Flatmate-2 only)",
+    "ingredients_hindi": "ओट्स, प्याज, टमाटर, गाजर, मटर, सरसों के दाने, हरी मिर्च, हल्दी, नमक, उबला अंडा",
     "ingredients_list_hi": [
-      "चना आटा",
-      "पालक",
-      "अदरक",
+      "ओट्स",
+      "प्याज",
+      "टमाटर",
+      "गाजर",
+      "मटर",
+      "सरसों के दाने",
       "हरी मिर्च",
+      "हल्दी",
       "नमक",
-      "अंडा"
+      "उबला अंडा"
     ],
     "ingredients_list_en": [
-      "Chickpea flour",
-      "Spinach",
-      "Ginger",
+      "Oats",
+      "Onion",
+      "Tomato",
+      "Carrot",
+      "Peas",
+      "Mustard seeds",
       "Green chili",
+      "Turmeric",
       "Salt",
-      "Egg"
+      "Boiled egg"
     ],
-    "prep_notes_hi": "पानी के साथ चना आटा मिलाएं और पतला घोल तैयार करें। पालक, अदरक, और हरी मिर्च डालें। दोनों तरफ से सुनहरा होने तक पकाएं।",
-    "prep_notes_en": "Mix chickpea flour with water to create a thin batter. Add spinach, ginger, and green chili. Cook until golden on both sides.",
+    "prep_notes_hi": "ओट्स को हल्का भूनें और फिर सब्जियों के साथ मिलाएं। अच्छी तरह पकने तक ढक कर पकाएं।",
+    "prep_notes_en": "Lightly roast the oats, then combine with vegetables. Cover and cook until well done.",
     "vizz_macros": {
-      "cal": 350,
+      "cal": 370,
       "protein": 18,
       "fat": 10,
       "carbs": 50
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=palak%20chilla%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=oats%20upma%20recipe%20hindi%20recipe"
   },
   "lunch": {
-    "dish_hindi": "मूंग दाल खिचड़ी और पापड़",
-    "dish_english": "Moong Dal Khichdi with Papad",
-    "ingredients_hindi": "चावल, मूंग दाल, हल्दी, नमक, पापड़",
+    "dish_hindi": "सब्जी पुलाव, पुदीना रायता",
+    "dish_english": "Vegetable Pulao, Mint Raita",
+    "ingredients_hindi": "बासमती चावल, मिक्स सब्जियां, जीरा, धनिया, पुदीना, दही, नमक",
     "ingredients_list_hi": [
-      "चावल",
-      "मूंग दाल",
-      "हल्दी",
-      "नमक",
-      "पापड़"
+      "बासमती चावल",
+      "मिक्स सब्जियां",
+      "जीरा",
+      "धनिया",
+      "पुदीना",
+      "दही",
+      "नमक"
     ],
     "ingredients_list_en": [
-      "Rice",
-      "Moong dal",
-      "Turmeric",
-      "Salt",
-      "Papad"
+      "Basmati rice",
+      "Mixed vegetables",
+      "Cumin",
+      "Coriander",
+      "Mint",
+      "Yogurt",
+      "Salt"
     ],
-    "prep_notes_hi": "खिचड़ी बनाई जाती है ताकि 4-5 घंटों तक ताजगी बनी रहे। यह माइक्रोवेव में आसानी से गरम हो सकती है।",
-    "prep_notes_en": "Khichdi is prepared to stay fresh for 4-5 hours. It reheats easily in a microwave.",
+    "prep_notes_hi": "यह डिश यात्रा के लिए उपयुक्त है और माइक्रोवेव में दोबारा गर्म की जा सकती है।",
+    "prep_notes_en": "This dish is suitable for travel and can be reheated in a microwave.",
     "vizz_macros": {
       "cal": 450,
-      "protein": 15,
+      "protein": 12,
       "fat": 8,
-      "carbs": 80
+      "carbs": 78
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=moong%20dal%20khichdi%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=vegetable%20pulao%20recipe%20hindi%20recipe"
   },
   "dinner": {
-    "dish_hindi": "मटर पनीर और लहसुन की रोटी",
-    "dish_english": "Matar Paneer with Garlic Naan",
-    "ingredients_hindi": "पनीर, मटर, प्याज, टमाटर, मसाले, लहसुन, आटा",
+    "dish_hindi": "मेंथी मूंग दाल, रोटी, सलाद",
+    "dish_english": "Fenugreek Moong Dal, Roti, Salad",
+    "ingredients_hindi": "मेंथी, मूंग दाल, गेहूं का आटा, टमाटर, प्याज, खीरा, हरी मिर्च",
     "ingredients_list_hi": [
-      "पनीर",
-      "मटर",
-      "प्याज",
+      "मेंथी",
+      "मूंग दाल",
+      "गेहूं का आटा",
       "टमाटर",
-      "मसाले",
-      "लहसुन",
-      "आटा"
+      "प्याज",
+      "खीरा",
+      "हरी मिर्च"
     ],
     "ingredients_list_en": [
-      "Paneer",
-      "Peas",
-      "Onion",
+      "Fenugreek",
+      "Moong dal",
+      "Wheat flour",
       "Tomato",
-      "Spices",
-      "Garlic",
-      "Flour"
+      "Onion",
+      "Cucumber",
+      "Green chili"
     ],
-    "prep_notes_hi": "पनीर और मटर को टमाटर प्याज के मसाले में पकाएं। लहसुन के साथ आटे की रोटी बनाएं।",
-    "prep_notes_en": "Cook paneer and peas in a tomato-onion spice mix. Make the naan with garlic in the dough.",
+    "prep_notes_hi": "मेंथी और मूंग दाल को अच्छी तरह से मिलाकर हरी मिर्च से इसका स्वाद बढ़ाएं। रोटियों को गोल और फूली हुई बनाएं।",
+    "prep_notes_en": "Combine fenugreek and moong dal well, enhancing its taste with green chili. Make the rotis round and fluffy.",
     "vizz_macros": {
-      "cal": 550,
-      "protein": 25,
-      "fat": 15,
-      "carbs": 75
+      "cal": 400,
+      "protein": 16,
+      "fat": 8,
+      "carbs": 65
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=matar%20paneer%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=moong%20dal%20methi%20recipe%20recipe"
   },
   "vizz_daily_total_from_meals": {
-    "cal": 1350,
-    "protein": 58,
-    "fat": 33,
-    "carbs": 205
+    "cal": 1220,
+    "protein": 46,
+    "fat": 26,
+    "carbs": 193
   },
   "vizz_daily_total_with_shake": {
-    "cal": 1650,
-    "protein": 98,
-    "fat": 38,
-    "carbs": 230
+    "cal": 1520,
+    "protein": 86,
+    "fat": 31,
+    "carbs": 218
   },
-  "macro_check": "Vizz's intake hits carb target, but protein is slightly low at 98g; consider supplementing with additional legumes or paneer."
+  "macro_check": "Cal and carbs are on target, but protein and fat are slightly low. Consider adjusting for next meal planning."
 }

@@ -1,126 +1,5 @@
 [
   {
-    "date": "2026-07-28 (Tuesday)",
-    "date_display": "Tuesday, July 28",
-    "date_short": "Tue · Jul 28",
-    "generated_label": "Generated last night for today",
-    "breakfast": {
-      "dish_hindi": "अंकुरित मूंग चिल्ला, चटनी और उबला अंडा",
-      "dish_english": "Sprouted Moong Chilla with Chutney and Boiled Egg",
-      "ingredients_hindi": "अंकुरित मूंग, बेसन, हरा धनिया, हरी मिर्च, नमक, तेल, उबला अंडा",
-      "ingredients_list_hi": [
-        "अंकुरित मूंग",
-        "बेसन",
-        "हरा धनिया",
-        "हरी मिर्च",
-        "नमक",
-        "तेल",
-        "उबला अंडा"
-      ],
-      "ingredients_list_en": [
-        "Sprouted Moong",
-        "Gram Flour",
-        "Coriander Leaves",
-        "Green Chili",
-        "Salt",
-        "Oil",
-        "Boiled Egg"
-      ],
-      "prep_notes_hi": "मूंग और बेसन का मिश्रण बनाकर अच्छे से घोलें। गर्म तवे पर थोड़ा तेल लगाकर चिल्ला सेंके।",
-      "prep_notes_en": "Mix moong sprouts with gram flour to make a batter. Cook on a hot pan with a bit of oil.",
-      "vizz_macros": {
-        "cal": 350,
-        "protein": 18,
-        "fat": 10,
-        "carbs": 45
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=moong%20chilla%20recipe%20hindi%20recipe"
-    },
-    "lunch": {
-      "dish_hindi": "मसूर दाल और जीरा चावल, पापड़",
-      "dish_english": "Masoor Dal and Jeera Rice with Papad",
-      "ingredients_hindi": "मसूर दाल, चावल, जीरा, हरी मिर्च, धनिया पाउडर, हल्दी, नमक, घी, पापड़",
-      "ingredients_list_hi": [
-        "मसूर दाल",
-        "चावल",
-        "जीरा",
-        "हरी मिर्च",
-        "धनिया पाउडर",
-        "हल्दी",
-        "नमक",
-        "घी",
-        "पापड़"
-      ],
-      "ingredients_list_en": [
-        "Red Lentils (Masoor Dal)",
-        "Rice",
-        "Cumin Seeds",
-        "Green Chili",
-        "Coriander Powder",
-        "Turmeric",
-        "Salt",
-        "Ghee",
-        "Papad"
-      ],
-      "prep_notes_hi": "दाल अच्छी तरह पकाएं ताकि यह चार से पांच घंटे तक ताजा रहे। चावल को जीरा, घी के साथ बनाएं।",
-      "prep_notes_en": "Cook the lentils thoroughly so they stay fresh for 4-5 hours. Use cumin and ghee for fragrant rice.",
-      "vizz_macros": {
-        "cal": 650,
-        "protein": 22,
-        "fat": 12,
-        "carbs": 108
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=masoor%20dal%20jeera%20rice%20recipe%20recipe"
-    },
-    "dinner": {
-      "dish_hindi": "एगलेस वेज बिरयानी, रायता और अचार",
-      "dish_english": "Eggless Veg Biryani with Raita and Pickle",
-      "ingredients_hindi": "बासमती चावल, सब्जियाँ, बिरयानी मसाला, दही, पुदीना पत्ते, नमक, तेल, अचार",
-      "ingredients_list_hi": [
-        "बासमती चावल",
-        "सब्जियाँ",
-        "बिरयानी मसाला",
-        "दही",
-        "पुदीना पत्ते",
-        "नमक",
-        "तेल",
-        "अचार"
-      ],
-      "ingredients_list_en": [
-        "Basmati Rice",
-        "Vegetables",
-        "Biryani Masala",
-        "Yogurt",
-        "Mint Leaves",
-        "Salt",
-        "Oil",
-        "Pickle"
-      ],
-      "prep_notes_hi": "चावल और सब्जियों को बिरयानी मसाले के साथ पकाएं। गरमा गरम रायता और अचार के साथ परोसें।",
-      "prep_notes_en": "Cook rice and vegetables with biryani spices. Serve hot with raita and pickle.",
-      "vizz_macros": {
-        "cal": 700,
-        "protein": 10,
-        "fat": 18,
-        "carbs": 110
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=veg%20biryani%20recipe%20hindi%20recipe"
-    },
-    "vizz_daily_total_from_meals": {
-      "cal": 1700,
-      "protein": 50,
-      "fat": 40,
-      "carbs": 263
-    },
-    "vizz_daily_total_with_shake": {
-      "cal": 2000,
-      "protein": 90,
-      "fat": 45,
-      "carbs": 288
-    },
-    "macro_check": "Calorie and carb targets met. Protein target slightly low at 90g vs 110g. Fat is acceptable."
-  },
-  {
     "date": "2026-07-29 (Wednesday)",
     "date_display": "Wednesday, July 29",
     "date_short": "Wed · Jul 29",
@@ -3558,5 +3437,126 @@
       "carbs": 230
     },
     "macro_check": "Vizz's intake hits carb target, but protein is slightly low at 98g; consider supplementing with additional legumes or paneer."
+  },
+  {
+    "date": "2026-08-30 (Sunday)",
+    "date_display": "Sunday, August 30",
+    "date_short": "Sun · Aug 30",
+    "generated_label": "Generated last night for today",
+    "breakfast": {
+      "dish_hindi": "ओट्स उपमा, उबला अंडा (केवल Vizz और Flatmate-2 के लिए)",
+      "dish_english": "Oats Upma, Boiled Egg (for Vizz and Flatmate-2 only)",
+      "ingredients_hindi": "ओट्स, प्याज, टमाटर, गाजर, मटर, सरसों के दाने, हरी मिर्च, हल्दी, नमक, उबला अंडा",
+      "ingredients_list_hi": [
+        "ओट्स",
+        "प्याज",
+        "टमाटर",
+        "गाजर",
+        "मटर",
+        "सरसों के दाने",
+        "हरी मिर्च",
+        "हल्दी",
+        "नमक",
+        "उबला अंडा"
+      ],
+      "ingredients_list_en": [
+        "Oats",
+        "Onion",
+        "Tomato",
+        "Carrot",
+        "Peas",
+        "Mustard seeds",
+        "Green chili",
+        "Turmeric",
+        "Salt",
+        "Boiled egg"
+      ],
+      "prep_notes_hi": "ओट्स को हल्का भूनें और फिर सब्जियों के साथ मिलाएं। अच्छी तरह पकने तक ढक कर पकाएं।",
+      "prep_notes_en": "Lightly roast the oats, then combine with vegetables. Cover and cook until well done.",
+      "vizz_macros": {
+        "cal": 370,
+        "protein": 18,
+        "fat": 10,
+        "carbs": 50
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=oats%20upma%20recipe%20hindi%20recipe"
+    },
+    "lunch": {
+      "dish_hindi": "सब्जी पुलाव, पुदीना रायता",
+      "dish_english": "Vegetable Pulao, Mint Raita",
+      "ingredients_hindi": "बासमती चावल, मिक्स सब्जियां, जीरा, धनिया, पुदीना, दही, नमक",
+      "ingredients_list_hi": [
+        "बासमती चावल",
+        "मिक्स सब्जियां",
+        "जीरा",
+        "धनिया",
+        "पुदीना",
+        "दही",
+        "नमक"
+      ],
+      "ingredients_list_en": [
+        "Basmati rice",
+        "Mixed vegetables",
+        "Cumin",
+        "Coriander",
+        "Mint",
+        "Yogurt",
+        "Salt"
+      ],
+      "prep_notes_hi": "यह डिश यात्रा के लिए उपयुक्त है और माइक्रोवेव में दोबारा गर्म की जा सकती है।",
+      "prep_notes_en": "This dish is suitable for travel and can be reheated in a microwave.",
+      "vizz_macros": {
+        "cal": 450,
+        "protein": 12,
+        "fat": 8,
+        "carbs": 78
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=vegetable%20pulao%20recipe%20hindi%20recipe"
+    },
+    "dinner": {
+      "dish_hindi": "मेंथी मूंग दाल, रोटी, सलाद",
+      "dish_english": "Fenugreek Moong Dal, Roti, Salad",
+      "ingredients_hindi": "मेंथी, मूंग दाल, गेहूं का आटा, टमाटर, प्याज, खीरा, हरी मिर्च",
+      "ingredients_list_hi": [
+        "मेंथी",
+        "मूंग दाल",
+        "गेहूं का आटा",
+        "टमाटर",
+        "प्याज",
+        "खीरा",
+        "हरी मिर्च"
+      ],
+      "ingredients_list_en": [
+        "Fenugreek",
+        "Moong dal",
+        "Wheat flour",
+        "Tomato",
+        "Onion",
+        "Cucumber",
+        "Green chili"
+      ],
+      "prep_notes_hi": "मेंथी और मूंग दाल को अच्छी तरह से मिलाकर हरी मिर्च से इसका स्वाद बढ़ाएं। रोटियों को गोल और फूली हुई बनाएं।",
+      "prep_notes_en": "Combine fenugreek and moong dal well, enhancing its taste with green chili. Make the rotis round and fluffy.",
+      "vizz_macros": {
+        "cal": 400,
+        "protein": 16,
+        "fat": 8,
+        "carbs": 65
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=moong%20dal%20methi%20recipe%20recipe"
+    },
+    "vizz_daily_total_from_meals": {
+      "cal": 1220,
+      "protein": 46,
+      "fat": 26,
+      "carbs": 193
+    },
+    "vizz_daily_total_with_shake": {
+      "cal": 1520,
+      "protein": 86,
+      "fat": 31,
+      "carbs": 218
+    },
+    "macro_check": "Cal and carbs are on target, but protein and fat are slightly low. Consider adjusting for next meal planning."
   }
 ]
