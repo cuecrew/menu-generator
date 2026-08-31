@@ -1,118 +1,5 @@
 [
   {
-    "date": "2026-08-01 (Saturday)",
-    "date_display": "Saturday, August 1",
-    "date_short": "Sat · Aug 1",
-    "generated_label": "Generated last night for today",
-    "breakfast": {
-      "dish_hindi": "आलू पराठा और दही के साथ उबला अंडा",
-      "dish_english": "Aloo Paratha with Yogurt and Boiled Egg",
-      "ingredients_hindi": "आलू, गेहूं का आटा, दही, अंडा, धनिया, हरा मिर्च, मसाले",
-      "ingredients_list_hi": [
-        "आलू",
-        "गेहूं का आटा",
-        "दही",
-        "अंडा",
-        "धनिया",
-        "हरा मिर्च",
-        "मसाले"
-      ],
-      "ingredients_list_en": [
-        "Potato",
-        "Whole wheat flour",
-        "Yogurt",
-        "Egg",
-        "Coriander",
-        "Green chili",
-        "Spices"
-      ],
-      "prep_notes_hi": "आलू को अच्छी तरह मैश करके उसमें मसाले डालें। आटे को गूंध लें और पराठे बेलकर तवे पर सेंक लें।",
-      "prep_notes_en": "Mash the potatoes well and mix with spices. Knead the dough and roll out parathas. Cook on a griddle.",
-      "vizz_macros": {
-        "cal": 490,
-        "protein": 18,
-        "fat": 15,
-        "carbs": 65
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=aloo%20paratha%20recipe%20recipe"
-    },
-    "lunch": {
-      "dish_hindi": "छोले के साथ चावल, पापड़ और अचार",
-      "dish_english": "Chole with Rice, Papad and Pickle",
-      "ingredients_hindi": "चना, बासमती चावल, पापड़, अचार, मसाले, टमाटर, प्याज",
-      "ingredients_list_hi": [
-        "चना",
-        "बासमती चावल",
-        "पापड़",
-        "अचार",
-        "मसाले",
-        "टमाटर",
-        "प्याज"
-      ],
-      "ingredients_list_en": [
-        "Chickpeas",
-        "Basmati rice",
-        "Papad",
-        "Pickle",
-        "Spices",
-        "Tomato",
-        "Onion"
-      ],
-      "prep_notes_hi": "छोले को उबालकर मसाले और सब्जियों के साथ पकाएं। इसे चावल के साथ पैक कर लें, जहां भी ले जाएं और माइक्रोवेव में गरम करें।",
-      "prep_notes_en": "Boil chickpeas and cook with spices and vegetables. Pack with rice, travels well and can be reheated in a microwave.",
-      "vizz_macros": {
-        "cal": 700,
-        "protein": 25,
-        "fat": 8,
-        "carbs": 125
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=chole%20rice%20recipe%20recipe"
-    },
-    "dinner": {
-      "dish_hindi": "खिचड़ी के साथ धनिया चटनी",
-      "dish_english": "Khichdi with Coriander Chutney",
-      "ingredients_hindi": "चावल, मूंग दाल, गाजर, मटर, धनिया, चटनी के मसाले",
-      "ingredients_list_hi": [
-        "चावल",
-        "मूंग दाल",
-        "गाजर",
-        "मटर",
-        "धनिया",
-        "चटनी के मसाले"
-      ],
-      "ingredients_list_en": [
-        "Rice",
-        "Moong dal",
-        "Carrot",
-        "Peas",
-        "Coriander",
-        "Chutney spices"
-      ],
-      "prep_notes_hi": "चावल और दाल को सब्जियों के साथ मिलाकर, कुकर में पकाएं। धनिया चटनी के साथ परोसें।",
-      "prep_notes_en": "Combine rice and dal with vegetables, cook in a pressure cooker. Serve with coriander chutney.",
-      "vizz_macros": {
-        "cal": 450,
-        "protein": 14,
-        "fat": 5,
-        "carbs": 84
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=khichdi%20recipe%20recipe"
-    },
-    "vizz_daily_total_from_meals": {
-      "cal": 1640,
-      "protein": 57,
-      "fat": 28,
-      "carbs": 274
-    },
-    "vizz_daily_total_with_shake": {
-      "cal": 1940,
-      "protein": 97,
-      "fat": 33,
-      "carbs": 299
-    },
-    "macro_check": "Needs additional 60 cal, 13g protein, 27g carbs to hit target; consider adding peanuts or seeds."
-  },
-  {
     "date": "2026-08-02 (Sunday)",
     "date_display": "Sunday, August 2",
     "date_short": "Sun · Aug 2",
@@ -3536,5 +3423,138 @@
       "carbs": 199
     },
     "macro_check": "Calories and carbs are on target but protein is a bit low; consider adding more legumes or paneer to balance."
+  },
+  {
+    "date": "2026-09-01 (Tuesday)",
+    "date_display": "Tuesday, September 1",
+    "date_short": "Tue · Sep 1",
+    "generated_label": "Generated last night for today",
+    "breakfast": {
+      "dish_hindi": "अंडा पराठा, टमाटर चटनी",
+      "dish_english": "Egg Paratha with Tomato Chutney",
+      "ingredients_hindi": "गेंहू का आटा, उबला अंडा, टमाटर, हरी मिर्च, धनिया, नमक, तेल",
+      "ingredients_list_hi": [
+        "गेंहू का आटा",
+        "उबला अंडा",
+        "टमाटर",
+        "हरी मिर्च",
+        "धनिया",
+        "नमक",
+        "तेल"
+      ],
+      "ingredients_list_en": [
+        "Wheat flour",
+        "Boiled egg",
+        "Tomato",
+        "Green chili",
+        "Coriander",
+        "Salt",
+        "Oil"
+      ],
+      "prep_notes_hi": "आटे को गूंदकर पराठा बनाएं। अंडे को बीच में भरकर सेंकें। चटनी बनाने के लिए टमाटर, हरी मिर्च और धनिया मिलाएं।",
+      "prep_notes_en": "Knead dough to make paratha. Stuff with boiled egg and cook. For chutney, blend tomato, green chili, and coriander.",
+      "vizz_macros": {
+        "cal": 400,
+        "protein": 16,
+        "fat": 14,
+        "carbs": 50
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=egg%20paratha%20recipe%20recipe"
+    },
+    "lunch": {
+      "dish_hindi": "पालक पनीर और चावल, अचार",
+      "dish_english": "Palak Paneer with Rice and Pickle",
+      "ingredients_hindi": "पालक, पनीर, चावल, प्याज, टमाटर, अदरक, लहसुन, मसाले, तेल, अचार",
+      "ingredients_list_hi": [
+        "पालक",
+        "पनीर",
+        "चावल",
+        "प्याज",
+        "टमाटर",
+        "अदरक",
+        "लहसुन",
+        "मसाले",
+        "तेल",
+        "अचार"
+      ],
+      "ingredients_list_en": [
+        "Spinach",
+        "Paneer",
+        "Rice",
+        "Onion",
+        "Tomato",
+        "Ginger",
+        "Garlic",
+        "Spices",
+        "Oil",
+        "Pickle"
+      ],
+      "prep_notes_hi": "पालक और पनीर का मिश्रण अच्छे से पकाएं। यह व्यंजन आसानी से कार्यालय में ले जाया जा सकता है और माइक्रोवेव में गरम किया जा सकता है।",
+      "prep_notes_en": "Cook the spinach and paneer mixture well. This dish is ideal for carrying to the office and can be reheated in the microwave.",
+      "vizz_macros": {
+        "cal": 600,
+        "protein": 20,
+        "fat": 20,
+        "carbs": 80
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=palak%20paneer%20recipe%20recipe"
+    },
+    "dinner": {
+      "dish_hindi": "पास्ता सैलेड, मिक्स्ड वेजिटेबल सूप",
+      "dish_english": "Pasta Salad with Mixed Vegetable Soup",
+      "ingredients_hindi": "पास्ता, शिमला मिर्च, टमाटर, गाजर, मक्का, सलाद पत्ता, ऑलिव ऑयल, नींबू का रस, नमक, काली मिर्च, मिक्स सब्जियाँ, अदरक, लहसुन",
+      "ingredients_list_hi": [
+        "पास्ता",
+        "शिमला मिर्च",
+        "टमाटर",
+        "गाजर",
+        "मक्का",
+        "सलाद पत्ता",
+        "ऑलिव ऑयल",
+        "नींबू का रस",
+        "नमक",
+        "काली मिर्च",
+        "मिक्स सब्जियाँ",
+        "अदरक",
+        "लहसुन"
+      ],
+      "ingredients_list_en": [
+        "Pasta",
+        "Bell pepper",
+        "Tomato",
+        "Carrot",
+        "Corn",
+        "Lettuce",
+        "Olive oil",
+        "Lemon juice",
+        "Salt",
+        "Black pepper",
+        "Mixed vegetables",
+        "Ginger",
+        "Garlic"
+      ],
+      "prep_notes_hi": "पास्ता को उबालकर सब्जियों के साथ मिलाएं। सब्जियों का सूप बनाएं। कम तेल का उपयोग करें।",
+      "prep_notes_en": "Boil pasta and mix with vegetables. Make a vegetable soup. Use minimal oil.",
+      "vizz_macros": {
+        "cal": 700,
+        "protein": 18,
+        "fat": 12,
+        "carbs": 90
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=pasta%20salad%20recipe%20recipe"
+    },
+    "vizz_daily_total_from_meals": {
+      "cal": 1700,
+      "protein": 54,
+      "fat": 46,
+      "carbs": 220
+    },
+    "vizz_daily_total_with_shake": {
+      "cal": 2000,
+      "protein": 94,
+      "fat": 51,
+      "carbs": 245
+    },
+    "macro_check": "Calories and carbs are on target, protein slightly under at 94g; slight adjustment needed in protein intake."
   }
 ]

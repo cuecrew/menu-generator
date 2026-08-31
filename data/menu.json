@@ -1,113 +1,133 @@
 {
-  "date": "2026-08-31 (Monday)",
-  "date_display": "Monday, August 31",
-  "date_short": "Mon · Aug 31",
+  "date": "2026-09-01 (Tuesday)",
+  "date_display": "Tuesday, September 1",
+  "date_short": "Tue · Sep 1",
   "generated_label": "Generated last night for today",
   "breakfast": {
-    "dish_hindi": "चना चाट, उबला अंडा (केवल वीज और फ्लैटमेट-2 के लिए)",
-    "dish_english": "Chana Chaat, Boiled Egg (for Vizz and Flatmate-2 only)",
-    "ingredients_hindi": "चना, प्याज, टमाटर, हरा धनिया, नींबू, जीरा पाउडर, उबला अंडा",
+    "dish_hindi": "अंडा पराठा, टमाटर चटनी",
+    "dish_english": "Egg Paratha with Tomato Chutney",
+    "ingredients_hindi": "गेंहू का आटा, उबला अंडा, टमाटर, हरी मिर्च, धनिया, नमक, तेल",
     "ingredients_list_hi": [
-      "चना",
-      "प्याज",
+      "गेंहू का आटा",
+      "उबला अंडा",
       "टमाटर",
-      "हरा धनिया",
-      "नींबू",
-      "जीरा पाउडर",
-      "उबला अंडा"
+      "हरी मिर्च",
+      "धनिया",
+      "नमक",
+      "तेल"
     ],
     "ingredients_list_en": [
-      "Chickpeas",
-      "Onion",
+      "Wheat flour",
+      "Boiled egg",
       "Tomato",
-      "Coriander leaves",
-      "Lemon",
-      "Cumin powder",
-      "Boiled egg"
+      "Green chili",
+      "Coriander",
+      "Salt",
+      "Oil"
     ],
-    "prep_notes_hi": "चने को रात भर भिगोकर उबाल लें। प्याज, टमाटर और हरा धनिया काट लें। सभी सामग्री को मिला कर नींबू का रस और जीरा पाउडर डालें।",
-    "prep_notes_en": "Soak chickpeas overnight and boil them. Chop onion, tomato, and coriander leaves. Mix everything with lime juice and cumin powder.",
+    "prep_notes_hi": "आटे को गूंदकर पराठा बनाएं। अंडे को बीच में भरकर सेंकें। चटनी बनाने के लिए टमाटर, हरी मिर्च और धनिया मिलाएं।",
+    "prep_notes_en": "Knead dough to make paratha. Stuff with boiled egg and cook. For chutney, blend tomato, green chili, and coriander.",
     "vizz_macros": {
-      "cal": 240,
-      "protein": 12,
-      "fat": 6,
-      "carbs": 32
+      "cal": 400,
+      "protein": 16,
+      "fat": 14,
+      "carbs": 50
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=%E0%A4%9A%E0%A4%A8%E0%A4%BE%20%E0%A4%9A%E0%A4%BE%E0%A4%9F%20%E0%A4%B0%E0%A5%87%E0%A4%B8%E0%A4%BF%E0%A4%AA%E0%A5%80%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=egg%20paratha%20recipe%20recipe"
   },
   "lunch": {
-    "dish_hindi": "मसूर दाल और चावल, धनिये की चटनी",
-    "dish_english": "Masoor Dal with Rice, Coriander Chutney",
-    "ingredients_hindi": "मसूर दाल, चावल, प्याज, टमाटर, लहसुन, हल्दी पाउडर, नमक, धनिये की चटनी",
+    "dish_hindi": "पालक पनीर और चावल, अचार",
+    "dish_english": "Palak Paneer with Rice and Pickle",
+    "ingredients_hindi": "पालक, पनीर, चावल, प्याज, टमाटर, अदरक, लहसुन, मसाले, तेल, अचार",
     "ingredients_list_hi": [
-      "मसूर दाल",
+      "पालक",
+      "पनीर",
       "चावल",
       "प्याज",
       "टमाटर",
+      "अदरक",
       "लहसुन",
-      "हल्दी पाउडर",
-      "नमक",
-      "धनिये की चटनी"
+      "मसाले",
+      "तेल",
+      "अचार"
     ],
     "ingredients_list_en": [
-      "Masoor dal",
+      "Spinach",
+      "Paneer",
       "Rice",
       "Onion",
       "Tomato",
+      "Ginger",
       "Garlic",
-      "Turmeric powder",
-      "Salt",
-      "Coriander chutney"
+      "Spices",
+      "Oil",
+      "Pickle"
     ],
-    "prep_notes_hi": "यह यात्रा करने और माइक्रोवेव में गरम करने के लिए अच्छी है। मसूर दाल को प्याज, टमाटर और लहसुन के साथ पकाएं।",
-    "prep_notes_en": "This is good for travel and microwave reheating. Cook masoor dal with onion, tomato, and garlic.",
+    "prep_notes_hi": "पालक और पनीर का मिश्रण अच्छे से पकाएं। यह व्यंजन आसानी से कार्यालय में ले जाया जा सकता है और माइक्रोवेव में गरम किया जा सकता है।",
+    "prep_notes_en": "Cook the spinach and paneer mixture well. This dish is ideal for carrying to the office and can be reheated in the microwave.",
     "vizz_macros": {
-      "cal": 470,
-      "protein": 21,
-      "fat": 3,
-      "carbs": 82
+      "cal": 600,
+      "protein": 20,
+      "fat": 20,
+      "carbs": 80
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=%E0%A4%AE%E0%A4%B8%E0%A5%82%E0%A4%B0%20%E0%A4%A6%E0%A4%BE%E0%A4%B2%20%E0%A4%94%E0%A4%B0%20%E0%A4%9A%E0%A4%BE%E0%A4%B5%E0%A4%B2%20%E0%A4%B0%E0%A5%87%E0%A4%B8%E0%A4%BF%E0%A4%AA%E0%A5%80%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=palak%20paneer%20recipe%20recipe"
   },
   "dinner": {
-    "dish_hindi": "हरी सब्जियों का स्टर-फ्राई, रोटी, दही",
-    "dish_english": "Stir-Fried Green Vegetables, Roti, Curd",
-    "ingredients_hindi": "हरी सब्जियाँ (बीन्स, ब्रोकली, शिमला मिर्च), लहसुन, सोया सॉस, रोटी, दही",
+    "dish_hindi": "पास्ता सैलेड, मिक्स्ड वेजिटेबल सूप",
+    "dish_english": "Pasta Salad with Mixed Vegetable Soup",
+    "ingredients_hindi": "पास्ता, शिमला मिर्च, टमाटर, गाजर, मक्का, सलाद पत्ता, ऑलिव ऑयल, नींबू का रस, नमक, काली मिर्च, मिक्स सब्जियाँ, अदरक, लहसुन",
     "ingredients_list_hi": [
-      "हरी सब्जियाँ",
-      "लहसुन",
-      "सोया सॉस",
-      "रोटी",
-      "दही"
+      "पास्ता",
+      "शिमला मिर्च",
+      "टमाटर",
+      "गाजर",
+      "मक्का",
+      "सलाद पत्ता",
+      "ऑलिव ऑयल",
+      "नींबू का रस",
+      "नमक",
+      "काली मिर्च",
+      "मिक्स सब्जियाँ",
+      "अदरक",
+      "लहसुन"
     ],
     "ingredients_list_en": [
-      "Green vegetables",
-      "Garlic",
-      "Soy sauce",
-      "Roti",
-      "Curd"
+      "Pasta",
+      "Bell pepper",
+      "Tomato",
+      "Carrot",
+      "Corn",
+      "Lettuce",
+      "Olive oil",
+      "Lemon juice",
+      "Salt",
+      "Black pepper",
+      "Mixed vegetables",
+      "Ginger",
+      "Garlic"
     ],
-    "prep_notes_hi": "सब्जियों को काट कर लहसुन के साथ सोया सॉस में तेज़ आंच पर भूनें। इसे रोटी और दही के साथ परोसें।",
-    "prep_notes_en": "Chop vegetables and stir-fry with garlic in soy sauce on high heat. Serve with roti and curd.",
+    "prep_notes_hi": "पास्ता को उबालकर सब्जियों के साथ मिलाएं। सब्जियों का सूप बनाएं। कम तेल का उपयोग करें।",
+    "prep_notes_en": "Boil pasta and mix with vegetables. Make a vegetable soup. Use minimal oil.",
     "vizz_macros": {
-      "cal": 420,
-      "protein": 15,
-      "fat": 10,
-      "carbs": 60
+      "cal": 700,
+      "protein": 18,
+      "fat": 12,
+      "carbs": 90
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%A8%20%E0%A4%B5%E0%A5%87%E0%A4%9C%E0%A4%BF%E0%A4%9F%E0%A5%87%E0%A4%AC%E0%A4%B2%20%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A4%B0-%E0%A4%AB%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%88%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=pasta%20salad%20recipe%20recipe"
   },
   "vizz_daily_total_from_meals": {
-    "cal": 1130,
-    "protein": 48,
-    "fat": 19,
-    "carbs": 174
+    "cal": 1700,
+    "protein": 54,
+    "fat": 46,
+    "carbs": 220
   },
   "vizz_daily_total_with_shake": {
-    "cal": 1430,
-    "protein": 88,
-    "fat": 24,
-    "carbs": 199
+    "cal": 2000,
+    "protein": 94,
+    "fat": 51,
+    "carbs": 245
   },
-  "macro_check": "Calories and carbs are on target but protein is a bit low; consider adding more legumes or paneer to balance."
+  "macro_check": "Calories and carbs are on target, protein slightly under at 94g; slight adjustment needed in protein intake."
 }
