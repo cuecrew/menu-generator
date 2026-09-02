@@ -1,129 +1,105 @@
 {
-  "date": "2026-09-02 (Wednesday)",
-  "date_display": "Wednesday, September 2",
-  "date_short": "Wed · Sep 2",
+  "date": "2026-09-03 (Thursday)",
+  "date_display": "Thursday, September 3",
+  "date_short": "Thu · Sep 3",
   "generated_label": "Generated last night for today",
   "breakfast": {
-    "dish_hindi": "वेजिटेबल उपमा, उबला अंडा (केवल विज्ज और फ्लैटमेट-2 के लिए)",
-    "dish_english": "Vegetable Upma with Boiled Egg (for Vizz and Flatmate-2 only)",
-    "ingredients_hindi": "सूजी, पानी, गाजर, मटर, प्याज, हरी मिर्च, सरसों के बीज, करी पत्ते, नमक, उबला अंडा",
+    "dish_hindi": "सब्ज़ी पराठा, दही",
+    "dish_english": "Vegetable Paratha with Curd",
+    "ingredients_hindi": "गेहूं का आटा, आलू, पालक, गाजर, दही, मसाले",
     "ingredients_list_hi": [
-      "सूजी",
-      "पानी",
+      "गेहूं का आटा",
+      "आलू",
+      "पालक",
       "गाजर",
-      "मटर",
-      "प्याज",
-      "हरी मिर्च",
-      "सरसों के बीज",
-      "करी पत्ते",
-      "नमक",
-      "उबला अंडा"
+      "दही",
+      "मसाले"
     ],
     "ingredients_list_en": [
-      "Semolina",
-      "Water",
+      "Whole wheat flour",
+      "Potato",
+      "Spinach",
       "Carrot",
-      "Peas",
-      "Onion",
-      "Green Chili",
-      "Mustard Seeds",
-      "Curry Leaves",
-      "Salt",
-      "Boiled Egg"
+      "Curd",
+      "Spices"
     ],
-    "prep_notes_hi": "सबसे पहले, एक पैन में सरसों के बीज और करी पत्ते भूनें। फिर सब्जियाँ डालें और फिर सूजी डालकर अच्छी तरह मिलाएँ।",
-    "prep_notes_en": "First, roast mustard seeds and curry leaves in a pan. Then add the vegetables and finally mix in the semolina thoroughly.",
+    "prep_notes_hi": "सब्जियों को छोटे टुकड़ों में काटकर आटे में मिलाएं। ध्यान से बेल कर गरम तवे पर पकाएँ।",
+    "prep_notes_en": "Chop the vegetables finely and mix into the dough. Roll carefully and cook on a hot griddle.",
     "vizz_macros": {
-      "cal": 350,
+      "cal": 450,
       "protein": 12,
       "fat": 10,
-      "carbs": 50
+      "carbs": 75
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=vegetable%20upma%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=vegetable%20paratha%20recipe%20hindi%20recipe"
   },
   "lunch": {
-    "dish_hindi": "चना मसाला और चावल",
-    "dish_english": "Chana Masala with Rice",
-    "ingredients_hindi": "काबुली चना, चावल, टमाटर, प्याज, अदरक-लहसुन पेस्ट, गरम मसाला, तेल, नमक",
+    "dish_hindi": "राजमा चावल, प्याज़ का सलाद",
+    "dish_english": "Rajma with Rice, Onion Salad",
+    "ingredients_hindi": "राजमा, चावल, प्याज, टमाटर, मसाले",
     "ingredients_list_hi": [
-      "काबुली चना",
+      "राजमा",
       "चावल",
-      "टमाटर",
       "प्याज",
-      "अदरक-लहसुन पेस्ट",
-      "गरम मसाला",
-      "तेल",
-      "नमक"
+      "टमाटर",
+      "मसाले"
     ],
     "ingredients_list_en": [
-      "Chickpeas",
+      "Kidney beans",
       "Rice",
-      "Tomato",
       "Onion",
-      "Ginger-Garlic Paste",
-      "Garam Masala",
-      "Oil",
-      "Salt"
+      "Tomato",
+      "Spices"
     ],
-    "prep_notes_hi": "चने को अच्छी तरह से पकाएं और मसालों के साथ मिलाएं। इसे अच्छे से बॉक्स में पैक करें और यह माइक्रोवेव में गरम हो सकेगा।",
-    "prep_notes_en": "Cook the chickpeas well and mix with spices. Pack it properly in boxes; it will heat well in a microwave.",
+    "prep_notes_hi": "राजमा को अच्छी तरह पकाकर चावल के साथ परोसें। यह यात्रा और गरम करने के लिए उपयुक्त है।",
+    "prep_notes_en": "Cook the kidney beans thoroughly and serve with rice. This is suitable for travel and reheating.",
     "vizz_macros": {
-      "cal": 700,
-      "protein": 25,
-      "fat": 10,
-      "carbs": 120
+      "cal": 690,
+      "protein": 29,
+      "fat": 7,
+      "carbs": 122
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=chana%20masala%20rice%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=rajma%20recipe%20hindi%20recipe"
   },
   "dinner": {
-    "dish_hindi": "मिक्स्ड वेजिटेबल करी, रोटी, पापड़",
-    "dish_english": "Mixed Vegetable Curry, Roti, Papad",
-    "ingredients_hindi": "गाजर, आलू, फूलगोभी, मटर, टमाटर, प्याज, मसाले, घी, गेहूं का आटा, पापड़",
+    "dish_hindi": "पनीर टिक्का, हरी चटनी",
+    "dish_english": "Paneer Tikka with Green Chutney",
+    "ingredients_hindi": "पनीर, दही, हरी मिर्च, धनिया, मसाले",
     "ingredients_list_hi": [
-      "गाजर",
-      "आलू",
-      "फूलगोभी",
-      "मटर",
-      "टमाटर",
-      "प्याज",
-      "मसाले",
-      "घी",
-      "गेहूं का आटा",
-      "पापड़"
+      "पनीर",
+      "दही",
+      "हरी मिर्च",
+      "धनिया",
+      "मसाले"
     ],
     "ingredients_list_en": [
-      "Carrot",
-      "Potato",
-      "Cauliflower",
-      "Peas",
-      "Tomato",
-      "Onion",
-      "Spices",
-      "Ghee",
-      "Wheat Flour",
-      "Papad"
+      "Paneer",
+      "Curd",
+      "Green chili",
+      "Coriander",
+      "Spices"
     ],
-    "prep_notes_hi": "सब्जियों को टमाटर और प्याज के साथ धीमी आंच पर पकाएं। मसाले मिलाएं और धीमी आंच पर गाढ़ा होने तक पकाएं।",
-    "prep_notes_en": "Cook the vegetables slowly with tomato and onion. Add spices and simmer until thickened.",
+    "prep_notes_hi": "पनीर को मसालों के साथ मलमलकर तंदूर में सुनहरा भूरा होने तक सेकें। हरी चटनी के साथ परोसें।",
+    "prep_notes_en": "Marinate paneer with spices, grill until golden brown. Serve with green chutney.",
     "vizz_macros": {
-      "cal": 650,
-      "protein": 20,
-      "fat": 15,
-      "carbs": 90
+      "cal": 560,
+      "protein": 32,
+      "fat": 28,
+      "carbs": 15
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=mixed%20veg%20curry%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=paneer%20tikka%20recipe%20hindi%20recipe"
   },
   "vizz_daily_total_from_meals": {
     "cal": 1700,
-    "protein": 57,
-    "fat": 35,
-    "carbs": 260
+    "protein": 73,
+    "fat": 45,
+    "carbs": 212
   },
   "vizz_daily_total_with_shake": {
     "cal": 2000,
-    "protein": 97,
-    "fat": 40,
-    "carbs": 285
+    "protein": 113,
+    "fat": 50,
+    "carbs": 237
   },
-  "macro_check": "Calories and carbs are met. Protein slightly below target; adjust with more legumes or paneer next time."
+  "macro_check": "Hits daily target for calories and protein. Slightly exceeds carb target by 22g, well balanced fat."
 }
