@@ -1,130 +1,5 @@
 [
   {
-    "date": "2026-08-04 (Tuesday)",
-    "date_display": "Tuesday, August 4",
-    "date_short": "Tue · Aug 4",
-    "generated_label": "Generated last night for today",
-    "breakfast": {
-      "dish_hindi": "दलीया उपमा, उबला अंडा",
-      "dish_english": "Dalia Upma with Boiled Egg",
-      "ingredients_hindi": "दलीया, सब्जियाँ (गाजर, मटर, प्याज), सरसों के बीज, करी पत्ता, हल्दी, नमक, घी, उबला अंडा",
-      "ingredients_list_hi": [
-        "दलीया",
-        "गाजर",
-        "मटर",
-        "प्याज",
-        "सरसों के बीज",
-        "करी पत्ता",
-        "हल्दी",
-        "नमक",
-        "घी",
-        "उबला अंडा"
-      ],
-      "ingredients_list_en": [
-        "Dalia",
-        "Carrot",
-        "Peas",
-        "Onion",
-        "Mustard seeds",
-        "Curry leaves",
-        "Turmeric",
-        "Salt",
-        "Ghee",
-        "Boiled Egg"
-      ],
-      "prep_notes_hi": "दलीया को उबाल लें और घी में सरसों के बीज और करी पत्ता डालें। कटी सब्जियाँ डालें और हल्दी व नमक से पकाएं।",
-      "prep_notes_en": "Boil the dalia and temper with mustard seeds and curry leaves in ghee. Add chopped vegetables and cook with turmeric and salt.",
-      "vizz_macros": {
-        "cal": 360,
-        "protein": 16,
-        "fat": 12,
-        "carbs": 50
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=dalia%20upma%20recipe%20hindi%20recipe"
-    },
-    "lunch": {
-      "dish_hindi": "राजमा चावल, पापड़ और अचार",
-      "dish_english": "Rajma Rice with Papad and Pickle",
-      "ingredients_hindi": "राजमा, बासमती चावल, तेल, टमाटर, प्याज, अदरक लहसुन पेस्ट, मसाले, पापड़, अचार",
-      "ingredients_list_hi": [
-        "राजमा",
-        "बासमती चावल",
-        "तेल",
-        "टमाटर",
-        "प्याज",
-        "अदरक लहसुन पेस्ट",
-        "मसाले",
-        "पापड़",
-        "अचार"
-      ],
-      "ingredients_list_en": [
-        "Kidney beans",
-        "Basmati rice",
-        "Oil",
-        "Tomato",
-        "Onion",
-        "Ginger garlic paste",
-        "Spices",
-        "Papad",
-        "Pickle"
-      ],
-      "prep_notes_hi": "राजमा को रातभर भिगोएं और मसालों के साथ पकाएं। इसे अच्छी तरह पकाएं ताकि ऑफिस में ट्रेवल और रिहीट हो सके।",
-      "prep_notes_en": "Soak kidney beans overnight and cook with spices. Ensure it's well-cooked to travel well and reheat in the office.",
-      "vizz_macros": {
-        "cal": 700,
-        "protein": 25,
-        "fat": 10,
-        "carbs": 120
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=rajma%20rice%20recipe%20recipe"
-    },
-    "dinner": {
-      "dish_hindi": "कढ़ी पकोड़ा, चपाती और प्याज़",
-      "dish_english": "Kadhi Pakora with Chapati and Onion",
-      "ingredients_hindi": "बेसन, दही, बेसन पकोड़े, मसाले, चपाती, प्याज़, तेल",
-      "ingredients_list_hi": [
-        "बेसन",
-        "दही",
-        "बेसन पकोड़े",
-        "मसाले",
-        "चपाती",
-        "प्याज़",
-        "तेल"
-      ],
-      "ingredients_list_en": [
-        "Gram flour",
-        "Yogurt",
-        "Gram flour fritters",
-        "Spices",
-        "Chapati",
-        "Onion",
-        "Oil"
-      ],
-      "prep_notes_hi": "दही और बेसन को मिलाकर पकोड़ों के साथ पकाएं। इसे अच्छी तरह उबालें ताकि पकौड़े तैयार हो सकें।",
-      "prep_notes_en": "Mix yogurt with gram flour and cook with fritters. Boil well to prepare the pakoras.",
-      "vizz_macros": {
-        "cal": 640,
-        "protein": 12,
-        "fat": 20,
-        "carbs": 90
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=kadhi%20pakora%20recipe%20recipe"
-    },
-    "vizz_daily_total_from_meals": {
-      "cal": 1700,
-      "protein": 53,
-      "fat": 42,
-      "carbs": 260
-    },
-    "vizz_daily_total_with_shake": {
-      "cal": 2000,
-      "protein": 93,
-      "fat": 47,
-      "carbs": 285
-    },
-    "macro_check": "Calories, protein, and fat are slightly below targets; carbs slightly higher. Consider protein snack."
-  },
-  {
     "date": "2026-08-05 (Wednesday)",
     "date_display": "Wednesday, August 5",
     "date_short": "Wed · Aug 5",
@@ -3526,5 +3401,116 @@
       "carbs": 237
     },
     "macro_check": "Hits daily target for calories and protein. Slightly exceeds carb target by 22g, well balanced fat."
+  },
+  {
+    "date": "2026-09-04 (Friday)",
+    "date_display": "Friday, September 4",
+    "date_short": "Fri · Sep 4",
+    "generated_label": "Generated last night for today",
+    "breakfast": {
+      "dish_hindi": "ओट्स उपमा, उबला अंडा (केवल विज़ और फ्लैटमेट-2 के लिए)",
+      "dish_english": "Oats Upma with Boiled Egg (for Vizz and Flatmate-2 only)",
+      "ingredients_hindi": "ओट्स, सब्जियाँ, सरसों के बीज, हल्दी, हरी मिर्च, करी पत्ते, नमक, उबला अंडा",
+      "ingredients_list_hi": [
+        "ओट्स",
+        "सब्जियाँ",
+        "सरसों के बीज",
+        "हल्दी",
+        "हरी मिर्च",
+        "करी पत्ते",
+        "नमक",
+        "उबला अंडा"
+      ],
+      "ingredients_list_en": [
+        "Oats",
+        "Vegetables",
+        "Mustard Seeds",
+        "Turmeric",
+        "Green Chilies",
+        "Curry Leaves",
+        "Salt",
+        "Boiled Egg"
+      ],
+      "prep_notes_hi": "ओट्स को हल्का भून लें और फिर सब्जियों को सरसों के बीज के साथ भूनें। नमक और हल्दी डालें। पानी डालें और पकाएँ।",
+      "prep_notes_en": "Lightly roast the oats, then sauté vegetables with mustard seeds. Add salt and turmeric. Add water and cook.",
+      "vizz_macros": {
+        "cal": 370,
+        "protein": 14,
+        "fat": 12,
+        "carbs": 48
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=oats%20upma%20recipe%20hindi%20recipe"
+    },
+    "lunch": {
+      "dish_hindi": "पुलाव, दही",
+      "dish_english": "Vegetable Pulao with Yogurt",
+      "ingredients_hindi": "बासमती चावल, सब्जियाँ, जीरा, धनिया, गरम मसाला, दही",
+      "ingredients_list_hi": [
+        "बासमती चावल",
+        "सब्जियाँ",
+        "जीरा",
+        "धनिया",
+        "गरम मसाला",
+        "दही"
+      ],
+      "ingredients_list_en": [
+        "Basmati Rice",
+        "Vegetables",
+        "Cumin",
+        "Coriander",
+        "Garam Masala",
+        "Yogurt"
+      ],
+      "prep_notes_hi": "यह व्यंजन यात्रा और माइक्रोवेव में गरम करने के लिए उपयुक्त है। चावल को अच्छी तरह से धो लें और सब्जियों के साथ पकाएं।",
+      "prep_notes_en": "This dish is suitable for travel and microwaving. Wash the rice thoroughly and cook with vegetables.",
+      "vizz_macros": {
+        "cal": 550,
+        "protein": 10,
+        "fat": 8,
+        "carbs": 105
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=vegetable%20pulao%20recipe%20recipe"
+    },
+    "dinner": {
+      "dish_hindi": "मिक्स वेज स्टिर फ्राई, चपाती",
+      "dish_english": "Mixed Vegetable Stir-fry with Chapati",
+      "ingredients_hindi": "मिश्रित सब्जियाँ, सोया सॉस, अदरक, लहसुन, चपाती",
+      "ingredients_list_hi": [
+        "मिश्रित सब्जियाँ",
+        "सोया सॉस",
+        "अदरक",
+        "लहसुन",
+        "चपाती"
+      ],
+      "ingredients_list_en": [
+        "Mixed Vegetables",
+        "Soy Sauce",
+        "Ginger",
+        "Garlic",
+        "Chapati"
+      ],
+      "prep_notes_hi": "तेल में अदरक लहसुन का तड़का दें। सब्जियां डालें और तेज आंच पर भूनें। अंत में सोया सॉस डालें।",
+      "prep_notes_en": "Sauté ginger and garlic in oil. Add vegetables and stir-fry on high heat. Add soy sauce at the end.",
+      "vizz_macros": {
+        "cal": 450,
+        "protein": 12,
+        "fat": 10,
+        "carbs": 80
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=vegetable%20stir%20fry%20recipe%20recipe"
+    },
+    "vizz_daily_total_from_meals": {
+      "cal": 1370,
+      "protein": 36,
+      "fat": 30,
+      "carbs": 233
+    },
+    "vizz_daily_total_with_shake": {
+      "cal": 1670,
+      "protein": 76,
+      "fat": 35,
+      "carbs": 258
+    },
+    "macro_check": "Calories are slightly under; protein meets the target with shake; carbs slightly over optimal, fat is acceptable."
   }
 ]

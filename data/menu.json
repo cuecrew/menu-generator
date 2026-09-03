@@ -1,105 +1,111 @@
 {
-  "date": "2026-09-03 (Thursday)",
-  "date_display": "Thursday, September 3",
-  "date_short": "Thu · Sep 3",
+  "date": "2026-09-04 (Friday)",
+  "date_display": "Friday, September 4",
+  "date_short": "Fri · Sep 4",
   "generated_label": "Generated last night for today",
   "breakfast": {
-    "dish_hindi": "सब्ज़ी पराठा, दही",
-    "dish_english": "Vegetable Paratha with Curd",
-    "ingredients_hindi": "गेहूं का आटा, आलू, पालक, गाजर, दही, मसाले",
+    "dish_hindi": "ओट्स उपमा, उबला अंडा (केवल विज़ और फ्लैटमेट-2 के लिए)",
+    "dish_english": "Oats Upma with Boiled Egg (for Vizz and Flatmate-2 only)",
+    "ingredients_hindi": "ओट्स, सब्जियाँ, सरसों के बीज, हल्दी, हरी मिर्च, करी पत्ते, नमक, उबला अंडा",
     "ingredients_list_hi": [
-      "गेहूं का आटा",
-      "आलू",
-      "पालक",
-      "गाजर",
-      "दही",
-      "मसाले"
+      "ओट्स",
+      "सब्जियाँ",
+      "सरसों के बीज",
+      "हल्दी",
+      "हरी मिर्च",
+      "करी पत्ते",
+      "नमक",
+      "उबला अंडा"
     ],
     "ingredients_list_en": [
-      "Whole wheat flour",
-      "Potato",
-      "Spinach",
-      "Carrot",
-      "Curd",
-      "Spices"
+      "Oats",
+      "Vegetables",
+      "Mustard Seeds",
+      "Turmeric",
+      "Green Chilies",
+      "Curry Leaves",
+      "Salt",
+      "Boiled Egg"
     ],
-    "prep_notes_hi": "सब्जियों को छोटे टुकड़ों में काटकर आटे में मिलाएं। ध्यान से बेल कर गरम तवे पर पकाएँ।",
-    "prep_notes_en": "Chop the vegetables finely and mix into the dough. Roll carefully and cook on a hot griddle.",
+    "prep_notes_hi": "ओट्स को हल्का भून लें और फिर सब्जियों को सरसों के बीज के साथ भूनें। नमक और हल्दी डालें। पानी डालें और पकाएँ।",
+    "prep_notes_en": "Lightly roast the oats, then sauté vegetables with mustard seeds. Add salt and turmeric. Add water and cook.",
+    "vizz_macros": {
+      "cal": 370,
+      "protein": 14,
+      "fat": 12,
+      "carbs": 48
+    },
+    "youtube_url": "https://www.youtube.com/results?search_query=oats%20upma%20recipe%20hindi%20recipe"
+  },
+  "lunch": {
+    "dish_hindi": "पुलाव, दही",
+    "dish_english": "Vegetable Pulao with Yogurt",
+    "ingredients_hindi": "बासमती चावल, सब्जियाँ, जीरा, धनिया, गरम मसाला, दही",
+    "ingredients_list_hi": [
+      "बासमती चावल",
+      "सब्जियाँ",
+      "जीरा",
+      "धनिया",
+      "गरम मसाला",
+      "दही"
+    ],
+    "ingredients_list_en": [
+      "Basmati Rice",
+      "Vegetables",
+      "Cumin",
+      "Coriander",
+      "Garam Masala",
+      "Yogurt"
+    ],
+    "prep_notes_hi": "यह व्यंजन यात्रा और माइक्रोवेव में गरम करने के लिए उपयुक्त है। चावल को अच्छी तरह से धो लें और सब्जियों के साथ पकाएं।",
+    "prep_notes_en": "This dish is suitable for travel and microwaving. Wash the rice thoroughly and cook with vegetables.",
+    "vizz_macros": {
+      "cal": 550,
+      "protein": 10,
+      "fat": 8,
+      "carbs": 105
+    },
+    "youtube_url": "https://www.youtube.com/results?search_query=vegetable%20pulao%20recipe%20recipe"
+  },
+  "dinner": {
+    "dish_hindi": "मिक्स वेज स्टिर फ्राई, चपाती",
+    "dish_english": "Mixed Vegetable Stir-fry with Chapati",
+    "ingredients_hindi": "मिश्रित सब्जियाँ, सोया सॉस, अदरक, लहसुन, चपाती",
+    "ingredients_list_hi": [
+      "मिश्रित सब्जियाँ",
+      "सोया सॉस",
+      "अदरक",
+      "लहसुन",
+      "चपाती"
+    ],
+    "ingredients_list_en": [
+      "Mixed Vegetables",
+      "Soy Sauce",
+      "Ginger",
+      "Garlic",
+      "Chapati"
+    ],
+    "prep_notes_hi": "तेल में अदरक लहसुन का तड़का दें। सब्जियां डालें और तेज आंच पर भूनें। अंत में सोया सॉस डालें।",
+    "prep_notes_en": "Sauté ginger and garlic in oil. Add vegetables and stir-fry on high heat. Add soy sauce at the end.",
     "vizz_macros": {
       "cal": 450,
       "protein": 12,
       "fat": 10,
-      "carbs": 75
+      "carbs": 80
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=vegetable%20paratha%20recipe%20hindi%20recipe"
-  },
-  "lunch": {
-    "dish_hindi": "राजमा चावल, प्याज़ का सलाद",
-    "dish_english": "Rajma with Rice, Onion Salad",
-    "ingredients_hindi": "राजमा, चावल, प्याज, टमाटर, मसाले",
-    "ingredients_list_hi": [
-      "राजमा",
-      "चावल",
-      "प्याज",
-      "टमाटर",
-      "मसाले"
-    ],
-    "ingredients_list_en": [
-      "Kidney beans",
-      "Rice",
-      "Onion",
-      "Tomato",
-      "Spices"
-    ],
-    "prep_notes_hi": "राजमा को अच्छी तरह पकाकर चावल के साथ परोसें। यह यात्रा और गरम करने के लिए उपयुक्त है।",
-    "prep_notes_en": "Cook the kidney beans thoroughly and serve with rice. This is suitable for travel and reheating.",
-    "vizz_macros": {
-      "cal": 690,
-      "protein": 29,
-      "fat": 7,
-      "carbs": 122
-    },
-    "youtube_url": "https://www.youtube.com/results?search_query=rajma%20recipe%20hindi%20recipe"
-  },
-  "dinner": {
-    "dish_hindi": "पनीर टिक्का, हरी चटनी",
-    "dish_english": "Paneer Tikka with Green Chutney",
-    "ingredients_hindi": "पनीर, दही, हरी मिर्च, धनिया, मसाले",
-    "ingredients_list_hi": [
-      "पनीर",
-      "दही",
-      "हरी मिर्च",
-      "धनिया",
-      "मसाले"
-    ],
-    "ingredients_list_en": [
-      "Paneer",
-      "Curd",
-      "Green chili",
-      "Coriander",
-      "Spices"
-    ],
-    "prep_notes_hi": "पनीर को मसालों के साथ मलमलकर तंदूर में सुनहरा भूरा होने तक सेकें। हरी चटनी के साथ परोसें।",
-    "prep_notes_en": "Marinate paneer with spices, grill until golden brown. Serve with green chutney.",
-    "vizz_macros": {
-      "cal": 560,
-      "protein": 32,
-      "fat": 28,
-      "carbs": 15
-    },
-    "youtube_url": "https://www.youtube.com/results?search_query=paneer%20tikka%20recipe%20hindi%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=vegetable%20stir%20fry%20recipe%20recipe"
   },
   "vizz_daily_total_from_meals": {
-    "cal": 1700,
-    "protein": 73,
-    "fat": 45,
-    "carbs": 212
+    "cal": 1370,
+    "protein": 36,
+    "fat": 30,
+    "carbs": 233
   },
   "vizz_daily_total_with_shake": {
-    "cal": 2000,
-    "protein": 113,
-    "fat": 50,
-    "carbs": 237
+    "cal": 1670,
+    "protein": 76,
+    "fat": 35,
+    "carbs": 258
   },
-  "macro_check": "Hits daily target for calories and protein. Slightly exceeds carb target by 22g, well balanced fat."
+  "macro_check": "Calories are slightly under; protein meets the target with shake; carbs slightly over optimal, fat is acceptable."
 }
