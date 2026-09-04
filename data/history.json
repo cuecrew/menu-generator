@@ -1,112 +1,5 @@
 [
   {
-    "date": "2026-08-05 (Wednesday)",
-    "date_display": "Wednesday, August 5",
-    "date_short": "Wed · Aug 5",
-    "generated_label": "Generated last night for today",
-    "breakfast": {
-      "dish_hindi": "चिड़वा उपमा, उबले अंडे",
-      "dish_english": "Chivda Upma with Boiled Eggs",
-      "ingredients_hindi": "चिड़वा, प्याज, हरी मिर्च, नमक, हल्दी, उबले अंडे",
-      "ingredients_list_hi": [
-        "चिड़वा",
-        "प्याज",
-        "हरी मिर्च",
-        "नमक",
-        "हल्दी",
-        "उबले अंडे"
-      ],
-      "ingredients_list_en": [
-        "Chivda (flattened rice)",
-        "Onion",
-        "Green chili",
-        "Salt",
-        "Turmeric",
-        "Boiled eggs"
-      ],
-      "prep_notes_hi": "चिड़वा को पहले पानी में हल्का मुलायम करने दें। प्याज और हरी मिर्च को अच्छी तरह से भूनें। उबले अंडे के साथ परोसें।",
-      "prep_notes_en": "Soak the chivda briefly to soften slightly. Sauté the onions and green chilies well. Serve with boiled eggs.",
-      "vizz_macros": {
-        "cal": 420,
-        "protein": 16,
-        "fat": 13,
-        "carbs": 60
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=chivda%20upma%20recipe%20recipe"
-    },
-    "lunch": {
-      "dish_hindi": "वेजिटेबल पुलाव, पुदीने की चटनी",
-      "dish_english": "Vegetable Pulao with Mint Chutney",
-      "ingredients_hindi": "बासमती चावल, मटर, गाजर, बीन्स, पुदीने की चटनी",
-      "ingredients_list_hi": [
-        "बासमती चावल",
-        "मटर",
-        "गाजर",
-        "बीन्स",
-        "पुदीने की चटनी"
-      ],
-      "ingredients_list_en": [
-        "Basmati rice",
-        "Peas",
-        "Carrot",
-        "Beans",
-        "Mint chutney"
-      ],
-      "prep_notes_hi": "वेजिटेबल पुलाव को थोड़ी कम मात्रा में पानी में पकाएं ताकि यह ज्यादा गीला न हो। इसे राज़ में रखें और माइक्रोवेव में गरम करें।",
-      "prep_notes_en": "Cook the vegetable pulao with a bit less water to prevent sogginess. Pack it appropriately and reheat in the microwave.",
-      "vizz_macros": {
-        "cal": 600,
-        "protein": 14,
-        "fat": 10,
-        "carbs": 112
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=vegetable%20pulao%20recipe%20recipe"
-    },
-    "dinner": {
-      "dish_hindi": "आलू-गोभी की सब्ज़ी, चपाती और दही",
-      "dish_english": "Aloo Gobi Sabzi with Chapati and Yogurt",
-      "ingredients_hindi": "आलू, गोभी, टमाटर, मसाले, चपाती, दही",
-      "ingredients_list_hi": [
-        "आलू",
-        "गोभी",
-        "टमाटर",
-        "मसाले",
-        "चपाती",
-        "दही"
-      ],
-      "ingredients_list_en": [
-        "Potato",
-        "Cauliflower",
-        "Tomato",
-        "Spices",
-        "Chapati",
-        "Yogurt"
-      ],
-      "prep_notes_hi": "आलू और गोभी को समान टुकड़ों में काटें। अच्छी तरह से मसाले भूनें और धीमी आंच पर पकाएं।",
-      "prep_notes_en": "Cut potatoes and cauliflower into similar-sized pieces. Sauté the spices well and cook on low flame.",
-      "vizz_macros": {
-        "cal": 680,
-        "protein": 10,
-        "fat": 18,
-        "carbs": 100
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=aloo%20gobi%20recipe%20recipe"
-    },
-    "vizz_daily_total_from_meals": {
-      "cal": 1700,
-      "protein": 40,
-      "fat": 41,
-      "carbs": 272
-    },
-    "vizz_daily_total_with_shake": {
-      "cal": 2000,
-      "protein": 80,
-      "fat": 46,
-      "carbs": 297
-    },
-    "macro_check": "Caloric and fat targets hit; protein slightly low, carb intake slightly high."
-  },
-  {
     "date": "2026-08-06 (Thursday)",
     "date_display": "Thursday, August 6",
     "date_short": "Thu · Aug 6",
@@ -3512,5 +3405,124 @@
       "carbs": 258
     },
     "macro_check": "Calories are slightly under; protein meets the target with shake; carbs slightly over optimal, fat is acceptable."
+  },
+  {
+    "date": "2026-09-05 (Saturday)",
+    "date_display": "Saturday, September 5",
+    "date_short": "Sat · Sep 5",
+    "generated_label": "Generated last night for today",
+    "breakfast": {
+      "dish_hindi": "मसाला ओट्स, उबला अंडा (सिर्फ विझ और फ्लैटमेट-२ के लिए)",
+      "dish_english": "Masala Oats with Boiled Egg (for Vizz and Flatmate-2 only)",
+      "ingredients_hindi": "ओट्स, मसाले, मटर, गाजर, टमाटर, पानी, नमक, अंडा",
+      "ingredients_list_hi": [
+        "ओट्स",
+        "मसाले",
+        "मटर",
+        "गाजर",
+        "टमाटर",
+        "पानी",
+        "नमक",
+        "अंडा"
+      ],
+      "ingredients_list_en": [
+        "Oats",
+        "Spices",
+        "Peas",
+        "Carrot",
+        "Tomato",
+        "Water",
+        "Salt",
+        "Egg"
+      ],
+      "prep_notes_hi": "ओट्स को उबालकर सब्जियों और मसालों के साथ पकाएँ। अंडा उबालकर पेपर प्लेट में रखें।",
+      "prep_notes_en": "Cook oats with vegetables and spices. Serve boiled egg separately on a paper plate.",
+      "vizz_macros": {
+        "cal": 380,
+        "protein": 14,
+        "fat": 12,
+        "carbs": 50
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=masala%20oats%20recipe%20hindi%20recipe"
+    },
+    "lunch": {
+      "dish_hindi": "पास्ता सलाद",
+      "dish_english": "Pasta Salad",
+      "ingredients_hindi": "पास्ता, शिमला मिर्च, ज़ुकीनी, चेरी टमाटर, जैतून का तेल, नमक, काली मिर्च, हर्ब्स",
+      "ingredients_list_hi": [
+        "पास्ता",
+        "शिमला मिर्च",
+        "ज़ुकीनी",
+        "चेरी टमाटर",
+        "जैतून का तेल",
+        "नमक",
+        "काली मिर्च",
+        "हर्ब्स"
+      ],
+      "ingredients_list_en": [
+        "Pasta",
+        "Bell Pepper",
+        "Zucchini",
+        "Cherry Tomatoes",
+        "Olive Oil",
+        "Salt",
+        "Black Pepper",
+        "Herbs"
+      ],
+      "prep_notes_hi": "यह डिश यात्रा के लिए उपयुक्त है और इसे माइक्रोवेव में गर्म किया जा सकता है।",
+      "prep_notes_en": "This dish is suitable for travel and can be reheated in a microwave.",
+      "vizz_macros": {
+        "cal": 490,
+        "protein": 15,
+        "fat": 10,
+        "carbs": 85
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=pasta%20salad%20recipe%20recipe"
+    },
+    "dinner": {
+      "dish_hindi": "पनीर भुर्जी, रोटी, रायता",
+      "dish_english": "Paneer Bhurji with Roti and Raita",
+      "ingredients_hindi": "पनीर, टमाटर, प्याज, मसाले, रोटी, दही, खीरा",
+      "ingredients_list_hi": [
+        "पनीर",
+        "टमाटर",
+        "प्याज",
+        "मसाले",
+        "रोटी",
+        "दही",
+        "खीरा"
+      ],
+      "ingredients_list_en": [
+        "Paneer",
+        "Tomato",
+        "Onion",
+        "Spices",
+        "Roti",
+        "Curd",
+        "Cucumber"
+      ],
+      "prep_notes_hi": "पनीर को मसालों के साथ जल्दी भूनें। रोटी गर्म परोसें। रायता ठीक से मिक्स करें।",
+      "prep_notes_en": "Sauté paneer quickly with spices. Serve roti warm. Mix raita well.",
+      "vizz_macros": {
+        "cal": 830,
+        "protein": 38,
+        "fat": 27,
+        "carbs": 65
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=paneer%20bhurji%20recipe%20recipe"
+    },
+    "vizz_daily_total_from_meals": {
+      "cal": 1700,
+      "protein": 67,
+      "fat": 49,
+      "carbs": 200
+    },
+    "vizz_daily_total_with_shake": {
+      "cal": 2000,
+      "protein": 107,
+      "fat": 54,
+      "carbs": 225
+    },
+    "macro_check": "Calories and carbs are sufficient. Protein is marginally below target. Fat is acceptable."
   }
 ]

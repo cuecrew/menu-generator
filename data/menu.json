@@ -1,111 +1,119 @@
 {
-  "date": "2026-09-04 (Friday)",
-  "date_display": "Friday, September 4",
-  "date_short": "Fri · Sep 4",
+  "date": "2026-09-05 (Saturday)",
+  "date_display": "Saturday, September 5",
+  "date_short": "Sat · Sep 5",
   "generated_label": "Generated last night for today",
   "breakfast": {
-    "dish_hindi": "ओट्स उपमा, उबला अंडा (केवल विज़ और फ्लैटमेट-2 के लिए)",
-    "dish_english": "Oats Upma with Boiled Egg (for Vizz and Flatmate-2 only)",
-    "ingredients_hindi": "ओट्स, सब्जियाँ, सरसों के बीज, हल्दी, हरी मिर्च, करी पत्ते, नमक, उबला अंडा",
+    "dish_hindi": "मसाला ओट्स, उबला अंडा (सिर्फ विझ और फ्लैटमेट-२ के लिए)",
+    "dish_english": "Masala Oats with Boiled Egg (for Vizz and Flatmate-2 only)",
+    "ingredients_hindi": "ओट्स, मसाले, मटर, गाजर, टमाटर, पानी, नमक, अंडा",
     "ingredients_list_hi": [
       "ओट्स",
-      "सब्जियाँ",
-      "सरसों के बीज",
-      "हल्दी",
-      "हरी मिर्च",
-      "करी पत्ते",
+      "मसाले",
+      "मटर",
+      "गाजर",
+      "टमाटर",
+      "पानी",
       "नमक",
-      "उबला अंडा"
+      "अंडा"
     ],
     "ingredients_list_en": [
       "Oats",
-      "Vegetables",
-      "Mustard Seeds",
-      "Turmeric",
-      "Green Chilies",
-      "Curry Leaves",
+      "Spices",
+      "Peas",
+      "Carrot",
+      "Tomato",
+      "Water",
       "Salt",
-      "Boiled Egg"
+      "Egg"
     ],
-    "prep_notes_hi": "ओट्स को हल्का भून लें और फिर सब्जियों को सरसों के बीज के साथ भूनें। नमक और हल्दी डालें। पानी डालें और पकाएँ।",
-    "prep_notes_en": "Lightly roast the oats, then sauté vegetables with mustard seeds. Add salt and turmeric. Add water and cook.",
+    "prep_notes_hi": "ओट्स को उबालकर सब्जियों और मसालों के साथ पकाएँ। अंडा उबालकर पेपर प्लेट में रखें।",
+    "prep_notes_en": "Cook oats with vegetables and spices. Serve boiled egg separately on a paper plate.",
     "vizz_macros": {
-      "cal": 370,
+      "cal": 380,
       "protein": 14,
       "fat": 12,
-      "carbs": 48
+      "carbs": 50
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=oats%20upma%20recipe%20hindi%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=masala%20oats%20recipe%20hindi%20recipe"
   },
   "lunch": {
-    "dish_hindi": "पुलाव, दही",
-    "dish_english": "Vegetable Pulao with Yogurt",
-    "ingredients_hindi": "बासमती चावल, सब्जियाँ, जीरा, धनिया, गरम मसाला, दही",
+    "dish_hindi": "पास्ता सलाद",
+    "dish_english": "Pasta Salad",
+    "ingredients_hindi": "पास्ता, शिमला मिर्च, ज़ुकीनी, चेरी टमाटर, जैतून का तेल, नमक, काली मिर्च, हर्ब्स",
     "ingredients_list_hi": [
-      "बासमती चावल",
-      "सब्जियाँ",
-      "जीरा",
-      "धनिया",
-      "गरम मसाला",
-      "दही"
+      "पास्ता",
+      "शिमला मिर्च",
+      "ज़ुकीनी",
+      "चेरी टमाटर",
+      "जैतून का तेल",
+      "नमक",
+      "काली मिर्च",
+      "हर्ब्स"
     ],
     "ingredients_list_en": [
-      "Basmati Rice",
-      "Vegetables",
-      "Cumin",
-      "Coriander",
-      "Garam Masala",
-      "Yogurt"
+      "Pasta",
+      "Bell Pepper",
+      "Zucchini",
+      "Cherry Tomatoes",
+      "Olive Oil",
+      "Salt",
+      "Black Pepper",
+      "Herbs"
     ],
-    "prep_notes_hi": "यह व्यंजन यात्रा और माइक्रोवेव में गरम करने के लिए उपयुक्त है। चावल को अच्छी तरह से धो लें और सब्जियों के साथ पकाएं।",
-    "prep_notes_en": "This dish is suitable for travel and microwaving. Wash the rice thoroughly and cook with vegetables.",
+    "prep_notes_hi": "यह डिश यात्रा के लिए उपयुक्त है और इसे माइक्रोवेव में गर्म किया जा सकता है।",
+    "prep_notes_en": "This dish is suitable for travel and can be reheated in a microwave.",
     "vizz_macros": {
-      "cal": 550,
-      "protein": 10,
-      "fat": 8,
-      "carbs": 105
+      "cal": 490,
+      "protein": 15,
+      "fat": 10,
+      "carbs": 85
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=vegetable%20pulao%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=pasta%20salad%20recipe%20recipe"
   },
   "dinner": {
-    "dish_hindi": "मिक्स वेज स्टिर फ्राई, चपाती",
-    "dish_english": "Mixed Vegetable Stir-fry with Chapati",
-    "ingredients_hindi": "मिश्रित सब्जियाँ, सोया सॉस, अदरक, लहसुन, चपाती",
+    "dish_hindi": "पनीर भुर्जी, रोटी, रायता",
+    "dish_english": "Paneer Bhurji with Roti and Raita",
+    "ingredients_hindi": "पनीर, टमाटर, प्याज, मसाले, रोटी, दही, खीरा",
     "ingredients_list_hi": [
-      "मिश्रित सब्जियाँ",
-      "सोया सॉस",
-      "अदरक",
-      "लहसुन",
-      "चपाती"
+      "पनीर",
+      "टमाटर",
+      "प्याज",
+      "मसाले",
+      "रोटी",
+      "दही",
+      "खीरा"
     ],
     "ingredients_list_en": [
-      "Mixed Vegetables",
-      "Soy Sauce",
-      "Ginger",
-      "Garlic",
-      "Chapati"
+      "Paneer",
+      "Tomato",
+      "Onion",
+      "Spices",
+      "Roti",
+      "Curd",
+      "Cucumber"
     ],
-    "prep_notes_hi": "तेल में अदरक लहसुन का तड़का दें। सब्जियां डालें और तेज आंच पर भूनें। अंत में सोया सॉस डालें।",
-    "prep_notes_en": "Sauté ginger and garlic in oil. Add vegetables and stir-fry on high heat. Add soy sauce at the end.",
+    "prep_notes_hi": "पनीर को मसालों के साथ जल्दी भूनें। रोटी गर्म परोसें। रायता ठीक से मिक्स करें।",
+    "prep_notes_en": "Sauté paneer quickly with spices. Serve roti warm. Mix raita well.",
     "vizz_macros": {
-      "cal": 450,
-      "protein": 12,
-      "fat": 10,
-      "carbs": 80
+      "cal": 830,
+      "protein": 38,
+      "fat": 27,
+      "carbs": 65
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=vegetable%20stir%20fry%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=paneer%20bhurji%20recipe%20recipe"
   },
   "vizz_daily_total_from_meals": {
-    "cal": 1370,
-    "protein": 36,
-    "fat": 30,
-    "carbs": 233
+    "cal": 1700,
+    "protein": 67,
+    "fat": 49,
+    "carbs": 200
   },
   "vizz_daily_total_with_shake": {
-    "cal": 1670,
-    "protein": 76,
-    "fat": 35,
-    "carbs": 258
+    "cal": 2000,
+    "protein": 107,
+    "fat": 54,
+    "carbs": 225
   },
-  "macro_check": "Calories are slightly under; protein meets the target with shake; carbs slightly over optimal, fat is acceptable."
+  "macro_check": "Calories and carbs are sufficient. Protein is marginally below target. Fat is acceptable."
 }
