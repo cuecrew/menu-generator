@@ -1,119 +1,113 @@
 {
-  "date": "2026-09-05 (Saturday)",
-  "date_display": "Saturday, September 5",
-  "date_short": "Sat · Sep 5",
+  "date": "2026-09-06 (Sunday)",
+  "date_display": "Sunday, September 6",
+  "date_short": "Sun · Sep 6",
   "generated_label": "Generated last night for today",
   "breakfast": {
-    "dish_hindi": "मसाला ओट्स, उबला अंडा (सिर्फ विझ और फ्लैटमेट-२ के लिए)",
-    "dish_english": "Masala Oats with Boiled Egg (for Vizz and Flatmate-2 only)",
-    "ingredients_hindi": "ओट्स, मसाले, मटर, गाजर, टमाटर, पानी, नमक, अंडा",
+    "dish_hindi": "सोया चंक्स उपमा, उबला अंडा (केवल Vizz और Flatmate-2 के लिए)",
+    "dish_english": "Soy Chunks Upma with Boiled Egg (for Vizz and Flatmate-2 only)",
+    "ingredients_hindi": "सोया चंक्स, सूजी, प्याज, टमाटर, हरी मिर्च, करी पत्ता, सरसों, नमक, उबला अंडा",
     "ingredients_list_hi": [
-      "ओट्स",
-      "मसाले",
-      "मटर",
-      "गाजर",
+      "सोया चंक्स",
+      "सूजी",
+      "प्याज",
       "टमाटर",
-      "पानी",
+      "हरी मिर्च",
+      "करी पत्ता",
+      "सरसों",
       "नमक",
-      "अंडा"
+      "उबला अंडा"
     ],
     "ingredients_list_en": [
-      "Oats",
-      "Spices",
-      "Peas",
-      "Carrot",
+      "Soy chunks",
+      "Semolina",
+      "Onion",
       "Tomato",
-      "Water",
+      "Green chili",
+      "Curry leaves",
+      "Mustard seeds",
       "Salt",
-      "Egg"
+      "Boiled egg"
     ],
-    "prep_notes_hi": "ओट्स को उबालकर सब्जियों और मसालों के साथ पकाएँ। अंडा उबालकर पेपर प्लेट में रखें।",
-    "prep_notes_en": "Cook oats with vegetables and spices. Serve boiled egg separately on a paper plate.",
+    "prep_notes_hi": "गर्म पैन में सरसों फोड़ें। करी पत्ते संग प्याज भूनें। सोया चंक्स व सूजी मिलाएं।",
+    "prep_notes_en": "In a hot pan, temper mustard seeds. Sauté onions with curry leaves. Add soy chunks and semolina.",
     "vizz_macros": {
-      "cal": 380,
-      "protein": 14,
-      "fat": 12,
-      "carbs": 50
+      "cal": 450,
+      "protein": 20,
+      "fat": 10,
+      "carbs": 70
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=masala%20oats%20recipe%20hindi%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=soy%20chunks%20upma%20recipe%20recipe"
   },
   "lunch": {
-    "dish_hindi": "पास्ता सलाद",
-    "dish_english": "Pasta Salad",
-    "ingredients_hindi": "पास्ता, शिमला मिर्च, ज़ुकीनी, चेरी टमाटर, जैतून का तेल, नमक, काली मिर्च, हर्ब्स",
+    "dish_hindi": "दाल मखनी और बासमती चावल, पापड़",
+    "dish_english": "Dal Makhani with Basmati Rice and Papad",
+    "ingredients_hindi": "दाल, मक्खन, मसाले, बासमती चावल, पापड़",
     "ingredients_list_hi": [
-      "पास्ता",
-      "शिमला मिर्च",
-      "ज़ुकीनी",
-      "चेरी टमाटर",
-      "जैतून का तेल",
-      "नमक",
-      "काली मिर्च",
-      "हर्ब्स"
+      "दाल",
+      "मक्खन",
+      "मसाले",
+      "बासमती चावल",
+      "पापड़"
     ],
     "ingredients_list_en": [
-      "Pasta",
-      "Bell Pepper",
-      "Zucchini",
-      "Cherry Tomatoes",
-      "Olive Oil",
-      "Salt",
-      "Black Pepper",
-      "Herbs"
+      "Lentils",
+      "Butter",
+      "Spices",
+      "Basmati rice",
+      "Papad"
     ],
-    "prep_notes_hi": "यह डिश यात्रा के लिए उपयुक्त है और इसे माइक्रोवेव में गर्म किया जा सकता है।",
-    "prep_notes_en": "This dish is suitable for travel and can be reheated in a microwave.",
+    "prep_notes_hi": "दाल उबालकर मसालों संग पकाएं। बासमती चावल और पापड़ संग पैक करें। माइक्रोवेव में गरम करें।",
+    "prep_notes_en": "Boil lentils and cook with spices. Pack with basmati rice and papad. Reheat in microwave.",
     "vizz_macros": {
-      "cal": 490,
-      "protein": 15,
-      "fat": 10,
-      "carbs": 85
+      "cal": 780,
+      "protein": 25,
+      "fat": 15,
+      "carbs": 125
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=pasta%20salad%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=dal%20makhani%20rice%20recipe%20recipe"
   },
   "dinner": {
-    "dish_hindi": "पनीर भुर्जी, रोटी, रायता",
-    "dish_english": "Paneer Bhurji with Roti and Raita",
-    "ingredients_hindi": "पनीर, टमाटर, प्याज, मसाले, रोटी, दही, खीरा",
+    "dish_hindi": "मटर पनीर करी और नान, हरा धनिया चटनी",
+    "dish_english": "Matar Paneer Curry with Naan and Cilantro Chutney",
+    "ingredients_hindi": "पनीर, मटर, टमाटर, मसाले, नान, हरा धनिया चटनी",
     "ingredients_list_hi": [
       "पनीर",
+      "मटर",
       "टमाटर",
-      "प्याज",
       "मसाले",
-      "रोटी",
-      "दही",
-      "खीरा"
+      "नान",
+      "हरा धनिया चटनी"
     ],
     "ingredients_list_en": [
       "Paneer",
+      "Green peas",
       "Tomato",
-      "Onion",
       "Spices",
-      "Roti",
-      "Curd",
-      "Cucumber"
+      "Naan",
+      "Cilantro chutney"
     ],
-    "prep_notes_hi": "पनीर को मसालों के साथ जल्दी भूनें। रोटी गर्म परोसें। रायता ठीक से मिक्स करें।",
-    "prep_notes_en": "Sauté paneer quickly with spices. Serve roti warm. Mix raita well.",
+    "prep_notes_hi": "पनीर और मटर को टमाटर और मसालों में पकाएं। नान के संग परोसें।",
+    "prep_notes_en": "Cook paneer and peas with tomato and spices. Serve with naan.",
     "vizz_macros": {
-      "cal": 830,
-      "protein": 38,
-      "fat": 27,
-      "carbs": 65
+      "cal": 470,
+      "protein": 25,
+      "fat": 20,
+      "carbs": 70
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=paneer%20bhurji%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=matar%20paneer%20recipe%20recipe"
   },
   "vizz_daily_total_from_meals": {
     "cal": 1700,
-    "protein": 67,
-    "fat": 49,
-    "carbs": 200
+    "protein": 70,
+    "fat": 45,
+    "carbs": 265
   },
   "vizz_daily_total_with_shake": {
     "cal": 2000,
-    "protein": 107,
-    "fat": 54,
-    "carbs": 225
+    "protein": 110,
+    "fat": 50,
+    "carbs": 290
   },
-  "macro_check": "Calories and carbs are sufficient. Protein is marginally below target. Fat is acceptable."
+  "macro_check": "Protein and calorie targets met. Carbohydrates slightly over target due to rice and naan servings."
 }

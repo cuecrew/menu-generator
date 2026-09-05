@@ -1,114 +1,5 @@
 [
   {
-    "date": "2026-08-06 (Thursday)",
-    "date_display": "Thursday, August 6",
-    "date_short": "Thu · Aug 6",
-    "generated_label": "Generated last night for today",
-    "breakfast": {
-      "dish_hindi": "ओट्स परांठा, हरी चटनी",
-      "dish_english": "Oats Paratha with Green Chutney",
-      "ingredients_hindi": "ओट्स, गेंहू का आटा, पालक, हरी मिर्च, धनिया",
-      "ingredients_list_hi": [
-        "ओट्स",
-        "गेंहू का आटा",
-        "पालक",
-        "हरी मिर्च",
-        "धनिया"
-      ],
-      "ingredients_list_en": [
-        "Oats",
-        "Wheat Flour",
-        "Spinach",
-        "Green Chili",
-        "Coriander"
-      ],
-      "prep_notes_hi": "ओट्स और आटे को मिलाकर पालक और मसालों के साथ गूंथें। गर्म तवे पर परांठा बनाएं।",
-      "prep_notes_en": "Mix oats with flour, spinach, and spices to knead. Cook paratha on a hot griddle.",
-      "vizz_macros": {
-        "cal": 320,
-        "protein": 10,
-        "fat": 6,
-        "carbs": 60
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=oats%20paratha%20recipe%20recipe"
-    },
-    "lunch": {
-      "dish_hindi": "पालक पनीर, चपाती, आचार",
-      "dish_english": "Palak Paneer with Chapati and Pickle",
-      "ingredients_hindi": "पालक, पनीर, प्याज, टमाटर, गरम मसाला, लाल मिर्च, गेंहू का आटा",
-      "ingredients_list_hi": [
-        "पालक",
-        "पनीर",
-        "प्याज",
-        "टमाटर",
-        "गरम मसाला",
-        "लाल मिर्च",
-        "गेंहू का आटा"
-      ],
-      "ingredients_list_en": [
-        "Spinach",
-        "Paneer",
-        "Onion",
-        "Tomato",
-        "Garam Masala",
-        "Red Chili",
-        "Wheat Flour"
-      ],
-      "prep_notes_hi": "इस व्यंजन को आसानी से ऑफिस ले जाकर गर्म किया जा सकता है।",
-      "prep_notes_en": "This dish is easily portable for office and can be reheated well.",
-      "vizz_macros": {
-        "cal": 650,
-        "protein": 35,
-        "fat": 25,
-        "carbs": 70
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=palak%20paneer%20chapati%20recipe%20recipe"
-    },
-    "dinner": {
-      "dish_hindi": "लेमन राइस, मूंग दाल, पापड़",
-      "dish_english": "Lemon Rice with Moong Dal and Papad",
-      "ingredients_hindi": "बासमती चावल, नींबू, मूंग दाल, सरसों के बीज, करी पत्ते, हरी मिर्च",
-      "ingredients_list_hi": [
-        "बासमती चावल",
-        "नींबू",
-        "मूंग दाल",
-        "सरसों के बीज",
-        "करी पत्ते",
-        "हरी मिर्च"
-      ],
-      "ingredients_list_en": [
-        "Basmati Rice",
-        "Lemon",
-        "Moong Dal",
-        "Mustard Seeds",
-        "Curry Leaves",
-        "Green Chili"
-      ],
-      "prep_notes_hi": "नींबू के रस और मसालों के साथ चावल को फेंटें। मूंग दाल को हल्के मसालों के साथ पकाएं।",
-      "prep_notes_en": "Fluff the rice with lemon juice and spices. Cook moong dal with light spices.",
-      "vizz_macros": {
-        "cal": 730,
-        "protein": 27,
-        "fat": 15,
-        "carbs": 90
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=lemon%20rice%20moong%20dal%20recipe%20recipe"
-    },
-    "vizz_daily_total_from_meals": {
-      "cal": 1700,
-      "protein": 72,
-      "fat": 46,
-      "carbs": 220
-    },
-    "vizz_daily_total_with_shake": {
-      "cal": 2000,
-      "protein": 112,
-      "fat": 51,
-      "carbs": 245
-    },
-    "macro_check": "Macros meet the targets, with a slight excess in carbs, but protein target is well met."
-  },
-  {
     "date": "2026-08-08 (Saturday)",
     "date_display": "Saturday, August 8",
     "date_short": "Sat · Aug 8",
@@ -3524,5 +3415,118 @@
       "carbs": 225
     },
     "macro_check": "Calories and carbs are sufficient. Protein is marginally below target. Fat is acceptable."
+  },
+  {
+    "date": "2026-09-06 (Sunday)",
+    "date_display": "Sunday, September 6",
+    "date_short": "Sun · Sep 6",
+    "generated_label": "Generated last night for today",
+    "breakfast": {
+      "dish_hindi": "सोया चंक्स उपमा, उबला अंडा (केवल Vizz और Flatmate-2 के लिए)",
+      "dish_english": "Soy Chunks Upma with Boiled Egg (for Vizz and Flatmate-2 only)",
+      "ingredients_hindi": "सोया चंक्स, सूजी, प्याज, टमाटर, हरी मिर्च, करी पत्ता, सरसों, नमक, उबला अंडा",
+      "ingredients_list_hi": [
+        "सोया चंक्स",
+        "सूजी",
+        "प्याज",
+        "टमाटर",
+        "हरी मिर्च",
+        "करी पत्ता",
+        "सरसों",
+        "नमक",
+        "उबला अंडा"
+      ],
+      "ingredients_list_en": [
+        "Soy chunks",
+        "Semolina",
+        "Onion",
+        "Tomato",
+        "Green chili",
+        "Curry leaves",
+        "Mustard seeds",
+        "Salt",
+        "Boiled egg"
+      ],
+      "prep_notes_hi": "गर्म पैन में सरसों फोड़ें। करी पत्ते संग प्याज भूनें। सोया चंक्स व सूजी मिलाएं।",
+      "prep_notes_en": "In a hot pan, temper mustard seeds. Sauté onions with curry leaves. Add soy chunks and semolina.",
+      "vizz_macros": {
+        "cal": 450,
+        "protein": 20,
+        "fat": 10,
+        "carbs": 70
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=soy%20chunks%20upma%20recipe%20recipe"
+    },
+    "lunch": {
+      "dish_hindi": "दाल मखनी और बासमती चावल, पापड़",
+      "dish_english": "Dal Makhani with Basmati Rice and Papad",
+      "ingredients_hindi": "दाल, मक्खन, मसाले, बासमती चावल, पापड़",
+      "ingredients_list_hi": [
+        "दाल",
+        "मक्खन",
+        "मसाले",
+        "बासमती चावल",
+        "पापड़"
+      ],
+      "ingredients_list_en": [
+        "Lentils",
+        "Butter",
+        "Spices",
+        "Basmati rice",
+        "Papad"
+      ],
+      "prep_notes_hi": "दाल उबालकर मसालों संग पकाएं। बासमती चावल और पापड़ संग पैक करें। माइक्रोवेव में गरम करें।",
+      "prep_notes_en": "Boil lentils and cook with spices. Pack with basmati rice and papad. Reheat in microwave.",
+      "vizz_macros": {
+        "cal": 780,
+        "protein": 25,
+        "fat": 15,
+        "carbs": 125
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=dal%20makhani%20rice%20recipe%20recipe"
+    },
+    "dinner": {
+      "dish_hindi": "मटर पनीर करी और नान, हरा धनिया चटनी",
+      "dish_english": "Matar Paneer Curry with Naan and Cilantro Chutney",
+      "ingredients_hindi": "पनीर, मटर, टमाटर, मसाले, नान, हरा धनिया चटनी",
+      "ingredients_list_hi": [
+        "पनीर",
+        "मटर",
+        "टमाटर",
+        "मसाले",
+        "नान",
+        "हरा धनिया चटनी"
+      ],
+      "ingredients_list_en": [
+        "Paneer",
+        "Green peas",
+        "Tomato",
+        "Spices",
+        "Naan",
+        "Cilantro chutney"
+      ],
+      "prep_notes_hi": "पनीर और मटर को टमाटर और मसालों में पकाएं। नान के संग परोसें।",
+      "prep_notes_en": "Cook paneer and peas with tomato and spices. Serve with naan.",
+      "vizz_macros": {
+        "cal": 470,
+        "protein": 25,
+        "fat": 20,
+        "carbs": 70
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=matar%20paneer%20recipe%20recipe"
+    },
+    "vizz_daily_total_from_meals": {
+      "cal": 1700,
+      "protein": 70,
+      "fat": 45,
+      "carbs": 265
+    },
+    "vizz_daily_total_with_shake": {
+      "cal": 2000,
+      "protein": 110,
+      "fat": 50,
+      "carbs": 290
+    },
+    "macro_check": "Protein and calorie targets met. Carbohydrates slightly over target due to rice and naan servings."
   }
 ]
