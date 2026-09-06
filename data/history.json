@@ -1,112 +1,5 @@
 [
   {
-    "date": "2026-08-08 (Saturday)",
-    "date_display": "Saturday, August 8",
-    "date_short": "Sat · Aug 8",
-    "generated_label": "Generated last night for today",
-    "breakfast": {
-      "dish_hindi": "मसाला दलिया और उबला अंडा (विज़्ज़ और रूममेट-2 के लिए)",
-      "dish_english": "Masala Dalia with Boiled Egg (for Vizz and Flatmate-2)",
-      "ingredients_hindi": "दलिया, मटर, गाजर, मसाले, तेल, उबला अंडा",
-      "ingredients_list_hi": [
-        "दलिया",
-        "मटर",
-        "गाजर",
-        "मसाले",
-        "तेल",
-        "उबला अंडा"
-      ],
-      "ingredients_list_en": [
-        "Dalia",
-        "Peas",
-        "Carrot",
-        "Spices",
-        "Oil",
-        "Boiled Egg"
-      ],
-      "prep_notes_hi": "दलिया को मध्यम आंच पर पानी में पकाएं और सब्जियां और मसाले डालें। ताजा ही परोसें।",
-      "prep_notes_en": "Cook dalia in water on medium heat, add vegetables and spices. Serve fresh.",
-      "vizz_macros": {
-        "cal": 430,
-        "protein": 10,
-        "fat": 10,
-        "carbs": 70
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=masala%20dalia%20recipe%20recipe"
-    },
-    "lunch": {
-      "dish_hindi": "पारंपरिक छोले चावल, आचार और कटा हुआ प्याज",
-      "dish_english": "Traditional Chole Rice with Pickle and Sliced Onion",
-      "ingredients_hindi": "छोले, बासमती चावल, मसाले, तेल, आचार, प्याज",
-      "ingredients_list_hi": [
-        "छोले",
-        "बासमती चावल",
-        "मसाले",
-        "तेल",
-        "आचार",
-        "प्याज"
-      ],
-      "ingredients_list_en": [
-        "Chickpeas",
-        "Basmati Rice",
-        "Spices",
-        "Oil",
-        "Pickle",
-        "Onion"
-      ],
-      "prep_notes_hi": "छोले चावल को अच्छे से पकाएं ताकि यह अच्छी तरह से माइक्रोवेव में गर्म हो सके।",
-      "prep_notes_en": "Cook chole rice thoroughly for good reheating in the microwave.",
-      "vizz_macros": {
-        "cal": 750,
-        "protein": 20,
-        "fat": 15,
-        "carbs": 120
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=chole%20rice%20recipe%20recipe"
-    },
-    "dinner": {
-      "dish_hindi": "पास्ता प्रिमावेरा के साथ हर्ब ब्रेड",
-      "dish_english": "Pasta Primavera with Herb Bread",
-      "ingredients_hindi": "पास्ता, मिश्रित सब्जियाँ, जैतून का तेल, जड़ी-बूटी, रोटी",
-      "ingredients_list_hi": [
-        "पास्ता",
-        "मिश्रित सब्जियाँ",
-        "जैतून का तेल",
-        "जड़ी-बूटी",
-        "रोटी"
-      ],
-      "ingredients_list_en": [
-        "Pasta",
-        "Mixed Vegetables",
-        "Olive Oil",
-        "Herbs",
-        "Bread"
-      ],
-      "prep_notes_hi": "पास्ता को उबालें और सब्जियां जैतून के तेल में हल्की भूनी। ताजगी के लिए जड़ी-बूटियां मिलाएं।",
-      "prep_notes_en": "Boil pasta and lightly sauté vegetables in olive oil. Add herbs for freshness.",
-      "vizz_macros": {
-        "cal": 520,
-        "protein": 15,
-        "fat": 15,
-        "carbs": 80
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=pasta%20primavera%20recipe%20recipe"
-    },
-    "vizz_daily_total_from_meals": {
-      "cal": 1700,
-      "protein": 45,
-      "fat": 40,
-      "carbs": 270
-    },
-    "vizz_daily_total_with_shake": {
-      "cal": 2000,
-      "protein": 85,
-      "fat": 45,
-      "carbs": 295
-    },
-    "macro_check": "Protein slightly under target, consider adding a side of yogurt to breakfast."
-  },
-  {
     "date": "2026-08-09 (Sunday)",
     "date_display": "Sunday, August 9",
     "date_short": "Sun · Aug 9",
@@ -3528,5 +3421,130 @@
       "carbs": 290
     },
     "macro_check": "Protein and calorie targets met. Carbohydrates slightly over target due to rice and naan servings."
+  },
+  {
+    "date": "2026-09-07 (Monday)",
+    "date_display": "Monday, September 7",
+    "date_short": "Mon · Sep 7",
+    "generated_label": "Generated last night for today",
+    "breakfast": {
+      "dish_hindi": "अलसी का चीला और उबला अंडा (विज़ और फ्लैटमेट-2 के लिए)",
+      "dish_english": "Flaxseed Chilla with Boiled Egg (for Vizz and Flatmate-2 only)",
+      "ingredients_hindi": "अलसी का आटा, बेसन, हरी मिर्च, अदरक, नमक, पानी, उबला अंडा",
+      "ingredients_list_hi": [
+        "अलसी का आटा",
+        "बेसन",
+        "हरी मिर्च",
+        "अदरक",
+        "नमक",
+        "पानी",
+        "उबला अंडा"
+      ],
+      "ingredients_list_en": [
+        "Flaxseed flour",
+        "Gram flour (Besan)",
+        "Green chili",
+        "Ginger",
+        "Salt",
+        "Water",
+        "Boiled egg"
+      ],
+      "prep_notes_hi": "चिल्ले को 1 मिनट के लिए दोनों तरफ से सुनहरा होने तक मध्यम आंच पर पकाएं। मिश्रण में ज्यादा पानी न डालें ताकि वह फैल न जाए।",
+      "prep_notes_en": "Cook the chilla on medium heat for about 1 minute on each side until golden brown. Avoid adding too much water to the batter to prevent spreading.",
+      "vizz_macros": {
+        "cal": 380,
+        "protein": 22,
+        "fat": 11,
+        "carbs": 50
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=flaxseed%20chilla%20recipe%20recipe"
+    },
+    "lunch": {
+      "dish_hindi": "राजमा चावल और प्याज का सलाद",
+      "dish_english": "Rajma with Rice and Onion Salad",
+      "ingredients_hindi": "राजमा, बासमती चावल, टमाटर, प्याज, अदरक, लहसुन, मिर्च पाउडर, गरम मसाला, नमक, तेल",
+      "ingredients_list_hi": [
+        "राजमा",
+        "बासमती चावल",
+        "टमाटर",
+        "प्याज",
+        "अदरक",
+        "लहसुन",
+        "मिर्च पाउडर",
+        "गरम मसाला",
+        "नमक",
+        "तेल"
+      ],
+      "ingredients_list_en": [
+        "Kidney beans",
+        "Basmati rice",
+        "Tomato",
+        "Onion",
+        "Ginger",
+        "Garlic",
+        "Chili powder",
+        "Garam masala",
+        "Salt",
+        "Oil"
+      ],
+      "prep_notes_hi": "राजमा में सही ग्रेवी और चावल हल्के ढंग से पका होना चाहिए। यह लंच में 4-5 घंटे तक अच्छा रहेगा और गर्म करके खाया जा सकता है।",
+      "prep_notes_en": "Ensure rajma has a proper gravy and rice is cooked lightly. It can last in lunch for 4-5 hours and can be reheated in the microwave.",
+      "vizz_macros": {
+        "cal": 620,
+        "protein": 22,
+        "fat": 5,
+        "carbs": 123
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=rajma%20rice%20recipe%20recipe"
+    },
+    "dinner": {
+      "dish_hindi": "मसूर दाल और चपाती",
+      "dish_english": "Masoor Dal with Chapati",
+      "ingredients_hindi": "मसूर दाल, टमाटर, प्याज, अदरक, लहसुन, हल्दी, नमक, तेल, आटा",
+      "ingredients_list_hi": [
+        "मसूर दाल",
+        "टमाटर",
+        "प्याज",
+        "अदरक",
+        "लहसुन",
+        "हल्दी",
+        "नमक",
+        "तेल",
+        "आटा"
+      ],
+      "ingredients_list_en": [
+        "Red lentils",
+        "Tomato",
+        "Onion",
+        "Ginger",
+        "Garlic",
+        "Turmeric",
+        "Salt",
+        "Oil",
+        "Flour"
+      ],
+      "prep_notes_hi": "दाल को अच्छी तरह से पकाएं जब तक कि यह नरम न हो जाए और ग्रेवी थोड़ी मोटी हो।",
+      "prep_notes_en": "Cook the lentils thoroughly until they are soft and the gravy thickens slightly.",
+      "vizz_macros": {
+        "cal": 700,
+        "protein": 26,
+        "fat": 8,
+        "carbs": 107
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=masoor%20dal%20recipe%20recipe"
+    },
+    "vizz_daily_total_from_meals": {
+      "cal": 1700,
+      "protein": 70,
+      "fat": 24,
+      "carbs": 280
+    },
+    "vizz_daily_total_with_shake": {
+      "cal": 2000,
+      "protein": 110,
+      "fat": 29,
+      "carbs": 305
+    },
+    "macro_check": "Close to target: carbs are slightly above the goal, but protein and calories are met well."
   }
 ]
