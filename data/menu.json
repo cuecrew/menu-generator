@@ -1,125 +1,103 @@
 {
-  "date": "2026-09-07 (Monday)",
-  "date_display": "Monday, September 7",
-  "date_short": "Mon · Sep 7",
+  "date": "2026-09-08 (Tuesday)",
+  "date_display": "Tuesday, September 8",
+  "date_short": "Tue · Sep 8",
   "generated_label": "Generated last night for today",
   "breakfast": {
-    "dish_hindi": "अलसी का चीला और उबला अंडा (विज़ और फ्लैटमेट-2 के लिए)",
-    "dish_english": "Flaxseed Chilla with Boiled Egg (for Vizz and Flatmate-2 only)",
-    "ingredients_hindi": "अलसी का आटा, बेसन, हरी मिर्च, अदरक, नमक, पानी, उबला अंडा",
+    "dish_hindi": "सब्जी पराठा और दही, उबले अंडे (विज़्ज़ और फ्लैटमेट-2 के लिए)",
+    "dish_english": "Mixed Vegetable Paratha with Curd, Boiled Eggs (for Vizz and Flatmate-2)",
+    "ingredients_hindi": "गेहूं का आटा, मिक्स सब्जियाँ, दही, उबले अंडे",
     "ingredients_list_hi": [
-      "अलसी का आटा",
-      "बेसन",
-      "हरी मिर्च",
-      "अदरक",
-      "नमक",
-      "पानी",
-      "उबला अंडा"
+      "गेहूं का आटा",
+      "मिक्स सब्जियाँ",
+      "दही",
+      "उबले अंडे"
     ],
     "ingredients_list_en": [
-      "Flaxseed flour",
-      "Gram flour (Besan)",
-      "Green chili",
-      "Ginger",
-      "Salt",
-      "Water",
-      "Boiled egg"
+      "Whole Wheat Flour",
+      "Mixed Vegetables",
+      "Curd",
+      "Boiled Eggs"
     ],
-    "prep_notes_hi": "चिल्ले को 1 मिनट के लिए दोनों तरफ से सुनहरा होने तक मध्यम आंच पर पकाएं। मिश्रण में ज्यादा पानी न डालें ताकि वह फैल न जाए।",
-    "prep_notes_en": "Cook the chilla on medium heat for about 1 minute on each side until golden brown. Avoid adding too much water to the batter to prevent spreading.",
+    "prep_notes_hi": "सारी सब्जियों को छोटे टुकड़ों में काटें। आटे में नमक और मसाले डालकर पराठे बेलें और तवे पर पकाएँ।",
+    "prep_notes_en": "Chop all vegetables finely. Mix with flour, spices, and knead to form dough. Roll into parathas and cook on griddle.",
     "vizz_macros": {
-      "cal": 380,
-      "protein": 22,
-      "fat": 11,
-      "carbs": 50
+      "cal": 450,
+      "protein": 18,
+      "fat": 10,
+      "carbs": 60
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=flaxseed%20chilla%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=vegetable%20paratha%20recipe%20recipe"
   },
   "lunch": {
-    "dish_hindi": "राजमा चावल और प्याज का सलाद",
-    "dish_english": "Rajma with Rice and Onion Salad",
-    "ingredients_hindi": "राजमा, बासमती चावल, टमाटर, प्याज, अदरक, लहसुन, मिर्च पाउडर, गरम मसाला, नमक, तेल",
+    "dish_hindi": "पनीर पुलाव और मिक्स रायता",
+    "dish_english": "Paneer Pulao with Mixed Raita",
+    "ingredients_hindi": "बासमती चावल, पनीर, मटर, गाजर, दही, मसाले",
     "ingredients_list_hi": [
-      "राजमा",
       "बासमती चावल",
-      "टमाटर",
-      "प्याज",
-      "अदरक",
-      "लहसुन",
-      "मिर्च पाउडर",
-      "गरम मसाला",
-      "नमक",
-      "तेल"
+      "पनीर",
+      "मटर",
+      "गाजर",
+      "दही",
+      "मसाले"
     ],
     "ingredients_list_en": [
-      "Kidney beans",
-      "Basmati rice",
-      "Tomato",
-      "Onion",
-      "Ginger",
-      "Garlic",
-      "Chili powder",
-      "Garam masala",
-      "Salt",
-      "Oil"
+      "Basmati Rice",
+      "Paneer",
+      "Peas",
+      "Carrot",
+      "Curd",
+      "Spices"
     ],
-    "prep_notes_hi": "राजमा में सही ग्रेवी और चावल हल्के ढंग से पका होना चाहिए। यह लंच में 4-5 घंटे तक अच्छा रहेगा और गर्म करके खाया जा सकता है।",
-    "prep_notes_en": "Ensure rajma has a proper gravy and rice is cooked lightly. It can last in lunch for 4-5 hours and can be reheated in the microwave.",
+    "prep_notes_hi": "चावल को हाथ से धो लें। पनीर, मटर और गाजर के साथ पकाएं। यह यात्रा कर सकते हैं और गरम कर सकते हैं।",
+    "prep_notes_en": "Rinse rice thoroughly. Cook with paneer, peas, and carrots. This meal travels and reheats well.",
     "vizz_macros": {
-      "cal": 620,
-      "protein": 22,
-      "fat": 5,
-      "carbs": 123
+      "cal": 600,
+      "protein": 25,
+      "fat": 20,
+      "carbs": 75
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=rajma%20rice%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=paneer%20pulao%20recipe%20recipe"
   },
   "dinner": {
-    "dish_hindi": "मसूर दाल और चपाती",
-    "dish_english": "Masoor Dal with Chapati",
-    "ingredients_hindi": "मसूर दाल, टमाटर, प्याज, अदरक, लहसुन, हल्दी, नमक, तेल, आटा",
+    "dish_hindi": "सोया चंक्स करी और रोटी",
+    "dish_english": "Soya Chunks Curry with Roti",
+    "ingredients_hindi": "सोया चंक्स, मसाले, प्याज, टमाटर, रोटी",
     "ingredients_list_hi": [
-      "मसूर दाल",
-      "टमाटर",
+      "सोया चंक्स",
+      "मसाले",
       "प्याज",
-      "अदरक",
-      "लहसुन",
-      "हल्दी",
-      "नमक",
-      "तेल",
-      "आटा"
+      "टमाटर",
+      "रोटी"
     ],
     "ingredients_list_en": [
-      "Red lentils",
-      "Tomato",
+      "Soya Chunks",
+      "Spices",
       "Onion",
-      "Ginger",
-      "Garlic",
-      "Turmeric",
-      "Salt",
-      "Oil",
-      "Flour"
+      "Tomato",
+      "Roti"
     ],
-    "prep_notes_hi": "दाल को अच्छी तरह से पकाएं जब तक कि यह नरम न हो जाए और ग्रेवी थोड़ी मोटी हो।",
-    "prep_notes_en": "Cook the lentils thoroughly until they are soft and the gravy thickens slightly.",
+    "prep_notes_hi": "सोया चंक्स को भिगो दें। प्याज और टमाटर के साथ मसाले डालकर भूनें।",
+    "prep_notes_en": "Soak soya chunks. Sauté with onions, tomatoes, and spices.",
     "vizz_macros": {
-      "cal": 700,
-      "protein": 26,
-      "fat": 8,
-      "carbs": 107
+      "cal": 650,
+      "protein": 28,
+      "fat": 15,
+      "carbs": 70
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=masoor%20dal%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=soya%20chunks%20curry%20recipe%20recipe"
   },
   "vizz_daily_total_from_meals": {
     "cal": 1700,
-    "protein": 70,
-    "fat": 24,
-    "carbs": 280
+    "protein": 71,
+    "fat": 45,
+    "carbs": 205
   },
   "vizz_daily_total_with_shake": {
     "cal": 2000,
-    "protein": 110,
-    "fat": 29,
-    "carbs": 305
+    "protein": 111,
+    "fat": 50,
+    "carbs": 230
   },
-  "macro_check": "Close to target: carbs are slightly above the goal, but protein and calories are met well."
+  "macro_check": "Hits the target 2000/110/60/215. Fat is slightly lower due to minimal oil use."
 }
