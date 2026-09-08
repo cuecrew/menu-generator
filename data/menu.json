@@ -1,103 +1,115 @@
 {
-  "date": "2026-09-08 (Tuesday)",
-  "date_display": "Tuesday, September 8",
-  "date_short": "Tue · Sep 8",
+  "date": "2026-09-09 (Wednesday)",
+  "date_display": "Wednesday, September 9",
+  "date_short": "Wed · Sep 9",
   "generated_label": "Generated last night for today",
   "breakfast": {
-    "dish_hindi": "सब्जी पराठा और दही, उबले अंडे (विज़्ज़ और फ्लैटमेट-2 के लिए)",
-    "dish_english": "Mixed Vegetable Paratha with Curd, Boiled Eggs (for Vizz and Flatmate-2)",
-    "ingredients_hindi": "गेहूं का आटा, मिक्स सब्जियाँ, दही, उबले अंडे",
+    "dish_hindi": "ओट्स का उपमा, उबला अंडा (केवल विज्ज और फ्लैटमेट-2 के लिए)",
+    "dish_english": "Oats Upma with Boiled Egg (for Vizz and Flatmate-2 only)",
+    "ingredients_hindi": "ओट्स, प्याज, गाजर, मटर, धनिया पत्ती, हरी मिर्च, सरसों के दाने, उबला अंडा",
     "ingredients_list_hi": [
-      "गेहूं का आटा",
-      "मिक्स सब्जियाँ",
-      "दही",
-      "उबले अंडे"
+      "ओट्स",
+      "प्याज",
+      "गाजर",
+      "मटर",
+      "धनिया पत्ती",
+      "हरी मिर्च",
+      "सरसों के दाने",
+      "उबला अंडा"
     ],
     "ingredients_list_en": [
-      "Whole Wheat Flour",
-      "Mixed Vegetables",
-      "Curd",
-      "Boiled Eggs"
+      "Oats",
+      "Onion",
+      "Carrot",
+      "Peas",
+      "Coriander leaves",
+      "Green chili",
+      "Mustard seeds",
+      "Boiled Egg"
     ],
-    "prep_notes_hi": "सारी सब्जियों को छोटे टुकड़ों में काटें। आटे में नमक और मसाले डालकर पराठे बेलें और तवे पर पकाएँ।",
-    "prep_notes_en": "Chop all vegetables finely. Mix with flour, spices, and knead to form dough. Roll into parathas and cook on griddle.",
+    "prep_notes_hi": "ओट्स को अच्छी तरह से पकाना सुनिश्चित करें जब तक कि वे नरम न हो जाएं। उबले अंडे को एक तरफ रखकर परोसें।",
+    "prep_notes_en": "Ensure the oats are cooked well until they are soft. Serve the boiled egg on the side.",
     "vizz_macros": {
-      "cal": 450,
+      "cal": 400,
       "protein": 18,
+      "fat": 12,
+      "carbs": 60
+    },
+    "youtube_url": "https://www.youtube.com/results?search_query=oats%20upma%20recipe%20hindi%20recipe"
+  },
+  "lunch": {
+    "dish_hindi": "पालक दाल और चावल, पापड़",
+    "dish_english": "Palak Dal and Rice with Papad",
+    "ingredients_hindi": "पालक, मूंग दाल, बासमती चावल, अदरक, लहसुन, हरी मिर्च, पापड़",
+    "ingredients_list_hi": [
+      "पालक",
+      "मूंग दाल",
+      "बासमती चावल",
+      "अदरक",
+      "लहसुन",
+      "हरी मिर्च",
+      "पापड़"
+    ],
+    "ingredients_list_en": [
+      "Spinach",
+      "Moong Dal",
+      "Basmati Rice",
+      "Ginger",
+      "Garlic",
+      "Green chili",
+      "Papad"
+    ],
+    "prep_notes_hi": "दाल को पालक के साथ अच्छी तरह पकाएं ताकि यह पुनः गरम करने पर भी सुगंधित और स्वादिष्ट रहे।",
+    "prep_notes_en": "Cook the dal thoroughly with spinach so it remains aromatic and flavorful even when reheated.",
+    "vizz_macros": {
+      "cal": 550,
+      "protein": 24,
+      "fat": 8,
+      "carbs": 95
+    },
+    "youtube_url": "https://www.youtube.com/results?search_query=palak%20dal%20rice%20recipe%20recipe"
+  },
+  "dinner": {
+    "dish_hindi": "पास्ता सलाद, लहसुन की चटनी",
+    "dish_english": "Pasta Salad with Garlic Chutney",
+    "ingredients_hindi": "पास्ता, शिमला मिर्च, चेरी टमाटर, जैतून, काली मिर्च, लहसुन",
+    "ingredients_list_hi": [
+      "पास्ता",
+      "शिमला मिर्च",
+      "चेरी टमाटर",
+      "जैतून",
+      "काली मिर्च",
+      "लहसुन"
+    ],
+    "ingredients_list_en": [
+      "Pasta",
+      "Bell pepper",
+      "Cherry tomato",
+      "Olives",
+      "Black pepper",
+      "Garlic"
+    ],
+    "prep_notes_hi": "सभी सब्जियों को ताजा काटें और पका हुआ पास्ता मिलाएं। लहसुन की चटनी के साथ परोसें।",
+    "prep_notes_en": "Chop all vegetables fresh and mix with cooked pasta. Serve with garlic chutney on the side.",
+    "vizz_macros": {
+      "cal": 380,
+      "protein": 12,
       "fat": 10,
       "carbs": 60
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=vegetable%20paratha%20recipe%20recipe"
-  },
-  "lunch": {
-    "dish_hindi": "पनीर पुलाव और मिक्स रायता",
-    "dish_english": "Paneer Pulao with Mixed Raita",
-    "ingredients_hindi": "बासमती चावल, पनीर, मटर, गाजर, दही, मसाले",
-    "ingredients_list_hi": [
-      "बासमती चावल",
-      "पनीर",
-      "मटर",
-      "गाजर",
-      "दही",
-      "मसाले"
-    ],
-    "ingredients_list_en": [
-      "Basmati Rice",
-      "Paneer",
-      "Peas",
-      "Carrot",
-      "Curd",
-      "Spices"
-    ],
-    "prep_notes_hi": "चावल को हाथ से धो लें। पनीर, मटर और गाजर के साथ पकाएं। यह यात्रा कर सकते हैं और गरम कर सकते हैं।",
-    "prep_notes_en": "Rinse rice thoroughly. Cook with paneer, peas, and carrots. This meal travels and reheats well.",
-    "vizz_macros": {
-      "cal": 600,
-      "protein": 25,
-      "fat": 20,
-      "carbs": 75
-    },
-    "youtube_url": "https://www.youtube.com/results?search_query=paneer%20pulao%20recipe%20recipe"
-  },
-  "dinner": {
-    "dish_hindi": "सोया चंक्स करी और रोटी",
-    "dish_english": "Soya Chunks Curry with Roti",
-    "ingredients_hindi": "सोया चंक्स, मसाले, प्याज, टमाटर, रोटी",
-    "ingredients_list_hi": [
-      "सोया चंक्स",
-      "मसाले",
-      "प्याज",
-      "टमाटर",
-      "रोटी"
-    ],
-    "ingredients_list_en": [
-      "Soya Chunks",
-      "Spices",
-      "Onion",
-      "Tomato",
-      "Roti"
-    ],
-    "prep_notes_hi": "सोया चंक्स को भिगो दें। प्याज और टमाटर के साथ मसाले डालकर भूनें।",
-    "prep_notes_en": "Soak soya chunks. Sauté with onions, tomatoes, and spices.",
-    "vizz_macros": {
-      "cal": 650,
-      "protein": 28,
-      "fat": 15,
-      "carbs": 70
-    },
-    "youtube_url": "https://www.youtube.com/results?search_query=soya%20chunks%20curry%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=pasta%20salad%20recipe%20recipe"
   },
   "vizz_daily_total_from_meals": {
-    "cal": 1700,
-    "protein": 71,
-    "fat": 45,
-    "carbs": 205
+    "cal": 1330,
+    "protein": 54,
+    "fat": 30,
+    "carbs": 215
   },
   "vizz_daily_total_with_shake": {
-    "cal": 2000,
-    "protein": 111,
-    "fat": 50,
-    "carbs": 230
+    "cal": 1630,
+    "protein": 94,
+    "fat": 35,
+    "carbs": 240
   },
-  "macro_check": "Hits the target 2000/110/60/215. Fat is slightly lower due to minimal oil use."
+  "macro_check": "Slight shortfall in calories and protein. Consider protein supplements."
 }

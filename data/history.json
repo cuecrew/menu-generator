@@ -1,122 +1,5 @@
 [
   {
-    "date": "2026-08-10 (Monday)",
-    "date_display": "Monday, August 10",
-    "date_short": "Mon · Aug 10",
-    "generated_label": "Generated last night for today",
-    "breakfast": {
-      "dish_hindi": "मसाला ओट्स और उबला अंडा (विज और फ्लैटमेट-2 के लिए)",
-      "dish_english": "Masala Oats and Boiled Egg (for Vizz and Flatmate-2)",
-      "ingredients_hindi": "ओट्स, टमाटर, हरी मिर्च, प्याज, गाजर, नमक, हल्दी, उबला अंडा (केवल विज और फ्लैटमेट-2)",
-      "ingredients_list_hi": [
-        "ओट्स",
-        "टमाटर",
-        "हरी मिर्च",
-        "प्याज",
-        "गाजर",
-        "नमक",
-        "हल्दी",
-        "उबला अंडा"
-      ],
-      "ingredients_list_en": [
-        "Oats",
-        "Tomato",
-        "Green Chili",
-        "Onion",
-        "Carrot",
-        "Salt",
-        "Turmeric",
-        "Boiled Egg"
-      ],
-      "prep_notes_hi": "ओट्स को अच्छे से पकाएं ताकि वे नरम और क्रीमी बनें। मसाला और सब्जियों को अच्छी तरह से मिलाएं।",
-      "prep_notes_en": "Cook the oats until soft and creamy. Mix the masala and vegetables well.",
-      "vizz_macros": {
-        "cal": 370,
-        "protein": 18,
-        "fat": 10,
-        "carbs": 50
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=masala%20oats%20recipe%20hindi%20recipe"
-    },
-    "lunch": {
-      "dish_hindi": "मूर्ति डाल चावल के साथ अद्रक और अचार",
-      "dish_english": "Mixed Dal with Brown Rice, Ginger, and Pickle",
-      "ingredients_hindi": "मूंग दाल, अरहर दाल, चना दाल, भूरा चावल, अदरक, अचार, नमक",
-      "ingredients_list_hi": [
-        "मूंग दाल",
-        "अरहर दाल",
-        "चना दाल",
-        "भूरा चावल",
-        "अदरक",
-        "अचार",
-        "नमक"
-      ],
-      "ingredients_list_en": [
-        "Moong Dal",
-        "Arhar Dal",
-        "Chana Dal",
-        "Brown Rice",
-        "Ginger",
-        "Pickle",
-        "Salt"
-      ],
-      "prep_notes_hi": "यह पकवान कार्य यात्रा के लिए अच्छा है और चावल और दाल को माइक्रोवेव में गर्म किया जा सकता है।",
-      "prep_notes_en": "This dish travels well for work and the rice and dal can be reheated in the microwave.",
-      "vizz_macros": {
-        "cal": 690,
-        "protein": 35,
-        "fat": 7,
-        "carbs": 120
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=mixed%20dal%20recipe%20recipe"
-    },
-    "dinner": {
-      "dish_hindi": "साबुदाना खिचड़ी और दही",
-      "dish_english": "Sabudana Khichdi with Curd",
-      "ingredients_hindi": "साबुदाना, आलू, मूंगफली, जीरा, हरी मिर्च, दही, नमक",
-      "ingredients_list_hi": [
-        "साबुदाना",
-        "आलू",
-        "मूंगफली",
-        "जीरा",
-        "हरी मिर्च",
-        "दही",
-        "नमक"
-      ],
-      "ingredients_list_en": [
-        "Sabudana",
-        "Potato",
-        "Peanut",
-        "Cumin",
-        "Green Chili",
-        "Curd",
-        "Salt"
-      ],
-      "prep_notes_hi": "साबुदाना को पहले से भिगोकर रखें ताकि वह अच्छी तरह से पक सके। मूंगफली और आलू को अच्छे से पकाएं।",
-      "prep_notes_en": "Soak sabudana beforehand to ensure it cooks well. Cook peanuts and potatoes thoroughly.",
-      "vizz_macros": {
-        "cal": 640,
-        "protein": 14,
-        "fat": 25,
-        "carbs": 90
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=sabudana%20khichdi%20recipe%20recipe"
-    },
-    "vizz_daily_total_from_meals": {
-      "cal": 1700,
-      "protein": 67,
-      "fat": 42,
-      "carbs": 260
-    },
-    "vizz_daily_total_with_shake": {
-      "cal": 2000,
-      "protein": 107,
-      "fat": 47,
-      "carbs": 285
-    },
-    "macro_check": "Total is slightly exceeding target carbs, but protein and fat targets are adequately met."
-  },
-  {
     "date": "2026-08-11 (Tuesday)",
     "date_display": "Tuesday, August 11",
     "date_short": "Tue · Aug 11",
@@ -3536,5 +3419,120 @@
       "carbs": 230
     },
     "macro_check": "Hits the target 2000/110/60/215. Fat is slightly lower due to minimal oil use."
+  },
+  {
+    "date": "2026-09-09 (Wednesday)",
+    "date_display": "Wednesday, September 9",
+    "date_short": "Wed · Sep 9",
+    "generated_label": "Generated last night for today",
+    "breakfast": {
+      "dish_hindi": "ओट्स का उपमा, उबला अंडा (केवल विज्ज और फ्लैटमेट-2 के लिए)",
+      "dish_english": "Oats Upma with Boiled Egg (for Vizz and Flatmate-2 only)",
+      "ingredients_hindi": "ओट्स, प्याज, गाजर, मटर, धनिया पत्ती, हरी मिर्च, सरसों के दाने, उबला अंडा",
+      "ingredients_list_hi": [
+        "ओट्स",
+        "प्याज",
+        "गाजर",
+        "मटर",
+        "धनिया पत्ती",
+        "हरी मिर्च",
+        "सरसों के दाने",
+        "उबला अंडा"
+      ],
+      "ingredients_list_en": [
+        "Oats",
+        "Onion",
+        "Carrot",
+        "Peas",
+        "Coriander leaves",
+        "Green chili",
+        "Mustard seeds",
+        "Boiled Egg"
+      ],
+      "prep_notes_hi": "ओट्स को अच्छी तरह से पकाना सुनिश्चित करें जब तक कि वे नरम न हो जाएं। उबले अंडे को एक तरफ रखकर परोसें।",
+      "prep_notes_en": "Ensure the oats are cooked well until they are soft. Serve the boiled egg on the side.",
+      "vizz_macros": {
+        "cal": 400,
+        "protein": 18,
+        "fat": 12,
+        "carbs": 60
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=oats%20upma%20recipe%20hindi%20recipe"
+    },
+    "lunch": {
+      "dish_hindi": "पालक दाल और चावल, पापड़",
+      "dish_english": "Palak Dal and Rice with Papad",
+      "ingredients_hindi": "पालक, मूंग दाल, बासमती चावल, अदरक, लहसुन, हरी मिर्च, पापड़",
+      "ingredients_list_hi": [
+        "पालक",
+        "मूंग दाल",
+        "बासमती चावल",
+        "अदरक",
+        "लहसुन",
+        "हरी मिर्च",
+        "पापड़"
+      ],
+      "ingredients_list_en": [
+        "Spinach",
+        "Moong Dal",
+        "Basmati Rice",
+        "Ginger",
+        "Garlic",
+        "Green chili",
+        "Papad"
+      ],
+      "prep_notes_hi": "दाल को पालक के साथ अच्छी तरह पकाएं ताकि यह पुनः गरम करने पर भी सुगंधित और स्वादिष्ट रहे।",
+      "prep_notes_en": "Cook the dal thoroughly with spinach so it remains aromatic and flavorful even when reheated.",
+      "vizz_macros": {
+        "cal": 550,
+        "protein": 24,
+        "fat": 8,
+        "carbs": 95
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=palak%20dal%20rice%20recipe%20recipe"
+    },
+    "dinner": {
+      "dish_hindi": "पास्ता सलाद, लहसुन की चटनी",
+      "dish_english": "Pasta Salad with Garlic Chutney",
+      "ingredients_hindi": "पास्ता, शिमला मिर्च, चेरी टमाटर, जैतून, काली मिर्च, लहसुन",
+      "ingredients_list_hi": [
+        "पास्ता",
+        "शिमला मिर्च",
+        "चेरी टमाटर",
+        "जैतून",
+        "काली मिर्च",
+        "लहसुन"
+      ],
+      "ingredients_list_en": [
+        "Pasta",
+        "Bell pepper",
+        "Cherry tomato",
+        "Olives",
+        "Black pepper",
+        "Garlic"
+      ],
+      "prep_notes_hi": "सभी सब्जियों को ताजा काटें और पका हुआ पास्ता मिलाएं। लहसुन की चटनी के साथ परोसें।",
+      "prep_notes_en": "Chop all vegetables fresh and mix with cooked pasta. Serve with garlic chutney on the side.",
+      "vizz_macros": {
+        "cal": 380,
+        "protein": 12,
+        "fat": 10,
+        "carbs": 60
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=pasta%20salad%20recipe%20recipe"
+    },
+    "vizz_daily_total_from_meals": {
+      "cal": 1330,
+      "protein": 54,
+      "fat": 30,
+      "carbs": 215
+    },
+    "vizz_daily_total_with_shake": {
+      "cal": 1630,
+      "protein": 94,
+      "fat": 35,
+      "carbs": 240
+    },
+    "macro_check": "Slight shortfall in calories and protein. Consider protein supplements."
   }
 ]
