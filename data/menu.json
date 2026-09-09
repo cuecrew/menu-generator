@@ -1,115 +1,139 @@
 {
-  "date": "2026-09-09 (Wednesday)",
-  "date_display": "Wednesday, September 9",
-  "date_short": "Wed · Sep 9",
+  "date": "2026-09-10 (Thursday)",
+  "date_display": "Thursday, September 10",
+  "date_short": "Thu · Sep 10",
   "generated_label": "Generated last night for today",
   "breakfast": {
-    "dish_hindi": "ओट्स का उपमा, उबला अंडा (केवल विज्ज और फ्लैटमेट-2 के लिए)",
-    "dish_english": "Oats Upma with Boiled Egg (for Vizz and Flatmate-2 only)",
-    "ingredients_hindi": "ओट्स, प्याज, गाजर, मटर, धनिया पत्ती, हरी मिर्च, सरसों के दाने, उबला अंडा",
+    "dish_hindi": "पूरी और अंडा भुर्जी (विज़ और फ्लैटमेट-2 के लिए उबला हुआ अंडा)",
+    "dish_english": "Puri and Egg Bhurji (Boiled Egg for Vizz and Flatmate-2)",
+    "ingredients_hindi": "गेंहू का आटा, तेल, अंडा, प्याज, टमाटर, हरी मिर्च, नमक, हल्दी, धनिया पत्ती",
     "ingredients_list_hi": [
-      "ओट्स",
+      "गेंहू का आटा",
+      "तेल",
+      "अंडा",
       "प्याज",
-      "गाजर",
-      "मटर",
-      "धनिया पत्ती",
+      "टमाटर",
       "हरी मिर्च",
-      "सरसों के दाने",
-      "उबला अंडा"
+      "नमक",
+      "हल्दी",
+      "धनिया पत्ती"
     ],
     "ingredients_list_en": [
-      "Oats",
+      "Wheat flour",
+      "Oil",
+      "Egg",
       "Onion",
-      "Carrot",
-      "Peas",
-      "Coriander leaves",
+      "Tomato",
       "Green chili",
-      "Mustard seeds",
-      "Boiled Egg"
+      "Salt",
+      "Turmeric",
+      "Coriander leaves"
     ],
-    "prep_notes_hi": "ओट्स को अच्छी तरह से पकाना सुनिश्चित करें जब तक कि वे नरम न हो जाएं। उबले अंडे को एक तरफ रखकर परोसें।",
-    "prep_notes_en": "Ensure the oats are cooked well until they are soft. Serve the boiled egg on the side.",
+    "prep_notes_hi": "आटा गूंथकर गोल पूरी बेलें। अंडा भुर्जी के लिए प्याज और टमाटर को अच्छे से भूनें।",
+    "prep_notes_en": "Knead the dough and roll into round puris. For egg bhurji, sauté onions and tomatoes well.",
     "vizz_macros": {
-      "cal": 400,
+      "cal": 450,
       "protein": 18,
-      "fat": 12,
-      "carbs": 60
+      "fat": 20,
+      "carbs": 50
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=oats%20upma%20recipe%20hindi%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=puri%20recipe%20egg%20bhurji%20recipe"
   },
   "lunch": {
-    "dish_hindi": "पालक दाल और चावल, पापड़",
-    "dish_english": "Palak Dal and Rice with Papad",
-    "ingredients_hindi": "पालक, मूंग दाल, बासमती चावल, अदरक, लहसुन, हरी मिर्च, पापड़",
+    "dish_hindi": "चने की दाल और चावल, चटनी और पापड़",
+    "dish_english": "Chana Dal and Rice with Chutney and Papad",
+    "ingredients_hindi": "चना दाल, चावल, जीरा, हरी मिर्च, अदरक, नमक, घी, लहसुन, प्याज, टमाटर, पापड़",
     "ingredients_list_hi": [
-      "पालक",
-      "मूंग दाल",
-      "बासमती चावल",
-      "अदरक",
-      "लहसुन",
+      "चना दाल",
+      "चावल",
+      "जीरा",
       "हरी मिर्च",
+      "अदरक",
+      "नमक",
+      "घी",
+      "लहसुन",
+      "प्याज",
+      "टमाटर",
       "पापड़"
     ],
     "ingredients_list_en": [
-      "Spinach",
-      "Moong Dal",
-      "Basmati Rice",
+      "Chana dal",
+      "Rice",
+      "Cumin seeds",
+      "Green chili",
+      "Ginger",
+      "Salt",
+      "Ghee",
+      "Garlic",
+      "Onion",
+      "Tomato",
+      "Papad"
+    ],
+    "prep_notes_hi": "चना दाल और चावल को अच्छी तरह पकाएं और ढक कर रखें। यह भोजन ट्रैवल करने और दोबारा गर्म करने में सक्षम होता है।",
+    "prep_notes_en": "Cook chana dal and rice well and keep covered. This meal travels and reheats well.",
+    "vizz_macros": {
+      "cal": 700,
+      "protein": 20,
+      "fat": 15,
+      "carbs": 120
+    },
+    "youtube_url": "https://www.youtube.com/results?search_query=chana%20dal%20rice%20recipe%20recipe"
+  },
+  "dinner": {
+    "dish_hindi": "पनीर बटर मसाला और नान, रायता",
+    "dish_english": "Paneer Butter Masala with Naan and Raita",
+    "ingredients_hindi": "पनीर, मक्खन, टमाटर, क्रीम, प्याज, अदरक, लहसुन, हरी मिर्च, धनिया पत्ती, नमक, नान, दही, भुना जीरा",
+    "ingredients_list_hi": [
+      "पनीर",
+      "मक्खन",
+      "टमाटर",
+      "क्रीम",
+      "प्याज",
+      "अदरक",
+      "लहसुन",
+      "हरी मिर्च",
+      "धनिया पत्ती",
+      "नमक",
+      "नान",
+      "दही",
+      "भुना जीरा"
+    ],
+    "ingredients_list_en": [
+      "Paneer",
+      "Butter",
+      "Tomato",
+      "Cream",
+      "Onion",
       "Ginger",
       "Garlic",
       "Green chili",
-      "Papad"
+      "Coriander leaves",
+      "Salt",
+      "Naan",
+      "Yogurt",
+      "Roasted cumin"
     ],
-    "prep_notes_hi": "दाल को पालक के साथ अच्छी तरह पकाएं ताकि यह पुनः गरम करने पर भी सुगंधित और स्वादिष्ट रहे।",
-    "prep_notes_en": "Cook the dal thoroughly with spinach so it remains aromatic and flavorful even when reheated.",
+    "prep_notes_hi": "प्याज और टमाटर को अच्छा सा भूनें और फिर पनीर डालें। इसे मक्खन में अच्छे से पकाएं।",
+    "prep_notes_en": "Sauté onions and tomatoes well before adding paneer. Cook it thoroughly in butter.",
     "vizz_macros": {
       "cal": 550,
-      "protein": 24,
-      "fat": 8,
-      "carbs": 95
-    },
-    "youtube_url": "https://www.youtube.com/results?search_query=palak%20dal%20rice%20recipe%20recipe"
-  },
-  "dinner": {
-    "dish_hindi": "पास्ता सलाद, लहसुन की चटनी",
-    "dish_english": "Pasta Salad with Garlic Chutney",
-    "ingredients_hindi": "पास्ता, शिमला मिर्च, चेरी टमाटर, जैतून, काली मिर्च, लहसुन",
-    "ingredients_list_hi": [
-      "पास्ता",
-      "शिमला मिर्च",
-      "चेरी टमाटर",
-      "जैतून",
-      "काली मिर्च",
-      "लहसुन"
-    ],
-    "ingredients_list_en": [
-      "Pasta",
-      "Bell pepper",
-      "Cherry tomato",
-      "Olives",
-      "Black pepper",
-      "Garlic"
-    ],
-    "prep_notes_hi": "सभी सब्जियों को ताजा काटें और पका हुआ पास्ता मिलाएं। लहसुन की चटनी के साथ परोसें।",
-    "prep_notes_en": "Chop all vegetables fresh and mix with cooked pasta. Serve with garlic chutney on the side.",
-    "vizz_macros": {
-      "cal": 380,
-      "protein": 12,
-      "fat": 10,
+      "protein": 28,
+      "fat": 30,
       "carbs": 60
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=pasta%20salad%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=paneer%20butter%20masala%20recipe%20recipe"
   },
   "vizz_daily_total_from_meals": {
-    "cal": 1330,
-    "protein": 54,
-    "fat": 30,
-    "carbs": 215
+    "cal": 1700,
+    "protein": 66,
+    "fat": 65,
+    "carbs": 230
   },
   "vizz_daily_total_with_shake": {
-    "cal": 1630,
-    "protein": 94,
-    "fat": 35,
-    "carbs": 240
+    "cal": 2000,
+    "protein": 106,
+    "fat": 70,
+    "carbs": 255
   },
-  "macro_check": "Slight shortfall in calories and protein. Consider protein supplements."
+  "macro_check": "Calories and protein are slightly above suggested targets, fat is on target, carbs are slightly higher."
 }
