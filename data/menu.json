@@ -1,139 +1,107 @@
 {
-  "date": "2026-09-10 (Thursday)",
-  "date_display": "Thursday, September 10",
-  "date_short": "Thu · Sep 10",
+  "date": "2026-09-11 (Friday)",
+  "date_display": "Friday, September 11",
+  "date_short": "Fri · Sep 11",
   "generated_label": "Generated last night for today",
   "breakfast": {
-    "dish_hindi": "पूरी और अंडा भुर्जी (विज़ और फ्लैटमेट-2 के लिए उबला हुआ अंडा)",
-    "dish_english": "Puri and Egg Bhurji (Boiled Egg for Vizz and Flatmate-2)",
-    "ingredients_hindi": "गेंहू का आटा, तेल, अंडा, प्याज, टमाटर, हरी मिर्च, नमक, हल्दी, धनिया पत्ती",
+    "dish_hindi": "अंडा टोस्ट और जलेबी",
+    "dish_english": "Egg Toast with Jalebi",
+    "ingredients_hindi": "ब्रेड, अंडा, घी, जायफल, जलेबी",
     "ingredients_list_hi": [
-      "गेंहू का आटा",
-      "तेल",
+      "ब्रेड",
       "अंडा",
-      "प्याज",
-      "टमाटर",
-      "हरी मिर्च",
-      "नमक",
-      "हल्दी",
-      "धनिया पत्ती"
+      "घी",
+      "जायफल",
+      "जलेबी"
     ],
     "ingredients_list_en": [
-      "Wheat flour",
-      "Oil",
+      "Bread",
       "Egg",
-      "Onion",
-      "Tomato",
-      "Green chili",
-      "Salt",
-      "Turmeric",
-      "Coriander leaves"
+      "Ghee",
+      "Nutmeg",
+      "Jalebi"
     ],
-    "prep_notes_hi": "आटा गूंथकर गोल पूरी बेलें। अंडा भुर्जी के लिए प्याज और टमाटर को अच्छे से भूनें।",
-    "prep_notes_en": "Knead the dough and roll into round puris. For egg bhurji, sauté onions and tomatoes well.",
+    "prep_notes_hi": "ब्रेड को घी में टोस्ट करें। अंत में, जायफल की हल्की छिड़क दें।",
+    "prep_notes_en": "Toast the bread in ghee, and sprinkle a little nutmeg at the end.",
     "vizz_macros": {
-      "cal": 450,
-      "protein": 18,
-      "fat": 20,
-      "carbs": 50
+      "cal": 420,
+      "protein": 14,
+      "fat": 14,
+      "carbs": 55
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=puri%20recipe%20egg%20bhurji%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=egg%20toast%20recipe%20hindi%20recipe"
   },
   "lunch": {
-    "dish_hindi": "चने की दाल और चावल, चटनी और पापड़",
-    "dish_english": "Chana Dal and Rice with Chutney and Papad",
-    "ingredients_hindi": "चना दाल, चावल, जीरा, हरी मिर्च, अदरक, नमक, घी, लहसुन, प्याज, टमाटर, पापड़",
+    "dish_hindi": "वेज बिरयानी और रायता",
+    "dish_english": "Veg Biryani with Raita",
+    "ingredients_hindi": "बासमती चावल, सब्जियाँ, पनीर, गरम मसाला, दही, पुदीना",
     "ingredients_list_hi": [
-      "चना दाल",
-      "चावल",
-      "जीरा",
-      "हरी मिर्च",
-      "अदरक",
-      "नमक",
-      "घी",
-      "लहसुन",
-      "प्याज",
-      "टमाटर",
-      "पापड़"
+      "बासमती चावल",
+      "सब्जियाँ",
+      "पनीर",
+      "गरम मसाला",
+      "दही",
+      "पुदीना"
     ],
     "ingredients_list_en": [
-      "Chana dal",
-      "Rice",
-      "Cumin seeds",
-      "Green chili",
-      "Ginger",
-      "Salt",
-      "Ghee",
-      "Garlic",
-      "Onion",
-      "Tomato",
-      "Papad"
+      "Basmati Rice",
+      "Vegetables",
+      "Paneer",
+      "Garam Masala",
+      "Curd",
+      "Mint"
     ],
-    "prep_notes_hi": "चना दाल और चावल को अच्छी तरह पकाएं और ढक कर रखें। यह भोजन ट्रैवल करने और दोबारा गर्म करने में सक्षम होता है।",
-    "prep_notes_en": "Cook chana dal and rice well and keep covered. This meal travels and reheats well.",
+    "prep_notes_hi": "यह डिश अच्छी तरह से ट्रैवल करती है। परोसे समय इसे माइक्रोवेव में गर्म कीजिए।",
+    "prep_notes_en": "This dish travels well. Reheat it in the microwave before serving.",
     "vizz_macros": {
-      "cal": 700,
-      "protein": 20,
-      "fat": 15,
-      "carbs": 120
+      "cal": 650,
+      "protein": 25,
+      "fat": 18,
+      "carbs": 98
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=chana%20dal%20rice%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=veg%20biryani%20recipe%20hindi%20recipe"
   },
   "dinner": {
-    "dish_hindi": "पनीर बटर मसाला और नान, रायता",
-    "dish_english": "Paneer Butter Masala with Naan and Raita",
-    "ingredients_hindi": "पनीर, मक्खन, टमाटर, क्रीम, प्याज, अदरक, लहसुन, हरी मिर्च, धनिया पत्ती, नमक, नान, दही, भुना जीरा",
+    "dish_hindi": "मुंग दाल खिचड़ी और आचार",
+    "dish_english": "Moong Dal Khichdi with Pickle",
+    "ingredients_hindi": "मुंग दाल, चावल, घी, हल्दी, नमक, आचार",
     "ingredients_list_hi": [
-      "पनीर",
-      "मक्खन",
-      "टमाटर",
-      "क्रीम",
-      "प्याज",
-      "अदरक",
-      "लहसुन",
-      "हरी मिर्च",
-      "धनिया पत्ती",
+      "मुंग दाल",
+      "चावल",
+      "घी",
+      "हल्दी",
       "नमक",
-      "नान",
-      "दही",
-      "भुना जीरा"
+      "आचार"
     ],
     "ingredients_list_en": [
-      "Paneer",
-      "Butter",
-      "Tomato",
-      "Cream",
-      "Onion",
-      "Ginger",
-      "Garlic",
-      "Green chili",
-      "Coriander leaves",
+      "Moong Dal",
+      "Rice",
+      "Ghee",
+      "Turmeric",
       "Salt",
-      "Naan",
-      "Yogurt",
-      "Roasted cumin"
+      "Pickle"
     ],
-    "prep_notes_hi": "प्याज और टमाटर को अच्छा सा भूनें और फिर पनीर डालें। इसे मक्खन में अच्छे से पकाएं।",
-    "prep_notes_en": "Sauté onions and tomatoes well before adding paneer. Cook it thoroughly in butter.",
+    "prep_notes_hi": "मुंग दाल को चावल के साथ पकाएं और घी में भूनें। हल्दी और मसालों के साथ स्वाद बढ़ाएं।",
+    "prep_notes_en": "Cook moong dal with rice and sauté in ghee. Enhance flavor with turmeric and spices.",
     "vizz_macros": {
-      "cal": 550,
-      "protein": 28,
-      "fat": 30,
-      "carbs": 60
+      "cal": 630,
+      "protein": 22,
+      "fat": 14,
+      "carbs": 100
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=paneer%20butter%20masala%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=moong%20dal%20khichdi%20recipe%20recipe"
   },
   "vizz_daily_total_from_meals": {
     "cal": 1700,
-    "protein": 66,
-    "fat": 65,
-    "carbs": 230
+    "protein": 61,
+    "fat": 46,
+    "carbs": 253
   },
   "vizz_daily_total_with_shake": {
     "cal": 2000,
-    "protein": 106,
-    "fat": 70,
-    "carbs": 255
+    "protein": 101,
+    "fat": 51,
+    "carbs": 278
   },
-  "macro_check": "Calories and protein are slightly above suggested targets, fat is on target, carbs are slightly higher."
+  "macro_check": "Calories and carbs slightly over, protein at 101g — make adjustments as required."
 }
