@@ -1,140 +1,5 @@
 [
   {
-    "date": "2026-08-13 (Thursday)",
-    "date_display": "Thursday, August 13",
-    "date_short": "Thu · Aug 13",
-    "generated_label": "Generated last night for today",
-    "breakfast": {
-      "dish_hindi": "मूंग दाल चिल्ला, हरी चटनी और उबला अंडा",
-      "dish_english": "Moong Dal Chilla with Green Chutney & Boiled Egg",
-      "ingredients_hindi": "मूंग दाल, पानी, नमक, हरी मिर्च, अदरक, प्याज, धनिया पत्ती, हरी चटनी, उबला अंडा",
-      "ingredients_list_hi": [
-        "मूंग दाल",
-        "पानी",
-        "नमक",
-        "हरी मिर्च",
-        "अदरक",
-        "प्याज",
-        "धनिया पत्ती",
-        "हरी चटनी",
-        "उबला अंडा"
-      ],
-      "ingredients_list_en": [
-        "Moong Dal",
-        "Water",
-        "Salt",
-        "Green Chili",
-        "Ginger",
-        "Onion",
-        "Coriander Leaves",
-        "Green Chutney",
-        "Boiled Egg"
-      ],
-      "prep_notes_hi": "मूंग दाल को रातभर भिगो दें। फिर हरी मिर्च और अदरक के साथ पीस लें। प्याज और धनिया डालें। तवे पर छोटे पैनकेक की तरह पकाएं।",
-      "prep_notes_en": "Soak moong dal overnight. Grind with green chili and ginger. Add onions and coriander. Cook on a griddle like small pancakes.",
-      "vizz_macros": {
-        "cal": 400,
-        "protein": 18,
-        "fat": 17,
-        "carbs": 45
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=moong%20dal%20chilla%20recipe%20recipe"
-    },
-    "lunch": {
-      "dish_hindi": "पनीर पुलाव और हरी चटनी",
-      "dish_english": "Paneer Pulao with Green Chutney",
-      "ingredients_hindi": "बासमती चावल, पनीर, मटर, गाजर, शिमलामिर्च, प्याज, हरी मिर्च, धनिया पत्ती, नमक, घी, हरी चटनी",
-      "ingredients_list_hi": [
-        "बासमती चावल",
-        "पनीर",
-        "मटर",
-        "गाजर",
-        "शिमलामिर्च",
-        "प्याज",
-        "हरी मिर्च",
-        "धनिया पत्ती",
-        "नमक",
-        "घी",
-        "हरी चटनी"
-      ],
-      "ingredients_list_en": [
-        "Basmati Rice",
-        "Paneer",
-        "Peas",
-        "Carrot",
-        "Bell Pepper",
-        "Onion",
-        "Green Chili",
-        "Coriander Leaves",
-        "Salt",
-        "Ghee",
-        "Green Chutney"
-      ],
-      "prep_notes_hi": "यह व्यंजन आसानी से कार्यालय के लिए ले जाया जा सकता है और गर्म होने पर स्वादिष्ट रहता है।",
-      "prep_notes_en": "This dish can be easily packed for office and retains its taste when reheated.",
-      "vizz_macros": {
-        "cal": 650,
-        "protein": 25,
-        "fat": 27,
-        "carbs": 75
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=paneer%20pulao%20recipe%20recipe"
-    },
-    "dinner": {
-      "dish_hindi": "चना दाल और गेहूँ की रोटी के साथ प्याज और अचार",
-      "dish_english": "Chana Dal with Wheat Roti, Onion & Pickle",
-      "ingredients_hindi": "चना दाल, पानी, हल्दी, नमक, हरी मिर्च, अदरक, कुचला लहसुन, घी, गेहूँ का आटा, प्याज, अचार",
-      "ingredients_list_hi": [
-        "चना दाल",
-        "पानी",
-        "हल्दी",
-        "नमक",
-        "हरी मिर्च",
-        "अदरक",
-        "कुचला लहसुन",
-        "घी",
-        "गेहूँ का आटा",
-        "प्याज",
-        "अचार"
-      ],
-      "ingredients_list_en": [
-        "Chana Dal",
-        "Water",
-        "Turmeric",
-        "Salt",
-        "Green Chili",
-        "Ginger",
-        "Crushed Garlic",
-        "Ghee",
-        "Wheat Flour",
-        "Onion",
-        "Pickle"
-      ],
-      "prep_notes_hi": "चना दाल को तब तक पकाएं जब तक कि अच्छी तरह से गल न जाए। इसे घी में तड़का दें। रोटी को ताजे आटे से बनाएं।",
-      "prep_notes_en": "Cook chana dal until it softens nicely. Temper with ghee and spices. Make roti from fresh dough.",
-      "vizz_macros": {
-        "cal": 650,
-        "protein": 28,
-        "fat": 17,
-        "carbs": 100
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=chana%20dal%20recipe%20recipe"
-    },
-    "vizz_daily_total_from_meals": {
-      "cal": 1700,
-      "protein": 71,
-      "fat": 61,
-      "carbs": 220
-    },
-    "vizz_daily_total_with_shake": {
-      "cal": 2000,
-      "protein": 111,
-      "fat": 66,
-      "carbs": 245
-    },
-    "macro_check": "Hits 2000 cal, 111g protein, 66g fat, 245g carbs target. Slightly over on carbs."
-  },
-  {
     "date": "2026-08-14 (Friday)",
     "date_display": "Friday, August 14",
     "date_short": "Fri · Aug 14",
@@ -3550,5 +3415,114 @@
       "carbs": 278
     },
     "macro_check": "Calories and carbs slightly over, protein at 101g — make adjustments as required."
+  },
+  {
+    "date": "2026-09-12 (Saturday)",
+    "date_display": "Saturday, September 12",
+    "date_short": "Sat · Sep 12",
+    "generated_label": "Generated last night for today",
+    "breakfast": {
+      "dish_hindi": "मसाला ओट्स, उबला अंडा (विज्ज और फ्लैटमेट 2 के लिए)",
+      "dish_english": "Masala Oats with Boiled Egg (for Vizz and Flatmate-2)",
+      "ingredients_hindi": "ओट्स, प्याज, टमाटर, मटर, मसाले, उबला अंडा",
+      "ingredients_list_hi": [
+        "ओट्स",
+        "प्याज",
+        "टमाटर",
+        "मटर",
+        "मसाले",
+        "उबला अंडा"
+      ],
+      "ingredients_list_en": [
+        "Oats",
+        "Onion",
+        "Tomato",
+        "Peas",
+        "Spices",
+        "Boiled Egg"
+      ],
+      "prep_notes_hi": "ओट्स को सब्जियों और मसालों के साथ अच्छे से भूनें। तेज आंच पर जल्दी पकाएं।",
+      "prep_notes_en": "Roast oats well with vegetables and spices. Cook quickly on high flame.",
+      "vizz_macros": {
+        "cal": 370,
+        "protein": 18,
+        "fat": 10,
+        "carbs": 52
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=masala%20oats%20recipe%20recipe"
+    },
+    "lunch": {
+      "dish_hindi": "चने की दाल और जीरा चावल, अचार",
+      "dish_english": "Chana Dal with Jeera Rice & Pickle",
+      "ingredients_hindi": "चना दाल, basmati चावल, जीरा, मसाले, अचार",
+      "ingredients_list_hi": [
+        "चना दाल",
+        "basmati चावल",
+        "जीरा",
+        "मसाले",
+        "अचार"
+      ],
+      "ingredients_list_en": [
+        "Chana Dal",
+        "Basmati Rice",
+        "Cumin Seeds",
+        "Spices",
+        "Pickle"
+      ],
+      "prep_notes_hi": "दाल और चावल को अलग-अलग पकाएं, ताकि वे लंच बॉक्स में अच्छी तरह से टिक सकें।",
+      "prep_notes_en": "Cook dal and rice separately so they stay well in the lunch box.",
+      "vizz_macros": {
+        "cal": 690,
+        "protein": 25,
+        "fat": 3,
+        "carbs": 140
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=chana%20dal%20recipe%20recipe"
+    },
+    "dinner": {
+      "dish_hindi": "पनीर भुर्जी, गरम रोटी और हरी चटनी",
+      "dish_english": "Paneer Bhurji with Hot Roti & Green Chutney",
+      "ingredients_hindi": "पनीर, शिमला मिर्च, प्याज़, टमाटर, मसाले, गेहूं का आटा, हरी चटनी",
+      "ingredients_list_hi": [
+        "पनीर",
+        "शिमला मिर्च",
+        "प्याज़",
+        "टमाटर",
+        "मसाले",
+        "गेहूं का आटा",
+        "हरी चटनी"
+      ],
+      "ingredients_list_en": [
+        "Paneer",
+        "Capsicum",
+        "Onion",
+        "Tomato",
+        "Spices",
+        "Wheat Flour",
+        "Green Chutney"
+      ],
+      "prep_notes_hi": "पनीर को अच्छे से मैश करके मसाले और सब्जियों के साथ मिलाएं।",
+      "prep_notes_en": "Mash paneer well and mix with spices and vegetables.",
+      "vizz_macros": {
+        "cal": 640,
+        "protein": 30,
+        "fat": 22,
+        "carbs": 50
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=paneer%20bhurji%20recipe%20recipe"
+    },
+    "vizz_daily_total_from_meals": {
+      "cal": 1700,
+      "protein": 73,
+      "fat": 45,
+      "carbs": 242
+    },
+    "vizz_daily_total_with_shake": {
+      "cal": 2000,
+      "protein": 113,
+      "fat": 50,
+      "carbs": 267
+    },
+    "macro_check": "Hits overall target for calories and protein, slightly over on carbs."
   }
 ]

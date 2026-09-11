@@ -1,107 +1,109 @@
 {
-  "date": "2026-09-11 (Friday)",
-  "date_display": "Friday, September 11",
-  "date_short": "Fri · Sep 11",
+  "date": "2026-09-12 (Saturday)",
+  "date_display": "Saturday, September 12",
+  "date_short": "Sat · Sep 12",
   "generated_label": "Generated last night for today",
   "breakfast": {
-    "dish_hindi": "अंडा टोस्ट और जलेबी",
-    "dish_english": "Egg Toast with Jalebi",
-    "ingredients_hindi": "ब्रेड, अंडा, घी, जायफल, जलेबी",
+    "dish_hindi": "मसाला ओट्स, उबला अंडा (विज्ज और फ्लैटमेट 2 के लिए)",
+    "dish_english": "Masala Oats with Boiled Egg (for Vizz and Flatmate-2)",
+    "ingredients_hindi": "ओट्स, प्याज, टमाटर, मटर, मसाले, उबला अंडा",
     "ingredients_list_hi": [
-      "ब्रेड",
-      "अंडा",
-      "घी",
-      "जायफल",
-      "जलेबी"
+      "ओट्स",
+      "प्याज",
+      "टमाटर",
+      "मटर",
+      "मसाले",
+      "उबला अंडा"
     ],
     "ingredients_list_en": [
-      "Bread",
-      "Egg",
-      "Ghee",
-      "Nutmeg",
-      "Jalebi"
+      "Oats",
+      "Onion",
+      "Tomato",
+      "Peas",
+      "Spices",
+      "Boiled Egg"
     ],
-    "prep_notes_hi": "ब्रेड को घी में टोस्ट करें। अंत में, जायफल की हल्की छिड़क दें।",
-    "prep_notes_en": "Toast the bread in ghee, and sprinkle a little nutmeg at the end.",
+    "prep_notes_hi": "ओट्स को सब्जियों और मसालों के साथ अच्छे से भूनें। तेज आंच पर जल्दी पकाएं।",
+    "prep_notes_en": "Roast oats well with vegetables and spices. Cook quickly on high flame.",
     "vizz_macros": {
-      "cal": 420,
-      "protein": 14,
-      "fat": 14,
-      "carbs": 55
+      "cal": 370,
+      "protein": 18,
+      "fat": 10,
+      "carbs": 52
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=egg%20toast%20recipe%20hindi%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=masala%20oats%20recipe%20recipe"
   },
   "lunch": {
-    "dish_hindi": "वेज बिरयानी और रायता",
-    "dish_english": "Veg Biryani with Raita",
-    "ingredients_hindi": "बासमती चावल, सब्जियाँ, पनीर, गरम मसाला, दही, पुदीना",
+    "dish_hindi": "चने की दाल और जीरा चावल, अचार",
+    "dish_english": "Chana Dal with Jeera Rice & Pickle",
+    "ingredients_hindi": "चना दाल, basmati चावल, जीरा, मसाले, अचार",
     "ingredients_list_hi": [
-      "बासमती चावल",
-      "सब्जियाँ",
-      "पनीर",
-      "गरम मसाला",
-      "दही",
-      "पुदीना"
+      "चना दाल",
+      "basmati चावल",
+      "जीरा",
+      "मसाले",
+      "अचार"
     ],
     "ingredients_list_en": [
+      "Chana Dal",
       "Basmati Rice",
-      "Vegetables",
-      "Paneer",
-      "Garam Masala",
-      "Curd",
-      "Mint"
-    ],
-    "prep_notes_hi": "यह डिश अच्छी तरह से ट्रैवल करती है। परोसे समय इसे माइक्रोवेव में गर्म कीजिए।",
-    "prep_notes_en": "This dish travels well. Reheat it in the microwave before serving.",
-    "vizz_macros": {
-      "cal": 650,
-      "protein": 25,
-      "fat": 18,
-      "carbs": 98
-    },
-    "youtube_url": "https://www.youtube.com/results?search_query=veg%20biryani%20recipe%20hindi%20recipe"
-  },
-  "dinner": {
-    "dish_hindi": "मुंग दाल खिचड़ी और आचार",
-    "dish_english": "Moong Dal Khichdi with Pickle",
-    "ingredients_hindi": "मुंग दाल, चावल, घी, हल्दी, नमक, आचार",
-    "ingredients_list_hi": [
-      "मुंग दाल",
-      "चावल",
-      "घी",
-      "हल्दी",
-      "नमक",
-      "आचार"
-    ],
-    "ingredients_list_en": [
-      "Moong Dal",
-      "Rice",
-      "Ghee",
-      "Turmeric",
-      "Salt",
+      "Cumin Seeds",
+      "Spices",
       "Pickle"
     ],
-    "prep_notes_hi": "मुंग दाल को चावल के साथ पकाएं और घी में भूनें। हल्दी और मसालों के साथ स्वाद बढ़ाएं।",
-    "prep_notes_en": "Cook moong dal with rice and sauté in ghee. Enhance flavor with turmeric and spices.",
+    "prep_notes_hi": "दाल और चावल को अलग-अलग पकाएं, ताकि वे लंच बॉक्स में अच्छी तरह से टिक सकें।",
+    "prep_notes_en": "Cook dal and rice separately so they stay well in the lunch box.",
     "vizz_macros": {
-      "cal": 630,
-      "protein": 22,
-      "fat": 14,
-      "carbs": 100
+      "cal": 690,
+      "protein": 25,
+      "fat": 3,
+      "carbs": 140
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=moong%20dal%20khichdi%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=chana%20dal%20recipe%20recipe"
+  },
+  "dinner": {
+    "dish_hindi": "पनीर भुर्जी, गरम रोटी और हरी चटनी",
+    "dish_english": "Paneer Bhurji with Hot Roti & Green Chutney",
+    "ingredients_hindi": "पनीर, शिमला मिर्च, प्याज़, टमाटर, मसाले, गेहूं का आटा, हरी चटनी",
+    "ingredients_list_hi": [
+      "पनीर",
+      "शिमला मिर्च",
+      "प्याज़",
+      "टमाटर",
+      "मसाले",
+      "गेहूं का आटा",
+      "हरी चटनी"
+    ],
+    "ingredients_list_en": [
+      "Paneer",
+      "Capsicum",
+      "Onion",
+      "Tomato",
+      "Spices",
+      "Wheat Flour",
+      "Green Chutney"
+    ],
+    "prep_notes_hi": "पनीर को अच्छे से मैश करके मसाले और सब्जियों के साथ मिलाएं।",
+    "prep_notes_en": "Mash paneer well and mix with spices and vegetables.",
+    "vizz_macros": {
+      "cal": 640,
+      "protein": 30,
+      "fat": 22,
+      "carbs": 50
+    },
+    "youtube_url": "https://www.youtube.com/results?search_query=paneer%20bhurji%20recipe%20recipe"
   },
   "vizz_daily_total_from_meals": {
     "cal": 1700,
-    "protein": 61,
-    "fat": 46,
-    "carbs": 253
+    "protein": 73,
+    "fat": 45,
+    "carbs": 242
   },
   "vizz_daily_total_with_shake": {
     "cal": 2000,
-    "protein": 101,
-    "fat": 51,
-    "carbs": 278
+    "protein": 113,
+    "fat": 50,
+    "carbs": 267
   },
-  "macro_check": "Calories and carbs slightly over, protein at 101g — make adjustments as required."
+  "macro_check": "Hits overall target for calories and protein, slightly over on carbs."
 }
