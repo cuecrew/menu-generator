@@ -1,114 +1,5 @@
 [
   {
-    "date": "2026-08-14 (Friday)",
-    "date_display": "Friday, August 14",
-    "date_short": "Fri · Aug 14",
-    "generated_label": "Generated last night for today",
-    "breakfast": {
-      "dish_hindi": "बेसन का चीला और उबला हुआ अंडा",
-      "dish_english": "Besan Chilla with Boiled Egg",
-      "ingredients_hindi": "बेसन, प्याज, टमाटर, हरी मिर्च, धनिया, अंडा",
-      "ingredients_list_hi": [
-        "बेसन",
-        "प्याज",
-        "टमाटर",
-        "हरी मिर्च",
-        "धनिया",
-        "अंडा"
-      ],
-      "ingredients_list_en": [
-        "Besan (gram flour)",
-        "Onion",
-        "Tomato",
-        "Green Chili",
-        "Coriander",
-        "Egg"
-      ],
-      "prep_notes_hi": "बेसन, पानी, और मसाले मिलाकर पेस्ट बनाएं। नॉन-स्टिक तवे पर थोड़ा तेल लगाकर चीला पकाएं।",
-      "prep_notes_en": "Mix besan, water, and spices into a batter. Cook chilla on a non-stick pan with a little oil.",
-      "vizz_macros": {
-        "cal": 400,
-        "protein": 16,
-        "fat": 18,
-        "carbs": 44
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=besan%20chilla%20recipe%20recipe"
-    },
-    "lunch": {
-      "dish_hindi": "राजमा चावल और सलाद",
-      "dish_english": "Rajma with Rice and Salad",
-      "ingredients_hindi": "राजमा, चावल, प्याज, टमाटर, खीरा, जीरा",
-      "ingredients_list_hi": [
-        "राजमा",
-        "चावल",
-        "प्याज",
-        "टमाटर",
-        "खीरा",
-        "जीरा"
-      ],
-      "ingredients_list_en": [
-        "Rajma (kidney beans)",
-        "Rice",
-        "Onion",
-        "Tomato",
-        "Cucumber",
-        "Cumin"
-      ],
-      "prep_notes_hi": "राजमा को रात भर भिगोकर रखे और पकाकर सजीव छोले की तरह। यह यात्रा और तापमान के लिए उपयुक्त होगा।",
-      "prep_notes_en": "Soak rajma overnight and cook similar to chole. This will travel and reheat well.",
-      "vizz_macros": {
-        "cal": 700,
-        "protein": 24,
-        "fat": 8,
-        "carbs": 130
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=rajma%20rice%20recipe%20recipe"
-    },
-    "dinner": {
-      "dish_hindi": "सोया मंचूरियन और तली हुई चावल",
-      "dish_english": "Soya Manchurian and Fried Rice",
-      "ingredients_hindi": "सोया बारीक, कैप्सिकम, प्याज, लहसुन, चावल, सोया सॉस",
-      "ingredients_list_hi": [
-        "सोया बारीक",
-        "कैप्सिकम",
-        "प्याज",
-        "लहसुन",
-        "चावल",
-        "सोया सॉस"
-      ],
-      "ingredients_list_en": [
-        "Soya chunks",
-        "Capsicum",
-        "Onion",
-        "Garlic",
-        "Rice",
-        "Soy sauce"
-      ],
-      "prep_notes_hi": "सोया को भिगोकर भून लें। सब्जियों को ताजी और कुरकुरी रखना है।",
-      "prep_notes_en": "Soak and sauté soya chunks. Keep vegetables fresh and crunchy.",
-      "vizz_macros": {
-        "cal": 600,
-        "protein": 30,
-        "fat": 12,
-        "carbs": 92
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=soya%20manchurian%20recipe%20recipe"
-    },
-    "vizz_daily_total_from_meals": {
-      "cal": 1700,
-      "protein": 70,
-      "fat": 38,
-      "carbs": 266
-    },
-    "vizz_daily_total_with_shake": {
-      "cal": 2000,
-      "protein": 110,
-      "fat": 43,
-      "carbs": 291
-    },
-    "macro_check": "Meets 2000 cal and 110g protein with shake. Carbs slightly high, fats on target."
-  },
-  {
     "date": "2026-08-15 (Saturday)",
     "date_display": "Saturday, August 15",
     "date_short": "Sat · Aug 15",
@@ -3524,5 +3415,142 @@
       "carbs": 267
     },
     "macro_check": "Hits overall target for calories and protein, slightly over on carbs."
+  },
+  {
+    "date": "2026-09-13 (Sunday)",
+    "date_display": "Sunday, September 13",
+    "date_short": "Sun · Sep 13",
+    "generated_label": "Generated last night for today",
+    "breakfast": {
+      "dish_hindi": "उपमा और उबला अंडा (विज़्ज और फ्लैटमेट-2 के लिए)",
+      "dish_english": "Upma with Boiled Egg (for Vizz and Flatmate-2)",
+      "ingredients_hindi": "सूजी, प्याज, मटर, गाजर, सरसों के बीज, करी पत्ते, हरी मिर्च, नमक, तेल",
+      "ingredients_list_hi": [
+        "सूजी",
+        "प्याज",
+        "मटर",
+        "गाजर",
+        "सरसों के बीज",
+        "करी पत्ते",
+        "हरी मिर्च",
+        "नमक",
+        "तेल"
+      ],
+      "ingredients_list_en": [
+        "Semolina (Suji)",
+        "Onion",
+        "Peas",
+        "Carrot",
+        "Mustard Seeds",
+        "Curry Leaves",
+        "Green Chili",
+        "Salt",
+        "Oil"
+      ],
+      "prep_notes_hi": "सूजी को हल्का भुन लें, फिर सब्जियों को भूनकर पानी डालें। अच्छा मिक्स करें और पकाएं जब तक सूजी मुलायम और फूला ना हो जाए।",
+      "prep_notes_en": "Lightly roast the semolina, then sauté the vegetables, adding water. Mix well and cook until the semolina is soft and fluffy.",
+      "vizz_macros": {
+        "cal": 400,
+        "protein": 12,
+        "fat": 9,
+        "carbs": 70
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=upma%20recipe%20hindi%20recipe"
+    },
+    "lunch": {
+      "dish_hindi": "राजमा चावल और पापड़",
+      "dish_english": "Rajma with Rice and Papad",
+      "ingredients_hindi": "राजमा, बासमती चावल, प्याज, टमाटर, अदरक, लहसुन, जीरा, धनिया पाउडर, गर्म मसाला, नमक, तेल",
+      "ingredients_list_hi": [
+        "राजमा",
+        "बासमती चावल",
+        "प्याज",
+        "टमाटर",
+        "अदरक",
+        "लहसुन",
+        "जीरा",
+        "धनिया पाउडर",
+        "गर्म मसाला",
+        "नमक",
+        "तेल"
+      ],
+      "ingredients_list_en": [
+        "Kidney Beans",
+        "Basmati Rice",
+        "Onion",
+        "Tomato",
+        "Ginger",
+        "Garlic",
+        "Cumin",
+        "Coriander Powder",
+        "Garam Masala",
+        "Salt",
+        "Oil"
+      ],
+      "prep_notes_hi": "राजमा और चावल को अच्छी तरह पकाएं। यह व्यंजन यात्रा के लिए उपयुक्त है और इसे आसानी से माइक्रोवेव में गर्म किया जा सकता है।",
+      "prep_notes_en": "Cook the rajma and rice thoroughly. This dish is travel-friendly and reheats well in the microwave.",
+      "vizz_macros": {
+        "cal": 700,
+        "protein": 23,
+        "fat": 9,
+        "carbs": 125
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=rajma%20rice%20recipe%20recipe"
+    },
+    "dinner": {
+      "dish_hindi": "मटर पनीर और चपाती",
+      "dish_english": "Matar Paneer and Chapati",
+      "ingredients_hindi": "पनीर, मटर, प्याज, अदरक, लहसुन, टमाटर, जीरा, हल्दी, लाल मिर्च पाउडर, नमक, तेल, गेहूं का आटा",
+      "ingredients_list_hi": [
+        "पनीर",
+        "मटर",
+        "प्याज",
+        "अदरक",
+        "लहसुन",
+        "टमाटर",
+        "जीरा",
+        "हल्दी",
+        "लाल मिर्च पाउडर",
+        "नमक",
+        "तेल",
+        "गेहूं का आटा"
+      ],
+      "ingredients_list_en": [
+        "Paneer",
+        "Peas",
+        "Onion",
+        "Ginger",
+        "Garlic",
+        "Tomato",
+        "Cumin",
+        "Turmeric",
+        "Red Chili Powder",
+        "Salt",
+        "Oil",
+        "Wheat Flour"
+      ],
+      "prep_notes_hi": "प्याज और मसालों को अच्छे से भूनें ताकि गहरा रंग और स्वाद आ जाए। पनीर और मटर को धीरे-धीरे पकाएं।",
+      "prep_notes_en": "Sauté onion and spices well for deep color and flavor. Cook the paneer and peas gently.",
+      "vizz_macros": {
+        "cal": 600,
+        "protein": 18,
+        "fat": 20,
+        "carbs": 80
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=matar%20paneer%20recipe%20recipe"
+    },
+    "vizz_daily_total_from_meals": {
+      "cal": 1700,
+      "protein": 53,
+      "fat": 38,
+      "carbs": 275
+    },
+    "vizz_daily_total_with_shake": {
+      "cal": 2000,
+      "protein": 93,
+      "fat": 43,
+      "carbs": 300
+    },
+    "macro_check": "Daily target under for protein (93g vs. 110g); consider adding another protein source."
   }
 ]
