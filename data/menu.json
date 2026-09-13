@@ -1,137 +1,113 @@
 {
-  "date": "2026-09-13 (Sunday)",
-  "date_display": "Sunday, September 13",
-  "date_short": "Sun · Sep 13",
+  "date": "2026-09-14 (Monday)",
+  "date_display": "Monday, September 14",
+  "date_short": "Mon · Sep 14",
   "generated_label": "Generated last night for today",
   "breakfast": {
-    "dish_hindi": "उपमा और उबला अंडा (विज़्ज और फ्लैटमेट-2 के लिए)",
-    "dish_english": "Upma with Boiled Egg (for Vizz and Flatmate-2)",
-    "ingredients_hindi": "सूजी, प्याज, मटर, गाजर, सरसों के बीज, करी पत्ते, हरी मिर्च, नमक, तेल",
+    "dish_hindi": "सूजी का हलवा और उबला हुआ अंडा (विज़ और फ्लैटमेट-2 के लिए)",
+    "dish_english": "Sooji Halwa with Boiled Egg (for Vizz and Flatmate-2)",
+    "ingredients_hindi": "सूजी, चीनी, घी, पानी, बादाम, किशमिश, अंडा",
     "ingredients_list_hi": [
       "सूजी",
-      "प्याज",
-      "मटर",
-      "गाजर",
-      "सरसों के बीज",
-      "करी पत्ते",
-      "हरी मिर्च",
-      "नमक",
-      "तेल"
+      "चीनी",
+      "घी",
+      "पानी",
+      "बादाम",
+      "किशमिश",
+      "अंडा"
     ],
     "ingredients_list_en": [
-      "Semolina (Suji)",
-      "Onion",
-      "Peas",
-      "Carrot",
-      "Mustard Seeds",
-      "Curry Leaves",
-      "Green Chili",
-      "Salt",
-      "Oil"
+      "Sooji (semolina)",
+      "Sugar",
+      "Ghee",
+      "Water",
+      "Almonds",
+      "Raisins",
+      "Egg"
     ],
-    "prep_notes_hi": "सूजी को हल्का भुन लें, फिर सब्जियों को भूनकर पानी डालें। अच्छा मिक्स करें और पकाएं जब तक सूजी मुलायम और फूला ना हो जाए।",
-    "prep_notes_en": "Lightly roast the semolina, then sauté the vegetables, adding water. Mix well and cook until the semolina is soft and fluffy.",
+    "prep_notes_hi": "सूजी को घी में हल्का सुनहरा भूनें। धीरे-धीरे पानी डालें, गांठ से बचने के लिए चलाते रहें। अंत में चीनी और सूखे मेवे डालें।",
+    "prep_notes_en": "Roast the semolina in ghee until lightly golden. Gradually add water, stirring constantly to avoid lumps. Finally, add sugar and dry fruits.",
     "vizz_macros": {
-      "cal": 400,
+      "cal": 420,
       "protein": 12,
-      "fat": 9,
-      "carbs": 70
+      "fat": 20,
+      "carbs": 55
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=upma%20recipe%20hindi%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=sooji%20halwa%20recipe%20hindi%20recipe"
   },
   "lunch": {
-    "dish_hindi": "राजमा चावल और पापड़",
-    "dish_english": "Rajma with Rice and Papad",
-    "ingredients_hindi": "राजमा, बासमती चावल, प्याज, टमाटर, अदरक, लहसुन, जीरा, धनिया पाउडर, गर्म मसाला, नमक, तेल",
+    "dish_hindi": "पालक पनीर और जीरा राइस",
+    "dish_english": "Palak Paneer with Jeera Rice",
+    "ingredients_hindi": "पालक, पनीर, प्याज, टमाटर, हरी मिर्च, अदरक, जीरा, चावल",
     "ingredients_list_hi": [
-      "राजमा",
-      "बासमती चावल",
-      "प्याज",
-      "टमाटर",
-      "अदरक",
-      "लहसुन",
-      "जीरा",
-      "धनिया पाउडर",
-      "गर्म मसाला",
-      "नमक",
-      "तेल"
-    ],
-    "ingredients_list_en": [
-      "Kidney Beans",
-      "Basmati Rice",
-      "Onion",
-      "Tomato",
-      "Ginger",
-      "Garlic",
-      "Cumin",
-      "Coriander Powder",
-      "Garam Masala",
-      "Salt",
-      "Oil"
-    ],
-    "prep_notes_hi": "राजमा और चावल को अच्छी तरह पकाएं। यह व्यंजन यात्रा के लिए उपयुक्त है और इसे आसानी से माइक्रोवेव में गर्म किया जा सकता है।",
-    "prep_notes_en": "Cook the rajma and rice thoroughly. This dish is travel-friendly and reheats well in the microwave.",
-    "vizz_macros": {
-      "cal": 700,
-      "protein": 23,
-      "fat": 9,
-      "carbs": 125
-    },
-    "youtube_url": "https://www.youtube.com/results?search_query=rajma%20rice%20recipe%20recipe"
-  },
-  "dinner": {
-    "dish_hindi": "मटर पनीर और चपाती",
-    "dish_english": "Matar Paneer and Chapati",
-    "ingredients_hindi": "पनीर, मटर, प्याज, अदरक, लहसुन, टमाटर, जीरा, हल्दी, लाल मिर्च पाउडर, नमक, तेल, गेहूं का आटा",
-    "ingredients_list_hi": [
+      "पालक",
       "पनीर",
-      "मटर",
       "प्याज",
-      "अदरक",
-      "लहसुन",
       "टमाटर",
+      "हरी मिर्च",
+      "अदरक",
       "जीरा",
-      "हल्दी",
-      "लाल मिर्च पाउडर",
-      "नमक",
-      "तेल",
-      "गेहूं का आटा"
+      "चावल"
     ],
     "ingredients_list_en": [
+      "Spinach",
       "Paneer",
-      "Peas",
       "Onion",
-      "Ginger",
-      "Garlic",
       "Tomato",
+      "Green Chili",
+      "Ginger",
       "Cumin",
-      "Turmeric",
-      "Red Chili Powder",
-      "Salt",
-      "Oil",
-      "Wheat Flour"
+      "Rice"
     ],
-    "prep_notes_hi": "प्याज और मसालों को अच्छे से भूनें ताकि गहरा रंग और स्वाद आ जाए। पनीर और मटर को धीरे-धीरे पकाएं।",
-    "prep_notes_en": "Sauté onion and spices well for deep color and flavor. Cook the paneer and peas gently.",
+    "prep_notes_hi": "पालक को थोड़ा पानी में उबालें और प्यूरी बना लें। प्याज और मसाले भूनें, पनीर और प्यूरी मिलाएँ। जीरा राइस बनाकर पैक करें। ऑफिस में गरम कर सकते हैं।",
+    "prep_notes_en": "Boil spinach briefly and puree it. Sauté onions and spices, add paneer and puree. Cook cumin rice, and pack it. Can be reheated in office.",
     "vizz_macros": {
-      "cal": 600,
-      "protein": 18,
-      "fat": 20,
+      "cal": 650,
+      "protein": 30,
+      "fat": 25,
       "carbs": 80
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=matar%20paneer%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=palak%20paneer%20recipe%20recipe"
+  },
+  "dinner": {
+    "dish_hindi": "थाई करी और नारियल चावल",
+    "dish_english": "Thai Curry with Coconut Rice",
+    "ingredients_hindi": "सब्जियाँ, थाई करी पेस्ट, नारियल का दूध, चावल, नारियल",
+    "ingredients_list_hi": [
+      "सब्जियाँ",
+      "थाई करी पेस्ट",
+      "नारियल का दूध",
+      "चावल",
+      "नारियल"
+    ],
+    "ingredients_list_en": [
+      "Vegetables",
+      "Thai Curry Paste",
+      "Coconut Milk",
+      "Rice",
+      "Coconut"
+    ],
+    "prep_notes_hi": "थाई करी पेस्ट और नारियल के दूध के साथ सब्जियाँ पकाएँ। नारियल के साथ चावल पकाएँ।",
+    "prep_notes_en": "Cook vegetables with Thai curry paste and coconut milk. Cook rice with coconut.",
+    "vizz_macros": {
+      "cal": 630,
+      "protein": 18,
+      "fat": 27,
+      "carbs": 85
+    },
+    "youtube_url": "https://www.youtube.com/results?search_query=Thai%20curry%20recipe%20recipe"
   },
   "vizz_daily_total_from_meals": {
     "cal": 1700,
-    "protein": 53,
-    "fat": 38,
-    "carbs": 275
+    "protein": 60,
+    "fat": 72,
+    "carbs": 220
   },
   "vizz_daily_total_with_shake": {
     "cal": 2000,
-    "protein": 93,
-    "fat": 43,
-    "carbs": 300
+    "protein": 100,
+    "fat": 77,
+    "carbs": 245
   },
-  "macro_check": "Daily target under for protein (93g vs. 110g); consider adding another protein source."
+  "macro_check": "Missing 10g protein to hit target; increase paneer or add more egg at breakfast."
 }

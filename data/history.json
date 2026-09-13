@@ -1,124 +1,5 @@
 [
   {
-    "date": "2026-08-15 (Saturday)",
-    "date_display": "Saturday, August 15",
-    "date_short": "Sat · Aug 15",
-    "generated_label": "Generated last night for today",
-    "breakfast": {
-      "dish_hindi": "दही वड़ा और उबला अंडा",
-      "dish_english": "Dahi Vada with Boiled Egg",
-      "ingredients_hindi": "मूंग दाल, दही, अंडा, हरी मिर्च, अदरक, नमक, तेल, जीरा, हींग",
-      "ingredients_list_hi": [
-        "मूंग दाल",
-        "दही",
-        "अंडा",
-        "हरी मिर्च",
-        "अदरक",
-        "नमक",
-        "तेल",
-        "जीरा",
-        "हींग"
-      ],
-      "ingredients_list_en": [
-        "Moong Dal",
-        "Curd",
-        "Egg",
-        "Green Chilies",
-        "Ginger",
-        "Salt",
-        "Oil",
-        "Cumin Seeds",
-        "Asafoetida"
-      ],
-      "prep_notes_hi": "दही वड़े बनाने के लिए मूंग दाल का पेस्ट बना लें। छोटे वड़े तलें और दही के साथ परोसें।",
-      "prep_notes_en": "Prepare a paste of moong dal to make vadas. Fry small vadas and serve with curd.",
-      "vizz_macros": {
-        "cal": 350,
-        "protein": 10,
-        "fat": 12,
-        "carbs": 50
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=dahi%20vada%20recipe%20hindi%20recipe"
-    },
-    "lunch": {
-      "dish_hindi": "पालक पनीर पराठा और हरी चटनी",
-      "dish_english": "Palak Paneer Paratha with Green Chutney",
-      "ingredients_hindi": "गेहूं का आटा, पालक, पनीर, हरी मिर्च, नमक, घी, हरी चटनी",
-      "ingredients_list_hi": [
-        "गेहूं का आटा",
-        "पालक",
-        "पनीर",
-        "हरी मिर्च",
-        "नमक",
-        "घी",
-        "हरी चटनी"
-      ],
-      "ingredients_list_en": [
-        "Whole Wheat Flour",
-        "Spinach",
-        "Paneer",
-        "Green Chilies",
-        "Salt",
-        "Ghee",
-        "Green Chutney"
-      ],
-      "prep_notes_hi": "पालक और पनीर के मिश्रण से पराठा भरें। घी में सेंकें। यह यात्रा और पुनः गरम करने के लिए उपयुक्त है।",
-      "prep_notes_en": "Fill the paratha with a mixture of spinach and paneer. Cook in ghee. Suitable for travel and reheating.",
-      "vizz_macros": {
-        "cal": 480,
-        "protein": 20,
-        "fat": 20,
-        "carbs": 55
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=palak%20paneer%20paratha%20recipe%20recipe"
-    },
-    "dinner": {
-      "dish_hindi": "खीरा और मिर्च पकोड़ा के साथ चावल",
-      "dish_english": "Rice with Cucumber and Pepper Pakora",
-      "ingredients_hindi": "चावल, खीरा, मिर्च, बेसन, नमक, तेल, मसाले",
-      "ingredients_list_hi": [
-        "चावल",
-        "खीरा",
-        "मिर्च",
-        "बेसन",
-        "नमक",
-        "तेल",
-        "मसाले"
-      ],
-      "ingredients_list_en": [
-        "Rice",
-        "Cucumber",
-        "Pepper",
-        "Gram Flour",
-        "Salt",
-        "Oil",
-        "Spices"
-      ],
-      "prep_notes_hi": "पकौड़े के लिए बेसन का पेस्ट और मसाले मिलाएं। खीरा और मिर्च के टुकड़ो को तलें। चावल के साथ परोसें।",
-      "prep_notes_en": "Prepare a batter with gram flour and spices for pakoras. Fry cucumber and pepper pieces. Serve with rice.",
-      "vizz_macros": {
-        "cal": 500,
-        "protein": 15,
-        "fat": 13,
-        "carbs": 80
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=pakora%20recipe%20hindi%20recipe"
-    },
-    "vizz_daily_total_from_meals": {
-      "cal": 1330,
-      "protein": 45,
-      "fat": 45,
-      "carbs": 185
-    },
-    "vizz_daily_total_with_shake": {
-      "cal": 1630,
-      "protein": 85,
-      "fat": 50,
-      "carbs": 210
-    },
-    "macro_check": "This hits the carb target but is low by 25g protein and 10g fat. Consider supplementing with more paneer or dal."
-  },
-  {
     "date": "2026-08-16 (Sunday)",
     "date_display": "Sunday, August 16",
     "date_short": "Sun · Aug 16",
@@ -3552,5 +3433,118 @@
       "carbs": 300
     },
     "macro_check": "Daily target under for protein (93g vs. 110g); consider adding another protein source."
+  },
+  {
+    "date": "2026-09-14 (Monday)",
+    "date_display": "Monday, September 14",
+    "date_short": "Mon · Sep 14",
+    "generated_label": "Generated last night for today",
+    "breakfast": {
+      "dish_hindi": "सूजी का हलवा और उबला हुआ अंडा (विज़ और फ्लैटमेट-2 के लिए)",
+      "dish_english": "Sooji Halwa with Boiled Egg (for Vizz and Flatmate-2)",
+      "ingredients_hindi": "सूजी, चीनी, घी, पानी, बादाम, किशमिश, अंडा",
+      "ingredients_list_hi": [
+        "सूजी",
+        "चीनी",
+        "घी",
+        "पानी",
+        "बादाम",
+        "किशमिश",
+        "अंडा"
+      ],
+      "ingredients_list_en": [
+        "Sooji (semolina)",
+        "Sugar",
+        "Ghee",
+        "Water",
+        "Almonds",
+        "Raisins",
+        "Egg"
+      ],
+      "prep_notes_hi": "सूजी को घी में हल्का सुनहरा भूनें। धीरे-धीरे पानी डालें, गांठ से बचने के लिए चलाते रहें। अंत में चीनी और सूखे मेवे डालें।",
+      "prep_notes_en": "Roast the semolina in ghee until lightly golden. Gradually add water, stirring constantly to avoid lumps. Finally, add sugar and dry fruits.",
+      "vizz_macros": {
+        "cal": 420,
+        "protein": 12,
+        "fat": 20,
+        "carbs": 55
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=sooji%20halwa%20recipe%20hindi%20recipe"
+    },
+    "lunch": {
+      "dish_hindi": "पालक पनीर और जीरा राइस",
+      "dish_english": "Palak Paneer with Jeera Rice",
+      "ingredients_hindi": "पालक, पनीर, प्याज, टमाटर, हरी मिर्च, अदरक, जीरा, चावल",
+      "ingredients_list_hi": [
+        "पालक",
+        "पनीर",
+        "प्याज",
+        "टमाटर",
+        "हरी मिर्च",
+        "अदरक",
+        "जीरा",
+        "चावल"
+      ],
+      "ingredients_list_en": [
+        "Spinach",
+        "Paneer",
+        "Onion",
+        "Tomato",
+        "Green Chili",
+        "Ginger",
+        "Cumin",
+        "Rice"
+      ],
+      "prep_notes_hi": "पालक को थोड़ा पानी में उबालें और प्यूरी बना लें। प्याज और मसाले भूनें, पनीर और प्यूरी मिलाएँ। जीरा राइस बनाकर पैक करें। ऑफिस में गरम कर सकते हैं।",
+      "prep_notes_en": "Boil spinach briefly and puree it. Sauté onions and spices, add paneer and puree. Cook cumin rice, and pack it. Can be reheated in office.",
+      "vizz_macros": {
+        "cal": 650,
+        "protein": 30,
+        "fat": 25,
+        "carbs": 80
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=palak%20paneer%20recipe%20recipe"
+    },
+    "dinner": {
+      "dish_hindi": "थाई करी और नारियल चावल",
+      "dish_english": "Thai Curry with Coconut Rice",
+      "ingredients_hindi": "सब्जियाँ, थाई करी पेस्ट, नारियल का दूध, चावल, नारियल",
+      "ingredients_list_hi": [
+        "सब्जियाँ",
+        "थाई करी पेस्ट",
+        "नारियल का दूध",
+        "चावल",
+        "नारियल"
+      ],
+      "ingredients_list_en": [
+        "Vegetables",
+        "Thai Curry Paste",
+        "Coconut Milk",
+        "Rice",
+        "Coconut"
+      ],
+      "prep_notes_hi": "थाई करी पेस्ट और नारियल के दूध के साथ सब्जियाँ पकाएँ। नारियल के साथ चावल पकाएँ।",
+      "prep_notes_en": "Cook vegetables with Thai curry paste and coconut milk. Cook rice with coconut.",
+      "vizz_macros": {
+        "cal": 630,
+        "protein": 18,
+        "fat": 27,
+        "carbs": 85
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=Thai%20curry%20recipe%20recipe"
+    },
+    "vizz_daily_total_from_meals": {
+      "cal": 1700,
+      "protein": 60,
+      "fat": 72,
+      "carbs": 220
+    },
+    "vizz_daily_total_with_shake": {
+      "cal": 2000,
+      "protein": 100,
+      "fat": 77,
+      "carbs": 245
+    },
+    "macro_check": "Missing 10g protein to hit target; increase paneer or add more egg at breakfast."
   }
 ]
