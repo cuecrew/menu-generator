@@ -1,113 +1,111 @@
 {
-  "date": "2026-09-14 (Monday)",
-  "date_display": "Monday, September 14",
-  "date_short": "Mon · Sep 14",
+  "date": "2026-09-15 (Tuesday)",
+  "date_display": "Tuesday, September 15",
+  "date_short": "Tue · Sep 15",
   "generated_label": "Generated last night for today",
   "breakfast": {
-    "dish_hindi": "सूजी का हलवा और उबला हुआ अंडा (विज़ और फ्लैटमेट-2 के लिए)",
-    "dish_english": "Sooji Halwa with Boiled Egg (for Vizz and Flatmate-2)",
-    "ingredients_hindi": "सूजी, चीनी, घी, पानी, बादाम, किशमिश, अंडा",
+    "dish_hindi": "दलिया और उबला अंडा (विज और फ्लैटमेट-2 के लिए)",
+    "dish_english": "Daliya with Boiled Egg (for Vizz and Flatmate-2)",
+    "ingredients_hindi": "दलिया, पानी, नमक, उबला अंडा",
     "ingredients_list_hi": [
-      "सूजी",
-      "चीनी",
-      "घी",
+      "दलिया",
       "पानी",
-      "बादाम",
-      "किशमिश",
-      "अंडा"
+      "नमक",
+      "उबला अंडा"
     ],
     "ingredients_list_en": [
-      "Sooji (semolina)",
-      "Sugar",
-      "Ghee",
+      "Daliya (broken wheat)",
       "Water",
-      "Almonds",
-      "Raisins",
-      "Egg"
+      "Salt",
+      "Boiled Egg"
     ],
-    "prep_notes_hi": "सूजी को घी में हल्का सुनहरा भूनें। धीरे-धीरे पानी डालें, गांठ से बचने के लिए चलाते रहें। अंत में चीनी और सूखे मेवे डालें।",
-    "prep_notes_en": "Roast the semolina in ghee until lightly golden. Gradually add water, stirring constantly to avoid lumps. Finally, add sugar and dry fruits.",
+    "prep_notes_hi": "दलिया को धीमी आंच पर पानी और नमक के साथ अच्छी तरह से पकाएं। स्वाद के लिए थोड़ा देशी घी डाल सकते हैं।",
+    "prep_notes_en": "Cook daliya on low heat with water and salt until fully cooked. You can add a little ghee for extra flavor.",
     "vizz_macros": {
-      "cal": 420,
-      "protein": 12,
-      "fat": 20,
-      "carbs": 55
+      "cal": 320,
+      "protein": 18,
+      "fat": 10,
+      "carbs": 45
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=sooji%20halwa%20recipe%20hindi%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=daliya%20recipe%20hindi%20recipe"
   },
   "lunch": {
-    "dish_hindi": "पालक पनीर और जीरा राइस",
-    "dish_english": "Palak Paneer with Jeera Rice",
-    "ingredients_hindi": "पालक, पनीर, प्याज, टमाटर, हरी मिर्च, अदरक, जीरा, चावल",
+    "dish_hindi": "चना मसाला और बासमती चावल, पापड़",
+    "dish_english": "Chana Masala with Basmati Rice & Papad",
+    "ingredients_hindi": "चना, प्याज, टमाटर, अदरक, लहसुन, चावल, पापड़, मसाले",
     "ingredients_list_hi": [
-      "पालक",
-      "पनीर",
+      "चना",
       "प्याज",
       "टमाटर",
-      "हरी मिर्च",
       "अदरक",
-      "जीरा",
-      "चावल"
+      "लहसुन",
+      "चावल",
+      "पापड़",
+      "मसाले"
     ],
     "ingredients_list_en": [
-      "Spinach",
-      "Paneer",
+      "Chickpeas",
       "Onion",
       "Tomato",
-      "Green Chili",
       "Ginger",
-      "Cumin",
-      "Rice"
+      "Garlic",
+      "Rice",
+      "Papad",
+      "Spices"
     ],
-    "prep_notes_hi": "पालक को थोड़ा पानी में उबालें और प्यूरी बना लें। प्याज और मसाले भूनें, पनीर और प्यूरी मिलाएँ। जीरा राइस बनाकर पैक करें। ऑफिस में गरम कर सकते हैं।",
-    "prep_notes_en": "Boil spinach briefly and puree it. Sauté onions and spices, add paneer and puree. Cook cumin rice, and pack it. Can be reheated in office.",
+    "prep_notes_hi": "यह लंच अच्छी तरह से यात्रा कर सकता है और माइक्रोवेव में गर्म किया जा सकता है।",
+    "prep_notes_en": "This lunch travels well and can be reheated in the microwave.",
     "vizz_macros": {
-      "cal": 650,
-      "protein": 30,
-      "fat": 25,
-      "carbs": 80
+      "cal": 600,
+      "protein": 20,
+      "fat": 8,
+      "carbs": 100
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=palak%20paneer%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=chana%20masala%20recipe%20recipe"
   },
   "dinner": {
-    "dish_hindi": "थाई करी और नारियल चावल",
-    "dish_english": "Thai Curry with Coconut Rice",
-    "ingredients_hindi": "सब्जियाँ, थाई करी पेस्ट, नारियल का दूध, चावल, नारियल",
+    "dish_hindi": "मूंग दाल चीला और टमाटर की चटनी",
+    "dish_english": "Moong Dal Cheela with Tomato Chutney",
+    "ingredients_hindi": "मूंग दाल, अदरक, हरी मिर्च, नमक, टमाटर, धनिया, जीरा",
     "ingredients_list_hi": [
-      "सब्जियाँ",
-      "थाई करी पेस्ट",
-      "नारियल का दूध",
-      "चावल",
-      "नारियल"
+      "मूंग दाल",
+      "अदरक",
+      "हरी मिर्च",
+      "नमक",
+      "टमाटर",
+      "धनिया",
+      "जीरा"
     ],
     "ingredients_list_en": [
-      "Vegetables",
-      "Thai Curry Paste",
-      "Coconut Milk",
-      "Rice",
-      "Coconut"
+      "Moong Dal",
+      "Ginger",
+      "Green Chili",
+      "Salt",
+      "Tomato",
+      "Coriander",
+      "Cumin"
     ],
-    "prep_notes_hi": "थाई करी पेस्ट और नारियल के दूध के साथ सब्जियाँ पकाएँ। नारियल के साथ चावल पकाएँ।",
-    "prep_notes_en": "Cook vegetables with Thai curry paste and coconut milk. Cook rice with coconut.",
+    "prep_notes_hi": "मिश्रण को अच्छे से पीसकर चीले बनाएं। चीले को दोनों तरफ से अच्छी तरह सेंकें।",
+    "prep_notes_en": "Grind the batter well and make cheelas. Cook the cheelas well on both sides.",
     "vizz_macros": {
-      "cal": 630,
+      "cal": 380,
       "protein": 18,
-      "fat": 27,
-      "carbs": 85
+      "fat": 5,
+      "carbs": 60
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=Thai%20curry%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=moong%20dal%20cheela%20recipe%20recipe"
   },
   "vizz_daily_total_from_meals": {
-    "cal": 1700,
-    "protein": 60,
-    "fat": 72,
-    "carbs": 220
+    "cal": 1300,
+    "protein": 56,
+    "fat": 23,
+    "carbs": 205
   },
   "vizz_daily_total_with_shake": {
-    "cal": 2000,
-    "protein": 100,
-    "fat": 77,
-    "carbs": 245
+    "cal": 1600,
+    "protein": 96,
+    "fat": 28,
+    "carbs": 230
   },
-  "macro_check": "Missing 10g protein to hit target; increase paneer or add more egg at breakfast."
+  "macro_check": "Needs ~400 more calories and 14g more protein to hit target. Consider extra snacks or supplements."
 }
