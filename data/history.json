@@ -1,108 +1,5 @@
 [
   {
-    "date": "2026-08-17 (Monday)",
-    "date_display": "Monday, August 17",
-    "date_short": "Mon · Aug 17",
-    "generated_label": "Generated last night for today",
-    "breakfast": {
-      "dish_hindi": "आलू पराठा, दही",
-      "dish_english": "Aloo Paratha with Yogurt",
-      "ingredients_hindi": "आटा, आलू, धनिया, हरी मिर्च, दही",
-      "ingredients_list_hi": [
-        "आटा",
-        "आलू",
-        "धनिया",
-        "हरी मिर्च",
-        "दही"
-      ],
-      "ingredients_list_en": [
-        "Wheat flour",
-        "Potato",
-        "Coriander leaves",
-        "Green chili",
-        "Yogurt"
-      ],
-      "prep_notes_hi": "आटा अच्छे से गूँथें और पतला बेलें। तवे पर धीमी आंच पर सेंकें। साथ में ताज़ा दही परोसे।",
-      "prep_notes_en": "Knead the dough well and roll it out thin. Cook on a tawa on low flame. Serve with fresh yogurt.",
-      "vizz_macros": {
-        "cal": 400,
-        "protein": 10,
-        "fat": 15,
-        "carbs": 60
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=aloo%20paratha%20recipe%20hindi%20recipe"
-    },
-    "lunch": {
-      "dish_hindi": "प्याज समोसा और चटनी",
-      "dish_english": "Onion Samosa with Chutney",
-      "ingredients_hindi": "मैदा, प्याज, अदरक, हरी मिर्च, चटनी सामग्री",
-      "ingredients_list_hi": [
-        "मैदा",
-        "प्याज",
-        "अदरक",
-        "हरी मिर्च",
-        "चटनी सामग्री"
-      ],
-      "ingredients_list_en": [
-        "All-purpose flour",
-        "Onion",
-        "Ginger",
-        "Green chili",
-        "Chutney ingredients"
-      ],
-      "prep_notes_hi": "समोसा ठंडा होकर भी अच्छा लगेगा। तवा पर धीमी आंच पर सेंकें। ओवन में गरम करें।",
-      "prep_notes_en": "The samosa remains good when cold. Cook on low flame on tawa. Reheat in the microwave.",
-      "vizz_macros": {
-        "cal": 500,
-        "protein": 12,
-        "fat": 20,
-        "carbs": 70
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=onion%20samosa%20recipe%20recipe"
-    },
-    "dinner": {
-      "dish_hindi": "हरी सब्ज़ियों का सूप और मक्खन वाली ब्रेड",
-      "dish_english": "Green Vegetable Soup with Buttered Bread",
-      "ingredients_hindi": "पालक, मटर, गाजर, मक्खन, ब्रेड",
-      "ingredients_list_hi": [
-        "पालक",
-        "मटर",
-        "गाजर",
-        "मक्खन",
-        "ब्रेड"
-      ],
-      "ingredients_list_en": [
-        "Spinach",
-        "Peas",
-        "Carrot",
-        "Butter",
-        "Bread"
-      ],
-      "prep_notes_hi": "सब्ज़ियों को अच्छे से उबालकर छान लें। ब्रेड को मक्खन लगाकर ग्रिल करें।",
-      "prep_notes_en": "Boil the vegetables well and strain. Grill the bread with butter.",
-      "vizz_macros": {
-        "cal": 350,
-        "protein": 5,
-        "fat": 8,
-        "carbs": 65
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=vegetable%20soup%20recipe%20recipe"
-    },
-    "vizz_daily_total_from_meals": {
-      "cal": 1250,
-      "protein": 27,
-      "fat": 43,
-      "carbs": 195
-    },
-    "vizz_daily_total_with_shake": {
-      "cal": 1550,
-      "protein": 67,
-      "fat": 48,
-      "carbs": 220
-    },
-    "macro_check": "Calories and protein slightly under target; consider increasing veggie protein sources."
-  },
-  {
     "date": "2026-08-18 (Tuesday)",
     "date_display": "Tuesday, August 18",
     "date_short": "Tue · Aug 18",
@@ -3534,5 +3431,128 @@
       "carbs": 230
     },
     "macro_check": "Needs ~400 more calories and 14g more protein to hit target. Consider extra snacks or supplements."
+  },
+  {
+    "date": "2026-09-16 (Wednesday)",
+    "date_display": "Wednesday, September 16",
+    "date_short": "Wed · Sep 16",
+    "generated_label": "Generated last night for today",
+    "breakfast": {
+      "dish_hindi": "ओट्स उपमा और उबला अंडा (विज्ज और रूममेट-2 के लिए)",
+      "dish_english": "Oats Upma with Boiled Egg (for Vizz and Flatmate-2)",
+      "ingredients_hindi": "ओट्स, प्याज, हरी मिर्च, गाजर, मटर, तेल, नमक, राई, करी पत्ता",
+      "ingredients_list_hi": [
+        "ओट्स",
+        "प्याज",
+        "हरी मिर्च",
+        "गाजर",
+        "मटर",
+        "तेल",
+        "नमक",
+        "राई",
+        "करी पत्ता"
+      ],
+      "ingredients_list_en": [
+        "Oats",
+        "Onion",
+        "Green chili",
+        "Carrot",
+        "Peas",
+        "Oil",
+        "Salt",
+        "Mustard seeds",
+        "Curry leaves"
+      ],
+      "prep_notes_hi": "ओट्स भिगोकर रखें। तेल में राई चटकाएँ, प्याज डालें, और सब्जियाँ भून लें। ओट्स और पानी डालकर पकाएँ।",
+      "prep_notes_en": "Soak the oats. Sauté mustard seeds in oil, add onions and vegetables. Cook the oats with water.",
+      "vizz_macros": {
+        "cal": 350,
+        "protein": 12,
+        "fat": 8,
+        "carbs": 55
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=oats%20upma%20recipe%20recipe"
+    },
+    "lunch": {
+      "dish_hindi": "गोभी पराठा और टमाटर की चटनी",
+      "dish_english": "Gobi Paratha with Tomato Chutney",
+      "ingredients_hindi": "गेहूं का आटा, गोभी, अदरक, हरी मिर्च, धनिया पत्ती, नमक, तेल",
+      "ingredients_list_hi": [
+        "गेहूं का आटा",
+        "गोभी",
+        "अदरक",
+        "हरी मिर्च",
+        "धनिया पत्ती",
+        "नमक",
+        "तेल"
+      ],
+      "ingredients_list_en": [
+        "Whole wheat flour",
+        "Cauliflower",
+        "Ginger",
+        "Green chili",
+        "Coriander leaves",
+        "Salt",
+        "Oil"
+      ],
+      "prep_notes_hi": "भरवां पराठे बनाकर अच्छी तरह सेंक लें। लंच बॉक्स में रखें ताकि इसे आसानी से ले जाया जा सके और फिर से गरम हो सके।",
+      "prep_notes_en": "Fill and roll the parathas well. Suitable for packing in a lunchbox, reheat well.",
+      "vizz_macros": {
+        "cal": 400,
+        "protein": 10,
+        "fat": 15,
+        "carbs": 60
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=gobi%20paratha%20recipe%20recipe"
+    },
+    "dinner": {
+      "dish_hindi": "पनीर भुर्जी और चपाती",
+      "dish_english": "Paneer Bhurji with Chapati",
+      "ingredients_hindi": "पनीर, प्याज, टमाटर, शिमला मिर्च, हरी मिर्च, हल्दी, नमक, तेल, गेहूं का आटा",
+      "ingredients_list_hi": [
+        "पनीर",
+        "प्याज",
+        "टमाटर",
+        "शिमला मिर्च",
+        "हरी मिर्च",
+        "हल्दी",
+        "नमक",
+        "तेल",
+        "गेहूं का आटा"
+      ],
+      "ingredients_list_en": [
+        "Paneer",
+        "Onion",
+        "Tomato",
+        "Capsicum",
+        "Green chili",
+        "Turmeric",
+        "Salt",
+        "Oil",
+        "Whole wheat flour"
+      ],
+      "prep_notes_hi": "पनीर को कद्दूकस करें और सब्जियों के साथ हल्के मसालों में पकाएँ। चपाती के लिए आटा गूथें और बेलकर सेंकें।",
+      "prep_notes_en": "Grate the paneer and cook with vegetables and mild spices. Knead dough and cook chapatis.",
+      "vizz_macros": {
+        "cal": 570,
+        "protein": 20,
+        "fat": 22,
+        "carbs": 85
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=paneer%20bhurji%20recipe%20recipe"
+    },
+    "vizz_daily_total_from_meals": {
+      "cal": 1320,
+      "protein": 42,
+      "fat": 45,
+      "carbs": 200
+    },
+    "vizz_daily_total_with_shake": {
+      "cal": 1620,
+      "protein": 82,
+      "fat": 50,
+      "carbs": 225
+    },
+    "macro_check": "A bit low on calories and protein; consider adding a snack or increasing portions."
   }
 ]
