@@ -1,144 +1,5 @@
 [
   {
-    "date": "2026-08-18 (Tuesday)",
-    "date_display": "Tuesday, August 18",
-    "date_short": "Tue · Aug 18",
-    "generated_label": "Generated last night for today",
-    "breakfast": {
-      "dish_hindi": "अंडा और ओट्स का उपमा",
-      "dish_english": "Egg and Oats Upma",
-      "ingredients_hindi": "ओट्स, अंडा, प्याज, टमाटर, हरी मिर्च, करी पत्ता, सरसों के दाने, नमक, हल्दी, तेल",
-      "ingredients_list_hi": [
-        "ओट्स",
-        "अंडा",
-        "प्याज",
-        "टमाटर",
-        "हरी मिर्च",
-        "करी पत्ता",
-        "सरसों के दाने",
-        "नमक",
-        "हल्दी",
-        "तेल"
-      ],
-      "ingredients_list_en": [
-        "Oats",
-        "Egg",
-        "Onion",
-        "Tomato",
-        "Green Chilli",
-        "Curry Leaves",
-        "Mustard Seeds",
-        "Salt",
-        "Turmeric",
-        "Oil"
-      ],
-      "prep_notes_hi": "ओट्स को पहले थोड़े पानी में भिगो दें। पैन में सरसों के दाने और करी पत्ता का तड़का तैयार करें, फिर प्याज और हरी मिर्च को भूनें। इसमें टमाटर और अन्य सामग्री डालें। अंत में अंडा फोड़ दें।",
-      "prep_notes_en": "Soak oats in a bit of water first. Prepare a tempering with mustard seeds and curry leaves, then sauté onions and green chillies. Add tomatoes and other ingredients. Finally, crack the egg over it.",
-      "vizz_macros": {
-        "cal": 370,
-        "protein": 22,
-        "fat": 15,
-        "carbs": 45
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=oats%20upma%20recipe%20hindi%20recipe"
-    },
-    "lunch": {
-      "dish_hindi": "राजमा और जीरा राइस, पापड़",
-      "dish_english": "Rajma with Jeera Rice and Papad",
-      "ingredients_hindi": "राजमा, बासमती चावल, जीरा, प्याज, लहसुन, अदरक, टमाटर, गरम मसाला, धनिया पाउडर, नमक, तेल",
-      "ingredients_list_hi": [
-        "राजमा",
-        "बासमती चावल",
-        "जीरा",
-        "प्याज",
-        "लहसुन",
-        "अदरक",
-        "टमाटर",
-        "गरम मसाला",
-        "धनिया पाउडर",
-        "नमक",
-        "तेल"
-      ],
-      "ingredients_list_en": [
-        "Kidney Beans",
-        "Basmati Rice",
-        "Cumin Seeds",
-        "Onion",
-        "Garlic",
-        "Ginger",
-        "Tomato",
-        "Garam Masala",
-        "Coriander Powder",
-        "Salt",
-        "Oil"
-      ],
-      "prep_notes_hi": "राजमा को रात भर भिगो दें। इसे कुकर में उबालें और फिर मसालेदार ग्रेवी में पकाएं। जीरा राइस को साधारण भात की तरह बनाएं, बस जीरा का तड़का दें। यह यात्रा के लिए अच्छा है और माइक्रोवेव में आसानी से गरम किया जा सकता है।",
-      "prep_notes_en": "Soak kidney beans overnight. Boil them in a cooker, then simmer in spiced gravy. Prepare jeera rice like plain rice, adding cumin seeds. This travels well and is easily reheated in a microwave.",
-      "vizz_macros": {
-        "cal": 650,
-        "protein": 25,
-        "fat": 12,
-        "carbs": 90
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=rajma%20chawal%20recipe%20recipe"
-    },
-    "dinner": {
-      "dish_hindi": "हक्का नूडल्स और मिक्स वेज मंचूरियन",
-      "dish_english": "Hakka Noodles with Mixed Veg Manchurian",
-      "ingredients_hindi": "नूडल्स, गोभी, गाजर, शिमला मिर्च, प्याज, लहसुन, अदरक, सोया सॉस, टमाटर केचप, चिली सॉस, नमक, तेल",
-      "ingredients_list_hi": [
-        "नूडल्स",
-        "गोभी",
-        "गाजर",
-        "शिमला मिर्च",
-        "प्याज",
-        "लहसुन",
-        "अदरक",
-        "सोया सॉस",
-        "टमाटर केचप",
-        "चिली सॉस",
-        "नमक",
-        "तेल"
-      ],
-      "ingredients_list_en": [
-        "Noodles",
-        "Cabbage",
-        "Carrot",
-        "Bell Pepper",
-        "Onion",
-        "Garlic",
-        "Ginger",
-        "Soy Sauce",
-        "Tomato Ketchup",
-        "Chili Sauce",
-        "Salt",
-        "Oil"
-      ],
-      "prep_notes_hi": "नूडल्स को हल्के उबालें और ठंडे पानी से धो लें। सब्जियों को कटी हुई रखें और तेज आंच पर भूनें। मंचूरियन बॉल्स को तलें और सॉस में मिलाएं।",
-      "prep_notes_en": "Boil noodles lightly and rinse with cold water. Keep vegetables chopped and fry on high flame. Fry Manchurian balls and mix in sauce.",
-      "vizz_macros": {
-        "cal": 680,
-        "protein": 20,
-        "fat": 20,
-        "carbs": 95
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=veg%20hakka%20noodles%20recipe%20recipe"
-    },
-    "vizz_daily_total_from_meals": {
-      "cal": 1700,
-      "protein": 67,
-      "fat": 47,
-      "carbs": 230
-    },
-    "vizz_daily_total_with_shake": {
-      "cal": 2000,
-      "protein": 107,
-      "fat": 52,
-      "carbs": 255
-    },
-    "macro_check": "Hit 2000/110/60/215 target; protein close enough, fat slightly below, carbs exceeded."
-  },
-  {
     "date": "2026-08-19 (Wednesday)",
     "date_display": "Wednesday, August 19",
     "date_short": "Wed · Aug 19",
@@ -3554,5 +3415,124 @@
       "carbs": 225
     },
     "macro_check": "A bit low on calories and protein; consider adding a snack or increasing portions."
+  },
+  {
+    "date": "2026-09-17 (Thursday)",
+    "date_display": "Thursday, September 17",
+    "date_short": "Thu · Sep 17",
+    "generated_label": "Generated last night for today",
+    "breakfast": {
+      "dish_hindi": "वेगन ब्रेकफास्ट बुरिटो, गरम सॉस",
+      "dish_english": "Vegan Breakfast Burrito with Hot Sauce",
+      "ingredients_hindi": "टॉर्टिला, राजमा, आलू, पीली शिमला मिर्च, प्याज, टमाटर, मसाले, गरम सॉस",
+      "ingredients_list_hi": [
+        "टॉर्टिला",
+        "राजमा",
+        "आलू",
+        "पीली शिमला मिर्च",
+        "प्याज",
+        "टमाटर",
+        "मसाले",
+        "गरम सॉस"
+      ],
+      "ingredients_list_en": [
+        "Tortilla",
+        "Kidney Beans",
+        "Potato",
+        "Yellow Bell Pepper",
+        "Onion",
+        "Tomato",
+        "Spices",
+        "Hot Sauce"
+      ],
+      "prep_notes_hi": "राजमा और आलू को पहले से उबाल लें। टॉर्टिला को अच्छे से गर्म करके उसे थोडा हल्का गरम रखें।",
+      "prep_notes_en": "Pre-cook the kidney beans and potatoes. Warm the tortilla properly so it stays slightly warm.",
+      "vizz_macros": {
+        "cal": 350,
+        "protein": 12,
+        "fat": 8,
+        "carbs": 58
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=vegan%20breakfast%20burrito%20recipe"
+    },
+    "lunch": {
+      "dish_hindi": "मसूर दाल और चावल, पापड़",
+      "dish_english": "Masoor Dal with Rice and Papad",
+      "ingredients_hindi": "मसूर दाल, चावल, पापड़, जीरा, हल्दी, धनिया पाउडर, नमक",
+      "ingredients_list_hi": [
+        "मसूर दाल",
+        "चावल",
+        "पापड़",
+        "जीरा",
+        "हल्दी",
+        "धनिया पाउडर",
+        "नमक"
+      ],
+      "ingredients_list_en": [
+        "Masoor Dal",
+        "Rice",
+        "Papad",
+        "Cumin Seeds",
+        "Turmeric",
+        "Coriander Powder",
+        "Salt"
+      ],
+      "prep_notes_hi": "यह व्यंजन यात्रा अनुकूल और माइक्रोवेव में गर्म किया जा सकता है।",
+      "prep_notes_en": "This dish is suitable for travel and can be reheated in a microwave.",
+      "vizz_macros": {
+        "cal": 700,
+        "protein": 28,
+        "fat": 4,
+        "carbs": 138
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=masoor%20dal%20and%20rice%20recipe%20recipe"
+    },
+    "dinner": {
+      "dish_hindi": "व्हाइट सॉस पास्ता, लहसुन की ब्रेड",
+      "dish_english": "White Sauce Pasta with Garlic Bread",
+      "ingredients_hindi": "पास्ता, दूध, मक्खन, मैदा, काली मिर्च, नमक, लहसुन, ब्रेड",
+      "ingredients_list_hi": [
+        "पास्ता",
+        "दूध",
+        "मक्खन",
+        "मैदा",
+        "काली मिर्च",
+        "नमक",
+        "लहसुन",
+        "ब्रेड"
+      ],
+      "ingredients_list_en": [
+        "Pasta",
+        "Milk",
+        "Butter",
+        "Flour",
+        "Black Pepper",
+        "Salt",
+        "Garlic",
+        "Bread"
+      ],
+      "prep_notes_hi": "सॉस को लगातार चलाते रहें ताकि गांठ न बने। इसे लहसुन की ब्रेड के साथ परोसें।",
+      "prep_notes_en": "Keep stirring the sauce to avoid lumps. Serve it with garlic bread.",
+      "vizz_macros": {
+        "cal": 650,
+        "protein": 15,
+        "fat": 20,
+        "carbs": 90
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=white%20sauce%20pasta%20recipe%20recipe"
+    },
+    "vizz_daily_total_from_meals": {
+      "cal": 1700,
+      "protein": 55,
+      "fat": 32,
+      "carbs": 286
+    },
+    "vizz_daily_total_with_shake": {
+      "cal": 2000,
+      "protein": 95,
+      "fat": 37,
+      "carbs": 311
+    },
+    "macro_check": "Calorie and carb targets hit; protein is slightly low. Consider adding protein-rich side or snack."
   }
 ]
