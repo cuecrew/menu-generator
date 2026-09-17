@@ -1,119 +1,103 @@
 {
-  "date": "2026-09-17 (Thursday)",
-  "date_display": "Thursday, September 17",
-  "date_short": "Thu · Sep 17",
+  "date": "2026-09-18 (Friday)",
+  "date_display": "Friday, September 18",
+  "date_short": "Fri · Sep 18",
   "generated_label": "Generated last night for today",
   "breakfast": {
-    "dish_hindi": "वेगन ब्रेकफास्ट बुरिटो, गरम सॉस",
-    "dish_english": "Vegan Breakfast Burrito with Hot Sauce",
-    "ingredients_hindi": "टॉर्टिला, राजमा, आलू, पीली शिमला मिर्च, प्याज, टमाटर, मसाले, गरम सॉस",
+    "dish_hindi": "पालक परांठा, दही, अंडा (केवल Vizz ओर Flatmate-2 के लिए)",
+    "dish_english": "Palak Paratha with Curd and Boiled Egg (for Vizz and Flatmate-2)",
+    "ingredients_hindi": "पालक, गेहूं का आटा, दही, अंडा, मसाले",
     "ingredients_list_hi": [
-      "टॉर्टिला",
-      "राजमा",
-      "आलू",
-      "पीली शिमला मिर्च",
-      "प्याज",
-      "टमाटर",
-      "मसाले",
-      "गरम सॉस"
+      "पालक",
+      "गेहूं का आटा",
+      "दही",
+      "अंडा",
+      "मसाले"
     ],
     "ingredients_list_en": [
-      "Tortilla",
-      "Kidney Beans",
-      "Potato",
-      "Yellow Bell Pepper",
-      "Onion",
-      "Tomato",
-      "Spices",
-      "Hot Sauce"
+      "Spinach",
+      "Whole wheat flour",
+      "Curd",
+      "Egg",
+      "Spices"
     ],
-    "prep_notes_hi": "राजमा और आलू को पहले से उबाल लें। टॉर्टिला को अच्छे से गर्म करके उसे थोडा हल्का गरम रखें।",
-    "prep_notes_en": "Pre-cook the kidney beans and potatoes. Warm the tortilla properly so it stays slightly warm.",
+    "prep_notes_hi": "पालक अच्छे से बारीक काटें और आटे में मिलाएं। परांठे को तवे पर सुनहरा होने तक सेकें।",
+    "prep_notes_en": "Finely chop the spinach and mix it with the flour. Cook the paratha on a skillet until golden.",
     "vizz_macros": {
-      "cal": 350,
-      "protein": 12,
-      "fat": 8,
-      "carbs": 58
+      "cal": 480,
+      "protein": 18,
+      "fat": 18,
+      "carbs": 60
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=vegan%20breakfast%20burrito%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=palak%20paratha%20recipe%20hindi%20recipe"
   },
   "lunch": {
-    "dish_hindi": "मसूर दाल और चावल, पापड़",
-    "dish_english": "Masoor Dal with Rice and Papad",
-    "ingredients_hindi": "मसूर दाल, चावल, पापड़, जीरा, हल्दी, धनिया पाउडर, नमक",
+    "dish_hindi": "एगलेस पनीर बटर मसाला, रोटी, हरी चटनी",
+    "dish_english": "Eggless Paneer Butter Masala with Roti and Green Chutney",
+    "ingredients_hindi": "पनीर, टमाटर, क्रीम, मसाले, आटा",
     "ingredients_list_hi": [
-      "मसूर दाल",
-      "चावल",
-      "पापड़",
-      "जीरा",
-      "हल्दी",
-      "धनिया पाउडर",
-      "नमक"
+      "पनीर",
+      "टमाटर",
+      "क्रीम",
+      "मसाले",
+      "आटा"
     ],
     "ingredients_list_en": [
-      "Masoor Dal",
-      "Rice",
-      "Papad",
-      "Cumin Seeds",
-      "Turmeric",
-      "Coriander Powder",
-      "Salt"
+      "Paneer",
+      "Tomato",
+      "Cream",
+      "Spices",
+      "Flour"
     ],
-    "prep_notes_hi": "यह व्यंजन यात्रा अनुकूल और माइक्रोवेव में गर्म किया जा सकता है।",
-    "prep_notes_en": "This dish is suitable for travel and can be reheated in a microwave.",
-    "vizz_macros": {
-      "cal": 700,
-      "protein": 28,
-      "fat": 4,
-      "carbs": 138
-    },
-    "youtube_url": "https://www.youtube.com/results?search_query=masoor%20dal%20and%20rice%20recipe%20recipe"
-  },
-  "dinner": {
-    "dish_hindi": "व्हाइट सॉस पास्ता, लहसुन की ब्रेड",
-    "dish_english": "White Sauce Pasta with Garlic Bread",
-    "ingredients_hindi": "पास्ता, दूध, मक्खन, मैदा, काली मिर्च, नमक, लहसुन, ब्रेड",
-    "ingredients_list_hi": [
-      "पास्ता",
-      "दूध",
-      "मक्खन",
-      "मैदा",
-      "काली मिर्च",
-      "नमक",
-      "लहसुन",
-      "ब्रेड"
-    ],
-    "ingredients_list_en": [
-      "Pasta",
-      "Milk",
-      "Butter",
-      "Flour",
-      "Black Pepper",
-      "Salt",
-      "Garlic",
-      "Bread"
-    ],
-    "prep_notes_hi": "सॉस को लगातार चलाते रहें ताकि गांठ न बने। इसे लहसुन की ब्रेड के साथ परोसें।",
-    "prep_notes_en": "Keep stirring the sauce to avoid lumps. Serve it with garlic bread.",
+    "prep_notes_hi": "टमाटर की प्यूरी तैयार करें और मसालों के साथ पकाएं। यह व्यंजन आसानी से पैक होकर दोपहर में गरम करके खाया जा सकता है।",
+    "prep_notes_en": "Prepare tomato puree and cook with spices. This dish can be easily packed and reheated at lunchtime.",
     "vizz_macros": {
       "cal": 650,
-      "protein": 15,
-      "fat": 20,
-      "carbs": 90
+      "protein": 30,
+      "fat": 35,
+      "carbs": 60
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=white%20sauce%20pasta%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=paneer%20butter%20masala%20recipe%20recipe"
+  },
+  "dinner": {
+    "dish_hindi": "मसूर दाल के साथ जीरा चावल और पापड़",
+    "dish_english": "Jeera Rice with Masoor Dal and Papad",
+    "ingredients_hindi": "चावल, मसूर दाल, जीरा, मसाले, पापड़",
+    "ingredients_list_hi": [
+      "चावल",
+      "मसूर दाल",
+      "जीरा",
+      "मसाले",
+      "पापड़"
+    ],
+    "ingredients_list_en": [
+      "Rice",
+      "Masoor dal",
+      "Cumin seeds",
+      "Spices",
+      "Papad"
+    ],
+    "prep_notes_hi": "जीरा चावल के लिए पहले चावल भिगोकर रखें। दाल को पहले से पका लें।",
+    "prep_notes_en": "Soak the rice for jeera rice ahead of time. Pre-cook the dal for quicker preparation.",
+    "vizz_macros": {
+      "cal": 570,
+      "protein": 20,
+      "fat": 12,
+      "carbs": 100
+    },
+    "youtube_url": "https://www.youtube.com/results?search_query=jeera%20rice%20masoor%20dal%20recipe%20recipe"
   },
   "vizz_daily_total_from_meals": {
     "cal": 1700,
-    "protein": 55,
-    "fat": 32,
-    "carbs": 286
+    "protein": 68,
+    "fat": 65,
+    "carbs": 220
   },
   "vizz_daily_total_with_shake": {
     "cal": 2000,
-    "protein": 95,
-    "fat": 37,
-    "carbs": 311
+    "protein": 108,
+    "fat": 70,
+    "carbs": 245
   },
-  "macro_check": "Calorie and carb targets hit; protein is slightly low. Consider adding protein-rich side or snack."
+  "macro_check": "Daily target not precisely hit: total protein is slightly below 110g. Consider small adjustments."
 }
