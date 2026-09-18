@@ -1,103 +1,107 @@
 {
-  "date": "2026-09-18 (Friday)",
-  "date_display": "Friday, September 18",
-  "date_short": "Fri · Sep 18",
+  "date": "2026-09-19 (Saturday)",
+  "date_display": "Saturday, September 19",
+  "date_short": "Sat · Sep 19",
   "generated_label": "Generated last night for today",
   "breakfast": {
-    "dish_hindi": "पालक परांठा, दही, अंडा (केवल Vizz ओर Flatmate-2 के लिए)",
-    "dish_english": "Palak Paratha with Curd and Boiled Egg (for Vizz and Flatmate-2)",
-    "ingredients_hindi": "पालक, गेहूं का आटा, दही, अंडा, मसाले",
+    "dish_hindi": "इडली, नारियल चटनी और सांभर",
+    "dish_english": "Idli, Coconut Chutney & Sambar",
+    "ingredients_hindi": "इडली बैटर, नारियल, हरी मिर्च, कड़ी पत्ते, चना दाल, सांभर मिक्स, सब्जियाँ",
     "ingredients_list_hi": [
-      "पालक",
-      "गेहूं का आटा",
-      "दही",
-      "अंडा",
-      "मसाले"
+      "इडली बैटर",
+      "नारियल",
+      "हरी मिर्च",
+      "कड़ी पत्ते",
+      "चना दाल",
+      "सांभर मिक्स",
+      "सब्जियाँ"
     ],
     "ingredients_list_en": [
-      "Spinach",
-      "Whole wheat flour",
-      "Curd",
-      "Egg",
-      "Spices"
+      "Idli batter",
+      "Coconut",
+      "Green chili",
+      "Curry leaves",
+      "Chana dal",
+      "Sambar mix",
+      "Vegetables"
     ],
-    "prep_notes_hi": "पालक अच्छे से बारीक काटें और आटे में मिलाएं। परांठे को तवे पर सुनहरा होने तक सेकें।",
-    "prep_notes_en": "Finely chop the spinach and mix it with the flour. Cook the paratha on a skillet until golden.",
+    "prep_notes_hi": "इडली को अच्छे से भाप में पकाएँ। नारियल चटनी के लिए ताजे नारियल का प्रयोग करें। सांभर को अच्छे से उबालें ताकि स्वाद मिक्स हो जाएं।",
+    "prep_notes_en": "Steam the idlis properly. Use fresh coconut for the chutney. Boil the sambar well to mix flavors thoroughly.",
     "vizz_macros": {
-      "cal": 480,
-      "protein": 18,
-      "fat": 18,
-      "carbs": 60
+      "cal": 350,
+      "protein": 8,
+      "fat": 7,
+      "carbs": 70
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=palak%20paratha%20recipe%20hindi%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=idli%20sambar%20coconut%20chutney%20recipe"
   },
   "lunch": {
-    "dish_hindi": "एगलेस पनीर बटर मसाला, रोटी, हरी चटनी",
-    "dish_english": "Eggless Paneer Butter Masala with Roti and Green Chutney",
-    "ingredients_hindi": "पनीर, टमाटर, क्रीम, मसाले, आटा",
+    "dish_hindi": "राजमा चावल, प्याज के सलाद और अचार",
+    "dish_english": "Rajma with Basmati Rice, Onion Salad & Pickle",
+    "ingredients_hindi": "राजमा, चावल, प्याज, टमाटर, मसाले, अचार",
     "ingredients_list_hi": [
-      "पनीर",
+      "राजमा",
+      "चावल",
+      "प्याज",
       "टमाटर",
-      "क्रीम",
       "मसाले",
-      "आटा"
+      "अचार"
     ],
     "ingredients_list_en": [
-      "Paneer",
+      "Kidney beans",
+      "Rice",
+      "Onion",
       "Tomato",
-      "Cream",
       "Spices",
-      "Flour"
+      "Pickle"
     ],
-    "prep_notes_hi": "टमाटर की प्यूरी तैयार करें और मसालों के साथ पकाएं। यह व्यंजन आसानी से पैक होकर दोपहर में गरम करके खाया जा सकता है।",
-    "prep_notes_en": "Prepare tomato puree and cook with spices. This dish can be easily packed and reheated at lunchtime.",
+    "prep_notes_hi": "राजमा को रात भर भीगने दें। इसे अच्छी तरह पकाएं ताकि राजमा नरम हो जाए। चावल को ठीक से पकाएँ और प्याज का सलाद ताजगी लाने के लिए।",
+    "prep_notes_en": "Soak the kidney beans overnight. Cook them properly until soft. Cook the rice well and serve with fresh onion salad.",
     "vizz_macros": {
-      "cal": 650,
-      "protein": 30,
-      "fat": 35,
-      "carbs": 60
+      "cal": 700,
+      "protein": 24,
+      "fat": 5,
+      "carbs": 130
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=paneer%20butter%20masala%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=rajma%20rice%20recipe%20recipe"
   },
   "dinner": {
-    "dish_hindi": "मसूर दाल के साथ जीरा चावल और पापड़",
-    "dish_english": "Jeera Rice with Masoor Dal and Papad",
-    "ingredients_hindi": "चावल, मसूर दाल, जीरा, मसाले, पापड़",
+    "dish_hindi": "मिक्स वेजिटेबल पुलाव, रायता और पापड़",
+    "dish_english": "Mixed Vegetable Pulao with Raita & Papad",
+    "ingredients_hindi": "बासमती चावल, मिक्स सब्जियाँ, रायता मसाले, पापड़",
     "ingredients_list_hi": [
-      "चावल",
-      "मसूर दाल",
-      "जीरा",
-      "मसाले",
+      "बासमती चावल",
+      "मिक्स सब्जियाँ",
+      "रायता मसाले",
       "पापड़"
     ],
     "ingredients_list_en": [
-      "Rice",
-      "Masoor dal",
-      "Cumin seeds",
-      "Spices",
+      "Basmati rice",
+      "Mixed vegetables",
+      "Raita spices",
       "Papad"
     ],
-    "prep_notes_hi": "जीरा चावल के लिए पहले चावल भिगोकर रखें। दाल को पहले से पका लें।",
-    "prep_notes_en": "Soak the rice for jeera rice ahead of time. Pre-cook the dal for quicker preparation.",
+    "prep_notes_hi": "बासमती चावल अच्छे से धो लें। सब्जियों के साथ अच्छी तरह से पकाएं। रायता ठंडा और ताजगी देने वाला होना चाहिए।",
+    "prep_notes_en": "Rinse the basmati rice well. Cook properly with the vegetables. The raita should be cold and refreshing.",
     "vizz_macros": {
-      "cal": 570,
-      "protein": 20,
-      "fat": 12,
-      "carbs": 100
+      "cal": 650,
+      "protein": 12,
+      "fat": 8,
+      "carbs": 120
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=jeera%20rice%20masoor%20dal%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=vegetable%20pulao%20recipe%20recipe"
   },
   "vizz_daily_total_from_meals": {
     "cal": 1700,
-    "protein": 68,
-    "fat": 65,
-    "carbs": 220
+    "protein": 44,
+    "fat": 20,
+    "carbs": 320
   },
   "vizz_daily_total_with_shake": {
     "cal": 2000,
-    "protein": 108,
-    "fat": 70,
-    "carbs": 245
+    "protein": 84,
+    "fat": 25,
+    "carbs": 345
   },
-  "macro_check": "Daily target not precisely hit: total protein is slightly below 110g. Consider small adjustments."
+  "macro_check": "Calories and carbs met, but total protein is slightly below target with 84g; fat is also below target at 25g."
 }
