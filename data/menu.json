@@ -1,107 +1,111 @@
 {
-  "date": "2026-09-19 (Saturday)",
-  "date_display": "Saturday, September 19",
-  "date_short": "Sat · Sep 19",
+  "date": "2026-09-20 (Sunday)",
+  "date_display": "Sunday, September 20",
+  "date_short": "Sun · Sep 20",
   "generated_label": "Generated last night for today",
   "breakfast": {
-    "dish_hindi": "इडली, नारियल चटनी और सांभर",
-    "dish_english": "Idli, Coconut Chutney & Sambar",
-    "ingredients_hindi": "इडली बैटर, नारियल, हरी मिर्च, कड़ी पत्ते, चना दाल, सांभर मिक्स, सब्जियाँ",
+    "dish_hindi": "उपमा, नारियल चटनी और उबले अंडे (विज़ और फ्लैटमेट-2 के लिए)",
+    "dish_english": "Upma with Coconut Chutney and Boiled Eggs (for Vizz and Flatmate-2)",
+    "ingredients_hindi": "सूजी, सरसों के दाने, प्याज, मटर, हरी मिर्च, नारियल, उबले अंडे",
     "ingredients_list_hi": [
-      "इडली बैटर",
-      "नारियल",
+      "सूजी",
+      "सरसों के दाने",
+      "प्याज",
+      "मटर",
       "हरी मिर्च",
-      "कड़ी पत्ते",
-      "चना दाल",
-      "सांभर मिक्स",
-      "सब्जियाँ"
+      "नारियल",
+      "उबले अंडे"
     ],
     "ingredients_list_en": [
-      "Idli batter",
-      "Coconut",
+      "Semolina",
+      "Mustard seeds",
+      "Onion",
+      "Peas",
       "Green chili",
-      "Curry leaves",
-      "Chana dal",
-      "Sambar mix",
-      "Vegetables"
+      "Coconut",
+      "Boiled eggs"
     ],
-    "prep_notes_hi": "इडली को अच्छे से भाप में पकाएँ। नारियल चटनी के लिए ताजे नारियल का प्रयोग करें। सांभर को अच्छे से उबालें ताकि स्वाद मिक्स हो जाएं।",
-    "prep_notes_en": "Steam the idlis properly. Use fresh coconut for the chutney. Boil the sambar well to mix flavors thoroughly.",
+    "prep_notes_hi": "लगातार चलाते हुए सूजी को भूनें। सभी सामग्री अच्छे से मिलाकर पकाएं। नारियल चटनी के लिए ताजा नारियल पीसें।",
+    "prep_notes_en": "Roast the semolina while stirring continuously. Cook all ingredients thoroughly. Grind fresh coconut for the chutney.",
     "vizz_macros": {
-      "cal": 350,
-      "protein": 8,
-      "fat": 7,
+      "cal": 450,
+      "protein": 16,
+      "fat": 15,
       "carbs": 70
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=idli%20sambar%20coconut%20chutney%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=upma%20recipe%20hindi%20recipe"
   },
   "lunch": {
-    "dish_hindi": "राजमा चावल, प्याज के सलाद और अचार",
-    "dish_english": "Rajma with Basmati Rice, Onion Salad & Pickle",
-    "ingredients_hindi": "राजमा, चावल, प्याज, टमाटर, मसाले, अचार",
+    "dish_hindi": "चने की सब्जी और गेहूं का पराठा",
+    "dish_english": "Chickpea Curry with Wheat Paratha",
+    "ingredients_hindi": "चने, टमाटर, प्याज, अदरक, लहसुन, गेहूं का आटा",
     "ingredients_list_hi": [
-      "राजमा",
-      "चावल",
-      "प्याज",
+      "चने",
       "टमाटर",
-      "मसाले",
-      "अचार"
+      "प्याज",
+      "अदरक",
+      "लहसुन",
+      "गेहूं का आटा"
     ],
     "ingredients_list_en": [
-      "Kidney beans",
-      "Rice",
-      "Onion",
+      "Chickpeas",
       "Tomato",
-      "Spices",
-      "Pickle"
+      "Onion",
+      "Ginger",
+      "Garlic",
+      "Wheat flour"
     ],
-    "prep_notes_hi": "राजमा को रात भर भीगने दें। इसे अच्छी तरह पकाएं ताकि राजमा नरम हो जाए। चावल को ठीक से पकाएँ और प्याज का सलाद ताजगी लाने के लिए।",
-    "prep_notes_en": "Soak the kidney beans overnight. Cook them properly until soft. Cook the rice well and serve with fresh onion salad.",
+    "prep_notes_hi": "चना करी को अच्छी तरह से पकाएं, इसे रसोई में पैक करें। जैसा कि परांठा चलता है और पुनः गर्म होता है, इसे अच्छा से तलें।",
+    "prep_notes_en": "Cook the chickpea curry thoroughly and pack it well for office. Parathas travel and reheat well, so fry them properly.",
     "vizz_macros": {
-      "cal": 700,
-      "protein": 24,
-      "fat": 5,
-      "carbs": 130
+      "cal": 620,
+      "protein": 22,
+      "fat": 20,
+      "carbs": 95
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=rajma%20rice%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=chole%20paratha%20recipe%20recipe"
   },
   "dinner": {
-    "dish_hindi": "मिक्स वेजिटेबल पुलाव, रायता और पापड़",
-    "dish_english": "Mixed Vegetable Pulao with Raita & Papad",
-    "ingredients_hindi": "बासमती चावल, मिक्स सब्जियाँ, रायता मसाले, पापड़",
+    "dish_hindi": "वेगन पैड थाई",
+    "dish_english": "Vegan Pad Thai",
+    "ingredients_hindi": "चावल नूडल्स, टोफू, मूंगफली, शिमला मिर्च, सोया सॉस, नीबू",
     "ingredients_list_hi": [
-      "बासमती चावल",
-      "मिक्स सब्जियाँ",
-      "रायता मसाले",
-      "पापड़"
+      "चावल नूडल्स",
+      "टोफू",
+      "मूंगफली",
+      "शिमला मिर्च",
+      "सोया सॉस",
+      "नीबू"
     ],
     "ingredients_list_en": [
-      "Basmati rice",
-      "Mixed vegetables",
-      "Raita spices",
-      "Papad"
+      "Rice noodles",
+      "Tofu",
+      "Peanuts",
+      "Bell peppers",
+      "Soy sauce",
+      "Lime"
     ],
-    "prep_notes_hi": "बासमती चावल अच्छे से धो लें। सब्जियों के साथ अच्छी तरह से पकाएं। रायता ठंडा और ताजगी देने वाला होना चाहिए।",
-    "prep_notes_en": "Rinse the basmati rice well. Cook properly with the vegetables. The raita should be cold and refreshing.",
+    "prep_notes_hi": "शाकाहारी सॉस का उपयोग करके चावल नूडल्स को पकाएं। टोफू और सब्जियों को हल्का तलें। मूंगफली और नीबू का रस डालें।",
+    "prep_notes_en": "Cook rice noodles using vegan sauce. Lightly sauté tofu and vegetables. Add peanuts and lime juice.",
     "vizz_macros": {
-      "cal": 650,
-      "protein": 12,
-      "fat": 8,
-      "carbs": 120
+      "cal": 630,
+      "protein": 18,
+      "fat": 12,
+      "carbs": 90
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=vegetable%20pulao%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=vegan%20pad%20thai%20recipe%20recipe"
   },
   "vizz_daily_total_from_meals": {
     "cal": 1700,
-    "protein": 44,
-    "fat": 20,
-    "carbs": 320
+    "protein": 56,
+    "fat": 47,
+    "carbs": 255
   },
   "vizz_daily_total_with_shake": {
     "cal": 2000,
-    "protein": 84,
-    "fat": 25,
-    "carbs": 345
+    "protein": 96,
+    "fat": 52,
+    "carbs": 280
   },
-  "macro_check": "Calories and carbs met, but total protein is slightly below target with 84g; fat is also below target at 25g."
+  "macro_check": "Calories and carbs targets met; protein slightly below target due to meal composition."
 }
