@@ -1,128 +1,5 @@
 [
   {
-    "date": "2026-08-22 (Saturday)",
-    "date_display": "Saturday, August 22",
-    "date_short": "Sat · Aug 22",
-    "generated_label": "Generated last night for today",
-    "breakfast": {
-      "dish_hindi": "उपमा, उबला अंडा (केवल Vizz और Flatmate-2 के लिए)",
-      "dish_english": "Upma with Boiled Egg (only for Vizz and Flatmate-2)",
-      "ingredients_hindi": "सूजी, प्याज, हरी मिर्च, सरसों के बीज, करी पत्ते, नमक, तेल, उबला अंडा",
-      "ingredients_list_hi": [
-        "सूजी",
-        "प्याज",
-        "हरी मिर्च",
-        "सरसों के बीज",
-        "करी पत्ते",
-        "नमक",
-        "तेल",
-        "उबला अंडा"
-      ],
-      "ingredients_list_en": [
-        "Semolina",
-        "Onion",
-        "Green Chili",
-        "Mustard Seeds",
-        "Curry Leaves",
-        "Salt",
-        "Oil",
-        "Boiled Egg"
-      ],
-      "prep_notes_hi": "सूजी को सूखा भूनें जब तक कि वह सुनहरी न हो जाए। अन्य मसालों के साथ अच्छी तरह से मिलाकर पकाएं।",
-      "prep_notes_en": "Dry roast the semolina until it turns golden. Cook well with other spices and mix thoroughly.",
-      "vizz_macros": {
-        "cal": 370,
-        "protein": 12,
-        "fat": 15,
-        "carbs": 50
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=upma%20recipe%20hindi%20recipe"
-    },
-    "lunch": {
-      "dish_hindi": "राजमा चावल, प्याज के साथ",
-      "dish_english": "Rajma with Rice and Onion",
-      "ingredients_hindi": "राजमा, चावल, प्याज, अदरक, लहसुन, टमाटर, मसाले, नमक",
-      "ingredients_list_hi": [
-        "राजमा",
-        "चावल",
-        "प्याज",
-        "अदरक",
-        "लहसुन",
-        "टमाटर",
-        "मसाले",
-        "नमक"
-      ],
-      "ingredients_list_en": [
-        "Kidney Beans",
-        "Rice",
-        "Onion",
-        "Ginger",
-        "Garlic",
-        "Tomato",
-        "Spices",
-        "Salt"
-      ],
-      "prep_notes_hi": "राजमा को रातभर भिगोकर रखें। इस बात का ध्यान रखें कि यह दोपहर के खाने के लिए पोर्टेबल और गर्म करने योग्य हो।",
-      "prep_notes_en": "Soak the kidney beans overnight. Ensure it's portable for lunch and reheatable.",
-      "vizz_macros": {
-        "cal": 700,
-        "protein": 28,
-        "fat": 5,
-        "carbs": 127
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=rajma%20chawal%20recipe%20recipe"
-    },
-    "dinner": {
-      "dish_hindi": "एशियन नूडल्स, मिर्च सॉस के साथ",
-      "dish_english": "Asian Noodles with Chili Sauce",
-      "ingredients_hindi": "नूडल्स, गाजर, शिमला मिर्च, सोया सॉस, मिर्च सॉस, हरी प्याज, लहसुन, तेल, नमक",
-      "ingredients_list_hi": [
-        "नूडल्स",
-        "गाजर",
-        "शिमला मिर्च",
-        "सोया सॉस",
-        "मिर्च सॉस",
-        "हरी प्याज",
-        "लहसुन",
-        "तेल",
-        "नमक"
-      ],
-      "ingredients_list_en": [
-        "Noodles",
-        "Carrot",
-        "Bell Pepper",
-        "Soy Sauce",
-        "Chili Sauce",
-        "Spring Onion",
-        "Garlic",
-        "Oil",
-        "Salt"
-      ],
-      "prep_notes_hi": "सभी सब्जियों को पतला काटें। बहुत अधिक पकाने से बचें, ताकि सब्जियां क्रिस्पी रहें।",
-      "prep_notes_en": "Thinly slice all vegetables. Avoid overcooking to keep the vegetables crisp.",
-      "vizz_macros": {
-        "cal": 630,
-        "protein": 10,
-        "fat": 25,
-        "carbs": 90
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=asian%20noodles%20recipe%20recipe"
-    },
-    "vizz_daily_total_from_meals": {
-      "cal": 1700,
-      "protein": 50,
-      "fat": 45,
-      "carbs": 267
-    },
-    "vizz_daily_total_with_shake": {
-      "cal": 2000,
-      "protein": 90,
-      "fat": 50,
-      "carbs": 292
-    },
-    "macro_check": "Carbs slightly over target but overall balance is good; protein on the lower side due to vegetarian meals."
-  },
-  {
     "date": "2026-08-23 (Sunday)",
     "date_display": "Sunday, August 23",
     "date_short": "Sun · Aug 23",
@@ -3500,5 +3377,132 @@
       "carbs": 280
     },
     "macro_check": "Calories and carbs targets met; protein slightly below target due to meal composition."
+  },
+  {
+    "date": "2026-09-21 (Monday)",
+    "date_display": "Monday, September 21",
+    "date_short": "Mon · Sep 21",
+    "generated_label": "Generated last night for today",
+    "breakfast": {
+      "dish_hindi": "ओट्स चिल्ला, दही, उबला अंडा (Vizz और Flatmate-2 के लिए)",
+      "dish_english": "Oats Cheela with Curd and Boiled Egg (for Vizz and Flatmate-2)",
+      "ingredients_hindi": "ओट्स, बेसन, हरी मिर्च, अदरक, दही, उबला अंडा (Vizz और Flatmate-2 के लिए), नमक, तेल",
+      "ingredients_list_hi": [
+        "ओट्स",
+        "बेसन",
+        "हरी मिर्च",
+        "अदरक",
+        "दही",
+        "उबला अंडा",
+        "नमक",
+        "तेल"
+      ],
+      "ingredients_list_en": [
+        "Oats",
+        "Gram flour",
+        "Green chili",
+        "Ginger",
+        "Curd",
+        "Boiled egg",
+        "Salt",
+        "Oil"
+      ],
+      "prep_notes_hi": "ओट्स को बेसन के साथ मिलाएं। थोड़े पानी के साथ घोल बनाएं। ऐड सब्जियाँ और तवे पर थोड़े तेल में सेंकें।",
+      "prep_notes_en": "Mix oats with gram flour. Make a batter with some water. Add vegetables and cook on a pan with minimal oil.",
+      "vizz_macros": {
+        "cal": 400,
+        "protein": 22,
+        "fat": 13,
+        "carbs": 55
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=oats%20cheela%20recipe%20recipe"
+    },
+    "lunch": {
+      "dish_hindi": "पनीर भूर्जी रोटी, आचार",
+      "dish_english": "Paneer Bhurji with Roti and Pickle",
+      "ingredients_hindi": "पनीर, प्याज, हरी मिर्च, टमाटर, हल्दी, धनिया पाउडर, गरम मसाला, नमक, रोटी, आचार",
+      "ingredients_list_hi": [
+        "पनीर",
+        "प्याज",
+        "हरी मिर्च",
+        "टमाटर",
+        "हल्दी",
+        "धनिया पाउडर",
+        "गरम मसाला",
+        "नमक",
+        "रोटी",
+        "आचार"
+      ],
+      "ingredients_list_en": [
+        "Paneer",
+        "Onion",
+        "Green chili",
+        "Tomato",
+        "Turmeric",
+        "Coriander powder",
+        "Garam masala",
+        "Salt",
+        "Roti",
+        "Pickle"
+      ],
+      "prep_notes_hi": "पनीर को मसालों के साथ प्याज और टमाटर के साथ भूनें। रोटी के साथ पैक करें। आसानी से दोपहर के भोजन में ले जा सकते हैं।",
+      "prep_notes_en": "Sauté paneer with spices, onion, and tomato. Pack with roti. Suitable for portable lunch.",
+      "vizz_macros": {
+        "cal": 600,
+        "protein": 30,
+        "fat": 28,
+        "carbs": 60
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=paneer%20bhurji%20recipe%20recipe"
+    },
+    "dinner": {
+      "dish_hindi": "साबुत मूंग खिचड़ी, पापड़, दही (Flatmate-3 को फल के लिए आम)",
+      "dish_english": "Whole Moong Khichdi with Papad and Curd (Mango for Flatmate-3)",
+      "ingredients_hindi": "साबुत मूंग, चावल, अदरक, जीरा, घी, हींग, नमक, पापड़, दही",
+      "ingredients_list_hi": [
+        "साबुत मूंग",
+        "चावल",
+        "अदरक",
+        "जीरा",
+        "घी",
+        "हींग",
+        "नमक",
+        "पापड़",
+        "दही"
+      ],
+      "ingredients_list_en": [
+        "Whole moong",
+        "Rice",
+        "Ginger",
+        "Cumin",
+        "Ghee",
+        "Asafoetida",
+        "Salt",
+        "Papad",
+        "Curd"
+      ],
+      "prep_notes_hi": "मूंग और चावल को पकाएं। जीरा और हींग का तड़का लगाएं। गरमा गरम परोसें।",
+      "prep_notes_en": "Cook moong and rice together. Temper with cumin and asafoetida. Serve hot.",
+      "vizz_macros": {
+        "cal": 600,
+        "protein": 20,
+        "fat": 10,
+        "carbs": 100
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=moong%20khichdi%20recipe%20recipe"
+    },
+    "vizz_daily_total_from_meals": {
+      "cal": 1600,
+      "protein": 72,
+      "fat": 51,
+      "carbs": 215
+    },
+    "vizz_daily_total_with_shake": {
+      "cal": 1900,
+      "protein": 112,
+      "fat": 56,
+      "carbs": 240
+    },
+    "macro_check": "Slightly under target by 100 calories, but meets protein and carb targets. Consider mid-meal fruit or nuts for Vizz."
   }
 ]

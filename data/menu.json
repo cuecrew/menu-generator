@@ -1,111 +1,127 @@
 {
-  "date": "2026-09-20 (Sunday)",
-  "date_display": "Sunday, September 20",
-  "date_short": "Sun · Sep 20",
+  "date": "2026-09-21 (Monday)",
+  "date_display": "Monday, September 21",
+  "date_short": "Mon · Sep 21",
   "generated_label": "Generated last night for today",
   "breakfast": {
-    "dish_hindi": "उपमा, नारियल चटनी और उबले अंडे (विज़ और फ्लैटमेट-2 के लिए)",
-    "dish_english": "Upma with Coconut Chutney and Boiled Eggs (for Vizz and Flatmate-2)",
-    "ingredients_hindi": "सूजी, सरसों के दाने, प्याज, मटर, हरी मिर्च, नारियल, उबले अंडे",
+    "dish_hindi": "ओट्स चिल्ला, दही, उबला अंडा (Vizz और Flatmate-2 के लिए)",
+    "dish_english": "Oats Cheela with Curd and Boiled Egg (for Vizz and Flatmate-2)",
+    "ingredients_hindi": "ओट्स, बेसन, हरी मिर्च, अदरक, दही, उबला अंडा (Vizz और Flatmate-2 के लिए), नमक, तेल",
     "ingredients_list_hi": [
-      "सूजी",
-      "सरसों के दाने",
-      "प्याज",
-      "मटर",
+      "ओट्स",
+      "बेसन",
       "हरी मिर्च",
-      "नारियल",
-      "उबले अंडे"
+      "अदरक",
+      "दही",
+      "उबला अंडा",
+      "नमक",
+      "तेल"
     ],
     "ingredients_list_en": [
-      "Semolina",
-      "Mustard seeds",
-      "Onion",
-      "Peas",
+      "Oats",
+      "Gram flour",
       "Green chili",
-      "Coconut",
-      "Boiled eggs"
+      "Ginger",
+      "Curd",
+      "Boiled egg",
+      "Salt",
+      "Oil"
     ],
-    "prep_notes_hi": "लगातार चलाते हुए सूजी को भूनें। सभी सामग्री अच्छे से मिलाकर पकाएं। नारियल चटनी के लिए ताजा नारियल पीसें।",
-    "prep_notes_en": "Roast the semolina while stirring continuously. Cook all ingredients thoroughly. Grind fresh coconut for the chutney.",
+    "prep_notes_hi": "ओट्स को बेसन के साथ मिलाएं। थोड़े पानी के साथ घोल बनाएं। ऐड सब्जियाँ और तवे पर थोड़े तेल में सेंकें।",
+    "prep_notes_en": "Mix oats with gram flour. Make a batter with some water. Add vegetables and cook on a pan with minimal oil.",
     "vizz_macros": {
-      "cal": 450,
-      "protein": 16,
-      "fat": 15,
-      "carbs": 70
+      "cal": 400,
+      "protein": 22,
+      "fat": 13,
+      "carbs": 55
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=upma%20recipe%20hindi%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=oats%20cheela%20recipe%20recipe"
   },
   "lunch": {
-    "dish_hindi": "चने की सब्जी और गेहूं का पराठा",
-    "dish_english": "Chickpea Curry with Wheat Paratha",
-    "ingredients_hindi": "चने, टमाटर, प्याज, अदरक, लहसुन, गेहूं का आटा",
+    "dish_hindi": "पनीर भूर्जी रोटी, आचार",
+    "dish_english": "Paneer Bhurji with Roti and Pickle",
+    "ingredients_hindi": "पनीर, प्याज, हरी मिर्च, टमाटर, हल्दी, धनिया पाउडर, गरम मसाला, नमक, रोटी, आचार",
     "ingredients_list_hi": [
-      "चने",
-      "टमाटर",
+      "पनीर",
       "प्याज",
-      "अदरक",
-      "लहसुन",
-      "गेहूं का आटा"
+      "हरी मिर्च",
+      "टमाटर",
+      "हल्दी",
+      "धनिया पाउडर",
+      "गरम मसाला",
+      "नमक",
+      "रोटी",
+      "आचार"
     ],
     "ingredients_list_en": [
-      "Chickpeas",
-      "Tomato",
+      "Paneer",
       "Onion",
-      "Ginger",
-      "Garlic",
-      "Wheat flour"
+      "Green chili",
+      "Tomato",
+      "Turmeric",
+      "Coriander powder",
+      "Garam masala",
+      "Salt",
+      "Roti",
+      "Pickle"
     ],
-    "prep_notes_hi": "चना करी को अच्छी तरह से पकाएं, इसे रसोई में पैक करें। जैसा कि परांठा चलता है और पुनः गर्म होता है, इसे अच्छा से तलें।",
-    "prep_notes_en": "Cook the chickpea curry thoroughly and pack it well for office. Parathas travel and reheat well, so fry them properly.",
+    "prep_notes_hi": "पनीर को मसालों के साथ प्याज और टमाटर के साथ भूनें। रोटी के साथ पैक करें। आसानी से दोपहर के भोजन में ले जा सकते हैं।",
+    "prep_notes_en": "Sauté paneer with spices, onion, and tomato. Pack with roti. Suitable for portable lunch.",
     "vizz_macros": {
-      "cal": 620,
-      "protein": 22,
-      "fat": 20,
-      "carbs": 95
+      "cal": 600,
+      "protein": 30,
+      "fat": 28,
+      "carbs": 60
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=chole%20paratha%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=paneer%20bhurji%20recipe%20recipe"
   },
   "dinner": {
-    "dish_hindi": "वेगन पैड थाई",
-    "dish_english": "Vegan Pad Thai",
-    "ingredients_hindi": "चावल नूडल्स, टोफू, मूंगफली, शिमला मिर्च, सोया सॉस, नीबू",
+    "dish_hindi": "साबुत मूंग खिचड़ी, पापड़, दही (Flatmate-3 को फल के लिए आम)",
+    "dish_english": "Whole Moong Khichdi with Papad and Curd (Mango for Flatmate-3)",
+    "ingredients_hindi": "साबुत मूंग, चावल, अदरक, जीरा, घी, हींग, नमक, पापड़, दही",
     "ingredients_list_hi": [
-      "चावल नूडल्स",
-      "टोफू",
-      "मूंगफली",
-      "शिमला मिर्च",
-      "सोया सॉस",
-      "नीबू"
+      "साबुत मूंग",
+      "चावल",
+      "अदरक",
+      "जीरा",
+      "घी",
+      "हींग",
+      "नमक",
+      "पापड़",
+      "दही"
     ],
     "ingredients_list_en": [
-      "Rice noodles",
-      "Tofu",
-      "Peanuts",
-      "Bell peppers",
-      "Soy sauce",
-      "Lime"
+      "Whole moong",
+      "Rice",
+      "Ginger",
+      "Cumin",
+      "Ghee",
+      "Asafoetida",
+      "Salt",
+      "Papad",
+      "Curd"
     ],
-    "prep_notes_hi": "शाकाहारी सॉस का उपयोग करके चावल नूडल्स को पकाएं। टोफू और सब्जियों को हल्का तलें। मूंगफली और नीबू का रस डालें।",
-    "prep_notes_en": "Cook rice noodles using vegan sauce. Lightly sauté tofu and vegetables. Add peanuts and lime juice.",
+    "prep_notes_hi": "मूंग और चावल को पकाएं। जीरा और हींग का तड़का लगाएं। गरमा गरम परोसें।",
+    "prep_notes_en": "Cook moong and rice together. Temper with cumin and asafoetida. Serve hot.",
     "vizz_macros": {
-      "cal": 630,
-      "protein": 18,
-      "fat": 12,
-      "carbs": 90
+      "cal": 600,
+      "protein": 20,
+      "fat": 10,
+      "carbs": 100
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=vegan%20pad%20thai%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=moong%20khichdi%20recipe%20recipe"
   },
   "vizz_daily_total_from_meals": {
-    "cal": 1700,
-    "protein": 56,
-    "fat": 47,
-    "carbs": 255
+    "cal": 1600,
+    "protein": 72,
+    "fat": 51,
+    "carbs": 215
   },
   "vizz_daily_total_with_shake": {
-    "cal": 2000,
-    "protein": 96,
-    "fat": 52,
-    "carbs": 280
+    "cal": 1900,
+    "protein": 112,
+    "fat": 56,
+    "carbs": 240
   },
-  "macro_check": "Calories and carbs targets met; protein slightly below target due to meal composition."
+  "macro_check": "Slightly under target by 100 calories, but meets protein and carb targets. Consider mid-meal fruit or nuts for Vizz."
 }
