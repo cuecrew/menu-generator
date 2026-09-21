@@ -1,130 +1,5 @@
 [
   {
-    "date": "2026-08-23 (Sunday)",
-    "date_display": "Sunday, August 23",
-    "date_short": "Sun · Aug 23",
-    "generated_label": "Generated last night for today",
-    "breakfast": {
-      "dish_hindi": "मसाला पराठा, दही",
-      "dish_english": "Masala Paratha with Curd",
-      "ingredients_hindi": "गेहूं का आटा, आलू, हरी मिर्च, जीरा, नमक, घी, दही",
-      "ingredients_list_hi": [
-        "गेहूं का आटा",
-        "आलू",
-        "हरी मिर्च",
-        "जीरा",
-        "नमक",
-        "घी",
-        "दही"
-      ],
-      "ingredients_list_en": [
-        "Wheat flour",
-        "Potato",
-        "Green chili",
-        "Cumin",
-        "Salt",
-        "Ghee",
-        "Curd"
-      ],
-      "prep_notes_hi": "आलू को अच्छे से मसल लें और सब मसाले उसमें मिलाएं। आटे का नरम गोला बनाकर भरावन को बेल लें।",
-      "prep_notes_en": "Mash the potatoes well and mix all the spices into them. Make a soft dough ball and roll it with the stuffing.",
-      "vizz_macros": {
-        "cal": 350,
-        "protein": 8,
-        "fat": 12,
-        "carbs": 55
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=masala%20paratha%20recipe%20recipe"
-    },
-    "lunch": {
-      "dish_hindi": "छोले चावल और प्याज",
-      "dish_english": "Chole with Rice and Onion",
-      "ingredients_hindi": "चने, चावल, टमाटर, प्याज, अदरक, लहसुन, जीरा, गरम मसाला, धनिया पाउडर, हल्दी, नमक",
-      "ingredients_list_hi": [
-        "चने",
-        "चावल",
-        "टमाटर",
-        "प्याज",
-        "अदरक",
-        "लहसुन",
-        "जीरा",
-        "गरम मसाला",
-        "धनिया पाउडर",
-        "हल्दी",
-        "नमक"
-      ],
-      "ingredients_list_en": [
-        "Chickpeas",
-        "Rice",
-        "Tomato",
-        "Onion",
-        "Ginger",
-        "Garlic",
-        "Cumin",
-        "Garam masala",
-        "Coriander powder",
-        "Turmeric",
-        "Salt"
-      ],
-      "prep_notes_hi": "छोले को अच्छी तरह पकाएं ताकि सफ़र में अच्छी तरह रह सके। दोपहर के भोजन में माइक्रोवेव में गरम कर सकते हैं।",
-      "prep_notes_en": "Cook the chickpeas thoroughly so they hold up well for travel. Can be reheated in the microwave for lunch.",
-      "vizz_macros": {
-        "cal": 650,
-        "protein": 20,
-        "fat": 10,
-        "carbs": 110
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=chole%20recipe%20hindi%20recipe"
-    },
-    "dinner": {
-      "dish_hindi": "बेसन का चीला, हरी चटनी",
-      "dish_english": "Besan Chilla with Green Chutney",
-      "ingredients_hindi": "बेसन, हरी मिर्च, प्याज़, अदरक, तेल, हरा धनिया, नमक, पानी",
-      "ingredients_list_hi": [
-        "बेसन",
-        "हरी मिर्च",
-        "प्याज़",
-        "अदरक",
-        "तेल",
-        "हरा धनिया",
-        "नमक",
-        "पानी"
-      ],
-      "ingredients_list_en": [
-        "Gram flour",
-        "Green chili",
-        "Onion",
-        "Ginger",
-        "Oil",
-        "Coriander leaves",
-        "Salt",
-        "Water"
-      ],
-      "prep_notes_hi": "बेसन का घोल तैयार करके प्याज़ और हरी मिर्च मिला लें। थोड़े से तेल में दोनों तरफ से सुनहरा सेकें।",
-      "prep_notes_en": "Prepare the batter by mixing onions and green chili. Cook on both sides with a little oil until golden.",
-      "vizz_macros": {
-        "cal": 300,
-        "protein": 12,
-        "fat": 8,
-        "carbs": 45
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=besan%20chilla%20recipe%20recipe"
-    },
-    "vizz_daily_total_from_meals": {
-      "cal": 1300,
-      "protein": 40,
-      "fat": 30,
-      "carbs": 210
-    },
-    "vizz_daily_total_with_shake": {
-      "cal": 1600,
-      "protein": 80,
-      "fat": 35,
-      "carbs": 235
-    },
-    "macro_check": "Calories and protein are below target; consider light snacks to bridge gaps."
-  },
-  {
     "date": "2026-08-24 (Monday)",
     "date_display": "Monday, August 24",
     "date_short": "Mon · Aug 24",
@@ -3504,5 +3379,116 @@
       "carbs": 240
     },
     "macro_check": "Slightly under target by 100 calories, but meets protein and carb targets. Consider mid-meal fruit or nuts for Vizz."
+  },
+  {
+    "date": "2026-09-22 (Tuesday)",
+    "date_display": "Tuesday, September 22",
+    "date_short": "Tue · Sep 22",
+    "generated_label": "Generated last night for today",
+    "breakfast": {
+      "dish_hindi": "अवाकाडो टोस्ट और उबला हुआ अंडा (विज़ और Flatmate-2 के लिए)",
+      "dish_english": "Avocado Toast with Boiled Egg (for Vizz and Flatmate-2)",
+      "ingredients_hindi": "अवाकाडो, रोटी, नमक, काली मिर्च, उबला अंडा",
+      "ingredients_list_hi": [
+        "अवाकाडो",
+        "रोटी",
+        "नमक",
+        "काली मिर्च",
+        "उबला अंडा"
+      ],
+      "ingredients_list_en": [
+        "Avocado",
+        "Bread",
+        "Salt",
+        "Black Pepper",
+        "Boiled Egg"
+      ],
+      "prep_notes_hi": "अवाकाडो को मैश करें और उसे रोटी पर फैलाएं। नमक और काली मिर्च छिड़कें। उबले अंडे स्लाइस में काटें और ऊपर रखें।",
+      "prep_notes_en": "Mash the avocado and spread it on the bread. Sprinkle with salt and pepper. Slice the boiled egg and place on top.",
+      "vizz_macros": {
+        "cal": 420,
+        "protein": 12,
+        "fat": 20,
+        "carbs": 45
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=avocado%20toast%20recipe%20recipe"
+    },
+    "lunch": {
+      "dish_hindi": "दाल चावल, पापड़ और आचार",
+      "dish_english": "Dal Rice with Papad and Pickle",
+      "ingredients_hindi": "अरहर दाल, चावल, पापड़, आचार, हल्दी, नमक, जीरा",
+      "ingredients_list_hi": [
+        "अरहर दाल",
+        "चावल",
+        "पापड़",
+        "आचार",
+        "हल्दी",
+        "नमक",
+        "जीरा"
+      ],
+      "ingredients_list_en": [
+        "Toor Dal",
+        "Rice",
+        "Papad",
+        "Pickle",
+        "Turmeric",
+        "Salt",
+        "Cumin Seeds"
+      ],
+      "prep_notes_hi": "दाल को कुकर में पकाएं और मसालों के साथ छौंक लगाएं। चावल तब भी पकाएं ताकि ये गाढ़े रहें। यह यात्रा और गरम करने में आसानी करेगा।",
+      "prep_notes_en": "Cook the dal in the pressure cooker and temper it with spices. Cook the rice so it's firm. This will hold up during travel and reheating.",
+      "vizz_macros": {
+        "cal": 700,
+        "protein": 20,
+        "fat": 10,
+        "carbs": 120
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=dal%20rice%20recipe%20hindi%20recipe"
+    },
+    "dinner": {
+      "dish_hindi": "पालक पनीर और रोटी",
+      "dish_english": "Palak Paneer with Roti",
+      "ingredients_hindi": "पालक, पनीर, रोटी, अदरक, लहसुन, टमाटर, मसाले",
+      "ingredients_list_hi": [
+        "पालक",
+        "पनीर",
+        "रोटी",
+        "अदरक",
+        "लहसुन",
+        "टमाटर",
+        "मसाले"
+      ],
+      "ingredients_list_en": [
+        "Spinach",
+        "Paneer",
+        "Roti",
+        "Ginger",
+        "Garlic",
+        "Tomato",
+        "Spices"
+      ],
+      "prep_notes_hi": "पालक को बारीक पीस लें और मसालों के साथ पकाएं। पनीर के टुकड़े डालें और इसे अच्छी तरह मिलाएं। रोटी को तवे पर सेंकें।",
+      "prep_notes_en": "Blanch and puree the spinach, then cook with spices. Add paneer cubes and mix well. Cook roti on a griddle.",
+      "vizz_macros": {
+        "cal": 580,
+        "protein": 25,
+        "fat": 15,
+        "carbs": 60
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=palak%20paneer%20recipe%20recipe"
+    },
+    "vizz_daily_total_from_meals": {
+      "cal": 1700,
+      "protein": 57,
+      "fat": 45,
+      "carbs": 225
+    },
+    "vizz_daily_total_with_shake": {
+      "cal": 2000,
+      "protein": 97,
+      "fat": 50,
+      "carbs": 250
+    },
+    "macro_check": "Calories, fat, and carbs meet targets; protein is 13g short."
   }
 ]

@@ -1,127 +1,111 @@
 {
-  "date": "2026-09-21 (Monday)",
-  "date_display": "Monday, September 21",
-  "date_short": "Mon · Sep 21",
+  "date": "2026-09-22 (Tuesday)",
+  "date_display": "Tuesday, September 22",
+  "date_short": "Tue · Sep 22",
   "generated_label": "Generated last night for today",
   "breakfast": {
-    "dish_hindi": "ओट्स चिल्ला, दही, उबला अंडा (Vizz और Flatmate-2 के लिए)",
-    "dish_english": "Oats Cheela with Curd and Boiled Egg (for Vizz and Flatmate-2)",
-    "ingredients_hindi": "ओट्स, बेसन, हरी मिर्च, अदरक, दही, उबला अंडा (Vizz और Flatmate-2 के लिए), नमक, तेल",
+    "dish_hindi": "अवाकाडो टोस्ट और उबला हुआ अंडा (विज़ और Flatmate-2 के लिए)",
+    "dish_english": "Avocado Toast with Boiled Egg (for Vizz and Flatmate-2)",
+    "ingredients_hindi": "अवाकाडो, रोटी, नमक, काली मिर्च, उबला अंडा",
     "ingredients_list_hi": [
-      "ओट्स",
-      "बेसन",
-      "हरी मिर्च",
-      "अदरक",
-      "दही",
-      "उबला अंडा",
+      "अवाकाडो",
+      "रोटी",
       "नमक",
-      "तेल"
+      "काली मिर्च",
+      "उबला अंडा"
     ],
     "ingredients_list_en": [
-      "Oats",
-      "Gram flour",
-      "Green chili",
-      "Ginger",
-      "Curd",
-      "Boiled egg",
+      "Avocado",
+      "Bread",
       "Salt",
-      "Oil"
+      "Black Pepper",
+      "Boiled Egg"
     ],
-    "prep_notes_hi": "ओट्स को बेसन के साथ मिलाएं। थोड़े पानी के साथ घोल बनाएं। ऐड सब्जियाँ और तवे पर थोड़े तेल में सेंकें।",
-    "prep_notes_en": "Mix oats with gram flour. Make a batter with some water. Add vegetables and cook on a pan with minimal oil.",
+    "prep_notes_hi": "अवाकाडो को मैश करें और उसे रोटी पर फैलाएं। नमक और काली मिर्च छिड़कें। उबले अंडे स्लाइस में काटें और ऊपर रखें।",
+    "prep_notes_en": "Mash the avocado and spread it on the bread. Sprinkle with salt and pepper. Slice the boiled egg and place on top.",
     "vizz_macros": {
-      "cal": 400,
-      "protein": 22,
-      "fat": 13,
-      "carbs": 55
+      "cal": 420,
+      "protein": 12,
+      "fat": 20,
+      "carbs": 45
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=oats%20cheela%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=avocado%20toast%20recipe%20recipe"
   },
   "lunch": {
-    "dish_hindi": "पनीर भूर्जी रोटी, आचार",
-    "dish_english": "Paneer Bhurji with Roti and Pickle",
-    "ingredients_hindi": "पनीर, प्याज, हरी मिर्च, टमाटर, हल्दी, धनिया पाउडर, गरम मसाला, नमक, रोटी, आचार",
+    "dish_hindi": "दाल चावल, पापड़ और आचार",
+    "dish_english": "Dal Rice with Papad and Pickle",
+    "ingredients_hindi": "अरहर दाल, चावल, पापड़, आचार, हल्दी, नमक, जीरा",
     "ingredients_list_hi": [
-      "पनीर",
-      "प्याज",
-      "हरी मिर्च",
-      "टमाटर",
-      "हल्दी",
-      "धनिया पाउडर",
-      "गरम मसाला",
-      "नमक",
-      "रोटी",
-      "आचार"
-    ],
-    "ingredients_list_en": [
-      "Paneer",
-      "Onion",
-      "Green chili",
-      "Tomato",
-      "Turmeric",
-      "Coriander powder",
-      "Garam masala",
-      "Salt",
-      "Roti",
-      "Pickle"
-    ],
-    "prep_notes_hi": "पनीर को मसालों के साथ प्याज और टमाटर के साथ भूनें। रोटी के साथ पैक करें। आसानी से दोपहर के भोजन में ले जा सकते हैं।",
-    "prep_notes_en": "Sauté paneer with spices, onion, and tomato. Pack with roti. Suitable for portable lunch.",
-    "vizz_macros": {
-      "cal": 600,
-      "protein": 30,
-      "fat": 28,
-      "carbs": 60
-    },
-    "youtube_url": "https://www.youtube.com/results?search_query=paneer%20bhurji%20recipe%20recipe"
-  },
-  "dinner": {
-    "dish_hindi": "साबुत मूंग खिचड़ी, पापड़, दही (Flatmate-3 को फल के लिए आम)",
-    "dish_english": "Whole Moong Khichdi with Papad and Curd (Mango for Flatmate-3)",
-    "ingredients_hindi": "साबुत मूंग, चावल, अदरक, जीरा, घी, हींग, नमक, पापड़, दही",
-    "ingredients_list_hi": [
-      "साबुत मूंग",
+      "अरहर दाल",
       "चावल",
-      "अदरक",
-      "जीरा",
-      "घी",
-      "हींग",
-      "नमक",
       "पापड़",
-      "दही"
+      "आचार",
+      "हल्दी",
+      "नमक",
+      "जीरा"
     ],
     "ingredients_list_en": [
-      "Whole moong",
+      "Toor Dal",
       "Rice",
-      "Ginger",
-      "Cumin",
-      "Ghee",
-      "Asafoetida",
-      "Salt",
       "Papad",
-      "Curd"
+      "Pickle",
+      "Turmeric",
+      "Salt",
+      "Cumin Seeds"
     ],
-    "prep_notes_hi": "मूंग और चावल को पकाएं। जीरा और हींग का तड़का लगाएं। गरमा गरम परोसें।",
-    "prep_notes_en": "Cook moong and rice together. Temper with cumin and asafoetida. Serve hot.",
+    "prep_notes_hi": "दाल को कुकर में पकाएं और मसालों के साथ छौंक लगाएं। चावल तब भी पकाएं ताकि ये गाढ़े रहें। यह यात्रा और गरम करने में आसानी करेगा।",
+    "prep_notes_en": "Cook the dal in the pressure cooker and temper it with spices. Cook the rice so it's firm. This will hold up during travel and reheating.",
     "vizz_macros": {
-      "cal": 600,
+      "cal": 700,
       "protein": 20,
       "fat": 10,
-      "carbs": 100
+      "carbs": 120
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=moong%20khichdi%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=dal%20rice%20recipe%20hindi%20recipe"
+  },
+  "dinner": {
+    "dish_hindi": "पालक पनीर और रोटी",
+    "dish_english": "Palak Paneer with Roti",
+    "ingredients_hindi": "पालक, पनीर, रोटी, अदरक, लहसुन, टमाटर, मसाले",
+    "ingredients_list_hi": [
+      "पालक",
+      "पनीर",
+      "रोटी",
+      "अदरक",
+      "लहसुन",
+      "टमाटर",
+      "मसाले"
+    ],
+    "ingredients_list_en": [
+      "Spinach",
+      "Paneer",
+      "Roti",
+      "Ginger",
+      "Garlic",
+      "Tomato",
+      "Spices"
+    ],
+    "prep_notes_hi": "पालक को बारीक पीस लें और मसालों के साथ पकाएं। पनीर के टुकड़े डालें और इसे अच्छी तरह मिलाएं। रोटी को तवे पर सेंकें।",
+    "prep_notes_en": "Blanch and puree the spinach, then cook with spices. Add paneer cubes and mix well. Cook roti on a griddle.",
+    "vizz_macros": {
+      "cal": 580,
+      "protein": 25,
+      "fat": 15,
+      "carbs": 60
+    },
+    "youtube_url": "https://www.youtube.com/results?search_query=palak%20paneer%20recipe%20recipe"
   },
   "vizz_daily_total_from_meals": {
-    "cal": 1600,
-    "protein": 72,
-    "fat": 51,
-    "carbs": 215
+    "cal": 1700,
+    "protein": 57,
+    "fat": 45,
+    "carbs": 225
   },
   "vizz_daily_total_with_shake": {
-    "cal": 1900,
-    "protein": 112,
-    "fat": 56,
-    "carbs": 240
+    "cal": 2000,
+    "protein": 97,
+    "fat": 50,
+    "carbs": 250
   },
-  "macro_check": "Slightly under target by 100 calories, but meets protein and carb targets. Consider mid-meal fruit or nuts for Vizz."
+  "macro_check": "Calories, fat, and carbs meet targets; protein is 13g short."
 }
