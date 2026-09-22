@@ -1,111 +1,127 @@
 {
-  "date": "2026-09-22 (Tuesday)",
-  "date_display": "Tuesday, September 22",
-  "date_short": "Tue · Sep 22",
+  "date": "2026-09-23 (Wednesday)",
+  "date_display": "Wednesday, September 23",
+  "date_short": "Wed · Sep 23",
   "generated_label": "Generated last night for today",
   "breakfast": {
-    "dish_hindi": "अवाकाडो टोस्ट और उबला हुआ अंडा (विज़ और Flatmate-2 के लिए)",
-    "dish_english": "Avocado Toast with Boiled Egg (for Vizz and Flatmate-2)",
-    "ingredients_hindi": "अवाकाडो, रोटी, नमक, काली मिर्च, उबला अंडा",
+    "dish_hindi": "वेजिटेबल पोहा, दही और उबले अंडे (विज्ज़ और फ्लैटमेट-2 के लिए)",
+    "dish_english": "Vegetable Poha with Curd and Boiled Eggs (for Vizz and Flatmate-2)",
+    "ingredients_hindi": "पोहा, प्याज, मटर, गाजर, टमाटर, हरी मिर्च, धनिया पत्ती, दही, अंडा",
     "ingredients_list_hi": [
-      "अवाकाडो",
-      "रोटी",
-      "नमक",
-      "काली मिर्च",
-      "उबला अंडा"
+      "पोहा",
+      "प्याज",
+      "मटर",
+      "गाजर",
+      "टमाटर",
+      "हरी मिर्च",
+      "धनिया पत्ती",
+      "दही",
+      "अंडा"
     ],
     "ingredients_list_en": [
-      "Avocado",
-      "Bread",
-      "Salt",
-      "Black Pepper",
-      "Boiled Egg"
+      "Poha (flattened rice)",
+      "Onion",
+      "Peas",
+      "Carrot",
+      "Tomato",
+      "Green chili",
+      "Coriander leaves",
+      "Curd",
+      "Egg"
     ],
-    "prep_notes_hi": "अवाकाडो को मैश करें और उसे रोटी पर फैलाएं। नमक और काली मिर्च छिड़कें। उबले अंडे स्लाइस में काटें और ऊपर रखें।",
-    "prep_notes_en": "Mash the avocado and spread it on the bread. Sprinkle with salt and pepper. Slice the boiled egg and place on top.",
+    "prep_notes_hi": "पोहा को अच्छी तरह से धो लें और पानी निकाल लें। प्याज, मटर और गाजर को हल्का भूनें। इसमें टमाटर और सूजी डालें।",
+    "prep_notes_en": "Rinse the poha thoroughly and drain the water. Lightly sauté onions, peas, and carrots. Add the tomatoes and poha.",
     "vizz_macros": {
-      "cal": 420,
+      "cal": 350,
       "protein": 12,
-      "fat": 20,
-      "carbs": 45
+      "fat": 10,
+      "carbs": 50
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=avocado%20toast%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=vegetable%20poha%20recipe%20recipe"
   },
   "lunch": {
-    "dish_hindi": "दाल चावल, पापड़ और आचार",
-    "dish_english": "Dal Rice with Papad and Pickle",
-    "ingredients_hindi": "अरहर दाल, चावल, पापड़, आचार, हल्दी, नमक, जीरा",
+    "dish_hindi": "मसूर दाल और जीरा चावल, पापड़ और आचार",
+    "dish_english": "Masoor Dal with Jeera Rice, Papad, and Pickle",
+    "ingredients_hindi": "मसूर दाल, बासमती चावल, जीरा, घी, नमक, पापड़, आचार",
     "ingredients_list_hi": [
-      "अरहर दाल",
-      "चावल",
-      "पापड़",
-      "आचार",
-      "हल्दी",
+      "मसूर दाल",
+      "बासमती चावल",
+      "जीरा",
+      "घी",
       "नमक",
-      "जीरा"
+      "पापड़",
+      "आचार"
     ],
     "ingredients_list_en": [
-      "Toor Dal",
-      "Rice",
-      "Papad",
-      "Pickle",
-      "Turmeric",
+      "Red Lentils (Masoor Dal)",
+      "Basmati Rice",
+      "Cumin Seeds",
+      "Ghee",
       "Salt",
-      "Cumin Seeds"
+      "Papad",
+      "Pickle"
     ],
-    "prep_notes_hi": "दाल को कुकर में पकाएं और मसालों के साथ छौंक लगाएं। चावल तब भी पकाएं ताकि ये गाढ़े रहें। यह यात्रा और गरम करने में आसानी करेगा।",
-    "prep_notes_en": "Cook the dal in the pressure cooker and temper it with spices. Cook the rice so it's firm. This will hold up during travel and reheating.",
+    "prep_notes_hi": "मसूर दाल और जीरा चावल को अलग-अलग पकाएं। वे अच्छी तरह से यात्रा कर सकते हैं और माइक्रोवेव में गरम हो जाते हैं।",
+    "prep_notes_en": "Cook red lentils and cumin rice separately. They travel well and reheat in the microwave.",
     "vizz_macros": {
-      "cal": 700,
-      "protein": 20,
-      "fat": 10,
+      "cal": 690,
+      "protein": 27,
+      "fat": 12,
       "carbs": 120
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=dal%20rice%20recipe%20hindi%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=masoor%20dal%20jeera%20rice%20recipe%20recipe"
   },
   "dinner": {
-    "dish_hindi": "पालक पनीर और रोटी",
-    "dish_english": "Palak Paneer with Roti",
-    "ingredients_hindi": "पालक, पनीर, रोटी, अदरक, लहसुन, टमाटर, मसाले",
+    "dish_hindi": "मिक्स वेज पुलाव और रायता",
+    "dish_english": "Mix Veg Pulao with Raita",
+    "ingredients_hindi": "बासमती चावल, हरी मटर, गाजर, बीन्स, फूलगोभी, मिर्च, टमाटर, दही, खीरा, मिर्च, धनिया पत्ती",
     "ingredients_list_hi": [
-      "पालक",
-      "पनीर",
-      "रोटी",
-      "अदरक",
-      "लहसुन",
+      "बासमती चावल",
+      "हरी मटर",
+      "गाजर",
+      "बीन्स",
+      "फूलगोभी",
+      "मिर्च",
       "टमाटर",
-      "मसाले"
+      "दही",
+      "खीरा",
+      "मिर्च",
+      "धनिया पत्ती"
     ],
     "ingredients_list_en": [
-      "Spinach",
-      "Paneer",
-      "Roti",
-      "Ginger",
-      "Garlic",
+      "Basmati Rice",
+      "Green Peas",
+      "Carrot",
+      "Beans",
+      "Cauliflower",
+      "Chili",
       "Tomato",
-      "Spices"
+      "Yogurt",
+      "Cucumber",
+      "Chili",
+      "Coriander Leaves"
     ],
-    "prep_notes_hi": "पालक को बारीक पीस लें और मसालों के साथ पकाएं। पनीर के टुकड़े डालें और इसे अच्छी तरह मिलाएं। रोटी को तवे पर सेंकें।",
-    "prep_notes_en": "Blanch and puree the spinach, then cook with spices. Add paneer cubes and mix well. Cook roti on a griddle.",
+    "prep_notes_hi": "पुलाव के लिए सब्जियाँ अच्छी तरह काट लें। सब्जियों को चावल के साथ पकाएं। रायता के लिए खीरा और दही मिलाएं।",
+    "prep_notes_en": "Chop vegetables finely for the pulao. Cook them with rice. Mix cucumber and yogurt for raita.",
     "vizz_macros": {
-      "cal": 580,
-      "protein": 25,
+      "cal": 660,
+      "protein": 18,
       "fat": 15,
-      "carbs": 60
+      "carbs": 100
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=palak%20paneer%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=mix%20veg%20pulao%20recipe%20recipe"
   },
   "vizz_daily_total_from_meals": {
     "cal": 1700,
     "protein": 57,
-    "fat": 45,
-    "carbs": 225
+    "fat": 37,
+    "carbs": 270
   },
   "vizz_daily_total_with_shake": {
     "cal": 2000,
     "protein": 97,
-    "fat": 50,
-    "carbs": 250
+    "fat": 42,
+    "carbs": 295
   },
-  "macro_check": "Calories, fat, and carbs meet targets; protein is 13g short."
+  "macro_check": "Overall, calories and carbs are slightly over, while fat and protein are under target. Consider adding more protein-rich ingredients."
 }

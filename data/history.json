@@ -1,118 +1,5 @@
 [
   {
-    "date": "2026-08-24 (Monday)",
-    "date_display": "Monday, August 24",
-    "date_short": "Mon · Aug 24",
-    "generated_label": "Generated last night for today",
-    "breakfast": {
-      "dish_hindi": "झटपट पोहा",
-      "dish_english": "Quick Poha",
-      "ingredients_hindi": "पोहा, प्याज, हरी मिर्च, मूंगफली, हल्दी, नमक, नींबू",
-      "ingredients_list_hi": [
-        "पोहा",
-        "प्याज",
-        "हरी मिर्च",
-        "मूंगफली",
-        "हल्दी",
-        "नमक",
-        "नींबू"
-      ],
-      "ingredients_list_en": [
-        "Poha (flattened rice)",
-        "Onion",
-        "Green chili",
-        "Peanuts",
-        "Turmeric",
-        "Salt",
-        "Lemon"
-      ],
-      "prep_notes_hi": "पोहा को भिगोने में देरी ना करें। प्याज और मूंगफली को धीमी आँच पर धर पकाएं ताकि वे कुरकुरा बने रहें। नींबू रस से जायका बढ़ता है।",
-      "prep_notes_en": "Do not soak the poha for long. Saute the onions and peanuts on low heat to keep them crunchy. Lemon juice enhances the taste.",
-      "vizz_macros": {
-        "cal": 380,
-        "protein": 7,
-        "fat": 12,
-        "carbs": 60
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=poha%20recipe%20hindi%20recipe"
-    },
-    "lunch": {
-      "dish_hindi": "पनीर पुलाव, दही",
-      "dish_english": "Paneer Pulao with Curd",
-      "ingredients_hindi": "बासमती चावल, पनीर, मटर, गाजर, जीरा, हरी मिर्च, नमक, घी",
-      "ingredients_list_hi": [
-        "बासमती चावल",
-        "पनीर",
-        "मटर",
-        "गाजर",
-        "जीरा",
-        "हरी मिर्च",
-        "नमक",
-        "घी"
-      ],
-      "ingredients_list_en": [
-        "Basmati rice",
-        "Paneer",
-        "Green peas",
-        "Carrot",
-        "Cumin seeds",
-        "Green chili",
-        "Salt",
-        "Ghee"
-      ],
-      "prep_notes_hi": "यह एक यात्रा-सुलभ व्यंजन है और माइक्रोवेव में आसानी से गर्म हो सकता है। मटर और गाजर को हल्का उबाल लें ताकि वे कुरकुरे रहें।",
-      "prep_notes_en": "This is a travel-friendly dish and reheats well in the microwave. Parboil peas and carrots so they stay crunchy.",
-      "vizz_macros": {
-        "cal": 600,
-        "protein": 22,
-        "fat": 25,
-        "carbs": 80
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=paneer%20pulao%20recipe%20hindi%20recipe"
-    },
-    "dinner": {
-      "dish_hindi": "पास्ता पेस्तो, लहसुन की ब्रेड",
-      "dish_english": "Pasta Pesto with Garlic Bread",
-      "ingredients_hindi": "पास्ता, पेस्तो सॉस, लहसुन, मक्खन, रोटी",
-      "ingredients_list_hi": [
-        "पास्ता",
-        "पेस्तो सॉस",
-        "लहसुन",
-        "मक्खन",
-        "रोटी"
-      ],
-      "ingredients_list_en": [
-        "Pasta",
-        "Pesto sauce",
-        "Garlic",
-        "Butter",
-        "Bread"
-      ],
-      "prep_notes_hi": "पेस्तो सॉस को अच्छी तरह से मिला कर ना रखें। मक्खन में लहसुन ब्रेड को स्वादिष्ट बनाने के लिए तलें।",
-      "prep_notes_en": "Do not overmix pesto sauce. Fry garlic bread in butter for a delicious flavor.",
-      "vizz_macros": {
-        "cal": 720,
-        "protein": 20,
-        "fat": 30,
-        "carbs": 90
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=pasta%20pesto%20recipe%20recipe"
-    },
-    "vizz_daily_total_from_meals": {
-      "cal": 1700,
-      "protein": 49,
-      "fat": 67,
-      "carbs": 230
-    },
-    "vizz_daily_total_with_shake": {
-      "cal": 2000,
-      "protein": 89,
-      "fat": 72,
-      "carbs": 255
-    },
-    "macro_check": "Almost hits the target. Protein is slightly under expected target. Consider a breakfast with more protein."
-  },
-  {
     "date": "2026-08-25 (Tuesday)",
     "date_display": "Tuesday, August 25",
     "date_short": "Tue · Aug 25",
@@ -3490,5 +3377,132 @@
       "carbs": 250
     },
     "macro_check": "Calories, fat, and carbs meet targets; protein is 13g short."
+  },
+  {
+    "date": "2026-09-23 (Wednesday)",
+    "date_display": "Wednesday, September 23",
+    "date_short": "Wed · Sep 23",
+    "generated_label": "Generated last night for today",
+    "breakfast": {
+      "dish_hindi": "वेजिटेबल पोहा, दही और उबले अंडे (विज्ज़ और फ्लैटमेट-2 के लिए)",
+      "dish_english": "Vegetable Poha with Curd and Boiled Eggs (for Vizz and Flatmate-2)",
+      "ingredients_hindi": "पोहा, प्याज, मटर, गाजर, टमाटर, हरी मिर्च, धनिया पत्ती, दही, अंडा",
+      "ingredients_list_hi": [
+        "पोहा",
+        "प्याज",
+        "मटर",
+        "गाजर",
+        "टमाटर",
+        "हरी मिर्च",
+        "धनिया पत्ती",
+        "दही",
+        "अंडा"
+      ],
+      "ingredients_list_en": [
+        "Poha (flattened rice)",
+        "Onion",
+        "Peas",
+        "Carrot",
+        "Tomato",
+        "Green chili",
+        "Coriander leaves",
+        "Curd",
+        "Egg"
+      ],
+      "prep_notes_hi": "पोहा को अच्छी तरह से धो लें और पानी निकाल लें। प्याज, मटर और गाजर को हल्का भूनें। इसमें टमाटर और सूजी डालें।",
+      "prep_notes_en": "Rinse the poha thoroughly and drain the water. Lightly sauté onions, peas, and carrots. Add the tomatoes and poha.",
+      "vizz_macros": {
+        "cal": 350,
+        "protein": 12,
+        "fat": 10,
+        "carbs": 50
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=vegetable%20poha%20recipe%20recipe"
+    },
+    "lunch": {
+      "dish_hindi": "मसूर दाल और जीरा चावल, पापड़ और आचार",
+      "dish_english": "Masoor Dal with Jeera Rice, Papad, and Pickle",
+      "ingredients_hindi": "मसूर दाल, बासमती चावल, जीरा, घी, नमक, पापड़, आचार",
+      "ingredients_list_hi": [
+        "मसूर दाल",
+        "बासमती चावल",
+        "जीरा",
+        "घी",
+        "नमक",
+        "पापड़",
+        "आचार"
+      ],
+      "ingredients_list_en": [
+        "Red Lentils (Masoor Dal)",
+        "Basmati Rice",
+        "Cumin Seeds",
+        "Ghee",
+        "Salt",
+        "Papad",
+        "Pickle"
+      ],
+      "prep_notes_hi": "मसूर दाल और जीरा चावल को अलग-अलग पकाएं। वे अच्छी तरह से यात्रा कर सकते हैं और माइक्रोवेव में गरम हो जाते हैं।",
+      "prep_notes_en": "Cook red lentils and cumin rice separately. They travel well and reheat in the microwave.",
+      "vizz_macros": {
+        "cal": 690,
+        "protein": 27,
+        "fat": 12,
+        "carbs": 120
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=masoor%20dal%20jeera%20rice%20recipe%20recipe"
+    },
+    "dinner": {
+      "dish_hindi": "मिक्स वेज पुलाव और रायता",
+      "dish_english": "Mix Veg Pulao with Raita",
+      "ingredients_hindi": "बासमती चावल, हरी मटर, गाजर, बीन्स, फूलगोभी, मिर्च, टमाटर, दही, खीरा, मिर्च, धनिया पत्ती",
+      "ingredients_list_hi": [
+        "बासमती चावल",
+        "हरी मटर",
+        "गाजर",
+        "बीन्स",
+        "फूलगोभी",
+        "मिर्च",
+        "टमाटर",
+        "दही",
+        "खीरा",
+        "मिर्च",
+        "धनिया पत्ती"
+      ],
+      "ingredients_list_en": [
+        "Basmati Rice",
+        "Green Peas",
+        "Carrot",
+        "Beans",
+        "Cauliflower",
+        "Chili",
+        "Tomato",
+        "Yogurt",
+        "Cucumber",
+        "Chili",
+        "Coriander Leaves"
+      ],
+      "prep_notes_hi": "पुलाव के लिए सब्जियाँ अच्छी तरह काट लें। सब्जियों को चावल के साथ पकाएं। रायता के लिए खीरा और दही मिलाएं।",
+      "prep_notes_en": "Chop vegetables finely for the pulao. Cook them with rice. Mix cucumber and yogurt for raita.",
+      "vizz_macros": {
+        "cal": 660,
+        "protein": 18,
+        "fat": 15,
+        "carbs": 100
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=mix%20veg%20pulao%20recipe%20recipe"
+    },
+    "vizz_daily_total_from_meals": {
+      "cal": 1700,
+      "protein": 57,
+      "fat": 37,
+      "carbs": 270
+    },
+    "vizz_daily_total_with_shake": {
+      "cal": 2000,
+      "protein": 97,
+      "fat": 42,
+      "carbs": 295
+    },
+    "macro_check": "Overall, calories and carbs are slightly over, while fat and protein are under target. Consider adding more protein-rich ingredients."
   }
 ]
