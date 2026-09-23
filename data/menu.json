@@ -1,127 +1,113 @@
 {
-  "date": "2026-09-23 (Wednesday)",
-  "date_display": "Wednesday, September 23",
-  "date_short": "Wed · Sep 23",
+  "date": "2026-09-24 (Thursday)",
+  "date_display": "Thursday, September 24",
+  "date_short": "Thu · Sep 24",
   "generated_label": "Generated last night for today",
   "breakfast": {
-    "dish_hindi": "वेजिटेबल पोहा, दही और उबले अंडे (विज्ज़ और फ्लैटमेट-2 के लिए)",
-    "dish_english": "Vegetable Poha with Curd and Boiled Eggs (for Vizz and Flatmate-2)",
-    "ingredients_hindi": "पोहा, प्याज, मटर, गाजर, टमाटर, हरी मिर्च, धनिया पत्ती, दही, अंडा",
+    "dish_hindi": "अंडा पराठा और दही",
+    "dish_english": "Egg Paratha with Curd",
+    "ingredients_hindi": "अंडा, गेहूं का आटा, तेल, दही, हरी मिर्च, अदरक",
     "ingredients_list_hi": [
-      "पोहा",
-      "प्याज",
-      "मटर",
-      "गाजर",
-      "टमाटर",
-      "हरी मिर्च",
-      "धनिया पत्ती",
+      "अंडा",
+      "गेहूं का आटा",
+      "तेल",
       "दही",
-      "अंडा"
+      "हरी मिर्च",
+      "अदरक"
     ],
     "ingredients_list_en": [
-      "Poha (flattened rice)",
-      "Onion",
-      "Peas",
-      "Carrot",
-      "Tomato",
-      "Green chili",
-      "Coriander leaves",
+      "Egg",
+      "Whole wheat flour",
+      "Oil",
       "Curd",
-      "Egg"
+      "Green chili",
+      "Ginger"
     ],
-    "prep_notes_hi": "पोहा को अच्छी तरह से धो लें और पानी निकाल लें। प्याज, मटर और गाजर को हल्का भूनें। इसमें टमाटर और सूजी डालें।",
-    "prep_notes_en": "Rinse the poha thoroughly and drain the water. Lightly sauté onions, peas, and carrots. Add the tomatoes and poha.",
+    "prep_notes_hi": "आटा गूंधकर उसमें हरी मिर्च और अदरक मिलाएं। भूरे रंग का होने तक पराठा सेंकें।",
+    "prep_notes_en": "Mix green chili and ginger in the dough. Cook the paratha until golden brown.",
     "vizz_macros": {
-      "cal": 350,
-      "protein": 12,
-      "fat": 10,
-      "carbs": 50
+      "cal": 450,
+      "protein": 18,
+      "fat": 20,
+      "carbs": 40
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=vegetable%20poha%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=egg%20paratha%20recipe%20recipe"
   },
   "lunch": {
-    "dish_hindi": "मसूर दाल और जीरा चावल, पापड़ और आचार",
-    "dish_english": "Masoor Dal with Jeera Rice, Papad, and Pickle",
-    "ingredients_hindi": "मसूर दाल, बासमती चावल, जीरा, घी, नमक, पापड़, आचार",
+    "dish_hindi": "राजमा चावल, पापड़ और आचार",
+    "dish_english": "Rajma with Rice, Papad and Pickle",
+    "ingredients_hindi": "राजमा, बासमती चावल, पापड़, आचार, टमाटर, प्याज, मसाले",
     "ingredients_list_hi": [
-      "मसूर दाल",
+      "राजमा",
       "बासमती चावल",
-      "जीरा",
-      "घी",
-      "नमक",
       "पापड़",
-      "आचार"
+      "आचार",
+      "टमाटर",
+      "प्याज",
+      "मसाले"
     ],
     "ingredients_list_en": [
-      "Red Lentils (Masoor Dal)",
-      "Basmati Rice",
-      "Cumin Seeds",
-      "Ghee",
-      "Salt",
+      "Kidney beans",
+      "Basmati rice",
       "Papad",
-      "Pickle"
+      "Pickle",
+      "Tomato",
+      "Onion",
+      "Spices"
     ],
-    "prep_notes_hi": "मसूर दाल और जीरा चावल को अलग-अलग पकाएं। वे अच्छी तरह से यात्रा कर सकते हैं और माइक्रोवेव में गरम हो जाते हैं।",
-    "prep_notes_en": "Cook red lentils and cumin rice separately. They travel well and reheat in the microwave.",
+    "prep_notes_hi": "राजमा को रातभर भिगोकर पकाएं। यह यात्रा के लिए उपयुक्त और माइक्रोवेव में गर्म करने योग्य है।",
+    "prep_notes_en": "Soak kidney beans overnight and cook. Suitable for travel and microwave reheating.",
     "vizz_macros": {
       "cal": 690,
       "protein": 27,
-      "fat": 12,
-      "carbs": 120
+      "fat": 5,
+      "carbs": 130
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=masoor%20dal%20jeera%20rice%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=rajma%20rice%20recipe%20recipe"
   },
   "dinner": {
-    "dish_hindi": "मिक्स वेज पुलाव और रायता",
-    "dish_english": "Mix Veg Pulao with Raita",
-    "ingredients_hindi": "बासमती चावल, हरी मटर, गाजर, बीन्स, फूलगोभी, मिर्च, टमाटर, दही, खीरा, मिर्च, धनिया पत्ती",
+    "dish_hindi": "वेजीटेबल पास्ता, लहसुन की ब्रेड",
+    "dish_english": "Vegetable Pasta with Garlic Bread",
+    "ingredients_hindi": "पास्ता, मिश्रित सब्जियां, लहसुन, ब्रेड, मक्खन, जैतून का तेल, मसाले",
     "ingredients_list_hi": [
-      "बासमती चावल",
-      "हरी मटर",
-      "गाजर",
-      "बीन्स",
-      "फूलगोभी",
-      "मिर्च",
-      "टमाटर",
-      "दही",
-      "खीरा",
-      "मिर्च",
-      "धनिया पत्ती"
+      "पास्ता",
+      "मिश्रित सब्जियां",
+      "लहसुन",
+      "ब्रेड",
+      "मक्खन",
+      "जैतून का तेल",
+      "मसाले"
     ],
     "ingredients_list_en": [
-      "Basmati Rice",
-      "Green Peas",
-      "Carrot",
-      "Beans",
-      "Cauliflower",
-      "Chili",
-      "Tomato",
-      "Yogurt",
-      "Cucumber",
-      "Chili",
-      "Coriander Leaves"
+      "Pasta",
+      "Mixed vegetables",
+      "Garlic",
+      "Bread",
+      "Butter",
+      "Olive oil",
+      "Spices"
     ],
-    "prep_notes_hi": "पुलाव के लिए सब्जियाँ अच्छी तरह काट लें। सब्जियों को चावल के साथ पकाएं। रायता के लिए खीरा और दही मिलाएं।",
-    "prep_notes_en": "Chop vegetables finely for the pulao. Cook them with rice. Mix cucumber and yogurt for raita.",
+    "prep_notes_hi": "पास्ता को थोड़ा नरम रहने तक पकाएं। सब्जियों को जैतून के तेल में भूनें।",
+    "prep_notes_en": "Cook pasta till slightly al dente. Sauté vegetables in olive oil.",
     "vizz_macros": {
-      "cal": 660,
-      "protein": 18,
-      "fat": 15,
+      "cal": 560,
+      "protein": 15,
+      "fat": 13,
       "carbs": 100
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=mix%20veg%20pulao%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=vegetable%20pasta%20recipe%20recipe"
   },
   "vizz_daily_total_from_meals": {
     "cal": 1700,
-    "protein": 57,
-    "fat": 37,
+    "protein": 60,
+    "fat": 38,
     "carbs": 270
   },
   "vizz_daily_total_with_shake": {
     "cal": 2000,
-    "protein": 97,
-    "fat": 42,
+    "protein": 100,
+    "fat": 43,
     "carbs": 295
   },
-  "macro_check": "Overall, calories and carbs are slightly over, while fat and protein are under target. Consider adding more protein-rich ingredients."
+  "macro_check": "Calories, protein, and carbs are well-balanced with the shake; fat slightly under target."
 }

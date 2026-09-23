@@ -1,132 +1,5 @@
 [
   {
-    "date": "2026-08-25 (Tuesday)",
-    "date_display": "Tuesday, August 25",
-    "date_short": "Tue · Aug 25",
-    "generated_label": "Generated last night for today",
-    "breakfast": {
-      "dish_hindi": "ओट्स उपमा, उबला हुआ अंडा (केवल Vizz और Flatmate-2 के लिए)",
-      "dish_english": "Oats Upma with Boiled Egg (only for Vizz and Flatmate-2)",
-      "ingredients_hindi": "ओट्स, प्याज, शिमला मिर्च, मटर, गाजर, राई, करी पत्ते, नमक, हरी मिर्च, उबला हुआ अंडा",
-      "ingredients_list_hi": [
-        "ओट्स",
-        "प्याज",
-        "शिमला मिर्च",
-        "मटर",
-        "गाजर",
-        "राई",
-        "करी पत्ते",
-        "नमक",
-        "हरी मिर्च",
-        "उबला हुआ अंडा"
-      ],
-      "ingredients_list_en": [
-        "Oats",
-        "Onion",
-        "Capsicum",
-        "Peas",
-        "Carrot",
-        "Mustard Seeds",
-        "Curry Leaves",
-        "Salt",
-        "Green Chili",
-        "Boiled Egg"
-      ],
-      "prep_notes_hi": "ओट्स को पहले थोड़ा भून लें ताकि वे कुरकुरे बनें। सब्जियों को अच्छे से पकाएं ताकि स्वाद बढ़ सके।",
-      "prep_notes_en": "Dry roast the oats slightly to make them crispy. Ensure the vegetables are cooked well to enhance flavor.",
-      "vizz_macros": {
-        "cal": 450,
-        "protein": 20,
-        "fat": 12,
-        "carbs": 70
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=oats%20upma%20recipe%20recipe"
-    },
-    "lunch": {
-      "dish_hindi": "सब्जी पुलाव, दही",
-      "dish_english": "Vegetable Pulao with Curd",
-      "ingredients_hindi": "बासमती चावल, मटर, गाजर, फूलगोभी, शिमला मिर्च, लौंग, इलायची, जीरा, दही",
-      "ingredients_list_hi": [
-        "बासमती चावल",
-        "मटर",
-        "गाजर",
-        "फूलगोभी",
-        "शिमला मिर्च",
-        "लौंग",
-        "इलायची",
-        "जीरा",
-        "दही"
-      ],
-      "ingredients_list_en": [
-        "Basmati Rice",
-        "Peas",
-        "Carrot",
-        "Cauliflower",
-        "Capsicum",
-        "Cloves",
-        "Cardamom",
-        "Cumin Seeds",
-        "Curd"
-      ],
-      "prep_notes_hi": "ये डिश यात्रा के लिए अच्छी है और आसानी से गर्म हो सकती है। चावल को हल्का ही पकाएं ताकि वे चिपचिपे न हों।",
-      "prep_notes_en": "This dish travels well and can be reheated easily. Cook the rice till just done to avoid sogginess.",
-      "vizz_macros": {
-        "cal": 560,
-        "protein": 14,
-        "fat": 10,
-        "carbs": 105
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=vegetable%20pulao%20recipe%20recipe"
-    },
-    "dinner": {
-      "dish_hindi": "पनीर भुर्जी, तंदूरी रोटी, पापड़",
-      "dish_english": "Paneer Bhurji with Tandoori Roti and Papad",
-      "ingredients_hindi": "पनीर, प्याज, टमाटर, अदरक, लहसुन, हरी मिर्च, तंदूरी रोटी, पापड़",
-      "ingredients_list_hi": [
-        "पनीर",
-        "प्याज",
-        "टमाटर",
-        "अदरक",
-        "लहसुन",
-        "हरी मिर्च",
-        "तंदूरी रोटी",
-        "पापड़"
-      ],
-      "ingredients_list_en": [
-        "Paneer",
-        "Onion",
-        "Tomato",
-        "Ginger",
-        "Garlic",
-        "Green Chili",
-        "Tandoori Roti",
-        "Papad"
-      ],
-      "prep_notes_hi": "पनीर को अच्छे से भूनें ताकि वह लाल हो जाए और मसाले अच्छी तरह मिल जाएं।",
-      "prep_notes_en": "Fry the paneer well until it turns reddish and the spices blend well.",
-      "vizz_macros": {
-        "cal": 690,
-        "protein": 36,
-        "fat": 23,
-        "carbs": 90
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=paneer%20bhurji%20recipe%20recipe"
-    },
-    "vizz_daily_total_from_meals": {
-      "cal": 1700,
-      "protein": 70,
-      "fat": 45,
-      "carbs": 265
-    },
-    "vizz_daily_total_with_shake": {
-      "cal": 2000,
-      "protein": 110,
-      "fat": 50,
-      "carbs": 290
-    },
-    "macro_check": "Hits 2000/110/60/215 target with slight excess in carbs; slight shortfall in fat but overall balanced."
-  },
-  {
     "date": "2026-08-26 (Wednesday)",
     "date_display": "Wednesday, August 26",
     "date_short": "Wed · Aug 26",
@@ -3504,5 +3377,118 @@
       "carbs": 295
     },
     "macro_check": "Overall, calories and carbs are slightly over, while fat and protein are under target. Consider adding more protein-rich ingredients."
+  },
+  {
+    "date": "2026-09-24 (Thursday)",
+    "date_display": "Thursday, September 24",
+    "date_short": "Thu · Sep 24",
+    "generated_label": "Generated last night for today",
+    "breakfast": {
+      "dish_hindi": "अंडा पराठा और दही",
+      "dish_english": "Egg Paratha with Curd",
+      "ingredients_hindi": "अंडा, गेहूं का आटा, तेल, दही, हरी मिर्च, अदरक",
+      "ingredients_list_hi": [
+        "अंडा",
+        "गेहूं का आटा",
+        "तेल",
+        "दही",
+        "हरी मिर्च",
+        "अदरक"
+      ],
+      "ingredients_list_en": [
+        "Egg",
+        "Whole wheat flour",
+        "Oil",
+        "Curd",
+        "Green chili",
+        "Ginger"
+      ],
+      "prep_notes_hi": "आटा गूंधकर उसमें हरी मिर्च और अदरक मिलाएं। भूरे रंग का होने तक पराठा सेंकें।",
+      "prep_notes_en": "Mix green chili and ginger in the dough. Cook the paratha until golden brown.",
+      "vizz_macros": {
+        "cal": 450,
+        "protein": 18,
+        "fat": 20,
+        "carbs": 40
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=egg%20paratha%20recipe%20recipe"
+    },
+    "lunch": {
+      "dish_hindi": "राजमा चावल, पापड़ और आचार",
+      "dish_english": "Rajma with Rice, Papad and Pickle",
+      "ingredients_hindi": "राजमा, बासमती चावल, पापड़, आचार, टमाटर, प्याज, मसाले",
+      "ingredients_list_hi": [
+        "राजमा",
+        "बासमती चावल",
+        "पापड़",
+        "आचार",
+        "टमाटर",
+        "प्याज",
+        "मसाले"
+      ],
+      "ingredients_list_en": [
+        "Kidney beans",
+        "Basmati rice",
+        "Papad",
+        "Pickle",
+        "Tomato",
+        "Onion",
+        "Spices"
+      ],
+      "prep_notes_hi": "राजमा को रातभर भिगोकर पकाएं। यह यात्रा के लिए उपयुक्त और माइक्रोवेव में गर्म करने योग्य है।",
+      "prep_notes_en": "Soak kidney beans overnight and cook. Suitable for travel and microwave reheating.",
+      "vizz_macros": {
+        "cal": 690,
+        "protein": 27,
+        "fat": 5,
+        "carbs": 130
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=rajma%20rice%20recipe%20recipe"
+    },
+    "dinner": {
+      "dish_hindi": "वेजीटेबल पास्ता, लहसुन की ब्रेड",
+      "dish_english": "Vegetable Pasta with Garlic Bread",
+      "ingredients_hindi": "पास्ता, मिश्रित सब्जियां, लहसुन, ब्रेड, मक्खन, जैतून का तेल, मसाले",
+      "ingredients_list_hi": [
+        "पास्ता",
+        "मिश्रित सब्जियां",
+        "लहसुन",
+        "ब्रेड",
+        "मक्खन",
+        "जैतून का तेल",
+        "मसाले"
+      ],
+      "ingredients_list_en": [
+        "Pasta",
+        "Mixed vegetables",
+        "Garlic",
+        "Bread",
+        "Butter",
+        "Olive oil",
+        "Spices"
+      ],
+      "prep_notes_hi": "पास्ता को थोड़ा नरम रहने तक पकाएं। सब्जियों को जैतून के तेल में भूनें।",
+      "prep_notes_en": "Cook pasta till slightly al dente. Sauté vegetables in olive oil.",
+      "vizz_macros": {
+        "cal": 560,
+        "protein": 15,
+        "fat": 13,
+        "carbs": 100
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=vegetable%20pasta%20recipe%20recipe"
+    },
+    "vizz_daily_total_from_meals": {
+      "cal": 1700,
+      "protein": 60,
+      "fat": 38,
+      "carbs": 270
+    },
+    "vizz_daily_total_with_shake": {
+      "cal": 2000,
+      "protein": 100,
+      "fat": 43,
+      "carbs": 295
+    },
+    "macro_check": "Calories, protein, and carbs are well-balanced with the shake; fat slightly under target."
   }
 ]
