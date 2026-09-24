@@ -1,113 +1,111 @@
 {
-  "date": "2026-09-24 (Thursday)",
-  "date_display": "Thursday, September 24",
-  "date_short": "Thu · Sep 24",
+  "date": "2026-09-25 (Friday)",
+  "date_display": "Friday, September 25",
+  "date_short": "Fri · Sep 25",
   "generated_label": "Generated last night for today",
   "breakfast": {
-    "dish_hindi": "अंडा पराठा और दही",
-    "dish_english": "Egg Paratha with Curd",
-    "ingredients_hindi": "अंडा, गेहूं का आटा, तेल, दही, हरी मिर्च, अदरक",
+    "dish_hindi": "मूंग दाल चीला, हरी चटनी और उबला हुआ अंडा (केवल Vizz और Flatmate-2 के लिए)",
+    "dish_english": "Moong Dal Cheela with Green Chutney and Boiled Egg (for Vizz and Flatmate-2 only)",
+    "ingredients_hindi": "मूंग दाल, हरी मिर्च, अदरक, धनिया, नमक, उबला हुआ अंडा",
     "ingredients_list_hi": [
-      "अंडा",
-      "गेहूं का आटा",
-      "तेल",
-      "दही",
+      "मूंग दाल",
       "हरी मिर्च",
-      "अदरक"
+      "अदरक",
+      "धनिया",
+      "नमक",
+      "उबला हुआ अंडा"
     ],
     "ingredients_list_en": [
-      "Egg",
-      "Whole wheat flour",
-      "Oil",
-      "Curd",
-      "Green chili",
-      "Ginger"
+      "Moong Dal",
+      "Green Chilli",
+      "Ginger",
+      "Coriander",
+      "Salt",
+      "Boiled Egg"
     ],
-    "prep_notes_hi": "आटा गूंधकर उसमें हरी मिर्च और अदरक मिलाएं। भूरे रंग का होने तक पराठा सेंकें।",
-    "prep_notes_en": "Mix green chili and ginger in the dough. Cook the paratha until golden brown.",
+    "prep_notes_hi": "मूंग दाल की पेस्ट अच्छी तरह से पीसें। चीला को सुनहरा भूरा होने तक सेंकें।",
+    "prep_notes_en": "Grind the moong dal into a smooth paste. Cook the cheela until golden brown.",
+    "vizz_macros": {
+      "cal": 350,
+      "protein": 22,
+      "fat": 10,
+      "carbs": 45
+    },
+    "youtube_url": "https://www.youtube.com/results?search_query=moong%20dal%20cheela%20recipe%20recipe"
+  },
+  "lunch": {
+    "dish_hindi": "चने की दाल पुलाव, पापड़ और अचार",
+    "dish_english": "Chana Dal Pulao with Papad and Pickle",
+    "ingredients_hindi": "चने की दाल, बासमती चावल, प्याज़, टमाटर, मसालें, पापड़, अचार",
+    "ingredients_list_hi": [
+      "चने की दाल",
+      "बासमती चावल",
+      "प्याज़",
+      "टमाटर",
+      "मसालें",
+      "पापड़",
+      "अचार"
+    ],
+    "ingredients_list_en": [
+      "Chana Dal",
+      "Basmati Rice",
+      "Onion",
+      "Tomato",
+      "Spices",
+      "Papad",
+      "Pickle"
+    ],
+    "prep_notes_hi": "दाल और चावल को अलग-अलग पकाएं और फिर मिलाएं। यह लंच के लिए अच्छा है क्योंकि यह स्थानांतरित और पुनः गरम किया जा सकता है।",
+    "prep_notes_en": "Cook the dal and rice separately then mix. Good for lunch as it travels and reheats well.",
     "vizz_macros": {
       "cal": 450,
       "protein": 18,
-      "fat": 20,
-      "carbs": 40
+      "fat": 8,
+      "carbs": 85
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=egg%20paratha%20recipe%20recipe"
-  },
-  "lunch": {
-    "dish_hindi": "राजमा चावल, पापड़ और आचार",
-    "dish_english": "Rajma with Rice, Papad and Pickle",
-    "ingredients_hindi": "राजमा, बासमती चावल, पापड़, आचार, टमाटर, प्याज, मसाले",
-    "ingredients_list_hi": [
-      "राजमा",
-      "बासमती चावल",
-      "पापड़",
-      "आचार",
-      "टमाटर",
-      "प्याज",
-      "मसाले"
-    ],
-    "ingredients_list_en": [
-      "Kidney beans",
-      "Basmati rice",
-      "Papad",
-      "Pickle",
-      "Tomato",
-      "Onion",
-      "Spices"
-    ],
-    "prep_notes_hi": "राजमा को रातभर भिगोकर पकाएं। यह यात्रा के लिए उपयुक्त और माइक्रोवेव में गर्म करने योग्य है।",
-    "prep_notes_en": "Soak kidney beans overnight and cook. Suitable for travel and microwave reheating.",
-    "vizz_macros": {
-      "cal": 690,
-      "protein": 27,
-      "fat": 5,
-      "carbs": 130
-    },
-    "youtube_url": "https://www.youtube.com/results?search_query=rajma%20rice%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=chana%20dal%20pulao%20recipe%20recipe"
   },
   "dinner": {
-    "dish_hindi": "वेजीटेबल पास्ता, लहसुन की ब्रेड",
-    "dish_english": "Vegetable Pasta with Garlic Bread",
-    "ingredients_hindi": "पास्ता, मिश्रित सब्जियां, लहसुन, ब्रेड, मक्खन, जैतून का तेल, मसाले",
+    "dish_hindi": "आलू गोभी पराठा, दही और आम की चटनी",
+    "dish_english": "Aloo Gobi Paratha with Curd and Mango Chutney",
+    "ingredients_hindi": "आलू, गोभी, गेहूं का आटा, मसालें, दही, आम की चटनी",
     "ingredients_list_hi": [
-      "पास्ता",
-      "मिश्रित सब्जियां",
-      "लहसुन",
-      "ब्रेड",
-      "मक्खन",
-      "जैतून का तेल",
-      "मसाले"
+      "आलू",
+      "गोभी",
+      "गेहूं का आटा",
+      "मसालें",
+      "दही",
+      "आम की चटनी"
     ],
     "ingredients_list_en": [
-      "Pasta",
-      "Mixed vegetables",
-      "Garlic",
-      "Bread",
-      "Butter",
-      "Olive oil",
-      "Spices"
+      "Potato",
+      "Cauliflower",
+      "Wheat Flour",
+      "Spices",
+      "Curd",
+      "Mango Chutney"
     ],
-    "prep_notes_hi": "पास्ता को थोड़ा नरम रहने तक पकाएं। सब्जियों को जैतून के तेल में भूनें।",
-    "prep_notes_en": "Cook pasta till slightly al dente. Sauté vegetables in olive oil.",
+    "prep_notes_hi": "आलू और गोभी को अच्छी तरह मैश करें। पराठे को सुनहरा भूरा होने तक तवे पर पकाएं।",
+    "prep_notes_en": "Mash the potato and cauliflower thoroughly. Cook paratha on tawa until golden brown.",
     "vizz_macros": {
-      "cal": 560,
-      "protein": 15,
-      "fat": 13,
-      "carbs": 100
+      "cal": 400,
+      "protein": 12,
+      "fat": 15,
+      "carbs": 60
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=vegetable%20pasta%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=aloo%20gobi%20paratha%20recipe%20recipe"
   },
   "vizz_daily_total_from_meals": {
-    "cal": 1700,
-    "protein": 60,
-    "fat": 38,
-    "carbs": 270
+    "cal": 1200,
+    "protein": 52,
+    "fat": 33,
+    "carbs": 190
   },
   "vizz_daily_total_with_shake": {
-    "cal": 2000,
-    "protein": 100,
-    "fat": 43,
-    "carbs": 295
+    "cal": 1500,
+    "protein": 92,
+    "fat": 38,
+    "carbs": 215
   },
-  "macro_check": "Calories, protein, and carbs are well-balanced with the shake; fat slightly under target."
+  "macro_check": "Slight calorie deficiency and protein is lower than target, consider adding another protein source."
 }
