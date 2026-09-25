@@ -1,124 +1,5 @@
 [
   {
-    "date": "2026-08-27 (Thursday)",
-    "date_display": "Thursday, August 27",
-    "date_short": "Thu · Aug 27",
-    "generated_label": "Generated last night for today",
-    "breakfast": {
-      "dish_hindi": "सब्ज़ियों के साथ पालक पराठा, दही",
-      "dish_english": "Spinach Paratha with Vegetables & Curd",
-      "ingredients_hindi": "आटा, पालक, दही, गाजर, मटर, अदरक, मिर्च, नमक",
-      "ingredients_list_hi": [
-        "आटा",
-        "पालक",
-        "दही",
-        "गाजर",
-        "मटर",
-        "अदरक",
-        "मिर्च",
-        "नमक"
-      ],
-      "ingredients_list_en": [
-        "Whole wheat flour",
-        "Spinach",
-        "Curd",
-        "Carrot",
-        "Peas",
-        "Ginger",
-        "Chili",
-        "Salt"
-      ],
-      "prep_notes_hi": "पालक को बारीक काटें और आटे में मिलाकर नरम गूंध लें। सब्जियों को पीसकर पराठे के साथ परोसें।",
-      "prep_notes_en": "Finely chop spinach and knead into soft dough. Serve shredded vegetables alongside parathas.",
-      "vizz_macros": {
-        "cal": 350,
-        "protein": 12,
-        "fat": 8,
-        "carbs": 60
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=spinach%20paratha%20recipe%20recipe"
-    },
-    "lunch": {
-      "dish_hindi": "चने के साथ ब्राउन राइस, पापड़",
-      "dish_english": "Brown Rice with Chickpeas & Papad",
-      "ingredients_hindi": "ब्राउन राइस, चना, टमाटर, प्याज, जीरा, नमक, हल्दी, पापड़",
-      "ingredients_list_hi": [
-        "ब्राउन राइस",
-        "चना",
-        "टमाटर",
-        "प्याज",
-        "जीरा",
-        "नमक",
-        "हल्दी",
-        "पापड़"
-      ],
-      "ingredients_list_en": [
-        "Brown rice",
-        "Chickpeas",
-        "Tomato",
-        "Onion",
-        "Cumin",
-        "Salt",
-        "Turmeric",
-        "Papad"
-      ],
-      "prep_notes_hi": "यह व्यंजन गरम रखा जा सकता है और माइक्रोवेव में आसानी से गरम होता है। चनों को ठीक से उबालें।",
-      "prep_notes_en": "This dish holds well and reheats easily in a microwave. Ensure chickpeas are properly cooked.",
-      "vizz_macros": {
-        "cal": 450,
-        "protein": 18,
-        "fat": 6,
-        "carbs": 80
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=brown%20rice%20chickpeas%20recipe%20recipe"
-    },
-    "dinner": {
-      "dish_hindi": "टूफू स्टर-फ्राय नूडल्स, सोया सॉस",
-      "dish_english": "Tofu Stir-Fry Noodles with Soy Sauce",
-      "ingredients_hindi": "नूडल्स, टोफू, शिमला मिर्च, गाजर, सोया सॉस, लहसुन, तेल",
-      "ingredients_list_hi": [
-        "नूडल्स",
-        "टोफू",
-        "शिमला मिर्च",
-        "गाजर",
-        "सोया सॉस",
-        "लहसुन",
-        "तेल"
-      ],
-      "ingredients_list_en": [
-        "Noodles",
-        "Tofu",
-        "Bell pepper",
-        "Carrot",
-        "Soy sauce",
-        "Garlic",
-        "Oil"
-      ],
-      "prep_notes_hi": "नूडल्स को उबालें और सब्जियाँ एवं टोफू को तेज आँच पर भूनें। सोया सॉस डालकर अच्छे से मिलाएं।",
-      "prep_notes_en": "Boil noodles and stir-fry vegetables and tofu on high heat. Mix in soy sauce thoroughly.",
-      "vizz_macros": {
-        "cal": 500,
-        "protein": 20,
-        "fat": 10,
-        "carbs": 70
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=tofu%20noodles%20stir-fry%20recipe"
-    },
-    "vizz_daily_total_from_meals": {
-      "cal": 1300,
-      "protein": 50,
-      "fat": 24,
-      "carbs": 210
-    },
-    "vizz_daily_total_with_shake": {
-      "cal": 1600,
-      "protein": 90,
-      "fat": 29,
-      "carbs": 235
-    },
-    "macro_check": "Calories and carbs are sufficient, but protein and fat slightly below target. Consider adding an extra protein source or using higher-protein tofu."
-  },
-  {
     "date": "2026-08-29 (Saturday)",
     "date_display": "Saturday, August 29",
     "date_short": "Sat · Aug 29",
@@ -3490,5 +3371,136 @@
       "carbs": 215
     },
     "macro_check": "Slight calorie deficiency and protein is lower than target, consider adding another protein source."
+  },
+  {
+    "date": "2026-09-26 (Saturday)",
+    "date_display": "Saturday, September 26",
+    "date_short": "Sat · Sep 26",
+    "generated_label": "Generated last night for today",
+    "breakfast": {
+      "dish_hindi": "उपमा, नारियल चटनी, उबला अंडा (केवल विज और फ्लैटमेट-2 के लिए)",
+      "dish_english": "Upma with Coconut Chutney and Boiled Egg (for Vizz and Flatmate-2)",
+      "ingredients_hindi": "रवा, प्याज, टमाटर, हरी मिर्च, गाजर, मटर, नारियल, नमक, तेल",
+      "ingredients_list_hi": [
+        "रवा",
+        "प्याज",
+        "टमाटर",
+        "हरी मिर्च",
+        "गाजर",
+        "मटर",
+        "नारियल",
+        "नमक",
+        "तेल"
+      ],
+      "ingredients_list_en": [
+        "Rava (semolina)",
+        "Onion",
+        "Tomato",
+        "Green Chilli",
+        "Carrot",
+        "Peas",
+        "Coconut",
+        "Salt",
+        "Oil"
+      ],
+      "prep_notes_hi": "सबसे पहले रवाइ को सुनहरा होने तक भूनें। फिर सब्जियाँ और पानी डालकर पकाएँ। आँच धीमी रखें और गाढ़ा होने दें।",
+      "prep_notes_en": "First, roast the semolina until golden. Add vegetables and water, cook until done. Keep flame low and let thicken.",
+      "vizz_macros": {
+        "cal": 350,
+        "protein": 8,
+        "fat": 8,
+        "carbs": 60
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=upma%20recipe%20hindi%20recipe"
+    },
+    "lunch": {
+      "dish_hindi": "पालक पनीर, जीरा चावल, पापड़, अचार",
+      "dish_english": "Palak Paneer with Jeera Rice, Papad, and Pickle",
+      "ingredients_hindi": "पालक, पनीर, प्याज, टमाटर, अदरक, लहसुन, जीरा, चावल, तेल, नमक, गरम मसाला",
+      "ingredients_list_hi": [
+        "पालक",
+        "पनीर",
+        "प्याज",
+        "टमाटर",
+        "अदरक",
+        "लहसुन",
+        "जीरा",
+        "चावल",
+        "तेल",
+        "नमक",
+        "गरम मसाला"
+      ],
+      "ingredients_list_en": [
+        "Spinach",
+        "Paneer",
+        "Onion",
+        "Tomato",
+        "Ginger",
+        "Garlic",
+        "Cumin",
+        "Rice",
+        "Oil",
+        "Salt",
+        "Garam Masala"
+      ],
+      "prep_notes_hi": "यह व्यंजन ऑफिस के लिए अच्छे से पैक किया जा सकता है और माइक्रोवेव में गरम किया जा सकता है।",
+      "prep_notes_en": "This dish can be packed well for the office and reheated in a microwave.",
+      "vizz_macros": {
+        "cal": 600,
+        "protein": 25,
+        "fat": 20,
+        "carbs": 80
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=palak%20paneer%20recipe%20recipe"
+    },
+    "dinner": {
+      "dish_hindi": "हक्का नूडल्स, हरी चटनी",
+      "dish_english": "Hakka Noodles with Green Chutney",
+      "ingredients_hindi": "हक्का नूडल्स, शिमला मिर्च, गाजर, प्याज, सोया सॉस, विनेगर, तेल, हरी धनिया, हरी मिर्च",
+      "ingredients_list_hi": [
+        "हक्का नूडल्स",
+        "शिमला मिर्च",
+        "गाजर",
+        "प्याज",
+        "सोया सॉस",
+        "विनेगर",
+        "तेल",
+        "हरी धनिया",
+        "हरी मिर्च"
+      ],
+      "ingredients_list_en": [
+        "Hakka Noodles",
+        "Bell Peppers",
+        "Carrot",
+        "Onion",
+        "Soy Sauce",
+        "Vinegar",
+        "Oil",
+        "Coriander Leaves",
+        "Green Chilies"
+      ],
+      "prep_notes_hi": "सब्जियों को तेज़ आंच पर भूँनें ताकि वे कुरकुरी रहें। नूडल्स को अच्छे से मिलाएं और चटनी के साथ परोसें।",
+      "prep_notes_en": "Stir-fry the vegetables on high heat to keep them crisp. Mix noodles well and serve with chutney.",
+      "vizz_macros": {
+        "cal": 500,
+        "protein": 12,
+        "fat": 17,
+        "carbs": 75
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=hakka%20noodles%20recipe%20recipe"
+    },
+    "vizz_daily_total_from_meals": {
+      "cal": 1450,
+      "protein": 45,
+      "fat": 45,
+      "carbs": 215
+    },
+    "vizz_daily_total_with_shake": {
+      "cal": 1750,
+      "protein": 85,
+      "fat": 50,
+      "carbs": 240
+    },
+    "macro_check": "Total falls short of 2000 cal and 110g protein target; slightly over in carbs."
   }
 ]

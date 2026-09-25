@@ -1,111 +1,131 @@
 {
-  "date": "2026-09-25 (Friday)",
-  "date_display": "Friday, September 25",
-  "date_short": "Fri · Sep 25",
+  "date": "2026-09-26 (Saturday)",
+  "date_display": "Saturday, September 26",
+  "date_short": "Sat · Sep 26",
   "generated_label": "Generated last night for today",
   "breakfast": {
-    "dish_hindi": "मूंग दाल चीला, हरी चटनी और उबला हुआ अंडा (केवल Vizz और Flatmate-2 के लिए)",
-    "dish_english": "Moong Dal Cheela with Green Chutney and Boiled Egg (for Vizz and Flatmate-2 only)",
-    "ingredients_hindi": "मूंग दाल, हरी मिर्च, अदरक, धनिया, नमक, उबला हुआ अंडा",
+    "dish_hindi": "उपमा, नारियल चटनी, उबला अंडा (केवल विज और फ्लैटमेट-2 के लिए)",
+    "dish_english": "Upma with Coconut Chutney and Boiled Egg (for Vizz and Flatmate-2)",
+    "ingredients_hindi": "रवा, प्याज, टमाटर, हरी मिर्च, गाजर, मटर, नारियल, नमक, तेल",
     "ingredients_list_hi": [
-      "मूंग दाल",
-      "हरी मिर्च",
-      "अदरक",
-      "धनिया",
-      "नमक",
-      "उबला हुआ अंडा"
-    ],
-    "ingredients_list_en": [
-      "Moong Dal",
-      "Green Chilli",
-      "Ginger",
-      "Coriander",
-      "Salt",
-      "Boiled Egg"
-    ],
-    "prep_notes_hi": "मूंग दाल की पेस्ट अच्छी तरह से पीसें। चीला को सुनहरा भूरा होने तक सेंकें।",
-    "prep_notes_en": "Grind the moong dal into a smooth paste. Cook the cheela until golden brown.",
-    "vizz_macros": {
-      "cal": 350,
-      "protein": 22,
-      "fat": 10,
-      "carbs": 45
-    },
-    "youtube_url": "https://www.youtube.com/results?search_query=moong%20dal%20cheela%20recipe%20recipe"
-  },
-  "lunch": {
-    "dish_hindi": "चने की दाल पुलाव, पापड़ और अचार",
-    "dish_english": "Chana Dal Pulao with Papad and Pickle",
-    "ingredients_hindi": "चने की दाल, बासमती चावल, प्याज़, टमाटर, मसालें, पापड़, अचार",
-    "ingredients_list_hi": [
-      "चने की दाल",
-      "बासमती चावल",
-      "प्याज़",
+      "रवा",
+      "प्याज",
       "टमाटर",
-      "मसालें",
-      "पापड़",
-      "अचार"
+      "हरी मिर्च",
+      "गाजर",
+      "मटर",
+      "नारियल",
+      "नमक",
+      "तेल"
     ],
     "ingredients_list_en": [
-      "Chana Dal",
-      "Basmati Rice",
+      "Rava (semolina)",
       "Onion",
       "Tomato",
-      "Spices",
-      "Papad",
-      "Pickle"
+      "Green Chilli",
+      "Carrot",
+      "Peas",
+      "Coconut",
+      "Salt",
+      "Oil"
     ],
-    "prep_notes_hi": "दाल और चावल को अलग-अलग पकाएं और फिर मिलाएं। यह लंच के लिए अच्छा है क्योंकि यह स्थानांतरित और पुनः गरम किया जा सकता है।",
-    "prep_notes_en": "Cook the dal and rice separately then mix. Good for lunch as it travels and reheats well.",
+    "prep_notes_hi": "सबसे पहले रवाइ को सुनहरा होने तक भूनें। फिर सब्जियाँ और पानी डालकर पकाएँ। आँच धीमी रखें और गाढ़ा होने दें।",
+    "prep_notes_en": "First, roast the semolina until golden. Add vegetables and water, cook until done. Keep flame low and let thicken.",
     "vizz_macros": {
-      "cal": 450,
-      "protein": 18,
+      "cal": 350,
+      "protein": 8,
       "fat": 8,
-      "carbs": 85
-    },
-    "youtube_url": "https://www.youtube.com/results?search_query=chana%20dal%20pulao%20recipe%20recipe"
-  },
-  "dinner": {
-    "dish_hindi": "आलू गोभी पराठा, दही और आम की चटनी",
-    "dish_english": "Aloo Gobi Paratha with Curd and Mango Chutney",
-    "ingredients_hindi": "आलू, गोभी, गेहूं का आटा, मसालें, दही, आम की चटनी",
-    "ingredients_list_hi": [
-      "आलू",
-      "गोभी",
-      "गेहूं का आटा",
-      "मसालें",
-      "दही",
-      "आम की चटनी"
-    ],
-    "ingredients_list_en": [
-      "Potato",
-      "Cauliflower",
-      "Wheat Flour",
-      "Spices",
-      "Curd",
-      "Mango Chutney"
-    ],
-    "prep_notes_hi": "आलू और गोभी को अच्छी तरह मैश करें। पराठे को सुनहरा भूरा होने तक तवे पर पकाएं।",
-    "prep_notes_en": "Mash the potato and cauliflower thoroughly. Cook paratha on tawa until golden brown.",
-    "vizz_macros": {
-      "cal": 400,
-      "protein": 12,
-      "fat": 15,
       "carbs": 60
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=aloo%20gobi%20paratha%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=upma%20recipe%20hindi%20recipe"
+  },
+  "lunch": {
+    "dish_hindi": "पालक पनीर, जीरा चावल, पापड़, अचार",
+    "dish_english": "Palak Paneer with Jeera Rice, Papad, and Pickle",
+    "ingredients_hindi": "पालक, पनीर, प्याज, टमाटर, अदरक, लहसुन, जीरा, चावल, तेल, नमक, गरम मसाला",
+    "ingredients_list_hi": [
+      "पालक",
+      "पनीर",
+      "प्याज",
+      "टमाटर",
+      "अदरक",
+      "लहसुन",
+      "जीरा",
+      "चावल",
+      "तेल",
+      "नमक",
+      "गरम मसाला"
+    ],
+    "ingredients_list_en": [
+      "Spinach",
+      "Paneer",
+      "Onion",
+      "Tomato",
+      "Ginger",
+      "Garlic",
+      "Cumin",
+      "Rice",
+      "Oil",
+      "Salt",
+      "Garam Masala"
+    ],
+    "prep_notes_hi": "यह व्यंजन ऑफिस के लिए अच्छे से पैक किया जा सकता है और माइक्रोवेव में गरम किया जा सकता है।",
+    "prep_notes_en": "This dish can be packed well for the office and reheated in a microwave.",
+    "vizz_macros": {
+      "cal": 600,
+      "protein": 25,
+      "fat": 20,
+      "carbs": 80
+    },
+    "youtube_url": "https://www.youtube.com/results?search_query=palak%20paneer%20recipe%20recipe"
+  },
+  "dinner": {
+    "dish_hindi": "हक्का नूडल्स, हरी चटनी",
+    "dish_english": "Hakka Noodles with Green Chutney",
+    "ingredients_hindi": "हक्का नूडल्स, शिमला मिर्च, गाजर, प्याज, सोया सॉस, विनेगर, तेल, हरी धनिया, हरी मिर्च",
+    "ingredients_list_hi": [
+      "हक्का नूडल्स",
+      "शिमला मिर्च",
+      "गाजर",
+      "प्याज",
+      "सोया सॉस",
+      "विनेगर",
+      "तेल",
+      "हरी धनिया",
+      "हरी मिर्च"
+    ],
+    "ingredients_list_en": [
+      "Hakka Noodles",
+      "Bell Peppers",
+      "Carrot",
+      "Onion",
+      "Soy Sauce",
+      "Vinegar",
+      "Oil",
+      "Coriander Leaves",
+      "Green Chilies"
+    ],
+    "prep_notes_hi": "सब्जियों को तेज़ आंच पर भूँनें ताकि वे कुरकुरी रहें। नूडल्स को अच्छे से मिलाएं और चटनी के साथ परोसें।",
+    "prep_notes_en": "Stir-fry the vegetables on high heat to keep them crisp. Mix noodles well and serve with chutney.",
+    "vizz_macros": {
+      "cal": 500,
+      "protein": 12,
+      "fat": 17,
+      "carbs": 75
+    },
+    "youtube_url": "https://www.youtube.com/results?search_query=hakka%20noodles%20recipe%20recipe"
   },
   "vizz_daily_total_from_meals": {
-    "cal": 1200,
-    "protein": 52,
-    "fat": 33,
-    "carbs": 190
-  },
-  "vizz_daily_total_with_shake": {
-    "cal": 1500,
-    "protein": 92,
-    "fat": 38,
+    "cal": 1450,
+    "protein": 45,
+    "fat": 45,
     "carbs": 215
   },
-  "macro_check": "Slight calorie deficiency and protein is lower than target, consider adding another protein source."
+  "vizz_daily_total_with_shake": {
+    "cal": 1750,
+    "protein": 85,
+    "fat": 50,
+    "carbs": 240
+  },
+  "macro_check": "Total falls short of 2000 cal and 110g protein target; slightly over in carbs."
 }
