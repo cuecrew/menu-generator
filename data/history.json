@@ -1,114 +1,5 @@
 [
   {
-    "date": "2026-08-29 (Saturday)",
-    "date_display": "Saturday, August 29",
-    "date_short": "Sat · Aug 29",
-    "generated_label": "Generated last night for today",
-    "breakfast": {
-      "dish_hindi": "पालक चिल्ला और उबला अंडा (केवल Vizz और Flatmate-2 के लिए)",
-      "dish_english": "Palak Chilla and Boiled Egg (for Vizz and Flatmate-2 only)",
-      "ingredients_hindi": "चना आटा, पालक, अदरक, हरी मिर्च, नमक, अंडा",
-      "ingredients_list_hi": [
-        "चना आटा",
-        "पालक",
-        "अदरक",
-        "हरी मिर्च",
-        "नमक",
-        "अंडा"
-      ],
-      "ingredients_list_en": [
-        "Chickpea flour",
-        "Spinach",
-        "Ginger",
-        "Green chili",
-        "Salt",
-        "Egg"
-      ],
-      "prep_notes_hi": "पानी के साथ चना आटा मिलाएं और पतला घोल तैयार करें। पालक, अदरक, और हरी मिर्च डालें। दोनों तरफ से सुनहरा होने तक पकाएं।",
-      "prep_notes_en": "Mix chickpea flour with water to create a thin batter. Add spinach, ginger, and green chili. Cook until golden on both sides.",
-      "vizz_macros": {
-        "cal": 350,
-        "protein": 18,
-        "fat": 10,
-        "carbs": 50
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=palak%20chilla%20recipe%20recipe"
-    },
-    "lunch": {
-      "dish_hindi": "मूंग दाल खिचड़ी और पापड़",
-      "dish_english": "Moong Dal Khichdi with Papad",
-      "ingredients_hindi": "चावल, मूंग दाल, हल्दी, नमक, पापड़",
-      "ingredients_list_hi": [
-        "चावल",
-        "मूंग दाल",
-        "हल्दी",
-        "नमक",
-        "पापड़"
-      ],
-      "ingredients_list_en": [
-        "Rice",
-        "Moong dal",
-        "Turmeric",
-        "Salt",
-        "Papad"
-      ],
-      "prep_notes_hi": "खिचड़ी बनाई जाती है ताकि 4-5 घंटों तक ताजगी बनी रहे। यह माइक्रोवेव में आसानी से गरम हो सकती है।",
-      "prep_notes_en": "Khichdi is prepared to stay fresh for 4-5 hours. It reheats easily in a microwave.",
-      "vizz_macros": {
-        "cal": 450,
-        "protein": 15,
-        "fat": 8,
-        "carbs": 80
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=moong%20dal%20khichdi%20recipe%20recipe"
-    },
-    "dinner": {
-      "dish_hindi": "मटर पनीर और लहसुन की रोटी",
-      "dish_english": "Matar Paneer with Garlic Naan",
-      "ingredients_hindi": "पनीर, मटर, प्याज, टमाटर, मसाले, लहसुन, आटा",
-      "ingredients_list_hi": [
-        "पनीर",
-        "मटर",
-        "प्याज",
-        "टमाटर",
-        "मसाले",
-        "लहसुन",
-        "आटा"
-      ],
-      "ingredients_list_en": [
-        "Paneer",
-        "Peas",
-        "Onion",
-        "Tomato",
-        "Spices",
-        "Garlic",
-        "Flour"
-      ],
-      "prep_notes_hi": "पनीर और मटर को टमाटर प्याज के मसाले में पकाएं। लहसुन के साथ आटे की रोटी बनाएं।",
-      "prep_notes_en": "Cook paneer and peas in a tomato-onion spice mix. Make the naan with garlic in the dough.",
-      "vizz_macros": {
-        "cal": 550,
-        "protein": 25,
-        "fat": 15,
-        "carbs": 75
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=matar%20paneer%20recipe%20recipe"
-    },
-    "vizz_daily_total_from_meals": {
-      "cal": 1350,
-      "protein": 58,
-      "fat": 33,
-      "carbs": 205
-    },
-    "vizz_daily_total_with_shake": {
-      "cal": 1650,
-      "protein": 98,
-      "fat": 38,
-      "carbs": 230
-    },
-    "macro_check": "Vizz's intake hits carb target, but protein is slightly low at 98g; consider supplementing with additional legumes or paneer."
-  },
-  {
     "date": "2026-08-30 (Sunday)",
     "date_display": "Sunday, August 30",
     "date_short": "Sun · Aug 30",
@@ -3502,5 +3393,130 @@
       "carbs": 240
     },
     "macro_check": "Total falls short of 2000 cal and 110g protein target; slightly over in carbs."
+  },
+  {
+    "date": "2026-09-27 (Sunday)",
+    "date_display": "Sunday, September 27",
+    "date_short": "Sun · Sep 27",
+    "generated_label": "Generated last night for today",
+    "breakfast": {
+      "dish_hindi": "सब्जियों का ओट्स और उबले अंडे",
+      "dish_english": "Vegetable Oats with Boiled Eggs",
+      "ingredients_hindi": "ओट्स, गाजर, मटर, प्याज, शिमला मिर्च, जीरा, हल्दी, नमक, उबले अंडे (विज्ज और फ्लैटमेट-2 के लिए)",
+      "ingredients_list_hi": [
+        "ओट्स",
+        "गाजर",
+        "मटर",
+        "प्याज",
+        "शिमला मिर्च",
+        "जीरा",
+        "हल्दी",
+        "नमक",
+        "उबले अंडे"
+      ],
+      "ingredients_list_en": [
+        "Oats",
+        "Carrot",
+        "Peas",
+        "Onion",
+        "Capsicum",
+        "Cumin",
+        "Turmeric",
+        "Salt",
+        "Boiled Eggs"
+      ],
+      "prep_notes_hi": "सब्जियों को छोटे टुकड़ों में काटें। ओट्स को अच्छी तरह से पकाएं जब तक कि वह थोड़े गीले हों। अंडे अलग से उबालें।",
+      "prep_notes_en": "Chop the vegetables into small pieces. Cook oats thoroughly until slightly moist. Boil eggs separately.",
+      "vizz_macros": {
+        "cal": 370,
+        "protein": 18,
+        "fat": 12,
+        "carbs": 52
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=vegetable%20oats%20recipe%20recipe"
+    },
+    "lunch": {
+      "dish_hindi": "चने की करी और जीरा चावल, पापड़, अचार",
+      "dish_english": "Chickpea Curry with Jeera Rice, Papad, Pickle",
+      "ingredients_hindi": "चने, चावल, जीरा, तेल, प्याज, टमाटर, अदरक लहसुन पेस्ट, मसाले, पापड़, अचार",
+      "ingredients_list_hi": [
+        "चने",
+        "चावल",
+        "जीरा",
+        "तेल",
+        "प्याज",
+        "टमाटर",
+        "अदरक लहसुन पेस्ट",
+        "मसाले",
+        "पापड़",
+        "अचार"
+      ],
+      "ingredients_list_en": [
+        "Chickpeas",
+        "Rice",
+        "Cumin Seeds",
+        "Oil",
+        "Onion",
+        "Tomato",
+        "Ginger Garlic Paste",
+        "Spices",
+        "Papad",
+        "Pickle"
+      ],
+      "prep_notes_hi": "चना करी और जीरा चावल को अच्छी तरह पकाएं। सुनिश्चित करें कि यह ट्रेवल फेंडली है और काम करने के स्थान पर पुनः गरम किया जा सकता है।",
+      "prep_notes_en": "Cook the chickpea curry and jeera rice well. Ensure it's portable and can be reheated at the office.",
+      "vizz_macros": {
+        "cal": 600,
+        "protein": 20,
+        "fat": 15,
+        "carbs": 98
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=chickpea%20curry%20jeera%20rice%20recipe"
+    },
+    "dinner": {
+      "dish_hindi": "बेसन का चीला, दही और पुदीना की चटनी",
+      "dish_english": "Besan Chilla with Curd and Mint Chutney",
+      "ingredients_hindi": "बेसन, पानी, प्याज, हरी मिर्च, धनिया पत्ता, दही, पुदीना की चटनी",
+      "ingredients_list_hi": [
+        "बेसन",
+        "पानी",
+        "प्याज",
+        "हरी मिर्च",
+        "धनिया पत्ता",
+        "दही",
+        "पुदीना की चटनी"
+      ],
+      "ingredients_list_en": [
+        "Gram Flour",
+        "Water",
+        "Onion",
+        "Green Chili",
+        "Coriander Leaves",
+        "Curd",
+        "Mint Chutney"
+      ],
+      "prep_notes_hi": "चिल्ले का घोल थोड़े गाढ़े होना चाहिए। उन्हें फेंटकर अच्छी तरह पकाएं। चटनी सुनिश्चित करें कि ताजा है।",
+      "prep_notes_en": "The chilla batter should be slightly thick. Flip and cook them thoroughly. Ensure chutney is fresh.",
+      "vizz_macros": {
+        "cal": 490,
+        "protein": 23,
+        "fat": 13,
+        "carbs": 84
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=besan%20chilla%20recipe%20recipe"
+    },
+    "vizz_daily_total_from_meals": {
+      "cal": 1460,
+      "protein": 61,
+      "fat": 40,
+      "carbs": 234
+    },
+    "vizz_daily_total_with_shake": {
+      "cal": 1760,
+      "protein": 101,
+      "fat": 45,
+      "carbs": 259
+    },
+    "macro_check": "Almost meets Vizz's targets but slight short on protein by 9g and calories by 240. Carbs exceed by 44g."
   }
 ]

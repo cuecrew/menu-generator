@@ -1,131 +1,125 @@
 {
-  "date": "2026-09-26 (Saturday)",
-  "date_display": "Saturday, September 26",
-  "date_short": "Sat · Sep 26",
+  "date": "2026-09-27 (Sunday)",
+  "date_display": "Sunday, September 27",
+  "date_short": "Sun · Sep 27",
   "generated_label": "Generated last night for today",
   "breakfast": {
-    "dish_hindi": "उपमा, नारियल चटनी, उबला अंडा (केवल विज और फ्लैटमेट-2 के लिए)",
-    "dish_english": "Upma with Coconut Chutney and Boiled Egg (for Vizz and Flatmate-2)",
-    "ingredients_hindi": "रवा, प्याज, टमाटर, हरी मिर्च, गाजर, मटर, नारियल, नमक, तेल",
+    "dish_hindi": "सब्जियों का ओट्स और उबले अंडे",
+    "dish_english": "Vegetable Oats with Boiled Eggs",
+    "ingredients_hindi": "ओट्स, गाजर, मटर, प्याज, शिमला मिर्च, जीरा, हल्दी, नमक, उबले अंडे (विज्ज और फ्लैटमेट-2 के लिए)",
     "ingredients_list_hi": [
-      "रवा",
-      "प्याज",
-      "टमाटर",
-      "हरी मिर्च",
+      "ओट्स",
       "गाजर",
       "मटर",
-      "नारियल",
+      "प्याज",
+      "शिमला मिर्च",
+      "जीरा",
+      "हल्दी",
       "नमक",
-      "तेल"
+      "उबले अंडे"
     ],
     "ingredients_list_en": [
-      "Rava (semolina)",
-      "Onion",
-      "Tomato",
-      "Green Chilli",
+      "Oats",
       "Carrot",
       "Peas",
-      "Coconut",
+      "Onion",
+      "Capsicum",
+      "Cumin",
+      "Turmeric",
       "Salt",
-      "Oil"
+      "Boiled Eggs"
     ],
-    "prep_notes_hi": "सबसे पहले रवाइ को सुनहरा होने तक भूनें। फिर सब्जियाँ और पानी डालकर पकाएँ। आँच धीमी रखें और गाढ़ा होने दें।",
-    "prep_notes_en": "First, roast the semolina until golden. Add vegetables and water, cook until done. Keep flame low and let thicken.",
+    "prep_notes_hi": "सब्जियों को छोटे टुकड़ों में काटें। ओट्स को अच्छी तरह से पकाएं जब तक कि वह थोड़े गीले हों। अंडे अलग से उबालें।",
+    "prep_notes_en": "Chop the vegetables into small pieces. Cook oats thoroughly until slightly moist. Boil eggs separately.",
     "vizz_macros": {
-      "cal": 350,
-      "protein": 8,
-      "fat": 8,
-      "carbs": 60
+      "cal": 370,
+      "protein": 18,
+      "fat": 12,
+      "carbs": 52
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=upma%20recipe%20hindi%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=vegetable%20oats%20recipe%20recipe"
   },
   "lunch": {
-    "dish_hindi": "पालक पनीर, जीरा चावल, पापड़, अचार",
-    "dish_english": "Palak Paneer with Jeera Rice, Papad, and Pickle",
-    "ingredients_hindi": "पालक, पनीर, प्याज, टमाटर, अदरक, लहसुन, जीरा, चावल, तेल, नमक, गरम मसाला",
+    "dish_hindi": "चने की करी और जीरा चावल, पापड़, अचार",
+    "dish_english": "Chickpea Curry with Jeera Rice, Papad, Pickle",
+    "ingredients_hindi": "चने, चावल, जीरा, तेल, प्याज, टमाटर, अदरक लहसुन पेस्ट, मसाले, पापड़, अचार",
     "ingredients_list_hi": [
-      "पालक",
-      "पनीर",
+      "चने",
+      "चावल",
+      "जीरा",
+      "तेल",
       "प्याज",
       "टमाटर",
-      "अदरक",
-      "लहसुन",
-      "जीरा",
-      "चावल",
-      "तेल",
-      "नमक",
-      "गरम मसाला"
+      "अदरक लहसुन पेस्ट",
+      "मसाले",
+      "पापड़",
+      "अचार"
     ],
     "ingredients_list_en": [
-      "Spinach",
-      "Paneer",
+      "Chickpeas",
+      "Rice",
+      "Cumin Seeds",
+      "Oil",
       "Onion",
       "Tomato",
-      "Ginger",
-      "Garlic",
-      "Cumin",
-      "Rice",
-      "Oil",
-      "Salt",
-      "Garam Masala"
+      "Ginger Garlic Paste",
+      "Spices",
+      "Papad",
+      "Pickle"
     ],
-    "prep_notes_hi": "यह व्यंजन ऑफिस के लिए अच्छे से पैक किया जा सकता है और माइक्रोवेव में गरम किया जा सकता है।",
-    "prep_notes_en": "This dish can be packed well for the office and reheated in a microwave.",
+    "prep_notes_hi": "चना करी और जीरा चावल को अच्छी तरह पकाएं। सुनिश्चित करें कि यह ट्रेवल फेंडली है और काम करने के स्थान पर पुनः गरम किया जा सकता है।",
+    "prep_notes_en": "Cook the chickpea curry and jeera rice well. Ensure it's portable and can be reheated at the office.",
     "vizz_macros": {
       "cal": 600,
-      "protein": 25,
-      "fat": 20,
-      "carbs": 80
+      "protein": 20,
+      "fat": 15,
+      "carbs": 98
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=palak%20paneer%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=chickpea%20curry%20jeera%20rice%20recipe"
   },
   "dinner": {
-    "dish_hindi": "हक्का नूडल्स, हरी चटनी",
-    "dish_english": "Hakka Noodles with Green Chutney",
-    "ingredients_hindi": "हक्का नूडल्स, शिमला मिर्च, गाजर, प्याज, सोया सॉस, विनेगर, तेल, हरी धनिया, हरी मिर्च",
+    "dish_hindi": "बेसन का चीला, दही और पुदीना की चटनी",
+    "dish_english": "Besan Chilla with Curd and Mint Chutney",
+    "ingredients_hindi": "बेसन, पानी, प्याज, हरी मिर्च, धनिया पत्ता, दही, पुदीना की चटनी",
     "ingredients_list_hi": [
-      "हक्का नूडल्स",
-      "शिमला मिर्च",
-      "गाजर",
+      "बेसन",
+      "पानी",
       "प्याज",
-      "सोया सॉस",
-      "विनेगर",
-      "तेल",
-      "हरी धनिया",
-      "हरी मिर्च"
+      "हरी मिर्च",
+      "धनिया पत्ता",
+      "दही",
+      "पुदीना की चटनी"
     ],
     "ingredients_list_en": [
-      "Hakka Noodles",
-      "Bell Peppers",
-      "Carrot",
+      "Gram Flour",
+      "Water",
       "Onion",
-      "Soy Sauce",
-      "Vinegar",
-      "Oil",
+      "Green Chili",
       "Coriander Leaves",
-      "Green Chilies"
+      "Curd",
+      "Mint Chutney"
     ],
-    "prep_notes_hi": "सब्जियों को तेज़ आंच पर भूँनें ताकि वे कुरकुरी रहें। नूडल्स को अच्छे से मिलाएं और चटनी के साथ परोसें।",
-    "prep_notes_en": "Stir-fry the vegetables on high heat to keep them crisp. Mix noodles well and serve with chutney.",
+    "prep_notes_hi": "चिल्ले का घोल थोड़े गाढ़े होना चाहिए। उन्हें फेंटकर अच्छी तरह पकाएं। चटनी सुनिश्चित करें कि ताजा है।",
+    "prep_notes_en": "The chilla batter should be slightly thick. Flip and cook them thoroughly. Ensure chutney is fresh.",
     "vizz_macros": {
-      "cal": 500,
-      "protein": 12,
-      "fat": 17,
-      "carbs": 75
+      "cal": 490,
+      "protein": 23,
+      "fat": 13,
+      "carbs": 84
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=hakka%20noodles%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=besan%20chilla%20recipe%20recipe"
   },
   "vizz_daily_total_from_meals": {
-    "cal": 1450,
-    "protein": 45,
-    "fat": 45,
-    "carbs": 215
+    "cal": 1460,
+    "protein": 61,
+    "fat": 40,
+    "carbs": 234
   },
   "vizz_daily_total_with_shake": {
-    "cal": 1750,
-    "protein": 85,
-    "fat": 50,
-    "carbs": 240
+    "cal": 1760,
+    "protein": 101,
+    "fat": 45,
+    "carbs": 259
   },
-  "macro_check": "Total falls short of 2000 cal and 110g protein target; slightly over in carbs."
+  "macro_check": "Almost meets Vizz's targets but slight short on protein by 9g and calories by 240. Carbs exceed by 44g."
 }
