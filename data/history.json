@@ -5,127 +5,6 @@
     "date_short": "Sun · Aug 30",
     "generated_label": "Generated last night for today",
     "breakfast": {
-      "dish_hindi": "ओट्स उपमा, उबला अंडा (केवल Vizz और Flatmate-2 के लिए)",
-      "dish_english": "Oats Upma, Boiled Egg (for Vizz and Flatmate-2 only)",
-      "ingredients_hindi": "ओट्स, प्याज, टमाटर, गाजर, मटर, सरसों के दाने, हरी मिर्च, हल्दी, नमक, उबला अंडा",
-      "ingredients_list_hi": [
-        "ओट्स",
-        "प्याज",
-        "टमाटर",
-        "गाजर",
-        "मटर",
-        "सरसों के दाने",
-        "हरी मिर्च",
-        "हल्दी",
-        "नमक",
-        "उबला अंडा"
-      ],
-      "ingredients_list_en": [
-        "Oats",
-        "Onion",
-        "Tomato",
-        "Carrot",
-        "Peas",
-        "Mustard seeds",
-        "Green chili",
-        "Turmeric",
-        "Salt",
-        "Boiled egg"
-      ],
-      "prep_notes_hi": "ओट्स को हल्का भूनें और फिर सब्जियों के साथ मिलाएं। अच्छी तरह पकने तक ढक कर पकाएं।",
-      "prep_notes_en": "Lightly roast the oats, then combine with vegetables. Cover and cook until well done.",
-      "vizz_macros": {
-        "cal": 370,
-        "protein": 18,
-        "fat": 10,
-        "carbs": 50
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=oats%20upma%20recipe%20hindi%20recipe"
-    },
-    "lunch": {
-      "dish_hindi": "सब्जी पुलाव, पुदीना रायता",
-      "dish_english": "Vegetable Pulao, Mint Raita",
-      "ingredients_hindi": "बासमती चावल, मिक्स सब्जियां, जीरा, धनिया, पुदीना, दही, नमक",
-      "ingredients_list_hi": [
-        "बासमती चावल",
-        "मिक्स सब्जियां",
-        "जीरा",
-        "धनिया",
-        "पुदीना",
-        "दही",
-        "नमक"
-      ],
-      "ingredients_list_en": [
-        "Basmati rice",
-        "Mixed vegetables",
-        "Cumin",
-        "Coriander",
-        "Mint",
-        "Yogurt",
-        "Salt"
-      ],
-      "prep_notes_hi": "यह डिश यात्रा के लिए उपयुक्त है और माइक्रोवेव में दोबारा गर्म की जा सकती है।",
-      "prep_notes_en": "This dish is suitable for travel and can be reheated in a microwave.",
-      "vizz_macros": {
-        "cal": 450,
-        "protein": 12,
-        "fat": 8,
-        "carbs": 78
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=vegetable%20pulao%20recipe%20hindi%20recipe"
-    },
-    "dinner": {
-      "dish_hindi": "मेंथी मूंग दाल, रोटी, सलाद",
-      "dish_english": "Fenugreek Moong Dal, Roti, Salad",
-      "ingredients_hindi": "मेंथी, मूंग दाल, गेहूं का आटा, टमाटर, प्याज, खीरा, हरी मिर्च",
-      "ingredients_list_hi": [
-        "मेंथी",
-        "मूंग दाल",
-        "गेहूं का आटा",
-        "टमाटर",
-        "प्याज",
-        "खीरा",
-        "हरी मिर्च"
-      ],
-      "ingredients_list_en": [
-        "Fenugreek",
-        "Moong dal",
-        "Wheat flour",
-        "Tomato",
-        "Onion",
-        "Cucumber",
-        "Green chili"
-      ],
-      "prep_notes_hi": "मेंथी और मूंग दाल को अच्छी तरह से मिलाकर हरी मिर्च से इसका स्वाद बढ़ाएं। रोटियों को गोल और फूली हुई बनाएं।",
-      "prep_notes_en": "Combine fenugreek and moong dal well, enhancing its taste with green chili. Make the rotis round and fluffy.",
-      "vizz_macros": {
-        "cal": 400,
-        "protein": 16,
-        "fat": 8,
-        "carbs": 65
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=moong%20dal%20methi%20recipe%20recipe"
-    },
-    "vizz_daily_total_from_meals": {
-      "cal": 1220,
-      "protein": 46,
-      "fat": 26,
-      "carbs": 193
-    },
-    "vizz_daily_total_with_shake": {
-      "cal": 1520,
-      "protein": 86,
-      "fat": 31,
-      "carbs": 218
-    },
-    "macro_check": "Cal and carbs are on target, but protein and fat are slightly low. Consider adjusting for next meal planning."
-  },
-  {
-    "date": "2026-08-30 (Sunday)",
-    "date_display": "Sunday, August 30",
-    "date_short": "Sun · Aug 30",
-    "generated_label": "Generated last night for today",
-    "breakfast": {
       "dish_hindi": "कांदा पोहा, उबले अंडे (केवल Vizz और Flatmate-2 के लिए)",
       "dish_english": "Kanda Poha with Boiled Egg (for Vizz and Flatmate-2 only)",
       "ingredients_hindi": "पोहा, प्याज, हरी मिर्च, मूंगफली, नींबू",
@@ -3518,5 +3397,130 @@
       "carbs": 259
     },
     "macro_check": "Almost meets Vizz's targets but slight short on protein by 9g and calories by 240. Carbs exceed by 44g."
+  },
+  {
+    "date": "2026-09-28 (Monday)",
+    "date_display": "Monday, September 28",
+    "date_short": "Mon · Sep 28",
+    "generated_label": "Generated last night for today",
+    "breakfast": {
+      "dish_hindi": "साबूदाना खिचड़ी, उबला अंडा (सिर्फ विज़ और फ्लैटमेट-2 के लिए)",
+      "dish_english": "Sabudana Khichdi with Boiled Egg (for Vizz and Flatmate-2 only)",
+      "ingredients_hindi": "साबूदाना, मूंगफली, आलू, हरी मिर्च, अदरक, करी पत्ता, नमक, नींबू, उबला अंडा",
+      "ingredients_list_hi": [
+        "साबूदाना",
+        "मूंगफली",
+        "आलू",
+        "हरी मिर्च",
+        "अदरक",
+        "करी पत्ता",
+        "नमक",
+        "नींबू",
+        "उबला अंडा"
+      ],
+      "ingredients_list_en": [
+        "Sabudana (tapioca pearls)",
+        "Peanuts",
+        "Potato",
+        "Green Chillies",
+        "Ginger",
+        "Curry Leaves",
+        "Salt",
+        "Lemon",
+        "Boiled Egg"
+      ],
+      "prep_notes_hi": "साबूदाना को भिगोकर रखें ताकि यह अच्छी तरह से पक सके। पैन में मूंगफली और आलू को भूनकर साबूदाना डालें। हिन्दे आंच पर खिचड़ी पकाएं, और नींबू का रस डालकर परोसें।",
+      "prep_notes_en": "Soak the sabudana well in advance for proper cooking. Roast peanuts and potatoes before adding the soaked sabudana. Cook on medium heat and finish with a squeeze of lemon juice before serving.",
+      "vizz_macros": {
+        "cal": 400,
+        "protein": 9,
+        "fat": 15,
+        "carbs": 68
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=sabudana%20khichdi%20recipe%20hindi%20recipe"
+    },
+    "lunch": {
+      "dish_hindi": "राजमा-चावल, पापड़ और अचार",
+      "dish_english": "Rajma with Basmati Rice, Papad, and Pickle",
+      "ingredients_hindi": "राजमा, बासमती चावल, प्याज, टमाटर, अदरक, लहसुन, मसाले, पापड़, अचार",
+      "ingredients_list_hi": [
+        "राजमा",
+        "बासमती चावल",
+        "प्याज",
+        "टमाटर",
+        "अदरक",
+        "लहसुन",
+        "मसाले",
+        "पापड़",
+        "अचार"
+      ],
+      "ingredients_list_en": [
+        "Kidney Beans",
+        "Basmati Rice",
+        "Onion",
+        "Tomato",
+        "Ginger",
+        "Garlic",
+        "Spices",
+        "Papad",
+        "Pickle"
+      ],
+      "prep_notes_hi": "राजमा को अच्छी तरह से पकाएं और इसे चावल के साथ मिलाएं। यह भोजन यात्रा के लिए उपयुक्त है और माइक्रोवेव में आसानी से गरम हो जाता है।",
+      "prep_notes_en": "Cook the kidney beans thoroughly and combine with rice. This meal travels well and is suitable for reheating in a microwave.",
+      "vizz_macros": {
+        "cal": 700,
+        "protein": 25,
+        "fat": 10,
+        "carbs": 130
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=rajma%20chawal%20recipe%20hindi%20recipe"
+    },
+    "dinner": {
+      "dish_hindi": "पनीर भुर्जी, गेहूं की रोटी और हरी चटनी",
+      "dish_english": "Paneer Bhurji with Wheat Roti and Green Chutney",
+      "ingredients_hindi": "पनीर, प्याज, टमाटर, शिमला मिर्च, हरी मिर्च, मसाले, गेहूं का आटा, हरी चटनी",
+      "ingredients_list_hi": [
+        "पनीर",
+        "प्याज",
+        "टमाटर",
+        "शिमला मिर्च",
+        "हरी मिर्च",
+        "मसाले",
+        "गेहूं का आटा",
+        "हरी चटनी"
+      ],
+      "ingredients_list_en": [
+        "Paneer (Cottage Cheese)",
+        "Onion",
+        "Tomato",
+        "Capsicum",
+        "Green Chillies",
+        "Spices",
+        "Wheat Flour",
+        "Green Chutney"
+      ],
+      "prep_notes_hi": "पनीर को मसालों और सब्जियों के साथ अच्छी तरह से भूनें। रोटी को तवे पर सेंक कर भुर्जी और चटनी के साथ परोसें।",
+      "prep_notes_en": "Sauté the paneer with spices and vegetables thoroughly. Cook the roti on a tawa and serve with bhurji and chutney.",
+      "vizz_macros": {
+        "cal": 600,
+        "protein": 30,
+        "fat": 20,
+        "carbs": 52
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=paneer%20bhurji%20recipe%20hindi%20recipe"
+    },
+    "vizz_daily_total_from_meals": {
+      "cal": 1700,
+      "protein": 64,
+      "fat": 45,
+      "carbs": 250
+    },
+    "vizz_daily_total_with_shake": {
+      "cal": 2000,
+      "protein": 104,
+      "fat": 50,
+      "carbs": 275
+    },
+    "macro_check": "Meets calorie, protein, and fat targets; slightly over on carbs due to rice."
   }
 ]
