@@ -1,118 +1,5 @@
 [
   {
-    "date": "2026-08-31 (Monday)",
-    "date_display": "Monday, August 31",
-    "date_short": "Mon · Aug 31",
-    "generated_label": "Generated last night for today",
-    "breakfast": {
-      "dish_hindi": "चना चाट, उबला अंडा (केवल वीज और फ्लैटमेट-2 के लिए)",
-      "dish_english": "Chana Chaat, Boiled Egg (for Vizz and Flatmate-2 only)",
-      "ingredients_hindi": "चना, प्याज, टमाटर, हरा धनिया, नींबू, जीरा पाउडर, उबला अंडा",
-      "ingredients_list_hi": [
-        "चना",
-        "प्याज",
-        "टमाटर",
-        "हरा धनिया",
-        "नींबू",
-        "जीरा पाउडर",
-        "उबला अंडा"
-      ],
-      "ingredients_list_en": [
-        "Chickpeas",
-        "Onion",
-        "Tomato",
-        "Coriander leaves",
-        "Lemon",
-        "Cumin powder",
-        "Boiled egg"
-      ],
-      "prep_notes_hi": "चने को रात भर भिगोकर उबाल लें। प्याज, टमाटर और हरा धनिया काट लें। सभी सामग्री को मिला कर नींबू का रस और जीरा पाउडर डालें।",
-      "prep_notes_en": "Soak chickpeas overnight and boil them. Chop onion, tomato, and coriander leaves. Mix everything with lime juice and cumin powder.",
-      "vizz_macros": {
-        "cal": 240,
-        "protein": 12,
-        "fat": 6,
-        "carbs": 32
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=%E0%A4%9A%E0%A4%A8%E0%A4%BE%20%E0%A4%9A%E0%A4%BE%E0%A4%9F%20%E0%A4%B0%E0%A5%87%E0%A4%B8%E0%A4%BF%E0%A4%AA%E0%A5%80%20recipe"
-    },
-    "lunch": {
-      "dish_hindi": "मसूर दाल और चावल, धनिये की चटनी",
-      "dish_english": "Masoor Dal with Rice, Coriander Chutney",
-      "ingredients_hindi": "मसूर दाल, चावल, प्याज, टमाटर, लहसुन, हल्दी पाउडर, नमक, धनिये की चटनी",
-      "ingredients_list_hi": [
-        "मसूर दाल",
-        "चावल",
-        "प्याज",
-        "टमाटर",
-        "लहसुन",
-        "हल्दी पाउडर",
-        "नमक",
-        "धनिये की चटनी"
-      ],
-      "ingredients_list_en": [
-        "Masoor dal",
-        "Rice",
-        "Onion",
-        "Tomato",
-        "Garlic",
-        "Turmeric powder",
-        "Salt",
-        "Coriander chutney"
-      ],
-      "prep_notes_hi": "यह यात्रा करने और माइक्रोवेव में गरम करने के लिए अच्छी है। मसूर दाल को प्याज, टमाटर और लहसुन के साथ पकाएं।",
-      "prep_notes_en": "This is good for travel and microwave reheating. Cook masoor dal with onion, tomato, and garlic.",
-      "vizz_macros": {
-        "cal": 470,
-        "protein": 21,
-        "fat": 3,
-        "carbs": 82
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=%E0%A4%AE%E0%A4%B8%E0%A5%82%E0%A4%B0%20%E0%A4%A6%E0%A4%BE%E0%A4%B2%20%E0%A4%94%E0%A4%B0%20%E0%A4%9A%E0%A4%BE%E0%A4%B5%E0%A4%B2%20%E0%A4%B0%E0%A5%87%E0%A4%B8%E0%A4%BF%E0%A4%AA%E0%A5%80%20recipe"
-    },
-    "dinner": {
-      "dish_hindi": "हरी सब्जियों का स्टर-फ्राई, रोटी, दही",
-      "dish_english": "Stir-Fried Green Vegetables, Roti, Curd",
-      "ingredients_hindi": "हरी सब्जियाँ (बीन्स, ब्रोकली, शिमला मिर्च), लहसुन, सोया सॉस, रोटी, दही",
-      "ingredients_list_hi": [
-        "हरी सब्जियाँ",
-        "लहसुन",
-        "सोया सॉस",
-        "रोटी",
-        "दही"
-      ],
-      "ingredients_list_en": [
-        "Green vegetables",
-        "Garlic",
-        "Soy sauce",
-        "Roti",
-        "Curd"
-      ],
-      "prep_notes_hi": "सब्जियों को काट कर लहसुन के साथ सोया सॉस में तेज़ आंच पर भूनें। इसे रोटी और दही के साथ परोसें।",
-      "prep_notes_en": "Chop vegetables and stir-fry with garlic in soy sauce on high heat. Serve with roti and curd.",
-      "vizz_macros": {
-        "cal": 420,
-        "protein": 15,
-        "fat": 10,
-        "carbs": 60
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%A8%20%E0%A4%B5%E0%A5%87%E0%A4%9C%E0%A4%BF%E0%A4%9F%E0%A5%87%E0%A4%AC%E0%A4%B2%20%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A4%B0-%E0%A4%AB%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%88%20recipe"
-    },
-    "vizz_daily_total_from_meals": {
-      "cal": 1130,
-      "protein": 48,
-      "fat": 19,
-      "carbs": 174
-    },
-    "vizz_daily_total_with_shake": {
-      "cal": 1430,
-      "protein": 88,
-      "fat": 24,
-      "carbs": 199
-    },
-    "macro_check": "Calories and carbs are on target but protein is a bit low; consider adding more legumes or paneer to balance."
-  },
-  {
     "date": "2026-09-01 (Tuesday)",
     "date_display": "Tuesday, September 1",
     "date_short": "Tue · Sep 1",
@@ -3520,5 +3407,132 @@
       "carbs": 305
     },
     "macro_check": "Hit 2000/110/60/215 target except for a slightly low fat content."
+  },
+  {
+    "date": "2026-09-30 (Wednesday)",
+    "date_display": "Wednesday, September 30",
+    "date_short": "Wed · Sep 30",
+    "generated_label": "Generated last night for today",
+    "breakfast": {
+      "dish_hindi": "उपमा, उबला अंडा (सिर्फ़ Vizz और Flatmate-2 के लिए)",
+      "dish_english": "Upma with Boiled Egg (for Vizz and Flatmate-2 only)",
+      "ingredients_hindi": "रवा, पानी, मटर, गाजर, सरसों के बीज, करी पत्ता, हरी मिर्च, नमक, घी",
+      "ingredients_list_hi": [
+        "रवा",
+        "पानी",
+        "मटर",
+        "गाजर",
+        "सरसों के बीज",
+        "करी पत्ता",
+        "हरी मिर्च",
+        "नमक",
+        "घी"
+      ],
+      "ingredients_list_en": [
+        "Rava (semolina)",
+        "Water",
+        "Peas",
+        "Carrot",
+        "Mustard Seeds",
+        "Curry Leaves",
+        "Green Chillies",
+        "Salt",
+        "Ghee"
+      ],
+      "prep_notes_hi": "रवा को हल्का सा सेक लें। परेशानी से बचने के लिए लगातार चलाते रहें। गाढ़ा होने पर पानी डालें।",
+      "prep_notes_en": "Dry roast the rava slightly. Stir continuously to avoid lumps. Add water progressively as it thickens.",
+      "vizz_macros": {
+        "cal": 270,
+        "protein": 8,
+        "fat": 9,
+        "carbs": 40
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=upma%20recipe%20hindi%20recipe"
+    },
+    "lunch": {
+      "dish_hindi": "पालक पनीर, बासमती चावल, पापड़, अचार",
+      "dish_english": "Palak Paneer with Basmati Rice, Papad, Pickle",
+      "ingredients_hindi": "पालक, पनीर, टमाटर, प्याज, अदरक, लहसुन, हरी मिर्च, धनिया पाउडर, गरम मसाला, तेल",
+      "ingredients_list_hi": [
+        "पालक",
+        "पनीर",
+        "टमाटर",
+        "प्याज",
+        "अदरक",
+        "लहसुन",
+        "हरी मिर्च",
+        "धनिया पाउडर",
+        "गरम मसाला",
+        "तेल"
+      ],
+      "ingredients_list_en": [
+        "Spinach",
+        "Paneer",
+        "Tomato",
+        "Onion",
+        "Ginger",
+        "Garlic",
+        "Green Chillies",
+        "Coriander Powder",
+        "Garam Masala",
+        "Oil"
+      ],
+      "prep_notes_hi": "यह डिश चार से पांच घंटे तक बिना फ्रिज में रह सकती है। गर्म करने के बाद भी स्वादिष्ट रहती है।",
+      "prep_notes_en": "This dish can stay unrefrigerated for four to five hours. It remains tasty after reheating.",
+      "vizz_macros": {
+        "cal": 600,
+        "protein": 22,
+        "fat": 25,
+        "carbs": 70
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=palak%20paneer%20recipe%20recipe"
+    },
+    "dinner": {
+      "dish_hindi": "एशियन नूडल्स, टोफू, सब्जियों के साथ",
+      "dish_english": "Asian Noodles with Tofu and Vegetables",
+      "ingredients_hindi": "नूडल्स, टोफू, गाजर, शिमला मिर्च, सोया सॉस, तिल का तेल, अदरक, लहसुन",
+      "ingredients_list_hi": [
+        "नूडल्स",
+        "टोफू",
+        "गाजर",
+        "शिमला मिर्च",
+        "सोया सॉस",
+        "तिल का तेल",
+        "अदरक",
+        "लहसुन"
+      ],
+      "ingredients_list_en": [
+        "Noodles",
+        "Tofu",
+        "Carrot",
+        "Bell Pepper",
+        "Soy Sauce",
+        "Sesame Oil",
+        "Ginger",
+        "Garlic"
+      ],
+      "prep_notes_hi": "नूडल्स को पहले उबाल लें। सब्जियों और टोफू को उच्च ताप पर पकाएं। सोया सॉस के संतुलन का ध्यान रखें।",
+      "prep_notes_en": "Boil the noodles first. Stir-fry vegetables and tofu on high heat. Balance the soy sauce carefully.",
+      "vizz_macros": {
+        "cal": 600,
+        "protein": 20,
+        "fat": 15,
+        "carbs": 75
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=asian%20noodles%20tofu%20recipe%20recipe"
+    },
+    "vizz_daily_total_from_meals": {
+      "cal": 1470,
+      "protein": 50,
+      "fat": 49,
+      "carbs": 185
+    },
+    "vizz_daily_total_with_shake": {
+      "cal": 1770,
+      "protein": 90,
+      "fat": 54,
+      "carbs": 210
+    },
+    "macro_check": "Very close to target but slightly low on protein (110g needed)."
   }
 ]
