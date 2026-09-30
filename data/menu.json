@@ -1,127 +1,109 @@
 {
-  "date": "2026-09-30 (Wednesday)",
-  "date_display": "Wednesday, September 30",
-  "date_short": "Wed · Sep 30",
+  "date": "2026-10-01 (Thursday)",
+  "date_display": "Thursday, October 1",
+  "date_short": "Thu · Oct 1",
   "generated_label": "Generated last night for today",
   "breakfast": {
-    "dish_hindi": "उपमा, उबला अंडा (सिर्फ़ Vizz और Flatmate-2 के लिए)",
-    "dish_english": "Upma with Boiled Egg (for Vizz and Flatmate-2 only)",
-    "ingredients_hindi": "रवा, पानी, मटर, गाजर, सरसों के बीज, करी पत्ता, हरी मिर्च, नमक, घी",
+    "dish_hindi": "वेगीटेबल पराठा और दही",
+    "dish_english": "Vegetable Paratha with Yogurt",
+    "ingredients_hindi": "गेहूं का आटा, आलू, गाजर, मटर, मसाले, दही",
     "ingredients_list_hi": [
-      "रवा",
-      "पानी",
-      "मटर",
+      "गेहूं का आटा",
+      "आलू",
       "गाजर",
-      "सरसों के बीज",
-      "करी पत्ता",
-      "हरी मिर्च",
-      "नमक",
-      "घी"
+      "मटर",
+      "मसाले",
+      "दही"
     ],
     "ingredients_list_en": [
-      "Rava (semolina)",
-      "Water",
-      "Peas",
+      "Whole wheat flour",
+      "Potato",
       "Carrot",
-      "Mustard Seeds",
-      "Curry Leaves",
-      "Green Chillies",
-      "Salt",
-      "Ghee"
+      "Green peas",
+      "Spices",
+      "Yogurt"
     ],
-    "prep_notes_hi": "रवा को हल्का सा सेक लें। परेशानी से बचने के लिए लगातार चलाते रहें। गाढ़ा होने पर पानी डालें।",
-    "prep_notes_en": "Dry roast the rava slightly. Stir continuously to avoid lumps. Add water progressively as it thickens.",
+    "prep_notes_hi": "सब्जियों को उबालें और मैश करें। आटे में मसाले मिलाकर परांठा बेलें।",
+    "prep_notes_en": "Boil and mash the vegetables. Mix spices in the dough and roll parathas.",
     "vizz_macros": {
-      "cal": 270,
-      "protein": 8,
-      "fat": 9,
-      "carbs": 40
+      "cal": 350,
+      "protein": 10,
+      "fat": 12,
+      "carbs": 50
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=upma%20recipe%20hindi%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=vegetable%20paratha%20recipe%20recipe"
   },
   "lunch": {
-    "dish_hindi": "पालक पनीर, बासमती चावल, पापड़, अचार",
-    "dish_english": "Palak Paneer with Basmati Rice, Papad, Pickle",
-    "ingredients_hindi": "पालक, पनीर, टमाटर, प्याज, अदरक, लहसुन, हरी मिर्च, धनिया पाउडर, गरम मसाला, तेल",
+    "dish_hindi": "चने की सब्जी और चपाती अचार के साथ",
+    "dish_english": "Chana Sabzi with Chapati and Pickle",
+    "ingredients_hindi": "चना, टमाटर, प्याज, मसाले, गेहूं का आटा, अचार",
     "ingredients_list_hi": [
-      "पालक",
-      "पनीर",
+      "चना",
       "टमाटर",
       "प्याज",
-      "अदरक",
-      "लहसुन",
-      "हरी मिर्च",
-      "धनिया पाउडर",
-      "गरम मसाला",
-      "तेल"
+      "मसाले",
+      "गेहूं का आटा",
+      "अचार"
     ],
     "ingredients_list_en": [
-      "Spinach",
-      "Paneer",
+      "Chickpeas",
       "Tomato",
       "Onion",
-      "Ginger",
-      "Garlic",
-      "Green Chillies",
-      "Coriander Powder",
-      "Garam Masala",
-      "Oil"
+      "Spices",
+      "Whole wheat flour",
+      "Pickle"
     ],
-    "prep_notes_hi": "यह डिश चार से पांच घंटे तक बिना फ्रिज में रह सकती है। गर्म करने के बाद भी स्वादिष्ट रहती है।",
-    "prep_notes_en": "This dish can stay unrefrigerated for four to five hours. It remains tasty after reheating.",
+    "prep_notes_hi": "चना और मसाले अच्छे से मिलाकर पकाएं। चपाती बेलकर सेकें। ये लंच यात्रा के लिए उपयुक्त है।",
+    "prep_notes_en": "Cook chickpeas thoroughly with spices. Roll and cook chapatis. This lunch travels well.",
     "vizz_macros": {
-      "cal": 600,
-      "protein": 22,
-      "fat": 25,
+      "cal": 420,
+      "protein": 15,
+      "fat": 10,
       "carbs": 70
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=palak%20paneer%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=chana%20sabzi%20recipe%20recipe"
   },
   "dinner": {
-    "dish_hindi": "एशियन नूडल्स, टोफू, सब्जियों के साथ",
-    "dish_english": "Asian Noodles with Tofu and Vegetables",
-    "ingredients_hindi": "नूडल्स, टोफू, गाजर, शिमला मिर्च, सोया सॉस, तिल का तेल, अदरक, लहसुन",
+    "dish_hindi": "पास्ता अर्रबियाटा, भुनी सब्जियों के साथ",
+    "dish_english": "Pasta Arrabiata with Roasted Vegetables",
+    "ingredients_hindi": "पास्ता, टमाटर सॉस, जैतून का तेल, शिमला मिर्च, ज़ुचिनी, मसाले",
     "ingredients_list_hi": [
-      "नूडल्स",
-      "टोफू",
-      "गाजर",
+      "पास्ता",
+      "टमाटर सॉस",
+      "जैतून का तेल",
       "शिमला मिर्च",
-      "सोया सॉस",
-      "तिल का तेल",
-      "अदरक",
-      "लहसुन"
+      "ज़ुचिनी",
+      "मसाले"
     ],
     "ingredients_list_en": [
-      "Noodles",
-      "Tofu",
-      "Carrot",
-      "Bell Pepper",
-      "Soy Sauce",
-      "Sesame Oil",
-      "Ginger",
-      "Garlic"
+      "Pasta",
+      "Tomato sauce",
+      "Olive oil",
+      "Bell pepper",
+      "Zucchini",
+      "Spices"
     ],
-    "prep_notes_hi": "नूडल्स को पहले उबाल लें। सब्जियों और टोफू को उच्च ताप पर पकाएं। सोया सॉस के संतुलन का ध्यान रखें।",
-    "prep_notes_en": "Boil the noodles first. Stir-fry vegetables and tofu on high heat. Balance the soy sauce carefully.",
+    "prep_notes_hi": "पास्ता को उबालें और अरेबियाटा सॉस में पकाएं। सब्जियों को जैतून के तेल में भूनें।",
+    "prep_notes_en": "Boil the pasta and cook it in arrabiata sauce. Roast the vegetables in olive oil.",
     "vizz_macros": {
-      "cal": 600,
+      "cal": 500,
       "protein": 20,
-      "fat": 15,
-      "carbs": 75
+      "fat": 18,
+      "carbs": 80
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=asian%20noodles%20tofu%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=pasta%20arrabiata%20recipe%20recipe"
   },
   "vizz_daily_total_from_meals": {
-    "cal": 1470,
-    "protein": 50,
-    "fat": 49,
-    "carbs": 185
+    "cal": 1270,
+    "protein": 45,
+    "fat": 40,
+    "carbs": 200
   },
   "vizz_daily_total_with_shake": {
-    "cal": 1770,
-    "protein": 90,
-    "fat": 54,
-    "carbs": 210
+    "cal": 1570,
+    "protein": 85,
+    "fat": 45,
+    "carbs": 225
   },
-  "macro_check": "Very close to target but slightly low on protein (110g needed)."
+  "macro_check": "Calories are on target but protein is below daily goal by 25g; consider adding a chickpea or lentil dish to boost protein."
 }
