@@ -1,109 +1,123 @@
 {
-  "date": "2026-10-01 (Thursday)",
-  "date_display": "Thursday, October 1",
-  "date_short": "Thu · Oct 1",
+  "date": "2026-10-02 (Friday)",
+  "date_display": "Friday, October 2",
+  "date_short": "Fri · Oct 2",
   "generated_label": "Generated last night for today",
   "breakfast": {
-    "dish_hindi": "वेगीटेबल पराठा और दही",
-    "dish_english": "Vegetable Paratha with Yogurt",
-    "ingredients_hindi": "गेहूं का आटा, आलू, गाजर, मटर, मसाले, दही",
+    "dish_hindi": "आलू पराठा, दही और उबला हुआ अंडा (केवल Vizz और Flatmate-2 के लिए)",
+    "dish_english": "Aloo Paratha with Yogurt and Boiled Egg (for Vizz and Flatmate-2 only)",
+    "ingredients_hindi": "आलू, आटा, दही, उबला अंडा, नमक, हल्दी, लाल मिर्च, धनिया पत्ती",
     "ingredients_list_hi": [
-      "गेहूं का आटा",
       "आलू",
-      "गाजर",
-      "मटर",
-      "मसाले",
-      "दही"
+      "आटा",
+      "दही",
+      "उबला अंडा",
+      "नमक",
+      "हल्दी",
+      "लाल मिर्च",
+      "धनिया पत्ती"
     ],
     "ingredients_list_en": [
-      "Whole wheat flour",
       "Potato",
-      "Carrot",
-      "Green peas",
-      "Spices",
-      "Yogurt"
+      "Wheat flour",
+      "Yogurt",
+      "Boiled egg",
+      "Salt",
+      "Turmeric",
+      "Red chili powder",
+      "Coriander leaves"
     ],
-    "prep_notes_hi": "सब्जियों को उबालें और मैश करें। आटे में मसाले मिलाकर परांठा बेलें।",
-    "prep_notes_en": "Boil and mash the vegetables. Mix spices in the dough and roll parathas.",
+    "prep_notes_hi": "आलू को अच्छे से मैश करें और मसाले मिलाएं। पराठे के आटे को बेलते समय हल्का तेल लगाएं। दही को ठंडा परोसें।",
+    "prep_notes_en": "Mash the potatoes well and mix with spices. Use a little oil while rolling the paratha dough. Serve the yogurt chilled.",
     "vizz_macros": {
-      "cal": 350,
-      "protein": 10,
-      "fat": 12,
-      "carbs": 50
+      "cal": 410,
+      "protein": 14,
+      "fat": 15,
+      "carbs": 58
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=vegetable%20paratha%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=aloo%20paratha%20recipe%20hindi%20recipe"
   },
   "lunch": {
-    "dish_hindi": "चने की सब्जी और चपाती अचार के साथ",
-    "dish_english": "Chana Sabzi with Chapati and Pickle",
-    "ingredients_hindi": "चना, टमाटर, प्याज, मसाले, गेहूं का आटा, अचार",
+    "dish_hindi": "राजमा चावल, रायता और आचार",
+    "dish_english": "Rajma with Rice, Raita, and Pickle",
+    "ingredients_hindi": "राजमा, बासमती चावल, दही, खीरा, टमाटर, प्याज, आचार",
     "ingredients_list_hi": [
-      "चना",
+      "राजमा",
+      "बासमती चावल",
+      "दही",
+      "खीरा",
       "टमाटर",
       "प्याज",
-      "मसाले",
-      "गेहूं का आटा",
-      "अचार"
+      "आचार"
     ],
     "ingredients_list_en": [
-      "Chickpeas",
+      "Kidney beans",
+      "Basmati rice",
+      "Yogurt",
+      "Cucumber",
       "Tomato",
       "Onion",
-      "Spices",
-      "Whole wheat flour",
       "Pickle"
     ],
-    "prep_notes_hi": "चना और मसाले अच्छे से मिलाकर पकाएं। चपाती बेलकर सेकें। ये लंच यात्रा के लिए उपयुक्त है।",
-    "prep_notes_en": "Cook chickpeas thoroughly with spices. Roll and cook chapatis. This lunch travels well.",
+    "prep_notes_hi": "राजमा अच्छी तरह पकाएं ताकि सॉफ्ट हो जाए। इस भोजन को माइक्रोवेव में दोबारा गर्म किया जा सकता है।",
+    "prep_notes_en": "Cook the rajma thoroughly until soft. This meal can be reheated in the microwave.",
     "vizz_macros": {
-      "cal": 420,
-      "protein": 15,
-      "fat": 10,
-      "carbs": 70
+      "cal": 700,
+      "protein": 25,
+      "fat": 6,
+      "carbs": 125
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=chana%20sabzi%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=rajma%20rice%20recipe%20recipe"
   },
   "dinner": {
-    "dish_hindi": "पास्ता अर्रबियाटा, भुनी सब्जियों के साथ",
-    "dish_english": "Pasta Arrabiata with Roasted Vegetables",
-    "ingredients_hindi": "पास्ता, टमाटर सॉस, जैतून का तेल, शिमला मिर्च, ज़ुचिनी, मसाले",
+    "dish_hindi": "मिक्स वेजिटेबल करी और चपाती",
+    "dish_english": "Mixed Vegetable Curry with Chapati",
+    "ingredients_hindi": "गाजर, मटर, फूलगोभी, शिमला मिर्च, आलू, टमाटर, प्याज, अदरक-लहसुन का पेस्ट, मसाले, आटा",
     "ingredients_list_hi": [
-      "पास्ता",
-      "टमाटर सॉस",
-      "जैतून का तेल",
+      "गाजर",
+      "मटर",
+      "फूलगोभी",
       "शिमला मिर्च",
-      "ज़ुचिनी",
-      "मसाले"
+      "आलू",
+      "टमाटर",
+      "प्याज",
+      "अदरक-लहसुन का पेस्ट",
+      "मसाले",
+      "आटा"
     ],
     "ingredients_list_en": [
-      "Pasta",
-      "Tomato sauce",
-      "Olive oil",
+      "Carrot",
+      "Peas",
+      "Cauliflower",
       "Bell pepper",
-      "Zucchini",
-      "Spices"
+      "Potato",
+      "Tomato",
+      "Onion",
+      "Ginger-garlic paste",
+      "Spices",
+      "Wheat flour"
     ],
-    "prep_notes_hi": "पास्ता को उबालें और अरेबियाटा सॉस में पकाएं। सब्जियों को जैतून के तेल में भूनें।",
-    "prep_notes_en": "Boil the pasta and cook it in arrabiata sauce. Roast the vegetables in olive oil.",
+    "prep_notes_hi": "सभी सब्जियों को समान आकार में काटें ताकि वे समान रूप से पक सकें। करी को मसालों के साथ अच्छी तरह से पकाना सुनिश्चित करें।",
+    "prep_notes_en": "Cut all vegetables to even sizes for uniform cooking. Ensure the curry is well-cooked with spices.",
     "vizz_macros": {
-      "cal": 500,
-      "protein": 20,
-      "fat": 18,
-      "carbs": 80
+      "cal": 570,
+      "protein": 12,
+      "fat": 7,
+      "carbs": 110
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=pasta%20arrabiata%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=mixed%20vegetable%20curry%20recipe%20recipe"
   },
   "vizz_daily_total_from_meals": {
-    "cal": 1270,
-    "protein": 45,
-    "fat": 40,
-    "carbs": 200
+    "cal": 1680,
+    "protein": 51,
+    "fat": 28,
+    "carbs": 293
   },
   "vizz_daily_total_with_shake": {
-    "cal": 1570,
-    "protein": 85,
-    "fat": 45,
-    "carbs": 225
+    "cal": 1980,
+    "protein": 91,
+    "fat": 33,
+    "carbs": 318
   },
-  "macro_check": "Calories are on target but protein is below daily goal by 25g; consider adding a chickpea or lentil dish to boost protein."
+  "macro_check": "Total macros are a bit low in protein (misses by 19g) and a bit high in carbs (exceeds by 103g). Calorie target is close to met."
 }
