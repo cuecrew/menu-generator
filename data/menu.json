@@ -1,123 +1,127 @@
 {
-  "date": "2026-10-02 (Friday)",
-  "date_display": "Friday, October 2",
-  "date_short": "Fri · Oct 2",
+  "date": "2026-10-03 (Saturday)",
+  "date_display": "Saturday, October 3",
+  "date_short": "Sat · Oct 3",
   "generated_label": "Generated last night for today",
   "breakfast": {
-    "dish_hindi": "आलू पराठा, दही और उबला हुआ अंडा (केवल Vizz और Flatmate-2 के लिए)",
-    "dish_english": "Aloo Paratha with Yogurt and Boiled Egg (for Vizz and Flatmate-2 only)",
-    "ingredients_hindi": "आलू, आटा, दही, उबला अंडा, नमक, हल्दी, लाल मिर्च, धनिया पत्ती",
+    "dish_hindi": "ओट्स उपमा, दही",
+    "dish_english": "Oats Upma with Yogurt",
+    "ingredients_hindi": "ओट्स, प्याज, गाजर, मटर, अदरक, हरी मिर्च, सरसों के बीज, करी पत्ते, दही",
     "ingredients_list_hi": [
-      "आलू",
-      "आटा",
-      "दही",
-      "उबला अंडा",
-      "नमक",
-      "हल्दी",
-      "लाल मिर्च",
-      "धनिया पत्ती"
+      "ओट्स",
+      "प्याज",
+      "गाजर",
+      "मटर",
+      "अदरक",
+      "हरी मिर्च",
+      "सरसों के बीज",
+      "करी पत्ते",
+      "दही"
     ],
     "ingredients_list_en": [
-      "Potato",
-      "Wheat flour",
-      "Yogurt",
-      "Boiled egg",
-      "Salt",
-      "Turmeric",
-      "Red chili powder",
-      "Coriander leaves"
+      "Oats",
+      "Onion",
+      "Carrot",
+      "Green Peas",
+      "Ginger",
+      "Green Chili",
+      "Mustard Seeds",
+      "Curry Leaves",
+      "Yogurt"
     ],
-    "prep_notes_hi": "आलू को अच्छे से मैश करें और मसाले मिलाएं। पराठे के आटे को बेलते समय हल्का तेल लगाएं। दही को ठंडा परोसें।",
-    "prep_notes_en": "Mash the potatoes well and mix with spices. Use a little oil while rolling the paratha dough. Serve the yogurt chilled.",
+    "prep_notes_hi": "ओट्स को अच्छे से पानी में भिगो लेने के बाद, प्याज और गाजर को बारीक काट लें। सब्जियों को थोड़ा नरम होने तक भुनें।",
+    "prep_notes_en": "Soak the oats well before cooking. Finely chop the onions and carrots. Sauté until the vegetables are slightly soft.",
     "vizz_macros": {
-      "cal": 410,
-      "protein": 14,
-      "fat": 15,
-      "carbs": 58
+      "cal": 320,
+      "protein": 10,
+      "fat": 6,
+      "carbs": 55
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=aloo%20paratha%20recipe%20hindi%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=oats%20upma%20recipe%20recipe"
   },
   "lunch": {
-    "dish_hindi": "राजमा चावल, रायता और आचार",
-    "dish_english": "Rajma with Rice, Raita, and Pickle",
-    "ingredients_hindi": "राजमा, बासमती चावल, दही, खीरा, टमाटर, प्याज, आचार",
+    "dish_hindi": "मूंग दाल खिचड़ी, पापड़, आचार",
+    "dish_english": "Moong Dal Khichdi with Papad and Pickle",
+    "ingredients_hindi": "चावल, मूंग दाल, जीरा, हल्दी, नमक, घी, पापड़, आचार",
     "ingredients_list_hi": [
-      "राजमा",
-      "बासमती चावल",
-      "दही",
-      "खीरा",
-      "टमाटर",
-      "प्याज",
+      "चावल",
+      "मूंग दाल",
+      "जीरा",
+      "हल्दी",
+      "नमक",
+      "घी",
+      "पापड़",
       "आचार"
     ],
     "ingredients_list_en": [
-      "Kidney beans",
-      "Basmati rice",
-      "Yogurt",
-      "Cucumber",
-      "Tomato",
-      "Onion",
+      "Rice",
+      "Moong Dal",
+      "Cumin Seeds",
+      "Turmeric",
+      "Salt",
+      "Ghee",
+      "Papad",
       "Pickle"
     ],
-    "prep_notes_hi": "राजमा अच्छी तरह पकाएं ताकि सॉफ्ट हो जाए। इस भोजन को माइक्रोवेव में दोबारा गर्म किया जा सकता है।",
-    "prep_notes_en": "Cook the rajma thoroughly until soft. This meal can be reheated in the microwave.",
+    "prep_notes_hi": "खिचड़ी को मध्यम आंच पर पकाएं ताकि चावल और दाल अच्छी तरह से पक जाएं। यह यात्रा के लिए उपयुक्त है और माइक्रोवेव में गरम की जा सकती है।",
+    "prep_notes_en": "Cook the khichdi on medium heat to ensure rice and dal are well cooked. It's suitable for travel and can be reheated in a microwave.",
     "vizz_macros": {
-      "cal": 700,
-      "protein": 25,
-      "fat": 6,
-      "carbs": 125
+      "cal": 480,
+      "protein": 18,
+      "fat": 10,
+      "carbs": 82
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=rajma%20rice%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=moong%20dal%20khichdi%20recipe%20recipe"
   },
   "dinner": {
-    "dish_hindi": "मिक्स वेजिटेबल करी और चपाती",
-    "dish_english": "Mixed Vegetable Curry with Chapati",
-    "ingredients_hindi": "गाजर, मटर, फूलगोभी, शिमला मिर्च, आलू, टमाटर, प्याज, अदरक-लहसुन का पेस्ट, मसाले, आटा",
+    "dish_hindi": "लौकी चना दाल की सब्जी, रोटी, प्याज का सलाद",
+    "dish_english": "Bottle Gourd and Chana Dal Curry with Roti and Onion Salad",
+    "ingredients_hindi": "लौकी, चना दाल, प्याज, टमाटर, जीरा, अदरक लहसुन पेस्ट, हल्दी, नमक, रोटी, प्याज",
     "ingredients_list_hi": [
-      "गाजर",
-      "मटर",
-      "फूलगोभी",
-      "शिमला मिर्च",
-      "आलू",
-      "टमाटर",
+      "लौकी",
+      "चना दाल",
       "प्याज",
-      "अदरक-लहसुन का पेस्ट",
-      "मसाले",
-      "आटा"
+      "टमाटर",
+      "जीरा",
+      "अदरक लहसुन पेस्ट",
+      "हल्दी",
+      "नमक",
+      "रोटी",
+      "प्याज"
     ],
     "ingredients_list_en": [
-      "Carrot",
-      "Peas",
-      "Cauliflower",
-      "Bell pepper",
-      "Potato",
-      "Tomato",
+      "Bottle Gourd",
+      "Chana Dal",
       "Onion",
-      "Ginger-garlic paste",
-      "Spices",
-      "Wheat flour"
+      "Tomato",
+      "Cumin Seeds",
+      "Ginger Garlic Paste",
+      "Turmeric",
+      "Salt",
+      "Roti",
+      "Onion"
     ],
-    "prep_notes_hi": "सभी सब्जियों को समान आकार में काटें ताकि वे समान रूप से पक सकें। करी को मसालों के साथ अच्छी तरह से पकाना सुनिश्चित करें।",
-    "prep_notes_en": "Cut all vegetables to even sizes for uniform cooking. Ensure the curry is well-cooked with spices.",
+    "prep_notes_hi": "चना दाल को पहले से भिगो दें। लौकी और दाल को धीमी आंच पर पकाएं। रोटी को फूल कर बनाएं।",
+    "prep_notes_en": "Soak the chana dal beforehand. Cook the bottle gourd and dal on low heat. Make the rotis fluffy.",
     "vizz_macros": {
-      "cal": 570,
-      "protein": 12,
-      "fat": 7,
-      "carbs": 110
+      "cal": 500,
+      "protein": 20,
+      "fat": 12,
+      "carbs": 78
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=mixed%20vegetable%20curry%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=bottle%20gourd%20chana%20dal%20recipe%20recipe"
   },
   "vizz_daily_total_from_meals": {
-    "cal": 1680,
-    "protein": 51,
+    "cal": 1300,
+    "protein": 48,
     "fat": 28,
-    "carbs": 293
+    "carbs": 215
   },
   "vizz_daily_total_with_shake": {
-    "cal": 1980,
-    "protein": 91,
+    "cal": 1600,
+    "protein": 88,
     "fat": 33,
-    "carbs": 318
+    "carbs": 240
   },
-  "macro_check": "Total macros are a bit low in protein (misses by 19g) and a bit high in carbs (exceeds by 103g). Calorie target is close to met."
+  "macro_check": "Calories and carbs met the target; protein is slightly low by 22g and fat is under by 12g."
 }

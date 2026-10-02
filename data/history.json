@@ -1,110 +1,5 @@
 [
   {
-    "date": "2026-09-03 (Thursday)",
-    "date_display": "Thursday, September 3",
-    "date_short": "Thu · Sep 3",
-    "generated_label": "Generated last night for today",
-    "breakfast": {
-      "dish_hindi": "सब्ज़ी पराठा, दही",
-      "dish_english": "Vegetable Paratha with Curd",
-      "ingredients_hindi": "गेहूं का आटा, आलू, पालक, गाजर, दही, मसाले",
-      "ingredients_list_hi": [
-        "गेहूं का आटा",
-        "आलू",
-        "पालक",
-        "गाजर",
-        "दही",
-        "मसाले"
-      ],
-      "ingredients_list_en": [
-        "Whole wheat flour",
-        "Potato",
-        "Spinach",
-        "Carrot",
-        "Curd",
-        "Spices"
-      ],
-      "prep_notes_hi": "सब्जियों को छोटे टुकड़ों में काटकर आटे में मिलाएं। ध्यान से बेल कर गरम तवे पर पकाएँ।",
-      "prep_notes_en": "Chop the vegetables finely and mix into the dough. Roll carefully and cook on a hot griddle.",
-      "vizz_macros": {
-        "cal": 450,
-        "protein": 12,
-        "fat": 10,
-        "carbs": 75
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=vegetable%20paratha%20recipe%20hindi%20recipe"
-    },
-    "lunch": {
-      "dish_hindi": "राजमा चावल, प्याज़ का सलाद",
-      "dish_english": "Rajma with Rice, Onion Salad",
-      "ingredients_hindi": "राजमा, चावल, प्याज, टमाटर, मसाले",
-      "ingredients_list_hi": [
-        "राजमा",
-        "चावल",
-        "प्याज",
-        "टमाटर",
-        "मसाले"
-      ],
-      "ingredients_list_en": [
-        "Kidney beans",
-        "Rice",
-        "Onion",
-        "Tomato",
-        "Spices"
-      ],
-      "prep_notes_hi": "राजमा को अच्छी तरह पकाकर चावल के साथ परोसें। यह यात्रा और गरम करने के लिए उपयुक्त है।",
-      "prep_notes_en": "Cook the kidney beans thoroughly and serve with rice. This is suitable for travel and reheating.",
-      "vizz_macros": {
-        "cal": 690,
-        "protein": 29,
-        "fat": 7,
-        "carbs": 122
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=rajma%20recipe%20hindi%20recipe"
-    },
-    "dinner": {
-      "dish_hindi": "पनीर टिक्का, हरी चटनी",
-      "dish_english": "Paneer Tikka with Green Chutney",
-      "ingredients_hindi": "पनीर, दही, हरी मिर्च, धनिया, मसाले",
-      "ingredients_list_hi": [
-        "पनीर",
-        "दही",
-        "हरी मिर्च",
-        "धनिया",
-        "मसाले"
-      ],
-      "ingredients_list_en": [
-        "Paneer",
-        "Curd",
-        "Green chili",
-        "Coriander",
-        "Spices"
-      ],
-      "prep_notes_hi": "पनीर को मसालों के साथ मलमलकर तंदूर में सुनहरा भूरा होने तक सेकें। हरी चटनी के साथ परोसें।",
-      "prep_notes_en": "Marinate paneer with spices, grill until golden brown. Serve with green chutney.",
-      "vizz_macros": {
-        "cal": 560,
-        "protein": 32,
-        "fat": 28,
-        "carbs": 15
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=paneer%20tikka%20recipe%20hindi%20recipe"
-    },
-    "vizz_daily_total_from_meals": {
-      "cal": 1700,
-      "protein": 73,
-      "fat": 45,
-      "carbs": 212
-    },
-    "vizz_daily_total_with_shake": {
-      "cal": 2000,
-      "protein": 113,
-      "fat": 50,
-      "carbs": 237
-    },
-    "macro_check": "Hits daily target for calories and protein. Slightly exceeds carb target by 22g, well balanced fat."
-  },
-  {
     "date": "2026-09-04 (Friday)",
     "date_display": "Friday, September 4",
     "date_short": "Fri · Sep 4",
@@ -3504,5 +3399,132 @@
       "carbs": 318
     },
     "macro_check": "Total macros are a bit low in protein (misses by 19g) and a bit high in carbs (exceeds by 103g). Calorie target is close to met."
+  },
+  {
+    "date": "2026-10-03 (Saturday)",
+    "date_display": "Saturday, October 3",
+    "date_short": "Sat · Oct 3",
+    "generated_label": "Generated last night for today",
+    "breakfast": {
+      "dish_hindi": "ओट्स उपमा, दही",
+      "dish_english": "Oats Upma with Yogurt",
+      "ingredients_hindi": "ओट्स, प्याज, गाजर, मटर, अदरक, हरी मिर्च, सरसों के बीज, करी पत्ते, दही",
+      "ingredients_list_hi": [
+        "ओट्स",
+        "प्याज",
+        "गाजर",
+        "मटर",
+        "अदरक",
+        "हरी मिर्च",
+        "सरसों के बीज",
+        "करी पत्ते",
+        "दही"
+      ],
+      "ingredients_list_en": [
+        "Oats",
+        "Onion",
+        "Carrot",
+        "Green Peas",
+        "Ginger",
+        "Green Chili",
+        "Mustard Seeds",
+        "Curry Leaves",
+        "Yogurt"
+      ],
+      "prep_notes_hi": "ओट्स को अच्छे से पानी में भिगो लेने के बाद, प्याज और गाजर को बारीक काट लें। सब्जियों को थोड़ा नरम होने तक भुनें।",
+      "prep_notes_en": "Soak the oats well before cooking. Finely chop the onions and carrots. Sauté until the vegetables are slightly soft.",
+      "vizz_macros": {
+        "cal": 320,
+        "protein": 10,
+        "fat": 6,
+        "carbs": 55
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=oats%20upma%20recipe%20recipe"
+    },
+    "lunch": {
+      "dish_hindi": "मूंग दाल खिचड़ी, पापड़, आचार",
+      "dish_english": "Moong Dal Khichdi with Papad and Pickle",
+      "ingredients_hindi": "चावल, मूंग दाल, जीरा, हल्दी, नमक, घी, पापड़, आचार",
+      "ingredients_list_hi": [
+        "चावल",
+        "मूंग दाल",
+        "जीरा",
+        "हल्दी",
+        "नमक",
+        "घी",
+        "पापड़",
+        "आचार"
+      ],
+      "ingredients_list_en": [
+        "Rice",
+        "Moong Dal",
+        "Cumin Seeds",
+        "Turmeric",
+        "Salt",
+        "Ghee",
+        "Papad",
+        "Pickle"
+      ],
+      "prep_notes_hi": "खिचड़ी को मध्यम आंच पर पकाएं ताकि चावल और दाल अच्छी तरह से पक जाएं। यह यात्रा के लिए उपयुक्त है और माइक्रोवेव में गरम की जा सकती है।",
+      "prep_notes_en": "Cook the khichdi on medium heat to ensure rice and dal are well cooked. It's suitable for travel and can be reheated in a microwave.",
+      "vizz_macros": {
+        "cal": 480,
+        "protein": 18,
+        "fat": 10,
+        "carbs": 82
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=moong%20dal%20khichdi%20recipe%20recipe"
+    },
+    "dinner": {
+      "dish_hindi": "लौकी चना दाल की सब्जी, रोटी, प्याज का सलाद",
+      "dish_english": "Bottle Gourd and Chana Dal Curry with Roti and Onion Salad",
+      "ingredients_hindi": "लौकी, चना दाल, प्याज, टमाटर, जीरा, अदरक लहसुन पेस्ट, हल्दी, नमक, रोटी, प्याज",
+      "ingredients_list_hi": [
+        "लौकी",
+        "चना दाल",
+        "प्याज",
+        "टमाटर",
+        "जीरा",
+        "अदरक लहसुन पेस्ट",
+        "हल्दी",
+        "नमक",
+        "रोटी",
+        "प्याज"
+      ],
+      "ingredients_list_en": [
+        "Bottle Gourd",
+        "Chana Dal",
+        "Onion",
+        "Tomato",
+        "Cumin Seeds",
+        "Ginger Garlic Paste",
+        "Turmeric",
+        "Salt",
+        "Roti",
+        "Onion"
+      ],
+      "prep_notes_hi": "चना दाल को पहले से भिगो दें। लौकी और दाल को धीमी आंच पर पकाएं। रोटी को फूल कर बनाएं।",
+      "prep_notes_en": "Soak the chana dal beforehand. Cook the bottle gourd and dal on low heat. Make the rotis fluffy.",
+      "vizz_macros": {
+        "cal": 500,
+        "protein": 20,
+        "fat": 12,
+        "carbs": 78
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=bottle%20gourd%20chana%20dal%20recipe%20recipe"
+    },
+    "vizz_daily_total_from_meals": {
+      "cal": 1300,
+      "protein": 48,
+      "fat": 28,
+      "carbs": 215
+    },
+    "vizz_daily_total_with_shake": {
+      "cal": 1600,
+      "protein": 88,
+      "fat": 33,
+      "carbs": 240
+    },
+    "macro_check": "Calories and carbs met the target; protein is slightly low by 22g and fat is under by 12g."
   }
 ]
