@@ -1,119 +1,133 @@
 {
-  "date": "2026-10-04 (Sunday)",
-  "date_display": "Sunday, October 4",
-  "date_short": "Sun · Oct 4",
+  "date": "2026-10-05 (Monday)",
+  "date_display": "Monday, October 5",
+  "date_short": "Mon · Oct 5",
   "generated_label": "Generated last night for today",
   "breakfast": {
-    "dish_hindi": "पालक मूँगलेट, दही",
-    "dish_english": "Spinach Moonglet with Yogurt",
-    "ingredients_hindi": "मूंग दाल, पालक, जीरा, धनिया पाउडर, हरी मिर्च, अदरक, दही",
+    "dish_hindi": "मसाला चीला और उबला अंडा (केवल Vizz और Flatmate-2 के लिए)",
+    "dish_english": "Masala Cheela with Boiled Egg (for Vizz and Flatmate-2 only)",
+    "ingredients_hindi": "बेसन, प्याज, टमाटर, हरी मिर्च, धनिया पत्ती, नमक, हल्दी, उबला अंडा",
     "ingredients_list_hi": [
-      "मूंग दाल",
-      "पालक",
-      "जीरा",
-      "धनिया पाउडर",
+      "बेसन",
+      "प्याज",
+      "टमाटर",
       "हरी मिर्च",
-      "अदरक",
-      "दही"
+      "धनिया पत्ती",
+      "नमक",
+      "हल्दी",
+      "उबला अंडा"
     ],
     "ingredients_list_en": [
-      "Moong Dal",
-      "Spinach",
-      "Cumin",
-      "Coriander Powder",
-      "Green Chili",
-      "Ginger",
-      "Yogurt"
+      "Gram flour",
+      "Onion",
+      "Tomato",
+      "Green chili",
+      "Coriander leaves",
+      "Salt",
+      "Turmeric",
+      "Boiled egg"
     ],
-    "prep_notes_hi": "मूंग दाल को पीस लें और गाढ़ा घोल बना लें। बारीक कटी पालक और बाकी मसाले मिलाएँ। धीमी आंच पर पकाएं।",
-    "prep_notes_en": "Grind moong dal to make a thick batter. Mix finely chopped spinach and spices. Cook on low heat.",
+    "prep_notes_hi": "चीला बनाने के लिए बैटर पतला न हो। अच्छे से तवे पर फैलाएं और धीमी आंच पर पकाएं।",
+    "prep_notes_en": "Ensure the batter is not too thin. Spread evenly on the pan and cook on low heat.",
     "vizz_macros": {
-      "cal": 350,
-      "protein": 18,
-      "fat": 4,
-      "carbs": 60
+      "cal": 430,
+      "protein": 16,
+      "fat": 15,
+      "carbs": 51
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=spinach%20moonglet%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=masala%20cheela%20recipe%20recipe"
   },
   "lunch": {
-    "dish_hindi": "पनीर पुलाव, पापड़ और अचार",
-    "dish_english": "Paneer Pulao with Papad and Pickle",
-    "ingredients_hindi": "बासमती चावल, पनीर, मटर, प्याज, तेल, जीरा, गरम मसाला, पापड़, अचार",
+    "dish_hindi": "चने की सब्ज़ी और चावल, अचार",
+    "dish_english": "Chana Masala with Rice and Pickle",
+    "ingredients_hindi": "चने, प्याज, टमाटर, अदरक-लहसुन पेस्ट, जीरा, मिर्च पाउडर, हल्दी, गरम मसाला, नमक, चावल, अचार",
     "ingredients_list_hi": [
-      "बासमती चावल",
-      "पनीर",
-      "मटर",
+      "चने",
       "प्याज",
-      "तेल",
+      "टमाटर",
+      "अदरक-लहसुन पेस्ट",
       "जीरा",
+      "मिर्च पाउडर",
+      "हल्दी",
       "गरम मसाला",
-      "पापड़",
+      "नमक",
+      "चावल",
       "अचार"
     ],
     "ingredients_list_en": [
-      "Basmati Rice",
-      "Paneer",
-      "Peas",
+      "Chickpeas",
       "Onion",
-      "Oil",
-      "Cumin",
-      "Garam Masala",
-      "Papad",
+      "Tomato",
+      "Ginger-garlic paste",
+      "Cumin seeds",
+      "Chili powder",
+      "Turmeric",
+      "Garam masala",
+      "Salt",
+      "Rice",
       "Pickle"
     ],
-    "prep_notes_hi": "यह भोजन यात्रा के लिए उपयुक्त है और इसे आसानी से फिर से गरम किया जा सकता है।",
-    "prep_notes_en": "This meal is suitable for travel and can be easily reheated.",
+    "prep_notes_hi": "यह चने की सब्ज़ी और चावल का संयोजन आसानी से ऑफिस के लिए पैक किया जा सकता है और माइक्रोवेव में गरम किया जा सकता है।",
+    "prep_notes_en": "This combination of chana masala and rice packs well for office and can be reheated in the microwave.",
     "vizz_macros": {
-      "cal": 600,
+      "cal": 690,
       "protein": 25,
-      "fat": 20,
-      "carbs": 80
+      "fat": 14,
+      "carbs": 112
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=paneer%20pulao%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=chana%20masala%20rice%20recipe%20recipe"
   },
   "dinner": {
-    "dish_hindi": "दक्षिण भारतीय कोकोनट करी, चपाती",
-    "dish_english": "South Indian Coconut Curry with Chapati",
-    "ingredients_hindi": "नारियल का दूध, सब्जियाँ (आलू, गाजर, सेम), मसाले (सरसों के बीज, करी पत्ता), चपाती",
+    "dish_hindi": "सोया चाप करी और रोटी, पापड़, दही",
+    "dish_english": "Soya Chaap Curry with Roti, Papad, and Yogurt",
+    "ingredients_hindi": "सोया चाप, प्याज, टमाटर, अदरक-लहसुन पेस्ट, धनिया पाउडर, मिर्च पाउडर, गरम मसाला, नमक, रोटी, पापड़, दही",
     "ingredients_list_hi": [
-      "नारियल का दूध",
-      "आलू",
-      "गाजर",
-      "सेम",
-      "सरसों के बीज",
-      "करी पत्ता",
-      "चपाती"
+      "सोया चाप",
+      "प्याज",
+      "टमाटर",
+      "अदरक-लहसुन पेस्ट",
+      "धनिया पाउडर",
+      "मिर्च पाउडर",
+      "गरम मसाला",
+      "नमक",
+      "रोटी",
+      "पापड़",
+      "दही"
     ],
     "ingredients_list_en": [
-      "Coconut Milk",
-      "Potato",
-      "Carrot",
-      "Beans",
-      "Mustard Seeds",
-      "Curry Leaves",
-      "Chapati"
+      "Soya chaap",
+      "Onion",
+      "Tomato",
+      "Ginger-garlic paste",
+      "Coriander powder",
+      "Chili powder",
+      "Garam masala",
+      "Salt",
+      "Roti",
+      "Papad",
+      "Yogurt"
     ],
-    "prep_notes_hi": "सब्जियों को नारियल के दूध में पकाएं, मसाले डालें। इसे चपाती के साथ परोसें।",
-    "prep_notes_en": "Cook vegetables in coconut milk, add spices. Serve with chapati.",
+    "prep_notes_hi": "सोया चाप को पहले भूनें और फिर मसालेदार ग्रेवी में पकाएं। रोटी को अच्छे से सेंके।",
+    "prep_notes_en": "Roast the soya chaap first, then cook in a spicy gravy. Cook the rotis thoroughly.",
     "vizz_macros": {
-      "cal": 550,
-      "protein": 15,
-      "fat": 21,
-      "carbs": 85
+      "cal": 580,
+      "protein": 29,
+      "fat": 18,
+      "carbs": 82
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=coconut%20curry%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=soya%20chaap%20curry%20recipe%20recipe"
   },
   "vizz_daily_total_from_meals": {
-    "cal": 1500,
-    "protein": 58,
-    "fat": 45,
-    "carbs": 225
+    "cal": 1700,
+    "protein": 70,
+    "fat": 47,
+    "carbs": 245
   },
   "vizz_daily_total_with_shake": {
-    "cal": 1800,
-    "protein": 98,
-    "fat": 50,
-    "carbs": 250
+    "cal": 2000,
+    "protein": 110,
+    "fat": 52,
+    "carbs": 270
   },
-  "macro_check": "Calories are slightly below target; protein is close thanks to the shake. Consider supplementing with more high-protein snacks."
+  "macro_check": "Calories, protein, and carbs hit target with slight overage in carbs (245g in cooked meals), but overall target with shake is met. Fat is slightly below target in cooked meals."
 }
