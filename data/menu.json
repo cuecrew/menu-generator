@@ -1,133 +1,125 @@
 {
-  "date": "2026-10-05 (Monday)",
-  "date_display": "Monday, October 5",
-  "date_short": "Mon · Oct 5",
+  "date": "2026-10-06 (Tuesday)",
+  "date_display": "Tuesday, October 6",
+  "date_short": "Tue · Oct 6",
   "generated_label": "Generated last night for today",
   "breakfast": {
-    "dish_hindi": "मसाला चीला और उबला अंडा (केवल Vizz और Flatmate-2 के लिए)",
-    "dish_english": "Masala Cheela with Boiled Egg (for Vizz and Flatmate-2 only)",
-    "ingredients_hindi": "बेसन, प्याज, टमाटर, हरी मिर्च, धनिया पत्ती, नमक, हल्दी, उबला अंडा",
+    "dish_hindi": "मूँग दाल और पालक का चिल्ला, दही",
+    "dish_english": "Moong Dal and Spinach Cheela with Yogurt",
+    "ingredients_hindi": "मूँग दाल, पालक, हरी मिर्च, अदरक, नमक, तेल, दही",
     "ingredients_list_hi": [
-      "बेसन",
-      "प्याज",
-      "टमाटर",
+      "मूँग दाल",
+      "पालक",
       "हरी मिर्च",
-      "धनिया पत्ती",
+      "अदरक",
       "नमक",
-      "हल्दी",
-      "उबला अंडा"
-    ],
-    "ingredients_list_en": [
-      "Gram flour",
-      "Onion",
-      "Tomato",
-      "Green chili",
-      "Coriander leaves",
-      "Salt",
-      "Turmeric",
-      "Boiled egg"
-    ],
-    "prep_notes_hi": "चीला बनाने के लिए बैटर पतला न हो। अच्छे से तवे पर फैलाएं और धीमी आंच पर पकाएं।",
-    "prep_notes_en": "Ensure the batter is not too thin. Spread evenly on the pan and cook on low heat.",
-    "vizz_macros": {
-      "cal": 430,
-      "protein": 16,
-      "fat": 15,
-      "carbs": 51
-    },
-    "youtube_url": "https://www.youtube.com/results?search_query=masala%20cheela%20recipe%20recipe"
-  },
-  "lunch": {
-    "dish_hindi": "चने की सब्ज़ी और चावल, अचार",
-    "dish_english": "Chana Masala with Rice and Pickle",
-    "ingredients_hindi": "चने, प्याज, टमाटर, अदरक-लहसुन पेस्ट, जीरा, मिर्च पाउडर, हल्दी, गरम मसाला, नमक, चावल, अचार",
-    "ingredients_list_hi": [
-      "चने",
-      "प्याज",
-      "टमाटर",
-      "अदरक-लहसुन पेस्ट",
-      "जीरा",
-      "मिर्च पाउडर",
-      "हल्दी",
-      "गरम मसाला",
-      "नमक",
-      "चावल",
-      "अचार"
-    ],
-    "ingredients_list_en": [
-      "Chickpeas",
-      "Onion",
-      "Tomato",
-      "Ginger-garlic paste",
-      "Cumin seeds",
-      "Chili powder",
-      "Turmeric",
-      "Garam masala",
-      "Salt",
-      "Rice",
-      "Pickle"
-    ],
-    "prep_notes_hi": "यह चने की सब्ज़ी और चावल का संयोजन आसानी से ऑफिस के लिए पैक किया जा सकता है और माइक्रोवेव में गरम किया जा सकता है।",
-    "prep_notes_en": "This combination of chana masala and rice packs well for office and can be reheated in the microwave.",
-    "vizz_macros": {
-      "cal": 690,
-      "protein": 25,
-      "fat": 14,
-      "carbs": 112
-    },
-    "youtube_url": "https://www.youtube.com/results?search_query=chana%20masala%20rice%20recipe%20recipe"
-  },
-  "dinner": {
-    "dish_hindi": "सोया चाप करी और रोटी, पापड़, दही",
-    "dish_english": "Soya Chaap Curry with Roti, Papad, and Yogurt",
-    "ingredients_hindi": "सोया चाप, प्याज, टमाटर, अदरक-लहसुन पेस्ट, धनिया पाउडर, मिर्च पाउडर, गरम मसाला, नमक, रोटी, पापड़, दही",
-    "ingredients_list_hi": [
-      "सोया चाप",
-      "प्याज",
-      "टमाटर",
-      "अदरक-लहसुन पेस्ट",
-      "धनिया पाउडर",
-      "मिर्च पाउडर",
-      "गरम मसाला",
-      "नमक",
-      "रोटी",
-      "पापड़",
+      "तेल",
       "दही"
     ],
     "ingredients_list_en": [
-      "Soya chaap",
-      "Onion",
-      "Tomato",
-      "Ginger-garlic paste",
-      "Coriander powder",
-      "Chili powder",
-      "Garam masala",
+      "Moong dal (split green gram)",
+      "Spinach",
+      "Green chilies",
+      "Ginger",
       "Salt",
-      "Roti",
-      "Papad",
+      "Oil",
       "Yogurt"
     ],
-    "prep_notes_hi": "सोया चाप को पहले भूनें और फिर मसालेदार ग्रेवी में पकाएं। रोटी को अच्छे से सेंके।",
-    "prep_notes_en": "Roast the soya chaap first, then cook in a spicy gravy. Cook the rotis thoroughly.",
+    "prep_notes_hi": "मूँग दाल को पीसकर गाढ़ा पेस्ट बनाएं। पालक और अदरक मिलाकर मिश्रण को अच्छे से फेंटें। नॉन-स्टिक तवे पर हल्का तेल लगाकर सिकाएँ।",
+    "prep_notes_en": "Grind the moong dal to a thick paste. Mix in chopped spinach and ginger, then whisk well. Cook on a non-stick pan with a little oil.",
     "vizz_macros": {
-      "cal": 580,
-      "protein": 29,
-      "fat": 18,
-      "carbs": 82
+      "cal": 300,
+      "protein": 12,
+      "fat": 8,
+      "carbs": 45
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=soya%20chaap%20curry%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=moong%20dal%20cheela%20recipe%20recipe"
+  },
+  "lunch": {
+    "dish_hindi": "राजमा चावल, अचार",
+    "dish_english": "Rajma (Kidney Bean) Curry with Rice and Pickle",
+    "ingredients_hindi": "राजमा, चावल, टमाटर, प्याज, अदरक-लहसुन पेस्ट, मसाले, नमक, तेल, अचार",
+    "ingredients_list_hi": [
+      "राजमा",
+      "चावल",
+      "टमाटर",
+      "प्याज",
+      "अदरक-लहसुन पेस्ट",
+      "मसाले",
+      "नमक",
+      "तेल",
+      "अचार"
+    ],
+    "ingredients_list_en": [
+      "Rajma (Kidney beans)",
+      "Rice",
+      "Tomato",
+      "Onion",
+      "Ginger-garlic paste",
+      "Spices",
+      "Salt",
+      "Oil",
+      "Pickle"
+    ],
+    "prep_notes_hi": "राजमा को रातभर भीगाकर छान लें। प्याज और मसाले के साथ टमाटर डालकर पका लें। यह लंच 4-5 घंटे रख सकता है और फिर से गरम किया जा सकता है।",
+    "prep_notes_en": "Soak rajma overnight, then cook with onions, spices, and tomatoes. This lunch can last 4-5 hours and is microwave-reheatable.",
+    "vizz_macros": {
+      "cal": 700,
+      "protein": 24,
+      "fat": 10,
+      "carbs": 120
+    },
+    "youtube_url": "https://www.youtube.com/results?search_query=rajma%20chawal%20recipe%20recipe"
+  },
+  "dinner": {
+    "dish_hindi": "पनीर टिक्का मसाला, तवा रोटी, पुदीना चटनी",
+    "dish_english": "Paneer Tikka Masala with Tawa Roti and Mint Chutney",
+    "ingredients_hindi": "पनीर, दही, शिमला मिर्च, टमाटर, प्याज, मसाले, नमक, तेल, आटा, पुदीना",
+    "ingredients_list_hi": [
+      "पनीर",
+      "दही",
+      "शिमला मिर्च",
+      "टमाटर",
+      "प्याज",
+      "मसाले",
+      "नमक",
+      "तेल",
+      "आटा",
+      "पुदीना"
+    ],
+    "ingredients_list_en": [
+      "Paneer",
+      "Yogurt",
+      "Bell pepper",
+      "Tomato",
+      "Onion",
+      "Spices",
+      "Salt",
+      "Oil",
+      "Wheat flour",
+      "Mint"
+    ],
+    "prep_notes_hi": "पनीर को मसालेदार दही में मैरिनेट करें और तवे पर हल्का भून लें। ग्रेवी बना कर पनीर मिला दें। साथ में मिंट चटनी परोसें।",
+    "prep_notes_en": "Marinate paneer in spiced yogurt mix, then lightly cook on a pan. Prepare gravy and add paneer. Serve with mint chutney.",
+    "vizz_macros": {
+      "cal": 700,
+      "protein": 34,
+      "fat": 27,
+      "carbs": 90
+    },
+    "youtube_url": "https://www.youtube.com/results?search_query=paneer%20tikka%20masala%20recipe%20recipe"
   },
   "vizz_daily_total_from_meals": {
     "cal": 1700,
     "protein": 70,
-    "fat": 47,
-    "carbs": 245
+    "fat": 45,
+    "carbs": 255
   },
   "vizz_daily_total_with_shake": {
     "cal": 2000,
     "protein": 110,
-    "fat": 52,
-    "carbs": 270
+    "fat": 50,
+    "carbs": 280
   },
-  "macro_check": "Calories, protein, and carbs hit target with slight overage in carbs (245g in cooked meals), but overall target with shake is met. Fat is slightly below target in cooked meals."
+  "macro_check": "Calories and protein meet the target. Carbs slightly exceed at 280g due to rice and roti, consider reducing portions if needed."
 }

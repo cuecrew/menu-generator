@@ -1,118 +1,5 @@
 [
   {
-    "date": "2026-09-06 (Sunday)",
-    "date_display": "Sunday, September 6",
-    "date_short": "Sun · Sep 6",
-    "generated_label": "Generated last night for today",
-    "breakfast": {
-      "dish_hindi": "सोया चंक्स उपमा, उबला अंडा (केवल Vizz और Flatmate-2 के लिए)",
-      "dish_english": "Soy Chunks Upma with Boiled Egg (for Vizz and Flatmate-2 only)",
-      "ingredients_hindi": "सोया चंक्स, सूजी, प्याज, टमाटर, हरी मिर्च, करी पत्ता, सरसों, नमक, उबला अंडा",
-      "ingredients_list_hi": [
-        "सोया चंक्स",
-        "सूजी",
-        "प्याज",
-        "टमाटर",
-        "हरी मिर्च",
-        "करी पत्ता",
-        "सरसों",
-        "नमक",
-        "उबला अंडा"
-      ],
-      "ingredients_list_en": [
-        "Soy chunks",
-        "Semolina",
-        "Onion",
-        "Tomato",
-        "Green chili",
-        "Curry leaves",
-        "Mustard seeds",
-        "Salt",
-        "Boiled egg"
-      ],
-      "prep_notes_hi": "गर्म पैन में सरसों फोड़ें। करी पत्ते संग प्याज भूनें। सोया चंक्स व सूजी मिलाएं।",
-      "prep_notes_en": "In a hot pan, temper mustard seeds. Sauté onions with curry leaves. Add soy chunks and semolina.",
-      "vizz_macros": {
-        "cal": 450,
-        "protein": 20,
-        "fat": 10,
-        "carbs": 70
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=soy%20chunks%20upma%20recipe%20recipe"
-    },
-    "lunch": {
-      "dish_hindi": "दाल मखनी और बासमती चावल, पापड़",
-      "dish_english": "Dal Makhani with Basmati Rice and Papad",
-      "ingredients_hindi": "दाल, मक्खन, मसाले, बासमती चावल, पापड़",
-      "ingredients_list_hi": [
-        "दाल",
-        "मक्खन",
-        "मसाले",
-        "बासमती चावल",
-        "पापड़"
-      ],
-      "ingredients_list_en": [
-        "Lentils",
-        "Butter",
-        "Spices",
-        "Basmati rice",
-        "Papad"
-      ],
-      "prep_notes_hi": "दाल उबालकर मसालों संग पकाएं। बासमती चावल और पापड़ संग पैक करें। माइक्रोवेव में गरम करें।",
-      "prep_notes_en": "Boil lentils and cook with spices. Pack with basmati rice and papad. Reheat in microwave.",
-      "vizz_macros": {
-        "cal": 780,
-        "protein": 25,
-        "fat": 15,
-        "carbs": 125
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=dal%20makhani%20rice%20recipe%20recipe"
-    },
-    "dinner": {
-      "dish_hindi": "मटर पनीर करी और नान, हरा धनिया चटनी",
-      "dish_english": "Matar Paneer Curry with Naan and Cilantro Chutney",
-      "ingredients_hindi": "पनीर, मटर, टमाटर, मसाले, नान, हरा धनिया चटनी",
-      "ingredients_list_hi": [
-        "पनीर",
-        "मटर",
-        "टमाटर",
-        "मसाले",
-        "नान",
-        "हरा धनिया चटनी"
-      ],
-      "ingredients_list_en": [
-        "Paneer",
-        "Green peas",
-        "Tomato",
-        "Spices",
-        "Naan",
-        "Cilantro chutney"
-      ],
-      "prep_notes_hi": "पनीर और मटर को टमाटर और मसालों में पकाएं। नान के संग परोसें।",
-      "prep_notes_en": "Cook paneer and peas with tomato and spices. Serve with naan.",
-      "vizz_macros": {
-        "cal": 470,
-        "protein": 25,
-        "fat": 20,
-        "carbs": 70
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=matar%20paneer%20recipe%20recipe"
-    },
-    "vizz_daily_total_from_meals": {
-      "cal": 1700,
-      "protein": 70,
-      "fat": 45,
-      "carbs": 265
-    },
-    "vizz_daily_total_with_shake": {
-      "cal": 2000,
-      "protein": 110,
-      "fat": 50,
-      "carbs": 290
-    },
-    "macro_check": "Protein and calorie targets met. Carbohydrates slightly over target due to rice and naan servings."
-  },
-  {
     "date": "2026-09-07 (Monday)",
     "date_display": "Monday, September 7",
     "date_short": "Mon · Sep 7",
@@ -3548,5 +3435,130 @@
       "carbs": 270
     },
     "macro_check": "Calories, protein, and carbs hit target with slight overage in carbs (245g in cooked meals), but overall target with shake is met. Fat is slightly below target in cooked meals."
+  },
+  {
+    "date": "2026-10-06 (Tuesday)",
+    "date_display": "Tuesday, October 6",
+    "date_short": "Tue · Oct 6",
+    "generated_label": "Generated last night for today",
+    "breakfast": {
+      "dish_hindi": "मूँग दाल और पालक का चिल्ला, दही",
+      "dish_english": "Moong Dal and Spinach Cheela with Yogurt",
+      "ingredients_hindi": "मूँग दाल, पालक, हरी मिर्च, अदरक, नमक, तेल, दही",
+      "ingredients_list_hi": [
+        "मूँग दाल",
+        "पालक",
+        "हरी मिर्च",
+        "अदरक",
+        "नमक",
+        "तेल",
+        "दही"
+      ],
+      "ingredients_list_en": [
+        "Moong dal (split green gram)",
+        "Spinach",
+        "Green chilies",
+        "Ginger",
+        "Salt",
+        "Oil",
+        "Yogurt"
+      ],
+      "prep_notes_hi": "मूँग दाल को पीसकर गाढ़ा पेस्ट बनाएं। पालक और अदरक मिलाकर मिश्रण को अच्छे से फेंटें। नॉन-स्टिक तवे पर हल्का तेल लगाकर सिकाएँ।",
+      "prep_notes_en": "Grind the moong dal to a thick paste. Mix in chopped spinach and ginger, then whisk well. Cook on a non-stick pan with a little oil.",
+      "vizz_macros": {
+        "cal": 300,
+        "protein": 12,
+        "fat": 8,
+        "carbs": 45
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=moong%20dal%20cheela%20recipe%20recipe"
+    },
+    "lunch": {
+      "dish_hindi": "राजमा चावल, अचार",
+      "dish_english": "Rajma (Kidney Bean) Curry with Rice and Pickle",
+      "ingredients_hindi": "राजमा, चावल, टमाटर, प्याज, अदरक-लहसुन पेस्ट, मसाले, नमक, तेल, अचार",
+      "ingredients_list_hi": [
+        "राजमा",
+        "चावल",
+        "टमाटर",
+        "प्याज",
+        "अदरक-लहसुन पेस्ट",
+        "मसाले",
+        "नमक",
+        "तेल",
+        "अचार"
+      ],
+      "ingredients_list_en": [
+        "Rajma (Kidney beans)",
+        "Rice",
+        "Tomato",
+        "Onion",
+        "Ginger-garlic paste",
+        "Spices",
+        "Salt",
+        "Oil",
+        "Pickle"
+      ],
+      "prep_notes_hi": "राजमा को रातभर भीगाकर छान लें। प्याज और मसाले के साथ टमाटर डालकर पका लें। यह लंच 4-5 घंटे रख सकता है और फिर से गरम किया जा सकता है।",
+      "prep_notes_en": "Soak rajma overnight, then cook with onions, spices, and tomatoes. This lunch can last 4-5 hours and is microwave-reheatable.",
+      "vizz_macros": {
+        "cal": 700,
+        "protein": 24,
+        "fat": 10,
+        "carbs": 120
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=rajma%20chawal%20recipe%20recipe"
+    },
+    "dinner": {
+      "dish_hindi": "पनीर टिक्का मसाला, तवा रोटी, पुदीना चटनी",
+      "dish_english": "Paneer Tikka Masala with Tawa Roti and Mint Chutney",
+      "ingredients_hindi": "पनीर, दही, शिमला मिर्च, टमाटर, प्याज, मसाले, नमक, तेल, आटा, पुदीना",
+      "ingredients_list_hi": [
+        "पनीर",
+        "दही",
+        "शिमला मिर्च",
+        "टमाटर",
+        "प्याज",
+        "मसाले",
+        "नमक",
+        "तेल",
+        "आटा",
+        "पुदीना"
+      ],
+      "ingredients_list_en": [
+        "Paneer",
+        "Yogurt",
+        "Bell pepper",
+        "Tomato",
+        "Onion",
+        "Spices",
+        "Salt",
+        "Oil",
+        "Wheat flour",
+        "Mint"
+      ],
+      "prep_notes_hi": "पनीर को मसालेदार दही में मैरिनेट करें और तवे पर हल्का भून लें। ग्रेवी बना कर पनीर मिला दें। साथ में मिंट चटनी परोसें।",
+      "prep_notes_en": "Marinate paneer in spiced yogurt mix, then lightly cook on a pan. Prepare gravy and add paneer. Serve with mint chutney.",
+      "vizz_macros": {
+        "cal": 700,
+        "protein": 34,
+        "fat": 27,
+        "carbs": 90
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=paneer%20tikka%20masala%20recipe%20recipe"
+    },
+    "vizz_daily_total_from_meals": {
+      "cal": 1700,
+      "protein": 70,
+      "fat": 45,
+      "carbs": 255
+    },
+    "vizz_daily_total_with_shake": {
+      "cal": 2000,
+      "protein": 110,
+      "fat": 50,
+      "carbs": 280
+    },
+    "macro_check": "Calories and protein meet the target. Carbs slightly exceed at 280g due to rice and roti, consider reducing portions if needed."
   }
 ]
