@@ -1,125 +1,137 @@
 {
-  "date": "2026-10-06 (Tuesday)",
-  "date_display": "Tuesday, October 6",
-  "date_short": "Tue · Oct 6",
+  "date": "2026-10-07 (Wednesday)",
+  "date_display": "Wednesday, October 7",
+  "date_short": "Wed · Oct 7",
   "generated_label": "Generated last night for today",
   "breakfast": {
-    "dish_hindi": "मूँग दाल और पालक का चिल्ला, दही",
-    "dish_english": "Moong Dal and Spinach Cheela with Yogurt",
-    "ingredients_hindi": "मूँग दाल, पालक, हरी मिर्च, अदरक, नमक, तेल, दही",
+    "dish_hindi": "उपमा और उबला अंडा (विज़ और फ़्लैटमेट-2 के लिए)",
+    "dish_english": "Upma with Boiled Egg (for Vizz and Flatmate-2)",
+    "ingredients_hindi": "सूजी, मूंगफली, प्याज, हरी मिर्च, करी पत्ता, सरसों के बीज, नमक, घी, पानी, उबला अंडा",
     "ingredients_list_hi": [
-      "मूँग दाल",
-      "पालक",
+      "सूजी",
+      "मूंगफली",
+      "प्याज",
       "हरी मिर्च",
+      "करी पत्ता",
+      "सरसों के बीज",
+      "नमक",
+      "घी",
+      "पानी",
+      "उबला अंडा"
+    ],
+    "ingredients_list_en": [
+      "Semolina",
+      "Peanuts",
+      "Onion",
+      "Green Chili",
+      "Curry Leaves",
+      "Mustard Seeds",
+      "Salt",
+      "Ghee",
+      "Water",
+      "Boiled Egg"
+    ],
+    "prep_notes_hi": "सूजी हल्का भून लें। प्याज, हरी मिर्च और करी पत्ता घी में भूनें। नमक और पानी डालकर पका लें।",
+    "prep_notes_en": "Lightly roast the semolina. Sauté onions, green chili, and curry leaves in ghee. Add salt and water, then cook.",
+    "vizz_macros": {
+      "cal": 420,
+      "protein": 12,
+      "fat": 18,
+      "carbs": 56
+    },
+    "youtube_url": "https://www.youtube.com/results?search_query=upma%20recipe%20hindi%20recipe"
+  },
+  "lunch": {
+    "dish_hindi": "सोया बीन्स करी और चावल, आचार",
+    "dish_english": "Soybean Curry with Rice and Pickle",
+    "ingredients_hindi": "सोया बीन्स, चावल, प्याज, टमाटर, अदरक, लहसुन, हल्दी, मसाले, नमक, तेल",
+    "ingredients_list_hi": [
+      "सोया बीन्स",
+      "चावल",
+      "प्याज",
+      "टमाटर",
       "अदरक",
+      "लहसुन",
+      "हल्दी",
+      "मसाले",
+      "नमक",
+      "तेल"
+    ],
+    "ingredients_list_en": [
+      "Soybeans",
+      "Rice",
+      "Onion",
+      "Tomato",
+      "Ginger",
+      "Garlic",
+      "Turmeric",
+      "Spices",
+      "Salt",
+      "Oil"
+    ],
+    "prep_notes_hi": "सब्ज़ी अच्छी तरह पकाएं ताकि वह अच्छी तरह ट्रैवल कर सके और गरम करने पर स्वादिष्ट लगे।",
+    "prep_notes_en": "Cook the curry well to ensure it travels and reheats well, maintaining good flavor.",
+    "vizz_macros": {
+      "cal": 680,
+      "protein": 28,
+      "fat": 14,
+      "carbs": 110
+    },
+    "youtube_url": "https://www.youtube.com/results?search_query=soybean%20curry%20recipe%20recipe"
+  },
+  "dinner": {
+    "dish_hindi": "पालक पनीर और फुलका, दही",
+    "dish_english": "Palak Paneer with Phulka and Yogurt",
+    "ingredients_hindi": "पालक, पनीर, प्याज, टमाटर, अदरक, लहसुन, हल्दी, गरम मसाला, नमक, तेल, गेहूं का आटा, दही",
+    "ingredients_list_hi": [
+      "पालक",
+      "पनीर",
+      "प्याज",
+      "टमाटर",
+      "अदरक",
+      "लहसुन",
+      "हल्दी",
+      "गरम मसाला",
       "नमक",
       "तेल",
+      "गेहूं का आटा",
       "दही"
     ],
     "ingredients_list_en": [
-      "Moong dal (split green gram)",
       "Spinach",
-      "Green chilies",
+      "Paneer",
+      "Onion",
+      "Tomato",
       "Ginger",
+      "Garlic",
+      "Turmeric",
+      "Garam Masala",
       "Salt",
       "Oil",
+      "Wheat Flour",
       "Yogurt"
     ],
-    "prep_notes_hi": "मूँग दाल को पीसकर गाढ़ा पेस्ट बनाएं। पालक और अदरक मिलाकर मिश्रण को अच्छे से फेंटें। नॉन-स्टिक तवे पर हल्का तेल लगाकर सिकाएँ।",
-    "prep_notes_en": "Grind the moong dal to a thick paste. Mix in chopped spinach and ginger, then whisk well. Cook on a non-stick pan with a little oil.",
+    "prep_notes_hi": "पालक को अच्छे से पकाएं और पनीर को हल्के हाथों से मिलाएं। फुलका को फूलने तक सेंकें।",
+    "prep_notes_en": "Cook spinach thoroughly and gently mix in paneer. Roast the phulka until it puffs up.",
     "vizz_macros": {
-      "cal": 300,
-      "protein": 12,
-      "fat": 8,
+      "cal": 600,
+      "protein": 30,
+      "fat": 25,
       "carbs": 45
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=moong%20dal%20cheela%20recipe%20recipe"
-  },
-  "lunch": {
-    "dish_hindi": "राजमा चावल, अचार",
-    "dish_english": "Rajma (Kidney Bean) Curry with Rice and Pickle",
-    "ingredients_hindi": "राजमा, चावल, टमाटर, प्याज, अदरक-लहसुन पेस्ट, मसाले, नमक, तेल, अचार",
-    "ingredients_list_hi": [
-      "राजमा",
-      "चावल",
-      "टमाटर",
-      "प्याज",
-      "अदरक-लहसुन पेस्ट",
-      "मसाले",
-      "नमक",
-      "तेल",
-      "अचार"
-    ],
-    "ingredients_list_en": [
-      "Rajma (Kidney beans)",
-      "Rice",
-      "Tomato",
-      "Onion",
-      "Ginger-garlic paste",
-      "Spices",
-      "Salt",
-      "Oil",
-      "Pickle"
-    ],
-    "prep_notes_hi": "राजमा को रातभर भीगाकर छान लें। प्याज और मसाले के साथ टमाटर डालकर पका लें। यह लंच 4-5 घंटे रख सकता है और फिर से गरम किया जा सकता है।",
-    "prep_notes_en": "Soak rajma overnight, then cook with onions, spices, and tomatoes. This lunch can last 4-5 hours and is microwave-reheatable.",
-    "vizz_macros": {
-      "cal": 700,
-      "protein": 24,
-      "fat": 10,
-      "carbs": 120
-    },
-    "youtube_url": "https://www.youtube.com/results?search_query=rajma%20chawal%20recipe%20recipe"
-  },
-  "dinner": {
-    "dish_hindi": "पनीर टिक्का मसाला, तवा रोटी, पुदीना चटनी",
-    "dish_english": "Paneer Tikka Masala with Tawa Roti and Mint Chutney",
-    "ingredients_hindi": "पनीर, दही, शिमला मिर्च, टमाटर, प्याज, मसाले, नमक, तेल, आटा, पुदीना",
-    "ingredients_list_hi": [
-      "पनीर",
-      "दही",
-      "शिमला मिर्च",
-      "टमाटर",
-      "प्याज",
-      "मसाले",
-      "नमक",
-      "तेल",
-      "आटा",
-      "पुदीना"
-    ],
-    "ingredients_list_en": [
-      "Paneer",
-      "Yogurt",
-      "Bell pepper",
-      "Tomato",
-      "Onion",
-      "Spices",
-      "Salt",
-      "Oil",
-      "Wheat flour",
-      "Mint"
-    ],
-    "prep_notes_hi": "पनीर को मसालेदार दही में मैरिनेट करें और तवे पर हल्का भून लें। ग्रेवी बना कर पनीर मिला दें। साथ में मिंट चटनी परोसें।",
-    "prep_notes_en": "Marinate paneer in spiced yogurt mix, then lightly cook on a pan. Prepare gravy and add paneer. Serve with mint chutney.",
-    "vizz_macros": {
-      "cal": 700,
-      "protein": 34,
-      "fat": 27,
-      "carbs": 90
-    },
-    "youtube_url": "https://www.youtube.com/results?search_query=paneer%20tikka%20masala%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=palak%20paneer%20recipe%20recipe"
   },
   "vizz_daily_total_from_meals": {
     "cal": 1700,
     "protein": 70,
-    "fat": 45,
-    "carbs": 255
+    "fat": 57,
+    "carbs": 211
   },
   "vizz_daily_total_with_shake": {
     "cal": 2000,
     "protein": 110,
-    "fat": 50,
-    "carbs": 280
+    "fat": 62,
+    "carbs": 236
   },
-  "macro_check": "Calories and protein meet the target. Carbs slightly exceed at 280g due to rice and roti, consider reducing portions if needed."
+  "macro_check": "Hits 2000/110/60/215 target with slight excess in fat and carbs."
 }

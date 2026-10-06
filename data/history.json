@@ -1,130 +1,5 @@
 [
   {
-    "date": "2026-09-07 (Monday)",
-    "date_display": "Monday, September 7",
-    "date_short": "Mon · Sep 7",
-    "generated_label": "Generated last night for today",
-    "breakfast": {
-      "dish_hindi": "अलसी का चीला और उबला अंडा (विज़ और फ्लैटमेट-2 के लिए)",
-      "dish_english": "Flaxseed Chilla with Boiled Egg (for Vizz and Flatmate-2 only)",
-      "ingredients_hindi": "अलसी का आटा, बेसन, हरी मिर्च, अदरक, नमक, पानी, उबला अंडा",
-      "ingredients_list_hi": [
-        "अलसी का आटा",
-        "बेसन",
-        "हरी मिर्च",
-        "अदरक",
-        "नमक",
-        "पानी",
-        "उबला अंडा"
-      ],
-      "ingredients_list_en": [
-        "Flaxseed flour",
-        "Gram flour (Besan)",
-        "Green chili",
-        "Ginger",
-        "Salt",
-        "Water",
-        "Boiled egg"
-      ],
-      "prep_notes_hi": "चिल्ले को 1 मिनट के लिए दोनों तरफ से सुनहरा होने तक मध्यम आंच पर पकाएं। मिश्रण में ज्यादा पानी न डालें ताकि वह फैल न जाए।",
-      "prep_notes_en": "Cook the chilla on medium heat for about 1 minute on each side until golden brown. Avoid adding too much water to the batter to prevent spreading.",
-      "vizz_macros": {
-        "cal": 380,
-        "protein": 22,
-        "fat": 11,
-        "carbs": 50
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=flaxseed%20chilla%20recipe%20recipe"
-    },
-    "lunch": {
-      "dish_hindi": "राजमा चावल और प्याज का सलाद",
-      "dish_english": "Rajma with Rice and Onion Salad",
-      "ingredients_hindi": "राजमा, बासमती चावल, टमाटर, प्याज, अदरक, लहसुन, मिर्च पाउडर, गरम मसाला, नमक, तेल",
-      "ingredients_list_hi": [
-        "राजमा",
-        "बासमती चावल",
-        "टमाटर",
-        "प्याज",
-        "अदरक",
-        "लहसुन",
-        "मिर्च पाउडर",
-        "गरम मसाला",
-        "नमक",
-        "तेल"
-      ],
-      "ingredients_list_en": [
-        "Kidney beans",
-        "Basmati rice",
-        "Tomato",
-        "Onion",
-        "Ginger",
-        "Garlic",
-        "Chili powder",
-        "Garam masala",
-        "Salt",
-        "Oil"
-      ],
-      "prep_notes_hi": "राजमा में सही ग्रेवी और चावल हल्के ढंग से पका होना चाहिए। यह लंच में 4-5 घंटे तक अच्छा रहेगा और गर्म करके खाया जा सकता है।",
-      "prep_notes_en": "Ensure rajma has a proper gravy and rice is cooked lightly. It can last in lunch for 4-5 hours and can be reheated in the microwave.",
-      "vizz_macros": {
-        "cal": 620,
-        "protein": 22,
-        "fat": 5,
-        "carbs": 123
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=rajma%20rice%20recipe%20recipe"
-    },
-    "dinner": {
-      "dish_hindi": "मसूर दाल और चपाती",
-      "dish_english": "Masoor Dal with Chapati",
-      "ingredients_hindi": "मसूर दाल, टमाटर, प्याज, अदरक, लहसुन, हल्दी, नमक, तेल, आटा",
-      "ingredients_list_hi": [
-        "मसूर दाल",
-        "टमाटर",
-        "प्याज",
-        "अदरक",
-        "लहसुन",
-        "हल्दी",
-        "नमक",
-        "तेल",
-        "आटा"
-      ],
-      "ingredients_list_en": [
-        "Red lentils",
-        "Tomato",
-        "Onion",
-        "Ginger",
-        "Garlic",
-        "Turmeric",
-        "Salt",
-        "Oil",
-        "Flour"
-      ],
-      "prep_notes_hi": "दाल को अच्छी तरह से पकाएं जब तक कि यह नरम न हो जाए और ग्रेवी थोड़ी मोटी हो।",
-      "prep_notes_en": "Cook the lentils thoroughly until they are soft and the gravy thickens slightly.",
-      "vizz_macros": {
-        "cal": 700,
-        "protein": 26,
-        "fat": 8,
-        "carbs": 107
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=masoor%20dal%20recipe%20recipe"
-    },
-    "vizz_daily_total_from_meals": {
-      "cal": 1700,
-      "protein": 70,
-      "fat": 24,
-      "carbs": 280
-    },
-    "vizz_daily_total_with_shake": {
-      "cal": 2000,
-      "protein": 110,
-      "fat": 29,
-      "carbs": 305
-    },
-    "macro_check": "Close to target: carbs are slightly above the goal, but protein and calories are met well."
-  },
-  {
     "date": "2026-09-08 (Tuesday)",
     "date_display": "Tuesday, September 8",
     "date_short": "Tue · Sep 8",
@@ -3560,5 +3435,142 @@
       "carbs": 280
     },
     "macro_check": "Calories and protein meet the target. Carbs slightly exceed at 280g due to rice and roti, consider reducing portions if needed."
+  },
+  {
+    "date": "2026-10-07 (Wednesday)",
+    "date_display": "Wednesday, October 7",
+    "date_short": "Wed · Oct 7",
+    "generated_label": "Generated last night for today",
+    "breakfast": {
+      "dish_hindi": "उपमा और उबला अंडा (विज़ और फ़्लैटमेट-2 के लिए)",
+      "dish_english": "Upma with Boiled Egg (for Vizz and Flatmate-2)",
+      "ingredients_hindi": "सूजी, मूंगफली, प्याज, हरी मिर्च, करी पत्ता, सरसों के बीज, नमक, घी, पानी, उबला अंडा",
+      "ingredients_list_hi": [
+        "सूजी",
+        "मूंगफली",
+        "प्याज",
+        "हरी मिर्च",
+        "करी पत्ता",
+        "सरसों के बीज",
+        "नमक",
+        "घी",
+        "पानी",
+        "उबला अंडा"
+      ],
+      "ingredients_list_en": [
+        "Semolina",
+        "Peanuts",
+        "Onion",
+        "Green Chili",
+        "Curry Leaves",
+        "Mustard Seeds",
+        "Salt",
+        "Ghee",
+        "Water",
+        "Boiled Egg"
+      ],
+      "prep_notes_hi": "सूजी हल्का भून लें। प्याज, हरी मिर्च और करी पत्ता घी में भूनें। नमक और पानी डालकर पका लें।",
+      "prep_notes_en": "Lightly roast the semolina. Sauté onions, green chili, and curry leaves in ghee. Add salt and water, then cook.",
+      "vizz_macros": {
+        "cal": 420,
+        "protein": 12,
+        "fat": 18,
+        "carbs": 56
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=upma%20recipe%20hindi%20recipe"
+    },
+    "lunch": {
+      "dish_hindi": "सोया बीन्स करी और चावल, आचार",
+      "dish_english": "Soybean Curry with Rice and Pickle",
+      "ingredients_hindi": "सोया बीन्स, चावल, प्याज, टमाटर, अदरक, लहसुन, हल्दी, मसाले, नमक, तेल",
+      "ingredients_list_hi": [
+        "सोया बीन्स",
+        "चावल",
+        "प्याज",
+        "टमाटर",
+        "अदरक",
+        "लहसुन",
+        "हल्दी",
+        "मसाले",
+        "नमक",
+        "तेल"
+      ],
+      "ingredients_list_en": [
+        "Soybeans",
+        "Rice",
+        "Onion",
+        "Tomato",
+        "Ginger",
+        "Garlic",
+        "Turmeric",
+        "Spices",
+        "Salt",
+        "Oil"
+      ],
+      "prep_notes_hi": "सब्ज़ी अच्छी तरह पकाएं ताकि वह अच्छी तरह ट्रैवल कर सके और गरम करने पर स्वादिष्ट लगे।",
+      "prep_notes_en": "Cook the curry well to ensure it travels and reheats well, maintaining good flavor.",
+      "vizz_macros": {
+        "cal": 680,
+        "protein": 28,
+        "fat": 14,
+        "carbs": 110
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=soybean%20curry%20recipe%20recipe"
+    },
+    "dinner": {
+      "dish_hindi": "पालक पनीर और फुलका, दही",
+      "dish_english": "Palak Paneer with Phulka and Yogurt",
+      "ingredients_hindi": "पालक, पनीर, प्याज, टमाटर, अदरक, लहसुन, हल्दी, गरम मसाला, नमक, तेल, गेहूं का आटा, दही",
+      "ingredients_list_hi": [
+        "पालक",
+        "पनीर",
+        "प्याज",
+        "टमाटर",
+        "अदरक",
+        "लहसुन",
+        "हल्दी",
+        "गरम मसाला",
+        "नमक",
+        "तेल",
+        "गेहूं का आटा",
+        "दही"
+      ],
+      "ingredients_list_en": [
+        "Spinach",
+        "Paneer",
+        "Onion",
+        "Tomato",
+        "Ginger",
+        "Garlic",
+        "Turmeric",
+        "Garam Masala",
+        "Salt",
+        "Oil",
+        "Wheat Flour",
+        "Yogurt"
+      ],
+      "prep_notes_hi": "पालक को अच्छे से पकाएं और पनीर को हल्के हाथों से मिलाएं। फुलका को फूलने तक सेंकें।",
+      "prep_notes_en": "Cook spinach thoroughly and gently mix in paneer. Roast the phulka until it puffs up.",
+      "vizz_macros": {
+        "cal": 600,
+        "protein": 30,
+        "fat": 25,
+        "carbs": 45
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=palak%20paneer%20recipe%20recipe"
+    },
+    "vizz_daily_total_from_meals": {
+      "cal": 1700,
+      "protein": 70,
+      "fat": 57,
+      "carbs": 211
+    },
+    "vizz_daily_total_with_shake": {
+      "cal": 2000,
+      "protein": 110,
+      "fat": 62,
+      "carbs": 236
+    },
+    "macro_check": "Hits 2000/110/60/215 target with slight excess in fat and carbs."
   }
 ]
