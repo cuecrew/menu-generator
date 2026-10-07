@@ -1,108 +1,5 @@
 [
   {
-    "date": "2026-09-08 (Tuesday)",
-    "date_display": "Tuesday, September 8",
-    "date_short": "Tue · Sep 8",
-    "generated_label": "Generated last night for today",
-    "breakfast": {
-      "dish_hindi": "सब्जी पराठा और दही, उबले अंडे (विज़्ज़ और फ्लैटमेट-2 के लिए)",
-      "dish_english": "Mixed Vegetable Paratha with Curd, Boiled Eggs (for Vizz and Flatmate-2)",
-      "ingredients_hindi": "गेहूं का आटा, मिक्स सब्जियाँ, दही, उबले अंडे",
-      "ingredients_list_hi": [
-        "गेहूं का आटा",
-        "मिक्स सब्जियाँ",
-        "दही",
-        "उबले अंडे"
-      ],
-      "ingredients_list_en": [
-        "Whole Wheat Flour",
-        "Mixed Vegetables",
-        "Curd",
-        "Boiled Eggs"
-      ],
-      "prep_notes_hi": "सारी सब्जियों को छोटे टुकड़ों में काटें। आटे में नमक और मसाले डालकर पराठे बेलें और तवे पर पकाएँ।",
-      "prep_notes_en": "Chop all vegetables finely. Mix with flour, spices, and knead to form dough. Roll into parathas and cook on griddle.",
-      "vizz_macros": {
-        "cal": 450,
-        "protein": 18,
-        "fat": 10,
-        "carbs": 60
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=vegetable%20paratha%20recipe%20recipe"
-    },
-    "lunch": {
-      "dish_hindi": "पनीर पुलाव और मिक्स रायता",
-      "dish_english": "Paneer Pulao with Mixed Raita",
-      "ingredients_hindi": "बासमती चावल, पनीर, मटर, गाजर, दही, मसाले",
-      "ingredients_list_hi": [
-        "बासमती चावल",
-        "पनीर",
-        "मटर",
-        "गाजर",
-        "दही",
-        "मसाले"
-      ],
-      "ingredients_list_en": [
-        "Basmati Rice",
-        "Paneer",
-        "Peas",
-        "Carrot",
-        "Curd",
-        "Spices"
-      ],
-      "prep_notes_hi": "चावल को हाथ से धो लें। पनीर, मटर और गाजर के साथ पकाएं। यह यात्रा कर सकते हैं और गरम कर सकते हैं।",
-      "prep_notes_en": "Rinse rice thoroughly. Cook with paneer, peas, and carrots. This meal travels and reheats well.",
-      "vizz_macros": {
-        "cal": 600,
-        "protein": 25,
-        "fat": 20,
-        "carbs": 75
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=paneer%20pulao%20recipe%20recipe"
-    },
-    "dinner": {
-      "dish_hindi": "सोया चंक्स करी और रोटी",
-      "dish_english": "Soya Chunks Curry with Roti",
-      "ingredients_hindi": "सोया चंक्स, मसाले, प्याज, टमाटर, रोटी",
-      "ingredients_list_hi": [
-        "सोया चंक्स",
-        "मसाले",
-        "प्याज",
-        "टमाटर",
-        "रोटी"
-      ],
-      "ingredients_list_en": [
-        "Soya Chunks",
-        "Spices",
-        "Onion",
-        "Tomato",
-        "Roti"
-      ],
-      "prep_notes_hi": "सोया चंक्स को भिगो दें। प्याज और टमाटर के साथ मसाले डालकर भूनें।",
-      "prep_notes_en": "Soak soya chunks. Sauté with onions, tomatoes, and spices.",
-      "vizz_macros": {
-        "cal": 650,
-        "protein": 28,
-        "fat": 15,
-        "carbs": 70
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=soya%20chunks%20curry%20recipe%20recipe"
-    },
-    "vizz_daily_total_from_meals": {
-      "cal": 1700,
-      "protein": 71,
-      "fat": 45,
-      "carbs": 205
-    },
-    "vizz_daily_total_with_shake": {
-      "cal": 2000,
-      "protein": 111,
-      "fat": 50,
-      "carbs": 230
-    },
-    "macro_check": "Hits the target 2000/110/60/215. Fat is slightly lower due to minimal oil use."
-  },
-  {
     "date": "2026-09-09 (Wednesday)",
     "date_display": "Wednesday, September 9",
     "date_short": "Wed · Sep 9",
@@ -3572,5 +3469,106 @@
       "carbs": 236
     },
     "macro_check": "Hits 2000/110/60/215 target with slight excess in fat and carbs."
+  },
+  {
+    "date": "2026-10-08 (Thursday)",
+    "date_display": "Thursday, October 8",
+    "date_short": "Thu · Oct 8",
+    "generated_label": "Generated last night for today",
+    "breakfast": {
+      "dish_hindi": "अंडे के साथ दलिया",
+      "dish_english": "Oats Porridge with Boiled Egg",
+      "ingredients_hindi": "दलिया, दूध, शक्कर, अंडा",
+      "ingredients_list_hi": [
+        "दलिया",
+        "दूध",
+        "शक्कर",
+        "अंडा"
+      ],
+      "ingredients_list_en": [
+        "Oats",
+        "Milk",
+        "Sugar",
+        "Egg"
+      ],
+      "prep_notes_hi": "दलिया को दूध में पकाएं जब तक यह गाढ़ा न हो जाए। स्वादानुसार शक्कर मिलाएं।",
+      "prep_notes_en": "Cook the oats in milk until thick and creamy, add sugar to taste.",
+      "vizz_macros": {
+        "cal": 370,
+        "protein": 24,
+        "fat": 15,
+        "carbs": 40
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=oats%20porridge%20recipe%20recipe"
+    },
+    "lunch": {
+      "dish_hindi": "पनीर मटर पुलाव और रायता",
+      "dish_english": "Paneer Peas Pulao with Raita",
+      "ingredients_hindi": "चावल, पनीर, मटर, जीरा, धनिया, दही",
+      "ingredients_list_hi": [
+        "चावल",
+        "पनीर",
+        "मटर",
+        "जीरा",
+        "धनिया",
+        "दही"
+      ],
+      "ingredients_list_en": [
+        "Rice",
+        "Paneer",
+        "Peas",
+        "Cumin",
+        "Coriander",
+        "Yogurt"
+      ],
+      "prep_notes_hi": "पुलाव को धीमी आँच पर पकाएं, यह आफिस बोक्स में पैक के लिए ठंडा होने पर सही रहेगा।",
+      "prep_notes_en": "Cook the pulao on low heat, it will stay well in a lunchbox for office.",
+      "vizz_macros": {
+        "cal": 600,
+        "protein": 23,
+        "fat": 20,
+        "carbs": 80
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=paneer%20peas%20pulao%20recipe%20recipe"
+    },
+    "dinner": {
+      "dish_hindi": "सब्जी मसाला, चपाती, पापड़ और दही",
+      "dish_english": "Mixed Vegetable Masala with Roti, Papad, and Yogurt",
+      "ingredients_hindi": "मिश्रित सब्जियाँ, चपाती, पापड़, दही",
+      "ingredients_list_hi": [
+        "मिश्रित सब्जियाँ",
+        "चपाती",
+        "पापड़",
+        "दही"
+      ],
+      "ingredients_list_en": [
+        "Mixed Vegetables",
+        "Roti",
+        "Papad",
+        "Yogurt"
+      ],
+      "prep_notes_hi": "मिश्रित सब्जियों को अच्छे से मसाले के साथ भूनें। चपाती को नरम रखें।",
+      "prep_notes_en": "Sauté mixed vegetables well with spices. Keep the roti soft.",
+      "vizz_macros": {
+        "cal": 720,
+        "protein": 25,
+        "fat": 12,
+        "carbs": 80
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=mixed%20vegetable%20masala%20recipe%20recipe"
+    },
+    "vizz_daily_total_from_meals": {
+      "cal": 1690,
+      "protein": 72,
+      "fat": 47,
+      "carbs": 200
+    },
+    "vizz_daily_total_with_shake": {
+      "cal": 1990,
+      "protein": 112,
+      "fat": 52,
+      "carbs": 225
+    },
+    "macro_check": "Target met: 2000 cal / 110g protein / 60g fat / 215g carbs. Small fat gap but within acceptable range."
   }
 ]

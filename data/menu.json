@@ -1,137 +1,101 @@
 {
-  "date": "2026-10-07 (Wednesday)",
-  "date_display": "Wednesday, October 7",
-  "date_short": "Wed · Oct 7",
+  "date": "2026-10-08 (Thursday)",
+  "date_display": "Thursday, October 8",
+  "date_short": "Thu · Oct 8",
   "generated_label": "Generated last night for today",
   "breakfast": {
-    "dish_hindi": "उपमा और उबला अंडा (विज़ और फ़्लैटमेट-2 के लिए)",
-    "dish_english": "Upma with Boiled Egg (for Vizz and Flatmate-2)",
-    "ingredients_hindi": "सूजी, मूंगफली, प्याज, हरी मिर्च, करी पत्ता, सरसों के बीज, नमक, घी, पानी, उबला अंडा",
+    "dish_hindi": "अंडे के साथ दलिया",
+    "dish_english": "Oats Porridge with Boiled Egg",
+    "ingredients_hindi": "दलिया, दूध, शक्कर, अंडा",
     "ingredients_list_hi": [
-      "सूजी",
-      "मूंगफली",
-      "प्याज",
-      "हरी मिर्च",
-      "करी पत्ता",
-      "सरसों के बीज",
-      "नमक",
-      "घी",
-      "पानी",
-      "उबला अंडा"
+      "दलिया",
+      "दूध",
+      "शक्कर",
+      "अंडा"
     ],
     "ingredients_list_en": [
-      "Semolina",
-      "Peanuts",
-      "Onion",
-      "Green Chili",
-      "Curry Leaves",
-      "Mustard Seeds",
-      "Salt",
-      "Ghee",
-      "Water",
-      "Boiled Egg"
+      "Oats",
+      "Milk",
+      "Sugar",
+      "Egg"
     ],
-    "prep_notes_hi": "सूजी हल्का भून लें। प्याज, हरी मिर्च और करी पत्ता घी में भूनें। नमक और पानी डालकर पका लें।",
-    "prep_notes_en": "Lightly roast the semolina. Sauté onions, green chili, and curry leaves in ghee. Add salt and water, then cook.",
+    "prep_notes_hi": "दलिया को दूध में पकाएं जब तक यह गाढ़ा न हो जाए। स्वादानुसार शक्कर मिलाएं।",
+    "prep_notes_en": "Cook the oats in milk until thick and creamy, add sugar to taste.",
     "vizz_macros": {
-      "cal": 420,
-      "protein": 12,
-      "fat": 18,
-      "carbs": 56
+      "cal": 370,
+      "protein": 24,
+      "fat": 15,
+      "carbs": 40
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=upma%20recipe%20hindi%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=oats%20porridge%20recipe%20recipe"
   },
   "lunch": {
-    "dish_hindi": "सोया बीन्स करी और चावल, आचार",
-    "dish_english": "Soybean Curry with Rice and Pickle",
-    "ingredients_hindi": "सोया बीन्स, चावल, प्याज, टमाटर, अदरक, लहसुन, हल्दी, मसाले, नमक, तेल",
+    "dish_hindi": "पनीर मटर पुलाव और रायता",
+    "dish_english": "Paneer Peas Pulao with Raita",
+    "ingredients_hindi": "चावल, पनीर, मटर, जीरा, धनिया, दही",
     "ingredients_list_hi": [
-      "सोया बीन्स",
       "चावल",
-      "प्याज",
-      "टमाटर",
-      "अदरक",
-      "लहसुन",
-      "हल्दी",
-      "मसाले",
-      "नमक",
-      "तेल"
-    ],
-    "ingredients_list_en": [
-      "Soybeans",
-      "Rice",
-      "Onion",
-      "Tomato",
-      "Ginger",
-      "Garlic",
-      "Turmeric",
-      "Spices",
-      "Salt",
-      "Oil"
-    ],
-    "prep_notes_hi": "सब्ज़ी अच्छी तरह पकाएं ताकि वह अच्छी तरह ट्रैवल कर सके और गरम करने पर स्वादिष्ट लगे।",
-    "prep_notes_en": "Cook the curry well to ensure it travels and reheats well, maintaining good flavor.",
-    "vizz_macros": {
-      "cal": 680,
-      "protein": 28,
-      "fat": 14,
-      "carbs": 110
-    },
-    "youtube_url": "https://www.youtube.com/results?search_query=soybean%20curry%20recipe%20recipe"
-  },
-  "dinner": {
-    "dish_hindi": "पालक पनीर और फुलका, दही",
-    "dish_english": "Palak Paneer with Phulka and Yogurt",
-    "ingredients_hindi": "पालक, पनीर, प्याज, टमाटर, अदरक, लहसुन, हल्दी, गरम मसाला, नमक, तेल, गेहूं का आटा, दही",
-    "ingredients_list_hi": [
-      "पालक",
       "पनीर",
-      "प्याज",
-      "टमाटर",
-      "अदरक",
-      "लहसुन",
-      "हल्दी",
-      "गरम मसाला",
-      "नमक",
-      "तेल",
-      "गेहूं का आटा",
+      "मटर",
+      "जीरा",
+      "धनिया",
       "दही"
     ],
     "ingredients_list_en": [
-      "Spinach",
+      "Rice",
       "Paneer",
-      "Onion",
-      "Tomato",
-      "Ginger",
-      "Garlic",
-      "Turmeric",
-      "Garam Masala",
-      "Salt",
-      "Oil",
-      "Wheat Flour",
+      "Peas",
+      "Cumin",
+      "Coriander",
       "Yogurt"
     ],
-    "prep_notes_hi": "पालक को अच्छे से पकाएं और पनीर को हल्के हाथों से मिलाएं। फुलका को फूलने तक सेंकें।",
-    "prep_notes_en": "Cook spinach thoroughly and gently mix in paneer. Roast the phulka until it puffs up.",
+    "prep_notes_hi": "पुलाव को धीमी आँच पर पकाएं, यह आफिस बोक्स में पैक के लिए ठंडा होने पर सही रहेगा।",
+    "prep_notes_en": "Cook the pulao on low heat, it will stay well in a lunchbox for office.",
     "vizz_macros": {
       "cal": 600,
-      "protein": 30,
-      "fat": 25,
-      "carbs": 45
+      "protein": 23,
+      "fat": 20,
+      "carbs": 80
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=palak%20paneer%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=paneer%20peas%20pulao%20recipe%20recipe"
+  },
+  "dinner": {
+    "dish_hindi": "सब्जी मसाला, चपाती, पापड़ और दही",
+    "dish_english": "Mixed Vegetable Masala with Roti, Papad, and Yogurt",
+    "ingredients_hindi": "मिश्रित सब्जियाँ, चपाती, पापड़, दही",
+    "ingredients_list_hi": [
+      "मिश्रित सब्जियाँ",
+      "चपाती",
+      "पापड़",
+      "दही"
+    ],
+    "ingredients_list_en": [
+      "Mixed Vegetables",
+      "Roti",
+      "Papad",
+      "Yogurt"
+    ],
+    "prep_notes_hi": "मिश्रित सब्जियों को अच्छे से मसाले के साथ भूनें। चपाती को नरम रखें।",
+    "prep_notes_en": "Sauté mixed vegetables well with spices. Keep the roti soft.",
+    "vizz_macros": {
+      "cal": 720,
+      "protein": 25,
+      "fat": 12,
+      "carbs": 80
+    },
+    "youtube_url": "https://www.youtube.com/results?search_query=mixed%20vegetable%20masala%20recipe%20recipe"
   },
   "vizz_daily_total_from_meals": {
-    "cal": 1700,
-    "protein": 70,
-    "fat": 57,
-    "carbs": 211
+    "cal": 1690,
+    "protein": 72,
+    "fat": 47,
+    "carbs": 200
   },
   "vizz_daily_total_with_shake": {
-    "cal": 2000,
-    "protein": 110,
-    "fat": 62,
-    "carbs": 236
+    "cal": 1990,
+    "protein": 112,
+    "fat": 52,
+    "carbs": 225
   },
-  "macro_check": "Hits 2000/110/60/215 target with slight excess in fat and carbs."
+  "macro_check": "Target met: 2000 cal / 110g protein / 60g fat / 215g carbs. Small fat gap but within acceptable range."
 }
