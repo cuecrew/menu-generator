@@ -1,101 +1,103 @@
 {
-  "date": "2026-10-08 (Thursday)",
-  "date_display": "Thursday, October 8",
-  "date_short": "Thu · Oct 8",
+  "date": "2026-10-09 (Friday)",
+  "date_display": "Friday, October 9",
+  "date_short": "Fri · Oct 9",
   "generated_label": "Generated last night for today",
   "breakfast": {
-    "dish_hindi": "अंडे के साथ दलिया",
-    "dish_english": "Oats Porridge with Boiled Egg",
-    "ingredients_hindi": "दलिया, दूध, शक्कर, अंडा",
+    "dish_hindi": "वेगन सब्जी सैंडविच और उबला अंडा",
+    "dish_english": "Vegan Vegetable Sandwich with Boiled Egg",
+    "ingredients_hindi": "ब्राउन ब्रेड, खीरा, टमाटर, पैत्तेदार सब्जी, हरी चटनी, उबला अंडा",
     "ingredients_list_hi": [
-      "दलिया",
-      "दूध",
-      "शक्कर",
-      "अंडा"
+      "ब्राउन ब्रेड",
+      "खीरा",
+      "टमाटर",
+      "पैत्तेदार सब्जी",
+      "हरी चटनी",
+      "उबला अंडा"
     ],
     "ingredients_list_en": [
-      "Oats",
-      "Milk",
-      "Sugar",
-      "Egg"
+      "Brown Bread",
+      "Cucumber",
+      "Tomato",
+      "Leafy Greens",
+      "Green Chutney",
+      "Boiled Egg"
     ],
-    "prep_notes_hi": "दलिया को दूध में पकाएं जब तक यह गाढ़ा न हो जाए। स्वादानुसार शक्कर मिलाएं।",
-    "prep_notes_en": "Cook the oats in milk until thick and creamy, add sugar to taste.",
+    "prep_notes_hi": "सैंडविच को तीन ताजा सब्जियों और हरी चटनी के साथ बनायें। जल्दीताप तैयार करने के लिये ब्रेड को पहले से काटकर रखें।",
+    "prep_notes_en": "Prepare the sandwich using fresh veggies and green chutney. Pre-slice the bread for quick assembly.",
     "vizz_macros": {
-      "cal": 370,
-      "protein": 24,
-      "fat": 15,
+      "cal": 300,
+      "protein": 12,
+      "fat": 8,
       "carbs": 40
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=oats%20porridge%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=%E0%A4%AA%E0%A5%8C%E0%A4%A7%E0%A4%BE%20%E0%A4%86%E0%A4%A7%E0%A4%BE%E0%A4%B0%E0%A4%BF%E0%A4%A4%20%E0%A4%B8%E0%A4%AC%E0%A5%8D%E0%A4%9C%E0%A5%80%20%E0%A4%B8%E0%A5%88%E0%A4%82%E0%A4%A1%E0%A4%B5%E0%A4%BF%E0%A4%9A%20%E0%A4%B0%E0%A5%87%E0%A4%B8%E0%A4%BF%E0%A4%AA%E0%A5%80%20recipe"
   },
   "lunch": {
-    "dish_hindi": "पनीर मटर पुलाव और रायता",
-    "dish_english": "Paneer Peas Pulao with Raita",
-    "ingredients_hindi": "चावल, पनीर, मटर, जीरा, धनिया, दही",
+    "dish_hindi": "चना दाल और जीरा चावल के साथ अचार",
+    "dish_english": "Chana Dal with Jeera Rice and Pickle",
+    "ingredients_hindi": "चना दाल, चावल, जीरा, मसाले, अचार",
     "ingredients_list_hi": [
+      "चना दाल",
       "चावल",
-      "पनीर",
-      "मटर",
       "जीरा",
-      "धनिया",
-      "दही"
+      "मसाले",
+      "अचार"
     ],
     "ingredients_list_en": [
+      "Chana Dal",
       "Rice",
-      "Paneer",
-      "Peas",
-      "Cumin",
-      "Coriander",
-      "Yogurt"
+      "Cumin Seeds",
+      "Spices",
+      "Pickle"
     ],
-    "prep_notes_hi": "पुलाव को धीमी आँच पर पकाएं, यह आफिस बोक्स में पैक के लिए ठंडा होने पर सही रहेगा।",
-    "prep_notes_en": "Cook the pulao on low heat, it will stay well in a lunchbox for office.",
+    "prep_notes_hi": "यह पकवान अच्छी तरह बक्से में ठहरता है और माइक्रोवेव में दोबारा गरम किया जा सकता है।",
+    "prep_notes_en": "This dish travels well in a box and can be reheated in the microwave.",
     "vizz_macros": {
-      "cal": 600,
-      "protein": 23,
-      "fat": 20,
-      "carbs": 80
+      "cal": 680,
+      "protein": 25,
+      "fat": 10,
+      "carbs": 120
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=paneer%20peas%20pulao%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=%E0%A4%9A%E0%A4%A8%E0%A4%BE%20%E0%A4%A6%E0%A4%BE%E0%A4%B2%20%E0%A4%94%E0%A4%B0%20%E0%A4%9C%E0%A5%80%E0%A4%B0%E0%A4%BE%20%E0%A4%9A%E0%A4%BE%E0%A4%B5%E0%A4%B2%20%E0%A4%B0%E0%A5%87%E0%A4%B8%E0%A4%BF%E0%A4%AA%E0%A5%80%20recipe"
   },
   "dinner": {
-    "dish_hindi": "सब्जी मसाला, चपाती, पापड़ और दही",
-    "dish_english": "Mixed Vegetable Masala with Roti, Papad, and Yogurt",
-    "ingredients_hindi": "मिश्रित सब्जियाँ, चपाती, पापड़, दही",
+    "dish_hindi": "तंदूरी सब्जी ब्राउन राइस और रायता",
+    "dish_english": "Tandoori Vegetables with Brown Rice & Raita",
+    "ingredients_hindi": "मिक्स सब्जियाँ, ब्राउन राइस, दही, मसाले",
     "ingredients_list_hi": [
-      "मिश्रित सब्जियाँ",
-      "चपाती",
-      "पापड़",
-      "दही"
+      "मिक्स सब्जियाँ",
+      "ब्राउन राइस",
+      "दही",
+      "मसाले"
     ],
     "ingredients_list_en": [
       "Mixed Vegetables",
-      "Roti",
-      "Papad",
-      "Yogurt"
+      "Brown Rice",
+      "Yogurt",
+      "Spices"
     ],
-    "prep_notes_hi": "मिश्रित सब्जियों को अच्छे से मसाले के साथ भूनें। चपाती को नरम रखें।",
-    "prep_notes_en": "Sauté mixed vegetables well with spices. Keep the roti soft.",
+    "prep_notes_hi": "मिक्स सब्जियों को मसालों के साथ अच्छी तरह तवा या तंदूर में पकाएँ। दही को ठंडा परोसें।",
+    "prep_notes_en": "Cook mixed vegetables with spices on a tawa or tandoor. Serve the yogurt chilled.",
     "vizz_macros": {
       "cal": 720,
-      "protein": 25,
+      "protein": 20,
       "fat": 12,
-      "carbs": 80
+      "carbs": 95
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=mixed%20vegetable%20masala%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=%E0%A4%A4%E0%A4%82%E0%A4%A6%E0%A5%82%E0%A4%B0%E0%A5%80%20%E0%A4%B8%E0%A4%AC%E0%A5%8D%E0%A4%9C%E0%A5%80%20%E0%A4%B0%E0%A5%87%E0%A4%B8%E0%A4%BF%E0%A4%AA%E0%A5%80%20recipe"
   },
   "vizz_daily_total_from_meals": {
-    "cal": 1690,
-    "protein": 72,
-    "fat": 47,
-    "carbs": 200
+    "cal": 1700,
+    "protein": 57,
+    "fat": 30,
+    "carbs": 255
   },
   "vizz_daily_total_with_shake": {
-    "cal": 1990,
-    "protein": 112,
-    "fat": 52,
-    "carbs": 225
+    "cal": 2000,
+    "protein": 97,
+    "fat": 35,
+    "carbs": 280
   },
-  "macro_check": "Target met: 2000 cal / 110g protein / 60g fat / 215g carbs. Small fat gap but within acceptable range."
+  "macro_check": "The total macros meet the calorie target but are slightly low on protein, and carbohydrates are higher than required."
 }

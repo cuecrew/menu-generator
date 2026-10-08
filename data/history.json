@@ -1,120 +1,5 @@
 [
   {
-    "date": "2026-09-09 (Wednesday)",
-    "date_display": "Wednesday, September 9",
-    "date_short": "Wed · Sep 9",
-    "generated_label": "Generated last night for today",
-    "breakfast": {
-      "dish_hindi": "ओट्स का उपमा, उबला अंडा (केवल विज्ज और फ्लैटमेट-2 के लिए)",
-      "dish_english": "Oats Upma with Boiled Egg (for Vizz and Flatmate-2 only)",
-      "ingredients_hindi": "ओट्स, प्याज, गाजर, मटर, धनिया पत्ती, हरी मिर्च, सरसों के दाने, उबला अंडा",
-      "ingredients_list_hi": [
-        "ओट्स",
-        "प्याज",
-        "गाजर",
-        "मटर",
-        "धनिया पत्ती",
-        "हरी मिर्च",
-        "सरसों के दाने",
-        "उबला अंडा"
-      ],
-      "ingredients_list_en": [
-        "Oats",
-        "Onion",
-        "Carrot",
-        "Peas",
-        "Coriander leaves",
-        "Green chili",
-        "Mustard seeds",
-        "Boiled Egg"
-      ],
-      "prep_notes_hi": "ओट्स को अच्छी तरह से पकाना सुनिश्चित करें जब तक कि वे नरम न हो जाएं। उबले अंडे को एक तरफ रखकर परोसें।",
-      "prep_notes_en": "Ensure the oats are cooked well until they are soft. Serve the boiled egg on the side.",
-      "vizz_macros": {
-        "cal": 400,
-        "protein": 18,
-        "fat": 12,
-        "carbs": 60
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=oats%20upma%20recipe%20hindi%20recipe"
-    },
-    "lunch": {
-      "dish_hindi": "पालक दाल और चावल, पापड़",
-      "dish_english": "Palak Dal and Rice with Papad",
-      "ingredients_hindi": "पालक, मूंग दाल, बासमती चावल, अदरक, लहसुन, हरी मिर्च, पापड़",
-      "ingredients_list_hi": [
-        "पालक",
-        "मूंग दाल",
-        "बासमती चावल",
-        "अदरक",
-        "लहसुन",
-        "हरी मिर्च",
-        "पापड़"
-      ],
-      "ingredients_list_en": [
-        "Spinach",
-        "Moong Dal",
-        "Basmati Rice",
-        "Ginger",
-        "Garlic",
-        "Green chili",
-        "Papad"
-      ],
-      "prep_notes_hi": "दाल को पालक के साथ अच्छी तरह पकाएं ताकि यह पुनः गरम करने पर भी सुगंधित और स्वादिष्ट रहे।",
-      "prep_notes_en": "Cook the dal thoroughly with spinach so it remains aromatic and flavorful even when reheated.",
-      "vizz_macros": {
-        "cal": 550,
-        "protein": 24,
-        "fat": 8,
-        "carbs": 95
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=palak%20dal%20rice%20recipe%20recipe"
-    },
-    "dinner": {
-      "dish_hindi": "पास्ता सलाद, लहसुन की चटनी",
-      "dish_english": "Pasta Salad with Garlic Chutney",
-      "ingredients_hindi": "पास्ता, शिमला मिर्च, चेरी टमाटर, जैतून, काली मिर्च, लहसुन",
-      "ingredients_list_hi": [
-        "पास्ता",
-        "शिमला मिर्च",
-        "चेरी टमाटर",
-        "जैतून",
-        "काली मिर्च",
-        "लहसुन"
-      ],
-      "ingredients_list_en": [
-        "Pasta",
-        "Bell pepper",
-        "Cherry tomato",
-        "Olives",
-        "Black pepper",
-        "Garlic"
-      ],
-      "prep_notes_hi": "सभी सब्जियों को ताजा काटें और पका हुआ पास्ता मिलाएं। लहसुन की चटनी के साथ परोसें।",
-      "prep_notes_en": "Chop all vegetables fresh and mix with cooked pasta. Serve with garlic chutney on the side.",
-      "vizz_macros": {
-        "cal": 380,
-        "protein": 12,
-        "fat": 10,
-        "carbs": 60
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=pasta%20salad%20recipe%20recipe"
-    },
-    "vizz_daily_total_from_meals": {
-      "cal": 1330,
-      "protein": 54,
-      "fat": 30,
-      "carbs": 215
-    },
-    "vizz_daily_total_with_shake": {
-      "cal": 1630,
-      "protein": 94,
-      "fat": 35,
-      "carbs": 240
-    },
-    "macro_check": "Slight shortfall in calories and protein. Consider protein supplements."
-  },
-  {
     "date": "2026-09-10 (Thursday)",
     "date_display": "Thursday, September 10",
     "date_short": "Thu · Sep 10",
@@ -3570,5 +3455,108 @@
       "carbs": 225
     },
     "macro_check": "Target met: 2000 cal / 110g protein / 60g fat / 215g carbs. Small fat gap but within acceptable range."
+  },
+  {
+    "date": "2026-10-09 (Friday)",
+    "date_display": "Friday, October 9",
+    "date_short": "Fri · Oct 9",
+    "generated_label": "Generated last night for today",
+    "breakfast": {
+      "dish_hindi": "वेगन सब्जी सैंडविच और उबला अंडा",
+      "dish_english": "Vegan Vegetable Sandwich with Boiled Egg",
+      "ingredients_hindi": "ब्राउन ब्रेड, खीरा, टमाटर, पैत्तेदार सब्जी, हरी चटनी, उबला अंडा",
+      "ingredients_list_hi": [
+        "ब्राउन ब्रेड",
+        "खीरा",
+        "टमाटर",
+        "पैत्तेदार सब्जी",
+        "हरी चटनी",
+        "उबला अंडा"
+      ],
+      "ingredients_list_en": [
+        "Brown Bread",
+        "Cucumber",
+        "Tomato",
+        "Leafy Greens",
+        "Green Chutney",
+        "Boiled Egg"
+      ],
+      "prep_notes_hi": "सैंडविच को तीन ताजा सब्जियों और हरी चटनी के साथ बनायें। जल्दीताप तैयार करने के लिये ब्रेड को पहले से काटकर रखें।",
+      "prep_notes_en": "Prepare the sandwich using fresh veggies and green chutney. Pre-slice the bread for quick assembly.",
+      "vizz_macros": {
+        "cal": 300,
+        "protein": 12,
+        "fat": 8,
+        "carbs": 40
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=%E0%A4%AA%E0%A5%8C%E0%A4%A7%E0%A4%BE%20%E0%A4%86%E0%A4%A7%E0%A4%BE%E0%A4%B0%E0%A4%BF%E0%A4%A4%20%E0%A4%B8%E0%A4%AC%E0%A5%8D%E0%A4%9C%E0%A5%80%20%E0%A4%B8%E0%A5%88%E0%A4%82%E0%A4%A1%E0%A4%B5%E0%A4%BF%E0%A4%9A%20%E0%A4%B0%E0%A5%87%E0%A4%B8%E0%A4%BF%E0%A4%AA%E0%A5%80%20recipe"
+    },
+    "lunch": {
+      "dish_hindi": "चना दाल और जीरा चावल के साथ अचार",
+      "dish_english": "Chana Dal with Jeera Rice and Pickle",
+      "ingredients_hindi": "चना दाल, चावल, जीरा, मसाले, अचार",
+      "ingredients_list_hi": [
+        "चना दाल",
+        "चावल",
+        "जीरा",
+        "मसाले",
+        "अचार"
+      ],
+      "ingredients_list_en": [
+        "Chana Dal",
+        "Rice",
+        "Cumin Seeds",
+        "Spices",
+        "Pickle"
+      ],
+      "prep_notes_hi": "यह पकवान अच्छी तरह बक्से में ठहरता है और माइक्रोवेव में दोबारा गरम किया जा सकता है।",
+      "prep_notes_en": "This dish travels well in a box and can be reheated in the microwave.",
+      "vizz_macros": {
+        "cal": 680,
+        "protein": 25,
+        "fat": 10,
+        "carbs": 120
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=%E0%A4%9A%E0%A4%A8%E0%A4%BE%20%E0%A4%A6%E0%A4%BE%E0%A4%B2%20%E0%A4%94%E0%A4%B0%20%E0%A4%9C%E0%A5%80%E0%A4%B0%E0%A4%BE%20%E0%A4%9A%E0%A4%BE%E0%A4%B5%E0%A4%B2%20%E0%A4%B0%E0%A5%87%E0%A4%B8%E0%A4%BF%E0%A4%AA%E0%A5%80%20recipe"
+    },
+    "dinner": {
+      "dish_hindi": "तंदूरी सब्जी ब्राउन राइस और रायता",
+      "dish_english": "Tandoori Vegetables with Brown Rice & Raita",
+      "ingredients_hindi": "मिक्स सब्जियाँ, ब्राउन राइस, दही, मसाले",
+      "ingredients_list_hi": [
+        "मिक्स सब्जियाँ",
+        "ब्राउन राइस",
+        "दही",
+        "मसाले"
+      ],
+      "ingredients_list_en": [
+        "Mixed Vegetables",
+        "Brown Rice",
+        "Yogurt",
+        "Spices"
+      ],
+      "prep_notes_hi": "मिक्स सब्जियों को मसालों के साथ अच्छी तरह तवा या तंदूर में पकाएँ। दही को ठंडा परोसें।",
+      "prep_notes_en": "Cook mixed vegetables with spices on a tawa or tandoor. Serve the yogurt chilled.",
+      "vizz_macros": {
+        "cal": 720,
+        "protein": 20,
+        "fat": 12,
+        "carbs": 95
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=%E0%A4%A4%E0%A4%82%E0%A4%A6%E0%A5%82%E0%A4%B0%E0%A5%80%20%E0%A4%B8%E0%A4%AC%E0%A5%8D%E0%A4%9C%E0%A5%80%20%E0%A4%B0%E0%A5%87%E0%A4%B8%E0%A4%BF%E0%A4%AA%E0%A5%80%20recipe"
+    },
+    "vizz_daily_total_from_meals": {
+      "cal": 1700,
+      "protein": 57,
+      "fat": 30,
+      "carbs": 255
+    },
+    "vizz_daily_total_with_shake": {
+      "cal": 2000,
+      "protein": 97,
+      "fat": 35,
+      "carbs": 280
+    },
+    "macro_check": "The total macros meet the calorie target but are slightly low on protein, and carbohydrates are higher than required."
   }
 ]
