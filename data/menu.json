@@ -1,103 +1,121 @@
 {
-  "date": "2026-10-09 (Friday)",
-  "date_display": "Friday, October 9",
-  "date_short": "Fri · Oct 9",
+  "date": "2026-10-10 (Saturday)",
+  "date_display": "Saturday, October 10",
+  "date_short": "Sat · Oct 10",
   "generated_label": "Generated last night for today",
   "breakfast": {
-    "dish_hindi": "वेगन सब्जी सैंडविच और उबला अंडा",
-    "dish_english": "Vegan Vegetable Sandwich with Boiled Egg",
-    "ingredients_hindi": "ब्राउन ब्रेड, खीरा, टमाटर, पैत्तेदार सब्जी, हरी चटनी, उबला अंडा",
+    "dish_hindi": "दालिया और उबला हुआ अंडा",
+    "dish_english": "Daliya with Boiled Egg",
+    "ingredients_hindi": "दालिया, सब्जियाँ, उबला अंडा, नमक, काली मिर्च, घी",
     "ingredients_list_hi": [
-      "ब्राउन ब्रेड",
-      "खीरा",
-      "टमाटर",
-      "पैत्तेदार सब्जी",
-      "हरी चटनी",
-      "उबला अंडा"
+      "दालिया",
+      "सब्जियाँ",
+      "उबला अंडा",
+      "नमक",
+      "काली मिर्च",
+      "घी"
     ],
     "ingredients_list_en": [
-      "Brown Bread",
-      "Cucumber",
-      "Tomato",
-      "Leafy Greens",
-      "Green Chutney",
-      "Boiled Egg"
+      "Daliya (broken wheat)",
+      "Vegetables",
+      "Boiled Egg",
+      "Salt",
+      "Black Pepper",
+      "Ghee"
     ],
-    "prep_notes_hi": "सैंडविच को तीन ताजा सब्जियों और हरी चटनी के साथ बनायें। जल्दीताप तैयार करने के लिये ब्रेड को पहले से काटकर रखें।",
-    "prep_notes_en": "Prepare the sandwich using fresh veggies and green chutney. Pre-slice the bread for quick assembly.",
+    "prep_notes_hi": "दालिया को थोड़े घी में भूने। सब्जियों को थोड़ा उबाल कर दालिया के साथ पकाएं।",
+    "prep_notes_en": "Roast the daliya slightly in ghee. Boil the vegetables a bit and cook with daliya.",
     "vizz_macros": {
-      "cal": 300,
-      "protein": 12,
-      "fat": 8,
-      "carbs": 40
+      "cal": 400,
+      "protein": 16,
+      "fat": 12,
+      "carbs": 65
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=%E0%A4%AA%E0%A5%8C%E0%A4%A7%E0%A4%BE%20%E0%A4%86%E0%A4%A7%E0%A4%BE%E0%A4%B0%E0%A4%BF%E0%A4%A4%20%E0%A4%B8%E0%A4%AC%E0%A5%8D%E0%A4%9C%E0%A5%80%20%E0%A4%B8%E0%A5%88%E0%A4%82%E0%A4%A1%E0%A4%B5%E0%A4%BF%E0%A4%9A%20%E0%A4%B0%E0%A5%87%E0%A4%B8%E0%A4%BF%E0%A4%AA%E0%A5%80%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=daliya%20recipe%20hindi%20recipe"
   },
   "lunch": {
-    "dish_hindi": "चना दाल और जीरा चावल के साथ अचार",
-    "dish_english": "Chana Dal with Jeera Rice and Pickle",
-    "ingredients_hindi": "चना दाल, चावल, जीरा, मसाले, अचार",
+    "dish_hindi": "राजमा चावल और आचार",
+    "dish_english": "Rajma with Rice and Pickle",
+    "ingredients_hindi": "राजमा, चावल, प्याज, टमाटर, अदरक, लहसुन, धनिया पत्ता, मसाले, तेल, आचार",
     "ingredients_list_hi": [
-      "चना दाल",
+      "राजमा",
       "चावल",
-      "जीरा",
+      "प्याज",
+      "टमाटर",
+      "अदरक",
+      "लहसुन",
+      "धनिया पत्ता",
       "मसाले",
-      "अचार"
+      "तेल",
+      "आचार"
     ],
     "ingredients_list_en": [
-      "Chana Dal",
+      "Rajma (kidney beans)",
       "Rice",
-      "Cumin Seeds",
+      "Onion",
+      "Tomato",
+      "Ginger",
+      "Garlic",
+      "Coriander leaves",
       "Spices",
+      "Oil",
       "Pickle"
     ],
-    "prep_notes_hi": "यह पकवान अच्छी तरह बक्से में ठहरता है और माइक्रोवेव में दोबारा गरम किया जा सकता है।",
-    "prep_notes_en": "This dish travels well in a box and can be reheated in the microwave.",
+    "prep_notes_hi": "राजमा को अच्छी तरह से पकाएं और मसाले डालें। यह लंच के लिए अच्छा है और आसानी से गरम होता है।",
+    "prep_notes_en": "Cook the rajma well with spices. It's great for lunch and reheats easily.",
     "vizz_macros": {
-      "cal": 680,
-      "protein": 25,
+      "cal": 700,
+      "protein": 20,
       "fat": 10,
       "carbs": 120
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=%E0%A4%9A%E0%A4%A8%E0%A4%BE%20%E0%A4%A6%E0%A4%BE%E0%A4%B2%20%E0%A4%94%E0%A4%B0%20%E0%A4%9C%E0%A5%80%E0%A4%B0%E0%A4%BE%20%E0%A4%9A%E0%A4%BE%E0%A4%B5%E0%A4%B2%20%E0%A4%B0%E0%A5%87%E0%A4%B8%E0%A4%BF%E0%A4%AA%E0%A5%80%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=rajma%20chawal%20recipe%20recipe"
   },
   "dinner": {
-    "dish_hindi": "तंदूरी सब्जी ब्राउन राइस और रायता",
-    "dish_english": "Tandoori Vegetables with Brown Rice & Raita",
-    "ingredients_hindi": "मिक्स सब्जियाँ, ब्राउन राइस, दही, मसाले",
+    "dish_hindi": "शाही पनीर के साथ नान और रायता",
+    "dish_english": "Shahi Paneer with Naan and Raita",
+    "ingredients_hindi": "पनीर, क्रीम, टमाटर, प्याज, काजू, मसाले, नान, रायता",
     "ingredients_list_hi": [
-      "मिक्स सब्जियाँ",
-      "ब्राउन राइस",
-      "दही",
-      "मसाले"
+      "पनीर",
+      "क्रीम",
+      "टमाटर",
+      "प्याज",
+      "काजू",
+      "मसाले",
+      "नान",
+      "रायता"
     ],
     "ingredients_list_en": [
-      "Mixed Vegetables",
-      "Brown Rice",
-      "Yogurt",
-      "Spices"
+      "Paneer",
+      "Cream",
+      "Tomato",
+      "Onion",
+      "Cashew Nuts",
+      "Spices",
+      "Naan",
+      "Raita"
     ],
-    "prep_notes_hi": "मिक्स सब्जियों को मसालों के साथ अच्छी तरह तवा या तंदूर में पकाएँ। दही को ठंडा परोसें।",
-    "prep_notes_en": "Cook mixed vegetables with spices on a tawa or tandoor. Serve the yogurt chilled.",
+    "prep_notes_hi": "पनीर और मसालों को मिक्स कर अच्छी तरह पकाएं। नान और रायता के साथ परोसें।",
+    "prep_notes_en": "Mix paneer with spices and cook well. Serve with naan and raita.",
     "vizz_macros": {
-      "cal": 720,
-      "protein": 20,
-      "fat": 12,
-      "carbs": 95
+      "cal": 600,
+      "protein": 24,
+      "fat": 23,
+      "carbs": 70
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=%E0%A4%A4%E0%A4%82%E0%A4%A6%E0%A5%82%E0%A4%B0%E0%A5%80%20%E0%A4%B8%E0%A4%AC%E0%A5%8D%E0%A4%9C%E0%A5%80%20%E0%A4%B0%E0%A5%87%E0%A4%B8%E0%A4%BF%E0%A4%AA%E0%A5%80%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=shahi%20paneer%20recipe%20recipe"
   },
   "vizz_daily_total_from_meals": {
     "cal": 1700,
-    "protein": 57,
-    "fat": 30,
+    "protein": 60,
+    "fat": 45,
     "carbs": 255
   },
   "vizz_daily_total_with_shake": {
     "cal": 2000,
-    "protein": 97,
-    "fat": 35,
+    "protein": 100,
+    "fat": 50,
     "carbs": 280
   },
-  "macro_check": "The total macros meet the calorie target but are slightly low on protein, and carbohydrates are higher than required."
+  "macro_check": "Calories and carbs slightly over; protein under target; adjust dinner for balance."
 }

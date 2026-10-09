@@ -1,144 +1,5 @@
 [
   {
-    "date": "2026-09-10 (Thursday)",
-    "date_display": "Thursday, September 10",
-    "date_short": "Thu · Sep 10",
-    "generated_label": "Generated last night for today",
-    "breakfast": {
-      "dish_hindi": "पूरी और अंडा भुर्जी (विज़ और फ्लैटमेट-2 के लिए उबला हुआ अंडा)",
-      "dish_english": "Puri and Egg Bhurji (Boiled Egg for Vizz and Flatmate-2)",
-      "ingredients_hindi": "गेंहू का आटा, तेल, अंडा, प्याज, टमाटर, हरी मिर्च, नमक, हल्दी, धनिया पत्ती",
-      "ingredients_list_hi": [
-        "गेंहू का आटा",
-        "तेल",
-        "अंडा",
-        "प्याज",
-        "टमाटर",
-        "हरी मिर्च",
-        "नमक",
-        "हल्दी",
-        "धनिया पत्ती"
-      ],
-      "ingredients_list_en": [
-        "Wheat flour",
-        "Oil",
-        "Egg",
-        "Onion",
-        "Tomato",
-        "Green chili",
-        "Salt",
-        "Turmeric",
-        "Coriander leaves"
-      ],
-      "prep_notes_hi": "आटा गूंथकर गोल पूरी बेलें। अंडा भुर्जी के लिए प्याज और टमाटर को अच्छे से भूनें।",
-      "prep_notes_en": "Knead the dough and roll into round puris. For egg bhurji, sauté onions and tomatoes well.",
-      "vizz_macros": {
-        "cal": 450,
-        "protein": 18,
-        "fat": 20,
-        "carbs": 50
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=puri%20recipe%20egg%20bhurji%20recipe"
-    },
-    "lunch": {
-      "dish_hindi": "चने की दाल और चावल, चटनी और पापड़",
-      "dish_english": "Chana Dal and Rice with Chutney and Papad",
-      "ingredients_hindi": "चना दाल, चावल, जीरा, हरी मिर्च, अदरक, नमक, घी, लहसुन, प्याज, टमाटर, पापड़",
-      "ingredients_list_hi": [
-        "चना दाल",
-        "चावल",
-        "जीरा",
-        "हरी मिर्च",
-        "अदरक",
-        "नमक",
-        "घी",
-        "लहसुन",
-        "प्याज",
-        "टमाटर",
-        "पापड़"
-      ],
-      "ingredients_list_en": [
-        "Chana dal",
-        "Rice",
-        "Cumin seeds",
-        "Green chili",
-        "Ginger",
-        "Salt",
-        "Ghee",
-        "Garlic",
-        "Onion",
-        "Tomato",
-        "Papad"
-      ],
-      "prep_notes_hi": "चना दाल और चावल को अच्छी तरह पकाएं और ढक कर रखें। यह भोजन ट्रैवल करने और दोबारा गर्म करने में सक्षम होता है।",
-      "prep_notes_en": "Cook chana dal and rice well and keep covered. This meal travels and reheats well.",
-      "vizz_macros": {
-        "cal": 700,
-        "protein": 20,
-        "fat": 15,
-        "carbs": 120
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=chana%20dal%20rice%20recipe%20recipe"
-    },
-    "dinner": {
-      "dish_hindi": "पनीर बटर मसाला और नान, रायता",
-      "dish_english": "Paneer Butter Masala with Naan and Raita",
-      "ingredients_hindi": "पनीर, मक्खन, टमाटर, क्रीम, प्याज, अदरक, लहसुन, हरी मिर्च, धनिया पत्ती, नमक, नान, दही, भुना जीरा",
-      "ingredients_list_hi": [
-        "पनीर",
-        "मक्खन",
-        "टमाटर",
-        "क्रीम",
-        "प्याज",
-        "अदरक",
-        "लहसुन",
-        "हरी मिर्च",
-        "धनिया पत्ती",
-        "नमक",
-        "नान",
-        "दही",
-        "भुना जीरा"
-      ],
-      "ingredients_list_en": [
-        "Paneer",
-        "Butter",
-        "Tomato",
-        "Cream",
-        "Onion",
-        "Ginger",
-        "Garlic",
-        "Green chili",
-        "Coriander leaves",
-        "Salt",
-        "Naan",
-        "Yogurt",
-        "Roasted cumin"
-      ],
-      "prep_notes_hi": "प्याज और टमाटर को अच्छा सा भूनें और फिर पनीर डालें। इसे मक्खन में अच्छे से पकाएं।",
-      "prep_notes_en": "Sauté onions and tomatoes well before adding paneer. Cook it thoroughly in butter.",
-      "vizz_macros": {
-        "cal": 550,
-        "protein": 28,
-        "fat": 30,
-        "carbs": 60
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=paneer%20butter%20masala%20recipe%20recipe"
-    },
-    "vizz_daily_total_from_meals": {
-      "cal": 1700,
-      "protein": 66,
-      "fat": 65,
-      "carbs": 230
-    },
-    "vizz_daily_total_with_shake": {
-      "cal": 2000,
-      "protein": 106,
-      "fat": 70,
-      "carbs": 255
-    },
-    "macro_check": "Calories and protein are slightly above suggested targets, fat is on target, carbs are slightly higher."
-  },
-  {
     "date": "2026-09-11 (Friday)",
     "date_display": "Friday, September 11",
     "date_short": "Fri · Sep 11",
@@ -3558,5 +3419,126 @@
       "carbs": 280
     },
     "macro_check": "The total macros meet the calorie target but are slightly low on protein, and carbohydrates are higher than required."
+  },
+  {
+    "date": "2026-10-10 (Saturday)",
+    "date_display": "Saturday, October 10",
+    "date_short": "Sat · Oct 10",
+    "generated_label": "Generated last night for today",
+    "breakfast": {
+      "dish_hindi": "दालिया और उबला हुआ अंडा",
+      "dish_english": "Daliya with Boiled Egg",
+      "ingredients_hindi": "दालिया, सब्जियाँ, उबला अंडा, नमक, काली मिर्च, घी",
+      "ingredients_list_hi": [
+        "दालिया",
+        "सब्जियाँ",
+        "उबला अंडा",
+        "नमक",
+        "काली मिर्च",
+        "घी"
+      ],
+      "ingredients_list_en": [
+        "Daliya (broken wheat)",
+        "Vegetables",
+        "Boiled Egg",
+        "Salt",
+        "Black Pepper",
+        "Ghee"
+      ],
+      "prep_notes_hi": "दालिया को थोड़े घी में भूने। सब्जियों को थोड़ा उबाल कर दालिया के साथ पकाएं।",
+      "prep_notes_en": "Roast the daliya slightly in ghee. Boil the vegetables a bit and cook with daliya.",
+      "vizz_macros": {
+        "cal": 400,
+        "protein": 16,
+        "fat": 12,
+        "carbs": 65
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=daliya%20recipe%20hindi%20recipe"
+    },
+    "lunch": {
+      "dish_hindi": "राजमा चावल और आचार",
+      "dish_english": "Rajma with Rice and Pickle",
+      "ingredients_hindi": "राजमा, चावल, प्याज, टमाटर, अदरक, लहसुन, धनिया पत्ता, मसाले, तेल, आचार",
+      "ingredients_list_hi": [
+        "राजमा",
+        "चावल",
+        "प्याज",
+        "टमाटर",
+        "अदरक",
+        "लहसुन",
+        "धनिया पत्ता",
+        "मसाले",
+        "तेल",
+        "आचार"
+      ],
+      "ingredients_list_en": [
+        "Rajma (kidney beans)",
+        "Rice",
+        "Onion",
+        "Tomato",
+        "Ginger",
+        "Garlic",
+        "Coriander leaves",
+        "Spices",
+        "Oil",
+        "Pickle"
+      ],
+      "prep_notes_hi": "राजमा को अच्छी तरह से पकाएं और मसाले डालें। यह लंच के लिए अच्छा है और आसानी से गरम होता है।",
+      "prep_notes_en": "Cook the rajma well with spices. It's great for lunch and reheats easily.",
+      "vizz_macros": {
+        "cal": 700,
+        "protein": 20,
+        "fat": 10,
+        "carbs": 120
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=rajma%20chawal%20recipe%20recipe"
+    },
+    "dinner": {
+      "dish_hindi": "शाही पनीर के साथ नान और रायता",
+      "dish_english": "Shahi Paneer with Naan and Raita",
+      "ingredients_hindi": "पनीर, क्रीम, टमाटर, प्याज, काजू, मसाले, नान, रायता",
+      "ingredients_list_hi": [
+        "पनीर",
+        "क्रीम",
+        "टमाटर",
+        "प्याज",
+        "काजू",
+        "मसाले",
+        "नान",
+        "रायता"
+      ],
+      "ingredients_list_en": [
+        "Paneer",
+        "Cream",
+        "Tomato",
+        "Onion",
+        "Cashew Nuts",
+        "Spices",
+        "Naan",
+        "Raita"
+      ],
+      "prep_notes_hi": "पनीर और मसालों को मिक्स कर अच्छी तरह पकाएं। नान और रायता के साथ परोसें।",
+      "prep_notes_en": "Mix paneer with spices and cook well. Serve with naan and raita.",
+      "vizz_macros": {
+        "cal": 600,
+        "protein": 24,
+        "fat": 23,
+        "carbs": 70
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=shahi%20paneer%20recipe%20recipe"
+    },
+    "vizz_daily_total_from_meals": {
+      "cal": 1700,
+      "protein": 60,
+      "fat": 45,
+      "carbs": 255
+    },
+    "vizz_daily_total_with_shake": {
+      "cal": 2000,
+      "protein": 100,
+      "fat": 50,
+      "carbs": 280
+    },
+    "macro_check": "Calories and carbs slightly over; protein under target; adjust dinner for balance."
   }
 ]
