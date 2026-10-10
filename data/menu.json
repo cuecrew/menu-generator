@@ -1,121 +1,115 @@
 {
-  "date": "2026-10-10 (Saturday)",
-  "date_display": "Saturday, October 10",
-  "date_short": "Sat · Oct 10",
+  "date": "2026-10-11 (Sunday)",
+  "date_display": "Sunday, October 11",
+  "date_short": "Sun · Oct 11",
   "generated_label": "Generated last night for today",
   "breakfast": {
-    "dish_hindi": "दालिया और उबला हुआ अंडा",
-    "dish_english": "Daliya with Boiled Egg",
-    "ingredients_hindi": "दालिया, सब्जियाँ, उबला अंडा, नमक, काली मिर्च, घी",
+    "dish_hindi": "उपमा, नारियल चटनी",
+    "dish_english": "Upma with Coconut Chutney",
+    "ingredients_hindi": "रवा, प्याज, मटर, गाजर, हरी मिर्च, नारियल, राई, करी पत्ते",
     "ingredients_list_hi": [
-      "दालिया",
-      "सब्जियाँ",
-      "उबला अंडा",
-      "नमक",
-      "काली मिर्च",
-      "घी"
+      "रवा",
+      "प्याज",
+      "मटर",
+      "गाजर",
+      "हरी मिर्च",
+      "नारियल",
+      "राई",
+      "करी पत्ते"
     ],
     "ingredients_list_en": [
-      "Daliya (broken wheat)",
-      "Vegetables",
-      "Boiled Egg",
-      "Salt",
-      "Black Pepper",
-      "Ghee"
+      "Semolina (Rava)",
+      "Onion",
+      "Peas",
+      "Carrot",
+      "Green Chili",
+      "Coconut",
+      "Mustard Seeds",
+      "Curry Leaves"
     ],
-    "prep_notes_hi": "दालिया को थोड़े घी में भूने। सब्जियों को थोड़ा उबाल कर दालिया के साथ पकाएं।",
-    "prep_notes_en": "Roast the daliya slightly in ghee. Boil the vegetables a bit and cook with daliya.",
+    "prep_notes_hi": "रवा को अच्छी तरह से भूलें ताकि उसे भूरा होना पड़े। सब्जियों को छोटे टुकड़ों में काटें। नारियल चटनी को ताजगी के साथ बनाएं।",
+    "prep_notes_en": "Roast the semolina well until it is golden brown. Chop the vegetables into small pieces. Prepare the coconut chutney fresh.",
     "vizz_macros": {
-      "cal": 400,
-      "protein": 16,
-      "fat": 12,
-      "carbs": 65
+      "cal": 450,
+      "protein": 10,
+      "fat": 8,
+      "carbs": 85
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=daliya%20recipe%20hindi%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=upma%20recipe%20hindi%20recipe"
   },
   "lunch": {
-    "dish_hindi": "राजमा चावल और आचार",
-    "dish_english": "Rajma with Rice and Pickle",
-    "ingredients_hindi": "राजमा, चावल, प्याज, टमाटर, अदरक, लहसुन, धनिया पत्ता, मसाले, तेल, आचार",
+    "dish_hindi": "पकोड़े, दही",
+    "dish_english": "Pakoras with Yogurt",
+    "ingredients_hindi": "बेसन, आलू, प्याज, पालक, हरी मिर्च, जीरा, दही",
     "ingredients_list_hi": [
-      "राजमा",
-      "चावल",
+      "बेसन",
+      "आलू",
       "प्याज",
-      "टमाटर",
-      "अदरक",
-      "लहसुन",
-      "धनिया पत्ता",
-      "मसाले",
-      "तेल",
-      "आचार"
+      "पालक",
+      "हरी मिर्च",
+      "जीरा",
+      "दही"
     ],
     "ingredients_list_en": [
-      "Rajma (kidney beans)",
-      "Rice",
+      "Chickpea Flour (Besan)",
+      "Potato",
       "Onion",
-      "Tomato",
-      "Ginger",
-      "Garlic",
-      "Coriander leaves",
-      "Spices",
-      "Oil",
-      "Pickle"
+      "Spinach",
+      "Green Chili",
+      "Cumin",
+      "Yogurt"
     ],
-    "prep_notes_hi": "राजमा को अच्छी तरह से पकाएं और मसाले डालें। यह लंच के लिए अच्छा है और आसानी से गरम होता है।",
-    "prep_notes_en": "Cook the rajma well with spices. It's great for lunch and reheats easily.",
+    "prep_notes_hi": "पकोड़े यात्रा करने के लिए उपयुक्त हैं और फिर से गरम किए जा सकते हैं। उन्हें क्रिस्प बनाने के लिए अच्छी तरह से तलें।",
+    "prep_notes_en": "Pakoras are suitable for travel and can be reheated. Fry them well to make them crispy.",
     "vizz_macros": {
-      "cal": 700,
-      "protein": 20,
-      "fat": 10,
-      "carbs": 120
-    },
-    "youtube_url": "https://www.youtube.com/results?search_query=rajma%20chawal%20recipe%20recipe"
-  },
-  "dinner": {
-    "dish_hindi": "शाही पनीर के साथ नान और रायता",
-    "dish_english": "Shahi Paneer with Naan and Raita",
-    "ingredients_hindi": "पनीर, क्रीम, टमाटर, प्याज, काजू, मसाले, नान, रायता",
-    "ingredients_list_hi": [
-      "पनीर",
-      "क्रीम",
-      "टमाटर",
-      "प्याज",
-      "काजू",
-      "मसाले",
-      "नान",
-      "रायता"
-    ],
-    "ingredients_list_en": [
-      "Paneer",
-      "Cream",
-      "Tomato",
-      "Onion",
-      "Cashew Nuts",
-      "Spices",
-      "Naan",
-      "Raita"
-    ],
-    "prep_notes_hi": "पनीर और मसालों को मिक्स कर अच्छी तरह पकाएं। नान और रायता के साथ परोसें।",
-    "prep_notes_en": "Mix paneer with spices and cook well. Serve with naan and raita.",
-    "vizz_macros": {
-      "cal": 600,
-      "protein": 24,
-      "fat": 23,
+      "cal": 550,
+      "protein": 18,
+      "fat": 20,
       "carbs": 70
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=shahi%20paneer%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=pakora%20recipe%20hindi%20recipe"
+  },
+  "dinner": {
+    "dish_hindi": "पास्ता, लहसुन ब्रेड",
+    "dish_english": "Pasta with Garlic Bread",
+    "ingredients_hindi": "पास्ता, टमाटर, पत्तागोभी, शिमला मिर्च, लहसुन, ब्रेड",
+    "ingredients_list_hi": [
+      "पास्ता",
+      "टमाटर",
+      "पत्तागोभी",
+      "शिमला मिर्च",
+      "लहसुन",
+      "ब्रेड"
+    ],
+    "ingredients_list_en": [
+      "Pasta",
+      "Tomato",
+      "Cabbage",
+      "Bell Pepper",
+      "Garlic",
+      "Bread"
+    ],
+    "prep_notes_hi": "पास्ता को अधिक पकने से बचाने के लिए अल डेंटे रखें। लहसुन ब्रेड के लिए ब्रेड को लहसुन मक्खन से टोस्ट करें।",
+    "prep_notes_en": "Cook the pasta al dente to avoid overcooking. Toast the bread with garlic butter for the garlic bread.",
+    "vizz_macros": {
+      "cal": 700,
+      "protein": 15,
+      "fat": 17,
+      "carbs": 110
+    },
+    "youtube_url": "https://www.youtube.com/results?search_query=pasta%20recipe%20hindi%20recipe"
   },
   "vizz_daily_total_from_meals": {
     "cal": 1700,
-    "protein": 60,
+    "protein": 43,
     "fat": 45,
-    "carbs": 255
+    "carbs": 265
   },
   "vizz_daily_total_with_shake": {
     "cal": 2000,
-    "protein": 100,
+    "protein": 83,
     "fat": 50,
-    "carbs": 280
+    "carbs": 290
   },
-  "macro_check": "Calories and carbs slightly over; protein under target; adjust dinner for balance."
+  "macro_check": "Needs more protein; consider adding a protein source like paneer or pulses in dinner."
 }

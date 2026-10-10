@@ -1,112 +1,5 @@
 [
   {
-    "date": "2026-09-11 (Friday)",
-    "date_display": "Friday, September 11",
-    "date_short": "Fri · Sep 11",
-    "generated_label": "Generated last night for today",
-    "breakfast": {
-      "dish_hindi": "अंडा टोस्ट और जलेबी",
-      "dish_english": "Egg Toast with Jalebi",
-      "ingredients_hindi": "ब्रेड, अंडा, घी, जायफल, जलेबी",
-      "ingredients_list_hi": [
-        "ब्रेड",
-        "अंडा",
-        "घी",
-        "जायफल",
-        "जलेबी"
-      ],
-      "ingredients_list_en": [
-        "Bread",
-        "Egg",
-        "Ghee",
-        "Nutmeg",
-        "Jalebi"
-      ],
-      "prep_notes_hi": "ब्रेड को घी में टोस्ट करें। अंत में, जायफल की हल्की छिड़क दें।",
-      "prep_notes_en": "Toast the bread in ghee, and sprinkle a little nutmeg at the end.",
-      "vizz_macros": {
-        "cal": 420,
-        "protein": 14,
-        "fat": 14,
-        "carbs": 55
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=egg%20toast%20recipe%20hindi%20recipe"
-    },
-    "lunch": {
-      "dish_hindi": "वेज बिरयानी और रायता",
-      "dish_english": "Veg Biryani with Raita",
-      "ingredients_hindi": "बासमती चावल, सब्जियाँ, पनीर, गरम मसाला, दही, पुदीना",
-      "ingredients_list_hi": [
-        "बासमती चावल",
-        "सब्जियाँ",
-        "पनीर",
-        "गरम मसाला",
-        "दही",
-        "पुदीना"
-      ],
-      "ingredients_list_en": [
-        "Basmati Rice",
-        "Vegetables",
-        "Paneer",
-        "Garam Masala",
-        "Curd",
-        "Mint"
-      ],
-      "prep_notes_hi": "यह डिश अच्छी तरह से ट्रैवल करती है। परोसे समय इसे माइक्रोवेव में गर्म कीजिए।",
-      "prep_notes_en": "This dish travels well. Reheat it in the microwave before serving.",
-      "vizz_macros": {
-        "cal": 650,
-        "protein": 25,
-        "fat": 18,
-        "carbs": 98
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=veg%20biryani%20recipe%20hindi%20recipe"
-    },
-    "dinner": {
-      "dish_hindi": "मुंग दाल खिचड़ी और आचार",
-      "dish_english": "Moong Dal Khichdi with Pickle",
-      "ingredients_hindi": "मुंग दाल, चावल, घी, हल्दी, नमक, आचार",
-      "ingredients_list_hi": [
-        "मुंग दाल",
-        "चावल",
-        "घी",
-        "हल्दी",
-        "नमक",
-        "आचार"
-      ],
-      "ingredients_list_en": [
-        "Moong Dal",
-        "Rice",
-        "Ghee",
-        "Turmeric",
-        "Salt",
-        "Pickle"
-      ],
-      "prep_notes_hi": "मुंग दाल को चावल के साथ पकाएं और घी में भूनें। हल्दी और मसालों के साथ स्वाद बढ़ाएं।",
-      "prep_notes_en": "Cook moong dal with rice and sauté in ghee. Enhance flavor with turmeric and spices.",
-      "vizz_macros": {
-        "cal": 630,
-        "protein": 22,
-        "fat": 14,
-        "carbs": 100
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=moong%20dal%20khichdi%20recipe%20recipe"
-    },
-    "vizz_daily_total_from_meals": {
-      "cal": 1700,
-      "protein": 61,
-      "fat": 46,
-      "carbs": 253
-    },
-    "vizz_daily_total_with_shake": {
-      "cal": 2000,
-      "protein": 101,
-      "fat": 51,
-      "carbs": 278
-    },
-    "macro_check": "Calories and carbs slightly over, protein at 101g — make adjustments as required."
-  },
-  {
     "date": "2026-09-12 (Saturday)",
     "date_display": "Saturday, September 12",
     "date_short": "Sat · Sep 12",
@@ -3540,5 +3433,120 @@
       "carbs": 280
     },
     "macro_check": "Calories and carbs slightly over; protein under target; adjust dinner for balance."
+  },
+  {
+    "date": "2026-10-11 (Sunday)",
+    "date_display": "Sunday, October 11",
+    "date_short": "Sun · Oct 11",
+    "generated_label": "Generated last night for today",
+    "breakfast": {
+      "dish_hindi": "उपमा, नारियल चटनी",
+      "dish_english": "Upma with Coconut Chutney",
+      "ingredients_hindi": "रवा, प्याज, मटर, गाजर, हरी मिर्च, नारियल, राई, करी पत्ते",
+      "ingredients_list_hi": [
+        "रवा",
+        "प्याज",
+        "मटर",
+        "गाजर",
+        "हरी मिर्च",
+        "नारियल",
+        "राई",
+        "करी पत्ते"
+      ],
+      "ingredients_list_en": [
+        "Semolina (Rava)",
+        "Onion",
+        "Peas",
+        "Carrot",
+        "Green Chili",
+        "Coconut",
+        "Mustard Seeds",
+        "Curry Leaves"
+      ],
+      "prep_notes_hi": "रवा को अच्छी तरह से भूलें ताकि उसे भूरा होना पड़े। सब्जियों को छोटे टुकड़ों में काटें। नारियल चटनी को ताजगी के साथ बनाएं।",
+      "prep_notes_en": "Roast the semolina well until it is golden brown. Chop the vegetables into small pieces. Prepare the coconut chutney fresh.",
+      "vizz_macros": {
+        "cal": 450,
+        "protein": 10,
+        "fat": 8,
+        "carbs": 85
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=upma%20recipe%20hindi%20recipe"
+    },
+    "lunch": {
+      "dish_hindi": "पकोड़े, दही",
+      "dish_english": "Pakoras with Yogurt",
+      "ingredients_hindi": "बेसन, आलू, प्याज, पालक, हरी मिर्च, जीरा, दही",
+      "ingredients_list_hi": [
+        "बेसन",
+        "आलू",
+        "प्याज",
+        "पालक",
+        "हरी मिर्च",
+        "जीरा",
+        "दही"
+      ],
+      "ingredients_list_en": [
+        "Chickpea Flour (Besan)",
+        "Potato",
+        "Onion",
+        "Spinach",
+        "Green Chili",
+        "Cumin",
+        "Yogurt"
+      ],
+      "prep_notes_hi": "पकोड़े यात्रा करने के लिए उपयुक्त हैं और फिर से गरम किए जा सकते हैं। उन्हें क्रिस्प बनाने के लिए अच्छी तरह से तलें।",
+      "prep_notes_en": "Pakoras are suitable for travel and can be reheated. Fry them well to make them crispy.",
+      "vizz_macros": {
+        "cal": 550,
+        "protein": 18,
+        "fat": 20,
+        "carbs": 70
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=pakora%20recipe%20hindi%20recipe"
+    },
+    "dinner": {
+      "dish_hindi": "पास्ता, लहसुन ब्रेड",
+      "dish_english": "Pasta with Garlic Bread",
+      "ingredients_hindi": "पास्ता, टमाटर, पत्तागोभी, शिमला मिर्च, लहसुन, ब्रेड",
+      "ingredients_list_hi": [
+        "पास्ता",
+        "टमाटर",
+        "पत्तागोभी",
+        "शिमला मिर्च",
+        "लहसुन",
+        "ब्रेड"
+      ],
+      "ingredients_list_en": [
+        "Pasta",
+        "Tomato",
+        "Cabbage",
+        "Bell Pepper",
+        "Garlic",
+        "Bread"
+      ],
+      "prep_notes_hi": "पास्ता को अधिक पकने से बचाने के लिए अल डेंटे रखें। लहसुन ब्रेड के लिए ब्रेड को लहसुन मक्खन से टोस्ट करें।",
+      "prep_notes_en": "Cook the pasta al dente to avoid overcooking. Toast the bread with garlic butter for the garlic bread.",
+      "vizz_macros": {
+        "cal": 700,
+        "protein": 15,
+        "fat": 17,
+        "carbs": 110
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=pasta%20recipe%20hindi%20recipe"
+    },
+    "vizz_daily_total_from_meals": {
+      "cal": 1700,
+      "protein": 43,
+      "fat": 45,
+      "carbs": 265
+    },
+    "vizz_daily_total_with_shake": {
+      "cal": 2000,
+      "protein": 83,
+      "fat": 50,
+      "carbs": 290
+    },
+    "macro_check": "Needs more protein; consider adding a protein source like paneer or pulses in dinner."
   }
 ]
