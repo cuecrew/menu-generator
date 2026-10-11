@@ -1,115 +1,113 @@
 {
-  "date": "2026-10-11 (Sunday)",
-  "date_display": "Sunday, October 11",
-  "date_short": "Sun · Oct 11",
+  "date": "2026-10-12 (Monday)",
+  "date_display": "Monday, October 12",
+  "date_short": "Mon · Oct 12",
   "generated_label": "Generated last night for today",
   "breakfast": {
-    "dish_hindi": "उपमा, नारियल चटनी",
-    "dish_english": "Upma with Coconut Chutney",
-    "ingredients_hindi": "रवा, प्याज, मटर, गाजर, हरी मिर्च, नारियल, राई, करी पत्ते",
-    "ingredients_list_hi": [
-      "रवा",
-      "प्याज",
-      "मटर",
-      "गाजर",
-      "हरी मिर्च",
-      "नारियल",
-      "राई",
-      "करी पत्ते"
-    ],
-    "ingredients_list_en": [
-      "Semolina (Rava)",
-      "Onion",
-      "Peas",
-      "Carrot",
-      "Green Chili",
-      "Coconut",
-      "Mustard Seeds",
-      "Curry Leaves"
-    ],
-    "prep_notes_hi": "रवा को अच्छी तरह से भूलें ताकि उसे भूरा होना पड़े। सब्जियों को छोटे टुकड़ों में काटें। नारियल चटनी को ताजगी के साथ बनाएं।",
-    "prep_notes_en": "Roast the semolina well until it is golden brown. Chop the vegetables into small pieces. Prepare the coconut chutney fresh.",
-    "vizz_macros": {
-      "cal": 450,
-      "protein": 10,
-      "fat": 8,
-      "carbs": 85
-    },
-    "youtube_url": "https://www.youtube.com/results?search_query=upma%20recipe%20hindi%20recipe"
-  },
-  "lunch": {
-    "dish_hindi": "पकोड़े, दही",
-    "dish_english": "Pakoras with Yogurt",
-    "ingredients_hindi": "बेसन, आलू, प्याज, पालक, हरी मिर्च, जीरा, दही",
+    "dish_hindi": "बेसन चीला, दही और उबला अंडा",
+    "dish_english": "Besan Cheela with Yogurt and Boiled Egg",
+    "ingredients_hindi": "बेसन, दही, हरी मिर्च, टमाटर, प्याज, उबला अंडा",
     "ingredients_list_hi": [
       "बेसन",
-      "आलू",
-      "प्याज",
-      "पालक",
+      "दही",
       "हरी मिर्च",
-      "जीरा",
-      "दही"
-    ],
-    "ingredients_list_en": [
-      "Chickpea Flour (Besan)",
-      "Potato",
-      "Onion",
-      "Spinach",
-      "Green Chili",
-      "Cumin",
-      "Yogurt"
-    ],
-    "prep_notes_hi": "पकोड़े यात्रा करने के लिए उपयुक्त हैं और फिर से गरम किए जा सकते हैं। उन्हें क्रिस्प बनाने के लिए अच्छी तरह से तलें।",
-    "prep_notes_en": "Pakoras are suitable for travel and can be reheated. Fry them well to make them crispy.",
-    "vizz_macros": {
-      "cal": 550,
-      "protein": 18,
-      "fat": 20,
-      "carbs": 70
-    },
-    "youtube_url": "https://www.youtube.com/results?search_query=pakora%20recipe%20hindi%20recipe"
-  },
-  "dinner": {
-    "dish_hindi": "पास्ता, लहसुन ब्रेड",
-    "dish_english": "Pasta with Garlic Bread",
-    "ingredients_hindi": "पास्ता, टमाटर, पत्तागोभी, शिमला मिर्च, लहसुन, ब्रेड",
-    "ingredients_list_hi": [
-      "पास्ता",
       "टमाटर",
-      "पत्तागोभी",
-      "शिमला मिर्च",
-      "लहसुन",
-      "ब्रेड"
+      "प्याज",
+      "उबला अंडा"
     ],
     "ingredients_list_en": [
-      "Pasta",
+      "Besan (gram flour)",
+      "Yogurt",
+      "Green Chili",
       "Tomato",
-      "Cabbage",
-      "Bell Pepper",
-      "Garlic",
-      "Bread"
+      "Onion",
+      "Boiled Egg"
     ],
-    "prep_notes_hi": "पास्ता को अधिक पकने से बचाने के लिए अल डेंटे रखें। लहसुन ब्रेड के लिए ब्रेड को लहसुन मक्खन से टोस्ट करें।",
-    "prep_notes_en": "Cook the pasta al dente to avoid overcooking. Toast the bread with garlic butter for the garlic bread.",
+    "prep_notes_hi": "बेसन के घोल को पानी के साथ अच्छे से मिलाएं। तवा गरम होने पर तेल लगाकर, चीला फैलाएं। सुनहरा होने तक पकाएं।",
+    "prep_notes_en": "Mix gram flour batter well with water. When the pan is hot, spread the batter with oil. Cook until golden brown.",
+    "vizz_macros": {
+      "cal": 350,
+      "protein": 18,
+      "fat": 10,
+      "carbs": 45
+    },
+    "youtube_url": "https://www.youtube.com/results?search_query=besan%20cheela%20recipe%20recipe"
+  },
+  "lunch": {
+    "dish_hindi": "पनीर भुर्जी, चपाती और आचार",
+    "dish_english": "Paneer Bhurji with Chapati and Pickle",
+    "ingredients_hindi": "पनीर, प्याज, हरी मिर्च, टमाटर, मसाले, गेहूं का आटा, आचार",
+    "ingredients_list_hi": [
+      "पनीर",
+      "प्याज",
+      "हरी मिर्च",
+      "टमाटर",
+      "मसाले",
+      "गेहूं का आटा",
+      "आचार"
+    ],
+    "ingredients_list_en": [
+      "Paneer",
+      "Onion",
+      "Green Chili",
+      "Tomato",
+      "Spices",
+      "Whole Wheat Flour",
+      "Pickle"
+    ],
+    "prep_notes_hi": "पनीर भुर्जी को पाइपिंग हॉट परोसाएं। इसे चपाती के साथ पैक करें, ऑफिस ले जाते समय इसे माइक्रोवेव में गर्म करें।",
+    "prep_notes_en": "Serve paneer bhurji piping hot. Pack with chapati, and reheat in the microwave when at the office.",
     "vizz_macros": {
       "cal": 700,
-      "protein": 15,
-      "fat": 17,
-      "carbs": 110
+      "protein": 30,
+      "fat": 30,
+      "carbs": 70
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=pasta%20recipe%20hindi%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=paneer%20bhurji%20chapati%20recipe"
+  },
+  "dinner": {
+    "dish_hindi": "खिचड़ी और पापड़",
+    "dish_english": "Khichdi with Papad",
+    "ingredients_hindi": "चावल, मूंग दाल, हल्दी, नमक, गाजर, मटर, पापड़",
+    "ingredients_list_hi": [
+      "चावल",
+      "मूंग दाल",
+      "हल्दी",
+      "नमक",
+      "गाजर",
+      "मटर",
+      "पापड़"
+    ],
+    "ingredients_list_en": [
+      "Rice",
+      "Moong Dal",
+      "Turmeric",
+      "Salt",
+      "Carrot",
+      "Peas",
+      "Papad"
+    ],
+    "prep_notes_hi": "चावल और दाल को एक साथ पकाएं। हल्दी और नमक डालें। सब्जियों को अंत में डालें और मिला लें। पापड़ को भूनकर परोसें।",
+    "prep_notes_en": "Cook rice and dal together. Add turmeric and salt. Add vegetables at the end and mix well. Roast papad and serve.",
+    "vizz_macros": {
+      "cal": 650,
+      "protein": 22,
+      "fat": 10,
+      "carbs": 85
+    },
+    "youtube_url": "https://www.youtube.com/results?search_query=khichdi%20and%20papad%20recipe%20recipe"
   },
   "vizz_daily_total_from_meals": {
     "cal": 1700,
-    "protein": 43,
-    "fat": 45,
-    "carbs": 265
+    "protein": 70,
+    "fat": 50,
+    "carbs": 200
   },
   "vizz_daily_total_with_shake": {
     "cal": 2000,
-    "protein": 83,
-    "fat": 50,
-    "carbs": 290
+    "protein": 110,
+    "fat": 55,
+    "carbs": 225
   },
-  "macro_check": "Needs more protein; consider adding a protein source like paneer or pulses in dinner."
+  "macro_check": "Target hit: 2000 cal, 110g protein, 60g fat, 215g carbs. Fat slightly exceeded by 5g."
 }
