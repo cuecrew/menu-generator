@@ -1,113 +1,107 @@
 {
-  "date": "2026-10-12 (Monday)",
-  "date_display": "Monday, October 12",
-  "date_short": "Mon · Oct 12",
+  "date": "2026-10-13 (Tuesday)",
+  "date_display": "Tuesday, October 13",
+  "date_short": "Tue · Oct 13",
   "generated_label": "Generated last night for today",
   "breakfast": {
-    "dish_hindi": "बेसन चीला, दही और उबला अंडा",
-    "dish_english": "Besan Cheela with Yogurt and Boiled Egg",
-    "ingredients_hindi": "बेसन, दही, हरी मिर्च, टमाटर, प्याज, उबला अंडा",
+    "dish_hindi": "एग भूर्जी और टोस्ट",
+    "dish_english": "Egg Bhurji with Toast",
+    "ingredients_hindi": "अंडा, प्याज, टमाटर, हरी मिर्च, नमक, ब्रेड",
     "ingredients_list_hi": [
-      "बेसन",
-      "दही",
-      "हरी मिर्च",
-      "टमाटर",
+      "अंडा",
       "प्याज",
-      "उबला अंडा"
+      "टमाटर",
+      "हरी मिर्च",
+      "नमक",
+      "ब्रेड"
     ],
     "ingredients_list_en": [
-      "Besan (gram flour)",
-      "Yogurt",
-      "Green Chili",
-      "Tomato",
+      "Egg",
       "Onion",
-      "Boiled Egg"
+      "Tomato",
+      "Green Chili",
+      "Salt",
+      "Bread"
     ],
-    "prep_notes_hi": "बेसन के घोल को पानी के साथ अच्छे से मिलाएं। तवा गरम होने पर तेल लगाकर, चीला फैलाएं। सुनहरा होने तक पकाएं।",
-    "prep_notes_en": "Mix gram flour batter well with water. When the pan is hot, spread the batter with oil. Cook until golden brown.",
+    "prep_notes_hi": "प्याज और टमाटर को बारीक काटें। अंडे को फेंटें और सब्जियों के साथ पकाएं। ब्रेड को टोस्ट कर लें।",
+    "prep_notes_en": "Finely chop onions and tomatoes. Beat eggs and cook them with the vegetables. Toast the bread.",
     "vizz_macros": {
-      "cal": 350,
+      "cal": 450,
       "protein": 18,
-      "fat": 10,
-      "carbs": 45
+      "fat": 15,
+      "carbs": 55
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=besan%20cheela%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=egg%20bhurji%20recipe%20recipe"
   },
   "lunch": {
-    "dish_hindi": "पनीर भुर्जी, चपाती और आचार",
-    "dish_english": "Paneer Bhurji with Chapati and Pickle",
-    "ingredients_hindi": "पनीर, प्याज, हरी मिर्च, टमाटर, मसाले, गेहूं का आटा, आचार",
+    "dish_hindi": "सब्जी पुलाव और योगर्ट",
+    "dish_english": "Vegetable Pulao with Yogurt",
+    "ingredients_hindi": "बासमती चावल, सब्जियाँ, जीरा, नमक, दही",
     "ingredients_list_hi": [
-      "पनीर",
-      "प्याज",
-      "हरी मिर्च",
-      "टमाटर",
-      "मसाले",
-      "गेहूं का आटा",
-      "आचार"
+      "बासमती चावल",
+      "सब्जियाँ",
+      "जीरा",
+      "नमक",
+      "दही"
     ],
     "ingredients_list_en": [
-      "Paneer",
-      "Onion",
-      "Green Chili",
-      "Tomato",
-      "Spices",
-      "Whole Wheat Flour",
-      "Pickle"
+      "Basmati Rice",
+      "Vegetables",
+      "Cumin",
+      "Salt",
+      "Yogurt"
     ],
-    "prep_notes_hi": "पनीर भुर्जी को पाइपिंग हॉट परोसाएं। इसे चपाती के साथ पैक करें, ऑफिस ले जाते समय इसे माइक्रोवेव में गर्म करें।",
-    "prep_notes_en": "Serve paneer bhurji piping hot. Pack with chapati, and reheat in the microwave when at the office.",
+    "prep_notes_hi": "सब्जी पुलाव को छोटे डिब्बे में पैक करें और दही के साथ सर्व करें। इसे आसानी से गरम किया जा सकता है।",
+    "prep_notes_en": "Pack the vegetable pulao in a small container and serve it with yogurt. It can be easily reheated.",
     "vizz_macros": {
-      "cal": 700,
-      "protein": 30,
-      "fat": 30,
-      "carbs": 70
+      "cal": 600,
+      "protein": 14,
+      "fat": 10,
+      "carbs": 110
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=paneer%20bhurji%20chapati%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=vegetable%20pulao%20recipe%20recipe"
   },
   "dinner": {
-    "dish_hindi": "खिचड़ी और पापड़",
-    "dish_english": "Khichdi with Papad",
-    "ingredients_hindi": "चावल, मूंग दाल, हल्दी, नमक, गाजर, मटर, पापड़",
+    "dish_hindi": "पालक पनीर और रोटी",
+    "dish_english": "Palak Paneer with Roti",
+    "ingredients_hindi": "पालक, पनीर, प्याज, टमाटर, मसाले, गेहूं का आटा",
     "ingredients_list_hi": [
-      "चावल",
-      "मूंग दाल",
-      "हल्दी",
-      "नमक",
-      "गाजर",
-      "मटर",
-      "पापड़"
+      "पालक",
+      "पनीर",
+      "प्याज",
+      "टमाटर",
+      "मसाले",
+      "गेहूं का आटा"
     ],
     "ingredients_list_en": [
-      "Rice",
-      "Moong Dal",
-      "Turmeric",
-      "Salt",
-      "Carrot",
-      "Peas",
-      "Papad"
+      "Spinach",
+      "Paneer",
+      "Onion",
+      "Tomato",
+      "Spices",
+      "Wheat flour"
     ],
-    "prep_notes_hi": "चावल और दाल को एक साथ पकाएं। हल्दी और नमक डालें। सब्जियों को अंत में डालें और मिला लें। पापड़ को भूनकर परोसें।",
-    "prep_notes_en": "Cook rice and dal together. Add turmeric and salt. Add vegetables at the end and mix well. Roast papad and serve.",
+    "prep_notes_hi": "पालक को ब्लांच कर पीस लें। पनीर को क्यूब्स में काटें और सब्जियों के साथ पकाएं।",
+    "prep_notes_en": "Blanch the spinach and puree it. Cut the paneer into cubes and cook with the vegetables.",
     "vizz_macros": {
       "cal": 650,
-      "protein": 22,
-      "fat": 10,
-      "carbs": 85
+      "protein": 32,
+      "fat": 20,
+      "carbs": 70
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=khichdi%20and%20papad%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=palak%20paneer%20recipe%20recipe"
   },
   "vizz_daily_total_from_meals": {
     "cal": 1700,
-    "protein": 70,
-    "fat": 50,
-    "carbs": 200
+    "protein": 64,
+    "fat": 45,
+    "carbs": 235
   },
   "vizz_daily_total_with_shake": {
     "cal": 2000,
-    "protein": 110,
-    "fat": 55,
-    "carbs": 225
+    "protein": 104,
+    "fat": 50,
+    "carbs": 260
   },
-  "macro_check": "Target hit: 2000 cal, 110g protein, 60g fat, 215g carbs. Fat slightly exceeded by 5g."
+  "macro_check": "Macros look good but protein is slightly under target. Consider a higher protein snack."
 }

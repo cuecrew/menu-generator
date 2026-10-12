@@ -1,142 +1,5 @@
 [
   {
-    "date": "2026-09-13 (Sunday)",
-    "date_display": "Sunday, September 13",
-    "date_short": "Sun · Sep 13",
-    "generated_label": "Generated last night for today",
-    "breakfast": {
-      "dish_hindi": "उपमा और उबला अंडा (विज़्ज और फ्लैटमेट-2 के लिए)",
-      "dish_english": "Upma with Boiled Egg (for Vizz and Flatmate-2)",
-      "ingredients_hindi": "सूजी, प्याज, मटर, गाजर, सरसों के बीज, करी पत्ते, हरी मिर्च, नमक, तेल",
-      "ingredients_list_hi": [
-        "सूजी",
-        "प्याज",
-        "मटर",
-        "गाजर",
-        "सरसों के बीज",
-        "करी पत्ते",
-        "हरी मिर्च",
-        "नमक",
-        "तेल"
-      ],
-      "ingredients_list_en": [
-        "Semolina (Suji)",
-        "Onion",
-        "Peas",
-        "Carrot",
-        "Mustard Seeds",
-        "Curry Leaves",
-        "Green Chili",
-        "Salt",
-        "Oil"
-      ],
-      "prep_notes_hi": "सूजी को हल्का भुन लें, फिर सब्जियों को भूनकर पानी डालें। अच्छा मिक्स करें और पकाएं जब तक सूजी मुलायम और फूला ना हो जाए।",
-      "prep_notes_en": "Lightly roast the semolina, then sauté the vegetables, adding water. Mix well and cook until the semolina is soft and fluffy.",
-      "vizz_macros": {
-        "cal": 400,
-        "protein": 12,
-        "fat": 9,
-        "carbs": 70
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=upma%20recipe%20hindi%20recipe"
-    },
-    "lunch": {
-      "dish_hindi": "राजमा चावल और पापड़",
-      "dish_english": "Rajma with Rice and Papad",
-      "ingredients_hindi": "राजमा, बासमती चावल, प्याज, टमाटर, अदरक, लहसुन, जीरा, धनिया पाउडर, गर्म मसाला, नमक, तेल",
-      "ingredients_list_hi": [
-        "राजमा",
-        "बासमती चावल",
-        "प्याज",
-        "टमाटर",
-        "अदरक",
-        "लहसुन",
-        "जीरा",
-        "धनिया पाउडर",
-        "गर्म मसाला",
-        "नमक",
-        "तेल"
-      ],
-      "ingredients_list_en": [
-        "Kidney Beans",
-        "Basmati Rice",
-        "Onion",
-        "Tomato",
-        "Ginger",
-        "Garlic",
-        "Cumin",
-        "Coriander Powder",
-        "Garam Masala",
-        "Salt",
-        "Oil"
-      ],
-      "prep_notes_hi": "राजमा और चावल को अच्छी तरह पकाएं। यह व्यंजन यात्रा के लिए उपयुक्त है और इसे आसानी से माइक्रोवेव में गर्म किया जा सकता है।",
-      "prep_notes_en": "Cook the rajma and rice thoroughly. This dish is travel-friendly and reheats well in the microwave.",
-      "vizz_macros": {
-        "cal": 700,
-        "protein": 23,
-        "fat": 9,
-        "carbs": 125
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=rajma%20rice%20recipe%20recipe"
-    },
-    "dinner": {
-      "dish_hindi": "मटर पनीर और चपाती",
-      "dish_english": "Matar Paneer and Chapati",
-      "ingredients_hindi": "पनीर, मटर, प्याज, अदरक, लहसुन, टमाटर, जीरा, हल्दी, लाल मिर्च पाउडर, नमक, तेल, गेहूं का आटा",
-      "ingredients_list_hi": [
-        "पनीर",
-        "मटर",
-        "प्याज",
-        "अदरक",
-        "लहसुन",
-        "टमाटर",
-        "जीरा",
-        "हल्दी",
-        "लाल मिर्च पाउडर",
-        "नमक",
-        "तेल",
-        "गेहूं का आटा"
-      ],
-      "ingredients_list_en": [
-        "Paneer",
-        "Peas",
-        "Onion",
-        "Ginger",
-        "Garlic",
-        "Tomato",
-        "Cumin",
-        "Turmeric",
-        "Red Chili Powder",
-        "Salt",
-        "Oil",
-        "Wheat Flour"
-      ],
-      "prep_notes_hi": "प्याज और मसालों को अच्छे से भूनें ताकि गहरा रंग और स्वाद आ जाए। पनीर और मटर को धीरे-धीरे पकाएं।",
-      "prep_notes_en": "Sauté onion and spices well for deep color and flavor. Cook the paneer and peas gently.",
-      "vizz_macros": {
-        "cal": 600,
-        "protein": 18,
-        "fat": 20,
-        "carbs": 80
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=matar%20paneer%20recipe%20recipe"
-    },
-    "vizz_daily_total_from_meals": {
-      "cal": 1700,
-      "protein": 53,
-      "fat": 38,
-      "carbs": 275
-    },
-    "vizz_daily_total_with_shake": {
-      "cal": 2000,
-      "protein": 93,
-      "fat": 43,
-      "carbs": 300
-    },
-    "macro_check": "Daily target under for protein (93g vs. 110g); consider adding another protein source."
-  },
-  {
     "date": "2026-09-14 (Monday)",
     "date_display": "Monday, September 14",
     "date_short": "Mon · Sep 14",
@@ -3552,5 +3415,112 @@
       "carbs": 225
     },
     "macro_check": "Target hit: 2000 cal, 110g protein, 60g fat, 215g carbs. Fat slightly exceeded by 5g."
+  },
+  {
+    "date": "2026-10-13 (Tuesday)",
+    "date_display": "Tuesday, October 13",
+    "date_short": "Tue · Oct 13",
+    "generated_label": "Generated last night for today",
+    "breakfast": {
+      "dish_hindi": "एग भूर्जी और टोस्ट",
+      "dish_english": "Egg Bhurji with Toast",
+      "ingredients_hindi": "अंडा, प्याज, टमाटर, हरी मिर्च, नमक, ब्रेड",
+      "ingredients_list_hi": [
+        "अंडा",
+        "प्याज",
+        "टमाटर",
+        "हरी मिर्च",
+        "नमक",
+        "ब्रेड"
+      ],
+      "ingredients_list_en": [
+        "Egg",
+        "Onion",
+        "Tomato",
+        "Green Chili",
+        "Salt",
+        "Bread"
+      ],
+      "prep_notes_hi": "प्याज और टमाटर को बारीक काटें। अंडे को फेंटें और सब्जियों के साथ पकाएं। ब्रेड को टोस्ट कर लें।",
+      "prep_notes_en": "Finely chop onions and tomatoes. Beat eggs and cook them with the vegetables. Toast the bread.",
+      "vizz_macros": {
+        "cal": 450,
+        "protein": 18,
+        "fat": 15,
+        "carbs": 55
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=egg%20bhurji%20recipe%20recipe"
+    },
+    "lunch": {
+      "dish_hindi": "सब्जी पुलाव और योगर्ट",
+      "dish_english": "Vegetable Pulao with Yogurt",
+      "ingredients_hindi": "बासमती चावल, सब्जियाँ, जीरा, नमक, दही",
+      "ingredients_list_hi": [
+        "बासमती चावल",
+        "सब्जियाँ",
+        "जीरा",
+        "नमक",
+        "दही"
+      ],
+      "ingredients_list_en": [
+        "Basmati Rice",
+        "Vegetables",
+        "Cumin",
+        "Salt",
+        "Yogurt"
+      ],
+      "prep_notes_hi": "सब्जी पुलाव को छोटे डिब्बे में पैक करें और दही के साथ सर्व करें। इसे आसानी से गरम किया जा सकता है।",
+      "prep_notes_en": "Pack the vegetable pulao in a small container and serve it with yogurt. It can be easily reheated.",
+      "vizz_macros": {
+        "cal": 600,
+        "protein": 14,
+        "fat": 10,
+        "carbs": 110
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=vegetable%20pulao%20recipe%20recipe"
+    },
+    "dinner": {
+      "dish_hindi": "पालक पनीर और रोटी",
+      "dish_english": "Palak Paneer with Roti",
+      "ingredients_hindi": "पालक, पनीर, प्याज, टमाटर, मसाले, गेहूं का आटा",
+      "ingredients_list_hi": [
+        "पालक",
+        "पनीर",
+        "प्याज",
+        "टमाटर",
+        "मसाले",
+        "गेहूं का आटा"
+      ],
+      "ingredients_list_en": [
+        "Spinach",
+        "Paneer",
+        "Onion",
+        "Tomato",
+        "Spices",
+        "Wheat flour"
+      ],
+      "prep_notes_hi": "पालक को ब्लांच कर पीस लें। पनीर को क्यूब्स में काटें और सब्जियों के साथ पकाएं।",
+      "prep_notes_en": "Blanch the spinach and puree it. Cut the paneer into cubes and cook with the vegetables.",
+      "vizz_macros": {
+        "cal": 650,
+        "protein": 32,
+        "fat": 20,
+        "carbs": 70
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=palak%20paneer%20recipe%20recipe"
+    },
+    "vizz_daily_total_from_meals": {
+      "cal": 1700,
+      "protein": 64,
+      "fat": 45,
+      "carbs": 235
+    },
+    "vizz_daily_total_with_shake": {
+      "cal": 2000,
+      "protein": 104,
+      "fat": 50,
+      "carbs": 260
+    },
+    "macro_check": "Macros look good but protein is slightly under target. Consider a higher protein snack."
   }
 ]
