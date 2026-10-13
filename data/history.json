@@ -1,118 +1,5 @@
 [
   {
-    "date": "2026-09-14 (Monday)",
-    "date_display": "Monday, September 14",
-    "date_short": "Mon · Sep 14",
-    "generated_label": "Generated last night for today",
-    "breakfast": {
-      "dish_hindi": "सूजी का हलवा और उबला हुआ अंडा (विज़ और फ्लैटमेट-2 के लिए)",
-      "dish_english": "Sooji Halwa with Boiled Egg (for Vizz and Flatmate-2)",
-      "ingredients_hindi": "सूजी, चीनी, घी, पानी, बादाम, किशमिश, अंडा",
-      "ingredients_list_hi": [
-        "सूजी",
-        "चीनी",
-        "घी",
-        "पानी",
-        "बादाम",
-        "किशमिश",
-        "अंडा"
-      ],
-      "ingredients_list_en": [
-        "Sooji (semolina)",
-        "Sugar",
-        "Ghee",
-        "Water",
-        "Almonds",
-        "Raisins",
-        "Egg"
-      ],
-      "prep_notes_hi": "सूजी को घी में हल्का सुनहरा भूनें। धीरे-धीरे पानी डालें, गांठ से बचने के लिए चलाते रहें। अंत में चीनी और सूखे मेवे डालें।",
-      "prep_notes_en": "Roast the semolina in ghee until lightly golden. Gradually add water, stirring constantly to avoid lumps. Finally, add sugar and dry fruits.",
-      "vizz_macros": {
-        "cal": 420,
-        "protein": 12,
-        "fat": 20,
-        "carbs": 55
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=sooji%20halwa%20recipe%20hindi%20recipe"
-    },
-    "lunch": {
-      "dish_hindi": "पालक पनीर और जीरा राइस",
-      "dish_english": "Palak Paneer with Jeera Rice",
-      "ingredients_hindi": "पालक, पनीर, प्याज, टमाटर, हरी मिर्च, अदरक, जीरा, चावल",
-      "ingredients_list_hi": [
-        "पालक",
-        "पनीर",
-        "प्याज",
-        "टमाटर",
-        "हरी मिर्च",
-        "अदरक",
-        "जीरा",
-        "चावल"
-      ],
-      "ingredients_list_en": [
-        "Spinach",
-        "Paneer",
-        "Onion",
-        "Tomato",
-        "Green Chili",
-        "Ginger",
-        "Cumin",
-        "Rice"
-      ],
-      "prep_notes_hi": "पालक को थोड़ा पानी में उबालें और प्यूरी बना लें। प्याज और मसाले भूनें, पनीर और प्यूरी मिलाएँ। जीरा राइस बनाकर पैक करें। ऑफिस में गरम कर सकते हैं।",
-      "prep_notes_en": "Boil spinach briefly and puree it. Sauté onions and spices, add paneer and puree. Cook cumin rice, and pack it. Can be reheated in office.",
-      "vizz_macros": {
-        "cal": 650,
-        "protein": 30,
-        "fat": 25,
-        "carbs": 80
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=palak%20paneer%20recipe%20recipe"
-    },
-    "dinner": {
-      "dish_hindi": "थाई करी और नारियल चावल",
-      "dish_english": "Thai Curry with Coconut Rice",
-      "ingredients_hindi": "सब्जियाँ, थाई करी पेस्ट, नारियल का दूध, चावल, नारियल",
-      "ingredients_list_hi": [
-        "सब्जियाँ",
-        "थाई करी पेस्ट",
-        "नारियल का दूध",
-        "चावल",
-        "नारियल"
-      ],
-      "ingredients_list_en": [
-        "Vegetables",
-        "Thai Curry Paste",
-        "Coconut Milk",
-        "Rice",
-        "Coconut"
-      ],
-      "prep_notes_hi": "थाई करी पेस्ट और नारियल के दूध के साथ सब्जियाँ पकाएँ। नारियल के साथ चावल पकाएँ।",
-      "prep_notes_en": "Cook vegetables with Thai curry paste and coconut milk. Cook rice with coconut.",
-      "vizz_macros": {
-        "cal": 630,
-        "protein": 18,
-        "fat": 27,
-        "carbs": 85
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=Thai%20curry%20recipe%20recipe"
-    },
-    "vizz_daily_total_from_meals": {
-      "cal": 1700,
-      "protein": 60,
-      "fat": 72,
-      "carbs": 220
-    },
-    "vizz_daily_total_with_shake": {
-      "cal": 2000,
-      "protein": 100,
-      "fat": 77,
-      "carbs": 245
-    },
-    "macro_check": "Missing 10g protein to hit target; increase paneer or add more egg at breakfast."
-  },
-  {
     "date": "2026-09-15 (Tuesday)",
     "date_display": "Tuesday, September 15",
     "date_short": "Tue · Sep 15",
@@ -3522,5 +3409,128 @@
       "carbs": 260
     },
     "macro_check": "Macros look good but protein is slightly under target. Consider a higher protein snack."
+  },
+  {
+    "date": "2026-10-14 (Wednesday)",
+    "date_display": "Wednesday, October 14",
+    "date_short": "Wed · Oct 14",
+    "generated_label": "Generated last night for today",
+    "breakfast": {
+      "dish_hindi": "वेजीटेबल ओट्स उपमा, ताजा दही",
+      "dish_english": "Vegetable Oats Upma with Fresh Curd",
+      "ingredients_hindi": "ओट्स, गाजर, मटर, प्याज, सरसों के बीज, हरी मिर्च, करी पत्ते, दही",
+      "ingredients_list_hi": [
+        "ओट्स",
+        "गाजर",
+        "मटर",
+        "प्याज",
+        "सरसों के बीज",
+        "हरी मिर्च",
+        "करी पत्ते",
+        "दही"
+      ],
+      "ingredients_list_en": [
+        "Oats",
+        "Carrot",
+        "Peas",
+        "Onion",
+        "Mustard seeds",
+        "Green chili",
+        "Curry leaves",
+        "Curd"
+      ],
+      "prep_notes_hi": "ओट्स को थोड़ा भून लें फिर सब्ज़ियाँ और मसाले डालकर पकाएँ। दही को साइड में दें।",
+      "prep_notes_en": "Lightly roast the oats and then cook with vegetables and spices. Serve curd on the side.",
+      "vizz_macros": {
+        "cal": 350,
+        "protein": 12,
+        "fat": 6,
+        "carbs": 60
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=vegetable%20oats%20upma%20recipe%20recipe"
+    },
+    "lunch": {
+      "dish_hindi": "राजमा चावल, प्याज का सलाद",
+      "dish_english": "Rajma with Basmati Rice and Onion Salad",
+      "ingredients_hindi": "राजमा, बासमती चावल, प्याज, टमाटर, अदरक, लहसुन, मसाले",
+      "ingredients_list_hi": [
+        "राजमा",
+        "बासमती चावल",
+        "प्याज",
+        "टमाटर",
+        "अदरक",
+        "लहसुन",
+        "मसाले"
+      ],
+      "ingredients_list_en": [
+        "Rajma (Kidney beans)",
+        "Basmati rice",
+        "Onion",
+        "Tomato",
+        "Ginger",
+        "Garlic",
+        "Spices"
+      ],
+      "prep_notes_hi": "राजमा और चावल को अलग-अलग पकाएँ। प्याज का सलाद साइड में दें। यह यात्रा और गरम करने योग्य है।",
+      "prep_notes_en": "Cook rajma and rice separately. Serve onion salad on the side. Suitable for travel and reheating.",
+      "vizz_macros": {
+        "cal": 690,
+        "protein": 24,
+        "fat": 6,
+        "carbs": 132
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=rajma%20chawal%20recipe%20recipe"
+    },
+    "dinner": {
+      "dish_hindi": "मशरूम मटर करी, चपाती, खीरे का रायता",
+      "dish_english": "Mushroom Peas Curry with Chapati and Cucumber Raita",
+      "ingredients_hindi": "मशरूम, मटर, टमाटर, प्याज, अदरक, लहसुन, मसाले, चपाती, खीरा, दही",
+      "ingredients_list_hi": [
+        "मशरूम",
+        "मटर",
+        "टमाटर",
+        "प्याज",
+        "अदरक",
+        "लहसुन",
+        "मसाले",
+        "चपाती",
+        "खीरा",
+        "दही"
+      ],
+      "ingredients_list_en": [
+        "Mushroom",
+        "Peas",
+        "Tomato",
+        "Onion",
+        "Ginger",
+        "Garlic",
+        "Spices",
+        "Chapati",
+        "Cucumber",
+        "Curd"
+      ],
+      "prep_notes_hi": "मशरूम और मटर को अच्छे से भूनें और मसालों के साथ पकाएँ। खीरे का रायता साइड में दें।",
+      "prep_notes_en": "Sauté mushrooms and peas well with spices. Serve cucumber raita on the side.",
+      "vizz_macros": {
+        "cal": 660,
+        "protein": 18,
+        "fat": 15,
+        "carbs": 76
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=mushroom%20peas%20curry%20recipe%20recipe"
+    },
+    "vizz_daily_total_from_meals": {
+      "cal": 1700,
+      "protein": 54,
+      "fat": 27,
+      "carbs": 268
+    },
+    "vizz_daily_total_with_shake": {
+      "cal": 2000,
+      "protein": 94,
+      "fat": 32,
+      "carbs": 293
+    },
+    "macro_check": "Calories and carbs exceed slightly; protein is lower than target. Consider adding a snack or adjusting dinner."
   }
 ]

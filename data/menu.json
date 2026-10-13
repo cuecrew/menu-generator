@@ -1,107 +1,123 @@
 {
-  "date": "2026-10-13 (Tuesday)",
-  "date_display": "Tuesday, October 13",
-  "date_short": "Tue · Oct 13",
+  "date": "2026-10-14 (Wednesday)",
+  "date_display": "Wednesday, October 14",
+  "date_short": "Wed · Oct 14",
   "generated_label": "Generated last night for today",
   "breakfast": {
-    "dish_hindi": "एग भूर्जी और टोस्ट",
-    "dish_english": "Egg Bhurji with Toast",
-    "ingredients_hindi": "अंडा, प्याज, टमाटर, हरी मिर्च, नमक, ब्रेड",
+    "dish_hindi": "वेजीटेबल ओट्स उपमा, ताजा दही",
+    "dish_english": "Vegetable Oats Upma with Fresh Curd",
+    "ingredients_hindi": "ओट्स, गाजर, मटर, प्याज, सरसों के बीज, हरी मिर्च, करी पत्ते, दही",
     "ingredients_list_hi": [
-      "अंडा",
+      "ओट्स",
+      "गाजर",
+      "मटर",
       "प्याज",
-      "टमाटर",
+      "सरसों के बीज",
       "हरी मिर्च",
-      "नमक",
-      "ब्रेड"
-    ],
-    "ingredients_list_en": [
-      "Egg",
-      "Onion",
-      "Tomato",
-      "Green Chili",
-      "Salt",
-      "Bread"
-    ],
-    "prep_notes_hi": "प्याज और टमाटर को बारीक काटें। अंडे को फेंटें और सब्जियों के साथ पकाएं। ब्रेड को टोस्ट कर लें।",
-    "prep_notes_en": "Finely chop onions and tomatoes. Beat eggs and cook them with the vegetables. Toast the bread.",
-    "vizz_macros": {
-      "cal": 450,
-      "protein": 18,
-      "fat": 15,
-      "carbs": 55
-    },
-    "youtube_url": "https://www.youtube.com/results?search_query=egg%20bhurji%20recipe%20recipe"
-  },
-  "lunch": {
-    "dish_hindi": "सब्जी पुलाव और योगर्ट",
-    "dish_english": "Vegetable Pulao with Yogurt",
-    "ingredients_hindi": "बासमती चावल, सब्जियाँ, जीरा, नमक, दही",
-    "ingredients_list_hi": [
-      "बासमती चावल",
-      "सब्जियाँ",
-      "जीरा",
-      "नमक",
+      "करी पत्ते",
       "दही"
     ],
     "ingredients_list_en": [
-      "Basmati Rice",
-      "Vegetables",
-      "Cumin",
-      "Salt",
-      "Yogurt"
+      "Oats",
+      "Carrot",
+      "Peas",
+      "Onion",
+      "Mustard seeds",
+      "Green chili",
+      "Curry leaves",
+      "Curd"
     ],
-    "prep_notes_hi": "सब्जी पुलाव को छोटे डिब्बे में पैक करें और दही के साथ सर्व करें। इसे आसानी से गरम किया जा सकता है।",
-    "prep_notes_en": "Pack the vegetable pulao in a small container and serve it with yogurt. It can be easily reheated.",
+    "prep_notes_hi": "ओट्स को थोड़ा भून लें फिर सब्ज़ियाँ और मसाले डालकर पकाएँ। दही को साइड में दें।",
+    "prep_notes_en": "Lightly roast the oats and then cook with vegetables and spices. Serve curd on the side.",
     "vizz_macros": {
-      "cal": 600,
-      "protein": 14,
-      "fat": 10,
-      "carbs": 110
+      "cal": 350,
+      "protein": 12,
+      "fat": 6,
+      "carbs": 60
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=vegetable%20pulao%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=vegetable%20oats%20upma%20recipe%20recipe"
   },
-  "dinner": {
-    "dish_hindi": "पालक पनीर और रोटी",
-    "dish_english": "Palak Paneer with Roti",
-    "ingredients_hindi": "पालक, पनीर, प्याज, टमाटर, मसाले, गेहूं का आटा",
+  "lunch": {
+    "dish_hindi": "राजमा चावल, प्याज का सलाद",
+    "dish_english": "Rajma with Basmati Rice and Onion Salad",
+    "ingredients_hindi": "राजमा, बासमती चावल, प्याज, टमाटर, अदरक, लहसुन, मसाले",
     "ingredients_list_hi": [
-      "पालक",
-      "पनीर",
+      "राजमा",
+      "बासमती चावल",
       "प्याज",
       "टमाटर",
-      "मसाले",
-      "गेहूं का आटा"
+      "अदरक",
+      "लहसुन",
+      "मसाले"
     ],
     "ingredients_list_en": [
-      "Spinach",
-      "Paneer",
+      "Rajma (Kidney beans)",
+      "Basmati rice",
       "Onion",
       "Tomato",
-      "Spices",
-      "Wheat flour"
+      "Ginger",
+      "Garlic",
+      "Spices"
     ],
-    "prep_notes_hi": "पालक को ब्लांच कर पीस लें। पनीर को क्यूब्स में काटें और सब्जियों के साथ पकाएं।",
-    "prep_notes_en": "Blanch the spinach and puree it. Cut the paneer into cubes and cook with the vegetables.",
+    "prep_notes_hi": "राजमा और चावल को अलग-अलग पकाएँ। प्याज का सलाद साइड में दें। यह यात्रा और गरम करने योग्य है।",
+    "prep_notes_en": "Cook rajma and rice separately. Serve onion salad on the side. Suitable for travel and reheating.",
     "vizz_macros": {
-      "cal": 650,
-      "protein": 32,
-      "fat": 20,
-      "carbs": 70
+      "cal": 690,
+      "protein": 24,
+      "fat": 6,
+      "carbs": 132
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=palak%20paneer%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=rajma%20chawal%20recipe%20recipe"
+  },
+  "dinner": {
+    "dish_hindi": "मशरूम मटर करी, चपाती, खीरे का रायता",
+    "dish_english": "Mushroom Peas Curry with Chapati and Cucumber Raita",
+    "ingredients_hindi": "मशरूम, मटर, टमाटर, प्याज, अदरक, लहसुन, मसाले, चपाती, खीरा, दही",
+    "ingredients_list_hi": [
+      "मशरूम",
+      "मटर",
+      "टमाटर",
+      "प्याज",
+      "अदरक",
+      "लहसुन",
+      "मसाले",
+      "चपाती",
+      "खीरा",
+      "दही"
+    ],
+    "ingredients_list_en": [
+      "Mushroom",
+      "Peas",
+      "Tomato",
+      "Onion",
+      "Ginger",
+      "Garlic",
+      "Spices",
+      "Chapati",
+      "Cucumber",
+      "Curd"
+    ],
+    "prep_notes_hi": "मशरूम और मटर को अच्छे से भूनें और मसालों के साथ पकाएँ। खीरे का रायता साइड में दें।",
+    "prep_notes_en": "Sauté mushrooms and peas well with spices. Serve cucumber raita on the side.",
+    "vizz_macros": {
+      "cal": 660,
+      "protein": 18,
+      "fat": 15,
+      "carbs": 76
+    },
+    "youtube_url": "https://www.youtube.com/results?search_query=mushroom%20peas%20curry%20recipe%20recipe"
   },
   "vizz_daily_total_from_meals": {
     "cal": 1700,
-    "protein": 64,
-    "fat": 45,
-    "carbs": 235
+    "protein": 54,
+    "fat": 27,
+    "carbs": 268
   },
   "vizz_daily_total_with_shake": {
     "cal": 2000,
-    "protein": 104,
-    "fat": 50,
-    "carbs": 260
+    "protein": 94,
+    "fat": 32,
+    "carbs": 293
   },
-  "macro_check": "Macros look good but protein is slightly under target. Consider a higher protein snack."
+  "macro_check": "Calories and carbs exceed slightly; protein is lower than target. Consider adding a snack or adjusting dinner."
 }
