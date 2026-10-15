@@ -1,127 +1,101 @@
 {
-  "date": "2026-10-15 (Thursday)",
-  "date_display": "Thursday, October 15",
-  "date_short": "Thu · Oct 15",
+  "date": "2026-10-16 (Friday)",
+  "date_display": "Friday, October 16",
+  "date_short": "Fri · Oct 16",
   "generated_label": "Generated last night for today",
   "breakfast": {
-    "dish_hindi": "उपमा, बॉयल किया हुआ अंडा",
-    "dish_english": "Upma with Boiled Egg",
-    "ingredients_hindi": "सूजी, अदरक, हरी मिर्च, गाजर, मटर, घी, नमक, पानी, अंडा",
+    "dish_hindi": "औट्स दलिया और उबला अंडा",
+    "dish_english": "Oats Porridge with Boiled Egg",
+    "ingredients_hindi": "ओट्स, दूध, शहद, उबला अंडा",
     "ingredients_list_hi": [
-      "सूजी",
-      "अदरक",
-      "हरी मिर्च",
-      "गाजर",
-      "मटर",
-      "घी",
-      "नमक",
-      "पानी",
-      "अंडा"
+      "ओट्स",
+      "दूध",
+      "शहद",
+      "उबला अंडा"
     ],
     "ingredients_list_en": [
-      "Semolina (Suji)",
-      "Ginger",
-      "Green Chilies",
-      "Carrot",
-      "Peas",
-      "Ghee",
-      "Salt",
-      "Water",
-      "Egg"
+      "Oats",
+      "Milk",
+      "Honey",
+      "Boiled Egg"
     ],
-    "prep_notes_hi": "घी में अदरक और मिर्च का तड़का दें। सब्जियाँ आधा पका कर सूजी और पानी डालें।",
-    "prep_notes_en": "Temper ginger and chili in ghee. Half-cook the veggies, then add semolina and water.",
+    "prep_notes_hi": "ओट्स को दूध में पकाएं जब तक गाढ़ा न हो जाए। स्वाद के लिए शहद मिलाएं।",
+    "prep_notes_en": "Cook oats in milk until thickened. Add honey for sweetness.",
     "vizz_macros": {
-      "cal": 370,
-      "protein": 12,
-      "fat": 12,
-      "carbs": 54
+      "cal": 400,
+      "protein": 18,
+      "fat": 10,
+      "carbs": 60
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=upma%20recipe%20hindi%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=oats%20porridge%20recipe%20hindi%20recipe"
   },
   "lunch": {
-    "dish_hindi": "चने की सब्जी और पूरी",
-    "dish_english": "Chickpea Curry with Poori",
-    "ingredients_hindi": "चने, टमाटर, प्याज, लहसुन, अदरक, गरम मसाला, आटा, घी, नमक",
+    "dish_hindi": "चने की सब्ज़ी और चपाती",
+    "dish_english": "Chana Sabzi with Chapati",
+    "ingredients_hindi": "काबुली चना, टमाटर, प्याज, मसाले, चपाती का आटा",
     "ingredients_list_hi": [
-      "चने",
+      "काबुली चना",
       "टमाटर",
       "प्याज",
-      "लहसुन",
-      "अदरक",
-      "गरम मसाला",
-      "आटा",
-      "घी",
-      "नमक"
+      "मसाले",
+      "चपाती का आटा"
     ],
     "ingredients_list_en": [
       "Chickpeas",
-      "Tomatoes",
+      "Tomato",
       "Onion",
-      "Garlic",
-      "Ginger",
-      "Garam Masala",
-      "Flour",
-      "Ghee",
-      "Salt"
+      "Spices",
+      "Chapati Flour"
     ],
-    "prep_notes_hi": "चना करी को चार-पाँच घंटे तक बिना फ्रिज के रखा जा सकता है। माइक्रोवेव में गरम करें।",
-    "prep_notes_en": "Chickpea curry can be kept unrefrigerated for four to five hours. Reheat in the microwave.",
+    "prep_notes_hi": "चना और टमाटर से गाढ़ी सब्ज़ी बनाएं। चापाती के साथ यात्रा के लिए अच्छी है।",
+    "prep_notes_en": "Make a thick gravy with chickpeas and tomatoes. Pairs well with chapati for travel.",
     "vizz_macros": {
-      "cal": 700,
+      "cal": 600,
       "protein": 20,
-      "fat": 20,
-      "carbs": 110
+      "fat": 12,
+      "carbs": 90
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=chole%20poori%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=chana%20sabzi%20chapati%20recipe%20recipe"
   },
   "dinner": {
-    "dish_hindi": "पनीर तामटी ग्रेवी के साथ, रोटी और पुदीना रायता",
-    "dish_english": "Paneer Tomato Gravy with Roti and Mint Raita",
-    "ingredients_hindi": "पनीर, टमाटर, प्याज, अदरक, हरी मिर्च, धनिया, आटा, दही, पुदीना",
+    "dish_hindi": "शाकाहारी नूडल्स, पापड़ और चटनी",
+    "dish_english": "Vegetable Noodles with Papad and Chutney",
+    "ingredients_hindi": "नूडल्स, सब्जियां, सोया सॉस, पापड़, चटनी",
     "ingredients_list_hi": [
-      "पनीर",
-      "टमाटर",
-      "प्याज",
-      "अदरक",
-      "हरी मिर्च",
-      "धनिया",
-      "आटा",
-      "दही",
-      "पुदीना"
+      "नूडल्स",
+      "सब्जियां",
+      "सोया सॉस",
+      "पापड़",
+      "चटनी"
     ],
     "ingredients_list_en": [
-      "Paneer",
-      "Tomatoes",
-      "Onion",
-      "Ginger",
-      "Green Chilies",
-      "Coriander",
-      "Flour",
-      "Curd",
-      "Mint"
+      "Noodles",
+      "Vegetables",
+      "Soy Sauce",
+      "Papad",
+      "Chutney"
     ],
-    "prep_notes_hi": "टमाटर पकाते समय अदरक और हरी मिर्च डालें। पनीर को पहले तले और ग्रेवी में मिलाएँ।",
-    "prep_notes_en": "Add ginger and green chilies while cooking tomatoes. Fry the paneer and then add to the gravy.",
+    "prep_notes_hi": "उबाल कर सब्जियाँ मिलाएं। ताजगी के लिए सोया सॉस डालें।",
+    "prep_notes_en": "Boil and mix vegetables. Add soy sauce for flavor.",
     "vizz_macros": {
-      "cal": 650,
-      "protein": 28,
-      "fat": 18,
-      "carbs": 56
+      "cal": 500,
+      "protein": 15,
+      "fat": 10,
+      "carbs": 80
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=paneer%20tomato%20gravy%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=vegetable%20noodles%20recipe%20recipe"
   },
   "vizz_daily_total_from_meals": {
-    "cal": 1720,
-    "protein": 60,
-    "fat": 50,
-    "carbs": 220
+    "cal": 1500,
+    "protein": 53,
+    "fat": 32,
+    "carbs": 230
   },
   "vizz_daily_total_with_shake": {
-    "cal": 2020,
-    "protein": 100,
-    "fat": 55,
-    "carbs": 245
+    "cal": 1800,
+    "protein": 93,
+    "fat": 37,
+    "carbs": 255
   },
-  "macro_check": "Calories and carbs exceeded; protein still lower. Fat is reasonable."
+  "macro_check": "Slightly low on calories and protein; ideally needs a bit more protein."
 }
