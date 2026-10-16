@@ -1,124 +1,5 @@
 [
   {
-    "date": "2026-09-17 (Thursday)",
-    "date_display": "Thursday, September 17",
-    "date_short": "Thu · Sep 17",
-    "generated_label": "Generated last night for today",
-    "breakfast": {
-      "dish_hindi": "वेगन ब्रेकफास्ट बुरिटो, गरम सॉस",
-      "dish_english": "Vegan Breakfast Burrito with Hot Sauce",
-      "ingredients_hindi": "टॉर्टिला, राजमा, आलू, पीली शिमला मिर्च, प्याज, टमाटर, मसाले, गरम सॉस",
-      "ingredients_list_hi": [
-        "टॉर्टिला",
-        "राजमा",
-        "आलू",
-        "पीली शिमला मिर्च",
-        "प्याज",
-        "टमाटर",
-        "मसाले",
-        "गरम सॉस"
-      ],
-      "ingredients_list_en": [
-        "Tortilla",
-        "Kidney Beans",
-        "Potato",
-        "Yellow Bell Pepper",
-        "Onion",
-        "Tomato",
-        "Spices",
-        "Hot Sauce"
-      ],
-      "prep_notes_hi": "राजमा और आलू को पहले से उबाल लें। टॉर्टिला को अच्छे से गर्म करके उसे थोडा हल्का गरम रखें।",
-      "prep_notes_en": "Pre-cook the kidney beans and potatoes. Warm the tortilla properly so it stays slightly warm.",
-      "vizz_macros": {
-        "cal": 350,
-        "protein": 12,
-        "fat": 8,
-        "carbs": 58
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=vegan%20breakfast%20burrito%20recipe"
-    },
-    "lunch": {
-      "dish_hindi": "मसूर दाल और चावल, पापड़",
-      "dish_english": "Masoor Dal with Rice and Papad",
-      "ingredients_hindi": "मसूर दाल, चावल, पापड़, जीरा, हल्दी, धनिया पाउडर, नमक",
-      "ingredients_list_hi": [
-        "मसूर दाल",
-        "चावल",
-        "पापड़",
-        "जीरा",
-        "हल्दी",
-        "धनिया पाउडर",
-        "नमक"
-      ],
-      "ingredients_list_en": [
-        "Masoor Dal",
-        "Rice",
-        "Papad",
-        "Cumin Seeds",
-        "Turmeric",
-        "Coriander Powder",
-        "Salt"
-      ],
-      "prep_notes_hi": "यह व्यंजन यात्रा अनुकूल और माइक्रोवेव में गर्म किया जा सकता है।",
-      "prep_notes_en": "This dish is suitable for travel and can be reheated in a microwave.",
-      "vizz_macros": {
-        "cal": 700,
-        "protein": 28,
-        "fat": 4,
-        "carbs": 138
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=masoor%20dal%20and%20rice%20recipe%20recipe"
-    },
-    "dinner": {
-      "dish_hindi": "व्हाइट सॉस पास्ता, लहसुन की ब्रेड",
-      "dish_english": "White Sauce Pasta with Garlic Bread",
-      "ingredients_hindi": "पास्ता, दूध, मक्खन, मैदा, काली मिर्च, नमक, लहसुन, ब्रेड",
-      "ingredients_list_hi": [
-        "पास्ता",
-        "दूध",
-        "मक्खन",
-        "मैदा",
-        "काली मिर्च",
-        "नमक",
-        "लहसुन",
-        "ब्रेड"
-      ],
-      "ingredients_list_en": [
-        "Pasta",
-        "Milk",
-        "Butter",
-        "Flour",
-        "Black Pepper",
-        "Salt",
-        "Garlic",
-        "Bread"
-      ],
-      "prep_notes_hi": "सॉस को लगातार चलाते रहें ताकि गांठ न बने। इसे लहसुन की ब्रेड के साथ परोसें।",
-      "prep_notes_en": "Keep stirring the sauce to avoid lumps. Serve it with garlic bread.",
-      "vizz_macros": {
-        "cal": 650,
-        "protein": 15,
-        "fat": 20,
-        "carbs": 90
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=white%20sauce%20pasta%20recipe%20recipe"
-    },
-    "vizz_daily_total_from_meals": {
-      "cal": 1700,
-      "protein": 55,
-      "fat": 32,
-      "carbs": 286
-    },
-    "vizz_daily_total_with_shake": {
-      "cal": 2000,
-      "protein": 95,
-      "fat": 37,
-      "carbs": 311
-    },
-    "macro_check": "Calorie and carb targets hit; protein is slightly low. Consider adding protein-rich side or snack."
-  },
-  {
     "date": "2026-09-18 (Friday)",
     "date_display": "Friday, September 18",
     "date_short": "Fri · Sep 18",
@@ -3526,5 +3407,116 @@
       "carbs": 255
     },
     "macro_check": "Slightly low on calories and protein; ideally needs a bit more protein."
+  },
+  {
+    "date": "2026-10-17 (Saturday)",
+    "date_display": "Saturday, October 17",
+    "date_short": "Sat · Oct 17",
+    "generated_label": "Generated last night for today",
+    "breakfast": {
+      "dish_hindi": "वेजिटेबल दलिया और उबला हुआ अंडा",
+      "dish_english": "Vegetable Daliya with Boiled Egg",
+      "ingredients_hindi": "दलिया, गाजर, मटर, शिमला मिर्च, अदरक, धनिया, मसाले, अंडा",
+      "ingredients_list_hi": [
+        "दलिया",
+        "गाजर",
+        "मटर",
+        "शिमला मिर्च",
+        "अदरक",
+        "धनिया",
+        "मसाले",
+        "अंडा"
+      ],
+      "ingredients_list_en": [
+        "Daliya (broken wheat)",
+        "Carrots",
+        "Peas",
+        "Bell pepper",
+        "Ginger",
+        "Coriander",
+        "Spices",
+        "Egg"
+      ],
+      "prep_notes_hi": "सब्जियों को बारीक काट लें और दालिया को अच्छे से भून लें। कम पानी में सब्जियाँ और दालिया पकाएँ। अंडे उबाल लें और साथ परोसें।",
+      "prep_notes_en": "Finely chop the vegetables and roast the daliya well. Cook the vegetables and daliya with minimal water. Boil the eggs and serve alongside.",
+      "vizz_macros": {
+        "cal": 450,
+        "protein": 20,
+        "fat": 10,
+        "carbs": 70
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=vegetable%20daliya%20recipe%20recipe"
+    },
+    "lunch": {
+      "dish_hindi": "तोरी की सब्जी और फुल्के",
+      "dish_english": "Zucchini Sabzi with Phulka",
+      "ingredients_hindi": "तोरी, टमाटर, प्याज, अदरक, मसाले, गेहूं का आटा",
+      "ingredients_list_hi": [
+        "तोरी",
+        "टमाटर",
+        "प्याज",
+        "अदरक",
+        "मसाले",
+        "गेहूं का आटा"
+      ],
+      "ingredients_list_en": [
+        "Zucchini",
+        "Tomato",
+        "Onion",
+        "Ginger",
+        "Spices",
+        "Wheat flour"
+      ],
+      "prep_notes_hi": "तोरी का छिलका उतारकर काट लें। इस सब्जी को फुल्के के साथ पैक करें। यह आसानी से यात्रा कर सकती है और गर्म की जा सकती है।",
+      "prep_notes_en": "Peel and chop the zucchini. Pack the sabzi with phulkas; it travels well and can be reheated.",
+      "vizz_macros": {
+        "cal": 400,
+        "protein": 14,
+        "fat": 6,
+        "carbs": 75
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=zucchini%20sabzi%20phulka%20recipe"
+    },
+    "dinner": {
+      "dish_hindi": "मटर पनीर पुलाव और पापड़",
+      "dish_english": "Matar Paneer Pulao with Papad",
+      "ingredients_hindi": "बासमती चावल, मटर, पनीर, मसाले, पापड़",
+      "ingredients_list_hi": [
+        "बासमती चावल",
+        "मटर",
+        "पनीर",
+        "मसाले",
+        "पापड़"
+      ],
+      "ingredients_list_en": [
+        "Basmati rice",
+        "Peas",
+        "Paneer",
+        "Spices",
+        "Papad"
+      ],
+      "prep_notes_hi": "चावल को हल्का भूनकर पकाएँ। पनीर और मटर मिलाकर अच्छे से पकाएँ। पापड़ साथ में सेंक कर परोसें।",
+      "prep_notes_en": "Lightly roast the rice before cooking. Mix and cook the paneer and peas well. Serve papad alongside.",
+      "vizz_macros": {
+        "cal": 650,
+        "protein": 30,
+        "fat": 25,
+        "carbs": 80
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=matar%20paneer%20pulao%20recipe%20recipe"
+    },
+    "vizz_daily_total_from_meals": {
+      "cal": 1500,
+      "protein": 64,
+      "fat": 41,
+      "carbs": 225
+    },
+    "vizz_daily_total_with_shake": {
+      "cal": 1800,
+      "protein": 104,
+      "fat": 46,
+      "carbs": 250
+    },
+    "macro_check": "Calories are slightly under target; Protein is close to target; Carbs slightly over; Fat slightly under."
   }
 ]
