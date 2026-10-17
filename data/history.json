@@ -1,108 +1,5 @@
 [
   {
-    "date": "2026-09-18 (Friday)",
-    "date_display": "Friday, September 18",
-    "date_short": "Fri · Sep 18",
-    "generated_label": "Generated last night for today",
-    "breakfast": {
-      "dish_hindi": "पालक परांठा, दही, अंडा (केवल Vizz ओर Flatmate-2 के लिए)",
-      "dish_english": "Palak Paratha with Curd and Boiled Egg (for Vizz and Flatmate-2)",
-      "ingredients_hindi": "पालक, गेहूं का आटा, दही, अंडा, मसाले",
-      "ingredients_list_hi": [
-        "पालक",
-        "गेहूं का आटा",
-        "दही",
-        "अंडा",
-        "मसाले"
-      ],
-      "ingredients_list_en": [
-        "Spinach",
-        "Whole wheat flour",
-        "Curd",
-        "Egg",
-        "Spices"
-      ],
-      "prep_notes_hi": "पालक अच्छे से बारीक काटें और आटे में मिलाएं। परांठे को तवे पर सुनहरा होने तक सेकें।",
-      "prep_notes_en": "Finely chop the spinach and mix it with the flour. Cook the paratha on a skillet until golden.",
-      "vizz_macros": {
-        "cal": 480,
-        "protein": 18,
-        "fat": 18,
-        "carbs": 60
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=palak%20paratha%20recipe%20hindi%20recipe"
-    },
-    "lunch": {
-      "dish_hindi": "एगलेस पनीर बटर मसाला, रोटी, हरी चटनी",
-      "dish_english": "Eggless Paneer Butter Masala with Roti and Green Chutney",
-      "ingredients_hindi": "पनीर, टमाटर, क्रीम, मसाले, आटा",
-      "ingredients_list_hi": [
-        "पनीर",
-        "टमाटर",
-        "क्रीम",
-        "मसाले",
-        "आटा"
-      ],
-      "ingredients_list_en": [
-        "Paneer",
-        "Tomato",
-        "Cream",
-        "Spices",
-        "Flour"
-      ],
-      "prep_notes_hi": "टमाटर की प्यूरी तैयार करें और मसालों के साथ पकाएं। यह व्यंजन आसानी से पैक होकर दोपहर में गरम करके खाया जा सकता है।",
-      "prep_notes_en": "Prepare tomato puree and cook with spices. This dish can be easily packed and reheated at lunchtime.",
-      "vizz_macros": {
-        "cal": 650,
-        "protein": 30,
-        "fat": 35,
-        "carbs": 60
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=paneer%20butter%20masala%20recipe%20recipe"
-    },
-    "dinner": {
-      "dish_hindi": "मसूर दाल के साथ जीरा चावल और पापड़",
-      "dish_english": "Jeera Rice with Masoor Dal and Papad",
-      "ingredients_hindi": "चावल, मसूर दाल, जीरा, मसाले, पापड़",
-      "ingredients_list_hi": [
-        "चावल",
-        "मसूर दाल",
-        "जीरा",
-        "मसाले",
-        "पापड़"
-      ],
-      "ingredients_list_en": [
-        "Rice",
-        "Masoor dal",
-        "Cumin seeds",
-        "Spices",
-        "Papad"
-      ],
-      "prep_notes_hi": "जीरा चावल के लिए पहले चावल भिगोकर रखें। दाल को पहले से पका लें।",
-      "prep_notes_en": "Soak the rice for jeera rice ahead of time. Pre-cook the dal for quicker preparation.",
-      "vizz_macros": {
-        "cal": 570,
-        "protein": 20,
-        "fat": 12,
-        "carbs": 100
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=jeera%20rice%20masoor%20dal%20recipe%20recipe"
-    },
-    "vizz_daily_total_from_meals": {
-      "cal": 1700,
-      "protein": 68,
-      "fat": 65,
-      "carbs": 220
-    },
-    "vizz_daily_total_with_shake": {
-      "cal": 2000,
-      "protein": 108,
-      "fat": 70,
-      "carbs": 245
-    },
-    "macro_check": "Daily target not precisely hit: total protein is slightly below 110g. Consider small adjustments."
-  },
-  {
     "date": "2026-09-19 (Saturday)",
     "date_display": "Saturday, September 19",
     "date_short": "Sat · Sep 19",
@@ -3518,5 +3415,118 @@
       "carbs": 250
     },
     "macro_check": "Calories are slightly under target; Protein is close to target; Carbs slightly over; Fat slightly under."
+  },
+  {
+    "date": "2026-10-18 (Sunday)",
+    "date_display": "Sunday, October 18",
+    "date_short": "Sun · Oct 18",
+    "generated_label": "Generated last night for today",
+    "breakfast": {
+      "dish_hindi": "अंडा पराठा और हरी चटनी",
+      "dish_english": "Egg Paratha with Green Chutney",
+      "ingredients_hindi": "गेंहू का आटा, अंडा, हरी धनिया, हरी मिर्च, नमक, तेल",
+      "ingredients_list_hi": [
+        "गेंहू का आटा",
+        "अंडा",
+        "हरी धनिया",
+        "हरी मिर्च",
+        "नमक",
+        "तेल"
+      ],
+      "ingredients_list_en": [
+        "Wheat flour",
+        "Egg",
+        "Cilantro",
+        "Green chili",
+        "Salt",
+        "Oil"
+      ],
+      "prep_notes_hi": "आटे को थोड़ा सख्त गूंधे, फिर उसमें भुर्जी किया हुआ अंडा भरें। पराठे को तेल में अच्छी तरह सेकें।",
+      "prep_notes_en": "Knead the dough slightly firm, then fill with scrambled egg. Cook the paratha well in oil.",
+      "vizz_macros": {
+        "cal": 400,
+        "protein": 16,
+        "fat": 15,
+        "carbs": 50
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=egg%20paratha%20recipe%20hindi%20recipe"
+    },
+    "lunch": {
+      "dish_hindi": "मसूर की दाल और बासमती चावल, पापड़",
+      "dish_english": "Red Lentil Dal with Basmati Rice and Papad",
+      "ingredients_hindi": "मसूर दाल, बासमती चावल, पापड़, हल्दी, जीरा, हिंग, नमक, तेल",
+      "ingredients_list_hi": [
+        "मसूर दाल",
+        "बासमती चावल",
+        "पापड़",
+        "हल्दी",
+        "जीरा",
+        "हींग",
+        "नमक",
+        "तेल"
+      ],
+      "ingredients_list_en": [
+        "Red lentils",
+        "Basmati rice",
+        "Papad",
+        "Turmeric",
+        "Cumin",
+        "Asafoetida",
+        "Salt",
+        "Oil"
+      ],
+      "prep_notes_hi": "दाल और चावल को हल्दी, जीरा और हिंग के साथ पकाएं। यह भोजन यात्रा के लिए उपयुक्त है और आसानी से गरम हो जाता है।",
+      "prep_notes_en": "Cook the dal and rice with turmeric, cumin, and asafoetida. This meal travels well and reheats easily.",
+      "vizz_macros": {
+        "cal": 690,
+        "protein": 25,
+        "fat": 5,
+        "carbs": 120
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=red%20lentil%20dal%20rice%20recipe%20recipe"
+    },
+    "dinner": {
+      "dish_hindi": "मिक्स वेज पनीर करी और रोटी, दही",
+      "dish_english": "Mixed Vegetable Paneer Curry with Roti and Curd",
+      "ingredients_hindi": "पनीर, मिली-जुली सब्जियाँ, गेंहू का आटा, दही, मसाले, तेल",
+      "ingredients_list_hi": [
+        "पनीर",
+        "मिली-जुली सब्जियाँ",
+        "गेंहू का आटा",
+        "दही",
+        "मसाले",
+        "तेल"
+      ],
+      "ingredients_list_en": [
+        "Paneer",
+        "Mixed vegetables",
+        "Wheat flour",
+        "Curd",
+        "Spices",
+        "Oil"
+      ],
+      "prep_notes_hi": "पनीर और सब्जियों को मसालों के साथ पकाएं। रोटी को नरम और फूला हुआ रहने तक सेकें।",
+      "prep_notes_en": "Cook the paneer and vegetables with spices. Cook the rotis until they are soft and puffed.",
+      "vizz_macros": {
+        "cal": 600,
+        "protein": 30,
+        "fat": 25,
+        "carbs": 75
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=mixed%20vegetable%20paneer%20recipe%20recipe"
+    },
+    "vizz_daily_total_from_meals": {
+      "cal": 1690,
+      "protein": 71,
+      "fat": 45,
+      "carbs": 245
+    },
+    "vizz_daily_total_with_shake": {
+      "cal": 1990,
+      "protein": 111,
+      "fat": 50,
+      "carbs": 270
+    },
+    "macro_check": "Total macro goals achieved with slight adjustment on carbs. Protein still reaches target due to shake."
   }
 ]
