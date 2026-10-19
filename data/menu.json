@@ -1,119 +1,127 @@
 {
-  "date": "2026-10-19 (Monday)",
-  "date_display": "Monday, October 19",
-  "date_short": "Mon · Oct 19",
+  "date": "2026-10-20 (Tuesday)",
+  "date_display": "Tuesday, October 20",
+  "date_short": "Tue · Oct 20",
   "generated_label": "Generated last night for today",
   "breakfast": {
-    "dish_hindi": "स्प्राउट्स उपमा, उबला अंडा",
-    "dish_english": "Sprouts Upma with Boiled Egg",
-    "ingredients_hindi": "स्प्राउट्स, सूजी, प्याज, टमाटर, हरी मिर्च, धनिया, नींबू, नमक, उबला अंडा",
+    "dish_hindi": "पोहा और उबले हुए अंडे",
+    "dish_english": "Poha with Boiled Egg",
+    "ingredients_hindi": "पोहा, प्याज, हरी मिर्च, मूंगफली, आलू, नमक, हल्दी, उबले हुए अंडे",
     "ingredients_list_hi": [
-      "स्प्राउट्स",
-      "सूजी",
+      "पोहा",
       "प्याज",
-      "टमाटर",
       "हरी मिर्च",
-      "धनिया",
-      "नींबू",
+      "मूंगफली",
+      "आलू",
       "नमक",
-      "उबला अंडा"
+      "हल्दी",
+      "उबले हुए अंडे"
     ],
     "ingredients_list_en": [
-      "Sprouts",
-      "Semolina",
+      "Poha (flattened rice)",
       "Onion",
-      "Tomato",
-      "Green Chili",
-      "Coriander",
-      "Lemon",
+      "Green chili",
+      "Peanuts",
+      "Potato",
       "Salt",
-      "Boiled Egg"
+      "Turmeric",
+      "Boiled eggs"
     ],
-    "prep_notes_hi": "सूजी को हल्का भून लें, प्याज और टमाटर को अच्छी तरह पकाएं। स्प्राउट्स का इस्तेमाल करें।",
-    "prep_notes_en": "Lightly roast the semolina, cook onions and tomatoes thoroughly. Use sprouts.",
+    "prep_notes_hi": "पोहा को धोकर पानी निथार लें। मूंगफली को हल्का भून लें। प्याज और आलू को छौंकें और फिर पोहा मिला दें।",
+    "prep_notes_en": "Rinse poha and drain the water. Lightly roast peanuts. Saute onion and potato, then mix in the poha.",
     "vizz_macros": {
-      "cal": 400,
-      "protein": 16,
-      "fat": 13,
-      "carbs": 56
+      "cal": 320,
+      "protein": 12,
+      "fat": 10,
+      "carbs": 50
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=sprouts%20upma%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=poha%20recipe%20hindi%20recipe"
   },
   "lunch": {
-    "dish_hindi": "राजमा चावल, पापड़",
-    "dish_english": "Rajma with Rice and Papad",
-    "ingredients_hindi": "राजमा, बासमती चावल, प्याज, टमाटर, मसाले, धनिया, पापड़",
+    "dish_hindi": "चना दाल और जीरा राइस, पापड़ के साथ",
+    "dish_english": "Chana Dal and Jeera Rice with Papad",
+    "ingredients_hindi": "चना दाल, बासमती चावल, जीरा, घी, प्याज, टमाटर, नमक, हल्दी, पापड़",
     "ingredients_list_hi": [
-      "राजमा",
+      "चना दाल",
       "बासमती चावल",
+      "जीरा",
+      "घी",
       "प्याज",
       "टमाटर",
-      "मसाले",
-      "धनिया",
+      "नमक",
+      "हल्दी",
       "पापड़"
     ],
     "ingredients_list_en": [
-      "Kidney Beans",
-      "Basmati Rice",
+      "Chana dal",
+      "Basmati rice",
+      "Cumin seeds",
+      "Ghee",
       "Onion",
       "Tomato",
-      "Spices",
-      "Coriander",
+      "Salt",
+      "Turmeric",
       "Papad"
     ],
-    "prep_notes_hi": "लंच के लिए, राजमा अच्छी तरह से पकाएं। यह यात्रा में अच्छी तरह से टिकता है और गरम होने पर स्वादिष्ट होता है।",
-    "prep_notes_en": "For lunch, ensure the rajma is well cooked. It travels well and tastes best when reheated.",
+    "prep_notes_hi": "चना दाल को भिगोकर पकाएं। इसे बॉक्स में रखकर 4-5 घंटे ताजगी से पकड़े रहेगा।",
+    "prep_notes_en": "Soak and cook chana dal. This will hold freshness for 4-5 hours in a container.",
     "vizz_macros": {
-      "cal": 700,
+      "cal": 650,
       "protein": 25,
-      "fat": 7,
-      "carbs": 130
+      "fat": 15,
+      "carbs": 100
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=rajma%20recipe%20hindi%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=chana%20dal%20jeera%20rice%20recipe%20recipe"
   },
   "dinner": {
-    "dish_hindi": "पास्ता, लहसुन की ब्रेड",
-    "dish_english": "Pasta with Garlic Bread",
-    "ingredients_hindi": "पास्ता, टमाटर सॉस, शिमला मिर्च, प्याज, लहसुन, हर्ब्स, लहसुन की ब्रेड",
+    "dish_hindi": "पालक पनीर रोटी और रायता के साथ",
+    "dish_english": "Palak Paneer with Roti and Raita",
+    "ingredients_hindi": "पालक, पनीर, प्याज, टमाटर, अदरक, लहसुन, मसाले, गेहूं का आटा, दही, खीरा",
     "ingredients_list_hi": [
-      "पास्ता",
-      "टमाटर सॉस",
-      "शिमला मिर्च",
+      "पालक",
+      "पनीर",
       "प्याज",
+      "टमाटर",
+      "अदरक",
       "लहसुन",
-      "हर्ब्स",
-      "लहसुन की ब्रेड"
+      "मसाले",
+      "गेहूं का आटा",
+      "दही",
+      "खीरा"
     ],
     "ingredients_list_en": [
-      "Pasta",
-      "Tomato Sauce",
-      "Bell Pepper",
+      "Spinach",
+      "Paneer",
       "Onion",
+      "Tomato",
+      "Ginger",
       "Garlic",
-      "Herbs",
-      "Garlic Bread"
+      "Spices",
+      "Wheat flour",
+      "Curd",
+      "Cucumber"
     ],
-    "prep_notes_hi": "पास्ता को सही तरीके से पकाएं, ताकि यह नरम हो जाए लेकिन टूटे नहीं। सॉस के साथ मिलाएं।",
-    "prep_notes_en": "Cook the pasta properly to achieve softness without breaking. Combine with the sauce.",
+    "prep_notes_hi": "पालक को हल्का तल लें और पनीर के साथ प्याज, टमाटर की करी बनाएं। रोटी डालें।",
+    "prep_notes_en": "Lightly fry the spinach and make a curry with paneer, onion, tomato. Serve with roti.",
     "vizz_macros": {
-      "cal": 600,
-      "protein": 18,
-      "fat": 10,
-      "carbs": 95
+      "cal": 730,
+      "protein": 30,
+      "fat": 20,
+      "carbs": 80
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=pasta%20recipe%20easy%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=palak%20paneer%20recipe%20recipe"
   },
   "vizz_daily_total_from_meals": {
     "cal": 1700,
-    "protein": 59,
-    "fat": 30,
-    "carbs": 281
+    "protein": 67,
+    "fat": 45,
+    "carbs": 230
   },
   "vizz_daily_total_with_shake": {
     "cal": 2000,
-    "protein": 99,
-    "fat": 35,
-    "carbs": 306
+    "protein": 107,
+    "fat": 50,
+    "carbs": 255
   },
-  "macro_check": "Calories and carbs exceed targets; protein slightly below target, consider adding extra dal."
+  "macro_check": "Calories and protein slightly below targets; carbs above. Consider adding another egg for more protein."
 }

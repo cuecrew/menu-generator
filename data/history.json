@@ -1,116 +1,5 @@
 [
   {
-    "date": "2026-09-20 (Sunday)",
-    "date_display": "Sunday, September 20",
-    "date_short": "Sun · Sep 20",
-    "generated_label": "Generated last night for today",
-    "breakfast": {
-      "dish_hindi": "उपमा, नारियल चटनी और उबले अंडे (विज़ और फ्लैटमेट-2 के लिए)",
-      "dish_english": "Upma with Coconut Chutney and Boiled Eggs (for Vizz and Flatmate-2)",
-      "ingredients_hindi": "सूजी, सरसों के दाने, प्याज, मटर, हरी मिर्च, नारियल, उबले अंडे",
-      "ingredients_list_hi": [
-        "सूजी",
-        "सरसों के दाने",
-        "प्याज",
-        "मटर",
-        "हरी मिर्च",
-        "नारियल",
-        "उबले अंडे"
-      ],
-      "ingredients_list_en": [
-        "Semolina",
-        "Mustard seeds",
-        "Onion",
-        "Peas",
-        "Green chili",
-        "Coconut",
-        "Boiled eggs"
-      ],
-      "prep_notes_hi": "लगातार चलाते हुए सूजी को भूनें। सभी सामग्री अच्छे से मिलाकर पकाएं। नारियल चटनी के लिए ताजा नारियल पीसें।",
-      "prep_notes_en": "Roast the semolina while stirring continuously. Cook all ingredients thoroughly. Grind fresh coconut for the chutney.",
-      "vizz_macros": {
-        "cal": 450,
-        "protein": 16,
-        "fat": 15,
-        "carbs": 70
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=upma%20recipe%20hindi%20recipe"
-    },
-    "lunch": {
-      "dish_hindi": "चने की सब्जी और गेहूं का पराठा",
-      "dish_english": "Chickpea Curry with Wheat Paratha",
-      "ingredients_hindi": "चने, टमाटर, प्याज, अदरक, लहसुन, गेहूं का आटा",
-      "ingredients_list_hi": [
-        "चने",
-        "टमाटर",
-        "प्याज",
-        "अदरक",
-        "लहसुन",
-        "गेहूं का आटा"
-      ],
-      "ingredients_list_en": [
-        "Chickpeas",
-        "Tomato",
-        "Onion",
-        "Ginger",
-        "Garlic",
-        "Wheat flour"
-      ],
-      "prep_notes_hi": "चना करी को अच्छी तरह से पकाएं, इसे रसोई में पैक करें। जैसा कि परांठा चलता है और पुनः गर्म होता है, इसे अच्छा से तलें।",
-      "prep_notes_en": "Cook the chickpea curry thoroughly and pack it well for office. Parathas travel and reheat well, so fry them properly.",
-      "vizz_macros": {
-        "cal": 620,
-        "protein": 22,
-        "fat": 20,
-        "carbs": 95
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=chole%20paratha%20recipe%20recipe"
-    },
-    "dinner": {
-      "dish_hindi": "वेगन पैड थाई",
-      "dish_english": "Vegan Pad Thai",
-      "ingredients_hindi": "चावल नूडल्स, टोफू, मूंगफली, शिमला मिर्च, सोया सॉस, नीबू",
-      "ingredients_list_hi": [
-        "चावल नूडल्स",
-        "टोफू",
-        "मूंगफली",
-        "शिमला मिर्च",
-        "सोया सॉस",
-        "नीबू"
-      ],
-      "ingredients_list_en": [
-        "Rice noodles",
-        "Tofu",
-        "Peanuts",
-        "Bell peppers",
-        "Soy sauce",
-        "Lime"
-      ],
-      "prep_notes_hi": "शाकाहारी सॉस का उपयोग करके चावल नूडल्स को पकाएं। टोफू और सब्जियों को हल्का तलें। मूंगफली और नीबू का रस डालें।",
-      "prep_notes_en": "Cook rice noodles using vegan sauce. Lightly sauté tofu and vegetables. Add peanuts and lime juice.",
-      "vizz_macros": {
-        "cal": 630,
-        "protein": 18,
-        "fat": 12,
-        "carbs": 90
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=vegan%20pad%20thai%20recipe%20recipe"
-    },
-    "vizz_daily_total_from_meals": {
-      "cal": 1700,
-      "protein": 56,
-      "fat": 47,
-      "carbs": 255
-    },
-    "vizz_daily_total_with_shake": {
-      "cal": 2000,
-      "protein": 96,
-      "fat": 52,
-      "carbs": 280
-    },
-    "macro_check": "Calories and carbs targets met; protein slightly below target due to meal composition."
-  },
-  {
     "date": "2026-09-21 (Monday)",
     "date_display": "Monday, September 21",
     "date_short": "Mon · Sep 21",
@@ -3540,5 +3429,132 @@
       "carbs": 306
     },
     "macro_check": "Calories and carbs exceed targets; protein slightly below target, consider adding extra dal."
+  },
+  {
+    "date": "2026-10-20 (Tuesday)",
+    "date_display": "Tuesday, October 20",
+    "date_short": "Tue · Oct 20",
+    "generated_label": "Generated last night for today",
+    "breakfast": {
+      "dish_hindi": "पोहा और उबले हुए अंडे",
+      "dish_english": "Poha with Boiled Egg",
+      "ingredients_hindi": "पोहा, प्याज, हरी मिर्च, मूंगफली, आलू, नमक, हल्दी, उबले हुए अंडे",
+      "ingredients_list_hi": [
+        "पोहा",
+        "प्याज",
+        "हरी मिर्च",
+        "मूंगफली",
+        "आलू",
+        "नमक",
+        "हल्दी",
+        "उबले हुए अंडे"
+      ],
+      "ingredients_list_en": [
+        "Poha (flattened rice)",
+        "Onion",
+        "Green chili",
+        "Peanuts",
+        "Potato",
+        "Salt",
+        "Turmeric",
+        "Boiled eggs"
+      ],
+      "prep_notes_hi": "पोहा को धोकर पानी निथार लें। मूंगफली को हल्का भून लें। प्याज और आलू को छौंकें और फिर पोहा मिला दें।",
+      "prep_notes_en": "Rinse poha and drain the water. Lightly roast peanuts. Saute onion and potato, then mix in the poha.",
+      "vizz_macros": {
+        "cal": 320,
+        "protein": 12,
+        "fat": 10,
+        "carbs": 50
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=poha%20recipe%20hindi%20recipe"
+    },
+    "lunch": {
+      "dish_hindi": "चना दाल और जीरा राइस, पापड़ के साथ",
+      "dish_english": "Chana Dal and Jeera Rice with Papad",
+      "ingredients_hindi": "चना दाल, बासमती चावल, जीरा, घी, प्याज, टमाटर, नमक, हल्दी, पापड़",
+      "ingredients_list_hi": [
+        "चना दाल",
+        "बासमती चावल",
+        "जीरा",
+        "घी",
+        "प्याज",
+        "टमाटर",
+        "नमक",
+        "हल्दी",
+        "पापड़"
+      ],
+      "ingredients_list_en": [
+        "Chana dal",
+        "Basmati rice",
+        "Cumin seeds",
+        "Ghee",
+        "Onion",
+        "Tomato",
+        "Salt",
+        "Turmeric",
+        "Papad"
+      ],
+      "prep_notes_hi": "चना दाल को भिगोकर पकाएं। इसे बॉक्स में रखकर 4-5 घंटे ताजगी से पकड़े रहेगा।",
+      "prep_notes_en": "Soak and cook chana dal. This will hold freshness for 4-5 hours in a container.",
+      "vizz_macros": {
+        "cal": 650,
+        "protein": 25,
+        "fat": 15,
+        "carbs": 100
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=chana%20dal%20jeera%20rice%20recipe%20recipe"
+    },
+    "dinner": {
+      "dish_hindi": "पालक पनीर रोटी और रायता के साथ",
+      "dish_english": "Palak Paneer with Roti and Raita",
+      "ingredients_hindi": "पालक, पनीर, प्याज, टमाटर, अदरक, लहसुन, मसाले, गेहूं का आटा, दही, खीरा",
+      "ingredients_list_hi": [
+        "पालक",
+        "पनीर",
+        "प्याज",
+        "टमाटर",
+        "अदरक",
+        "लहसुन",
+        "मसाले",
+        "गेहूं का आटा",
+        "दही",
+        "खीरा"
+      ],
+      "ingredients_list_en": [
+        "Spinach",
+        "Paneer",
+        "Onion",
+        "Tomato",
+        "Ginger",
+        "Garlic",
+        "Spices",
+        "Wheat flour",
+        "Curd",
+        "Cucumber"
+      ],
+      "prep_notes_hi": "पालक को हल्का तल लें और पनीर के साथ प्याज, टमाटर की करी बनाएं। रोटी डालें।",
+      "prep_notes_en": "Lightly fry the spinach and make a curry with paneer, onion, tomato. Serve with roti.",
+      "vizz_macros": {
+        "cal": 730,
+        "protein": 30,
+        "fat": 20,
+        "carbs": 80
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=palak%20paneer%20recipe%20recipe"
+    },
+    "vizz_daily_total_from_meals": {
+      "cal": 1700,
+      "protein": 67,
+      "fat": 45,
+      "carbs": 230
+    },
+    "vizz_daily_total_with_shake": {
+      "cal": 2000,
+      "protein": 107,
+      "fat": 50,
+      "carbs": 255
+    },
+    "macro_check": "Calories and protein slightly below targets; carbs above. Consider adding another egg for more protein."
   }
 ]
