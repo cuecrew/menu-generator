@@ -1,127 +1,121 @@
 {
-  "date": "2026-10-20 (Tuesday)",
-  "date_display": "Tuesday, October 20",
-  "date_short": "Tue · Oct 20",
+  "date": "2026-10-21 (Wednesday)",
+  "date_display": "Wednesday, October 21",
+  "date_short": "Wed · Oct 21",
   "generated_label": "Generated last night for today",
   "breakfast": {
-    "dish_hindi": "पोहा और उबले हुए अंडे",
-    "dish_english": "Poha with Boiled Egg",
-    "ingredients_hindi": "पोहा, प्याज, हरी मिर्च, मूंगफली, आलू, नमक, हल्दी, उबले हुए अंडे",
+    "dish_hindi": "सब्ज़ी ओट्स उपमा, उबले अंडे",
+    "dish_english": "Vegetable Oats Upma with Boiled Eggs",
+    "ingredients_hindi": "ओट्स, मटर, गाजर, प्याज, सरसों के बीज, करी पत्ते, हरी मिर्च, नमक, धनिया पत्ती, उबले अंडे",
     "ingredients_list_hi": [
-      "पोहा",
+      "ओट्स",
+      "मटर",
+      "गाजर",
       "प्याज",
+      "सरसों के बीज",
+      "करी पत्ते",
       "हरी मिर्च",
-      "मूंगफली",
-      "आलू",
       "नमक",
-      "हल्दी",
-      "उबले हुए अंडे"
+      "धनिया पत्ती",
+      "उबले अंडे"
     ],
     "ingredients_list_en": [
-      "Poha (flattened rice)",
+      "Oats",
+      "Peas",
+      "Carrot",
       "Onion",
+      "Mustard seeds",
+      "Curry leaves",
       "Green chili",
-      "Peanuts",
-      "Potato",
       "Salt",
-      "Turmeric",
+      "Coriander leaves",
       "Boiled eggs"
     ],
-    "prep_notes_hi": "पोहा को धोकर पानी निथार लें। मूंगफली को हल्का भून लें। प्याज और आलू को छौंकें और फिर पोहा मिला दें।",
-    "prep_notes_en": "Rinse poha and drain the water. Lightly roast peanuts. Saute onion and potato, then mix in the poha.",
+    "prep_notes_hi": "ओट्स को अच्छे से पकाएं ताकि सब्जियां मुलायम हो जाएं। अंत में ताज़ा धनिया पत्ती डालें।",
+    "prep_notes_en": "Cook the oats well so that the vegetables become soft. Add fresh coriander leaves at the end.",
     "vizz_macros": {
-      "cal": 320,
+      "cal": 280,
       "protein": 12,
       "fat": 10,
-      "carbs": 50
+      "carbs": 45
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=poha%20recipe%20hindi%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=vegetable%20oats%20upma%20recipe%20recipe"
   },
   "lunch": {
-    "dish_hindi": "चना दाल और जीरा राइस, पापड़ के साथ",
-    "dish_english": "Chana Dal and Jeera Rice with Papad",
-    "ingredients_hindi": "चना दाल, बासमती चावल, जीरा, घी, प्याज, टमाटर, नमक, हल्दी, पापड़",
+    "dish_hindi": "राजमा पुलाव, बूँदी रायता, अचार",
+    "dish_english": "Rajma Pulao with Boondi Raita and Pickle",
+    "ingredients_hindi": "बसमती चावल, राजमा, दही, बूँदी, प्याज, टमाटर, मसाले, अचार",
     "ingredients_list_hi": [
-      "चना दाल",
-      "बासमती चावल",
-      "जीरा",
-      "घी",
+      "बसमती चावल",
+      "राजमा",
+      "दही",
+      "बूँदी",
       "प्याज",
       "टमाटर",
-      "नमक",
-      "हल्दी",
-      "पापड़"
+      "मसाले",
+      "अचार"
     ],
     "ingredients_list_en": [
-      "Chana dal",
       "Basmati rice",
-      "Cumin seeds",
-      "Ghee",
+      "Kidney beans",
+      "Yogurt",
+      "Boondi",
       "Onion",
       "Tomato",
-      "Salt",
-      "Turmeric",
-      "Papad"
+      "Spices",
+      "Pickle"
     ],
-    "prep_notes_hi": "चना दाल को भिगोकर पकाएं। इसे बॉक्स में रखकर 4-5 घंटे ताजगी से पकड़े रहेगा।",
-    "prep_notes_en": "Soak and cook chana dal. This will hold freshness for 4-5 hours in a container.",
+    "prep_notes_hi": "यह राजमा पुलाव यात्रा में ले जाने और माइक्रोवेव में फिर से गरम करने के लिए उपयुक्त है।",
+    "prep_notes_en": "This Rajma Pulao is suitable for traveling and can be reheated in the microwave.",
     "vizz_macros": {
-      "cal": 650,
-      "protein": 25,
+      "cal": 600,
+      "protein": 20,
       "fat": 15,
-      "carbs": 100
+      "carbs": 90
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=chana%20dal%20jeera%20rice%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=rajma%20pulao%20recipe%20recipe"
   },
   "dinner": {
-    "dish_hindi": "पालक पनीर रोटी और रायता के साथ",
-    "dish_english": "Palak Paneer with Roti and Raita",
-    "ingredients_hindi": "पालक, पनीर, प्याज, टमाटर, अदरक, लहसुन, मसाले, गेहूं का आटा, दही, खीरा",
+    "dish_hindi": "बेगून भाजा, मसूर दाल, चपाती",
+    "dish_english": "Begun Bhaja with Masoor Dal and Chapati",
+    "ingredients_hindi": "बैंगन, मसूर दाल, आटा, मसाले, तेल, नमक",
     "ingredients_list_hi": [
-      "पालक",
-      "पनीर",
-      "प्याज",
-      "टमाटर",
-      "अदरक",
-      "लहसुन",
+      "बैंगन",
+      "मसूर दाल",
+      "आटा",
       "मसाले",
-      "गेहूं का आटा",
-      "दही",
-      "खीरा"
+      "तेल",
+      "नमक"
     ],
     "ingredients_list_en": [
-      "Spinach",
-      "Paneer",
-      "Onion",
-      "Tomato",
-      "Ginger",
-      "Garlic",
+      "Eggplant",
+      "Red lentils",
+      "Flour",
       "Spices",
-      "Wheat flour",
-      "Curd",
-      "Cucumber"
+      "Oil",
+      "Salt"
     ],
-    "prep_notes_hi": "पालक को हल्का तल लें और पनीर के साथ प्याज, टमाटर की करी बनाएं। रोटी डालें।",
-    "prep_notes_en": "Lightly fry the spinach and make a curry with paneer, onion, tomato. Serve with roti.",
+    "prep_notes_hi": "बैंगन को कुरकुरा होने तक तलें। दाल को हल्के मसालों के साथ पकाएं।",
+    "prep_notes_en": "Fry the eggplants until they are crispy. Cook the lentils with mild spices.",
     "vizz_macros": {
-      "cal": 730,
-      "protein": 30,
+      "cal": 820,
+      "protein": 38,
       "fat": 20,
-      "carbs": 80
+      "carbs": 65
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=palak%20paneer%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=begun%20bhaja%20recipe%20recipe"
   },
   "vizz_daily_total_from_meals": {
     "cal": 1700,
-    "protein": 67,
+    "protein": 70,
     "fat": 45,
-    "carbs": 230
+    "carbs": 200
   },
   "vizz_daily_total_with_shake": {
     "cal": 2000,
-    "protein": 107,
+    "protein": 110,
     "fat": 50,
-    "carbs": 255
+    "carbs": 225
   },
-  "macro_check": "Calories and protein slightly below targets; carbs above. Consider adding another egg for more protein."
+  "macro_check": "Hits overall target with shake support. Carbs slightly higher, adjust portion sizes if necessary."
 }

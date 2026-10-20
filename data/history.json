@@ -1,132 +1,5 @@
 [
   {
-    "date": "2026-09-21 (Monday)",
-    "date_display": "Monday, September 21",
-    "date_short": "Mon · Sep 21",
-    "generated_label": "Generated last night for today",
-    "breakfast": {
-      "dish_hindi": "ओट्स चिल्ला, दही, उबला अंडा (Vizz और Flatmate-2 के लिए)",
-      "dish_english": "Oats Cheela with Curd and Boiled Egg (for Vizz and Flatmate-2)",
-      "ingredients_hindi": "ओट्स, बेसन, हरी मिर्च, अदरक, दही, उबला अंडा (Vizz और Flatmate-2 के लिए), नमक, तेल",
-      "ingredients_list_hi": [
-        "ओट्स",
-        "बेसन",
-        "हरी मिर्च",
-        "अदरक",
-        "दही",
-        "उबला अंडा",
-        "नमक",
-        "तेल"
-      ],
-      "ingredients_list_en": [
-        "Oats",
-        "Gram flour",
-        "Green chili",
-        "Ginger",
-        "Curd",
-        "Boiled egg",
-        "Salt",
-        "Oil"
-      ],
-      "prep_notes_hi": "ओट्स को बेसन के साथ मिलाएं। थोड़े पानी के साथ घोल बनाएं। ऐड सब्जियाँ और तवे पर थोड़े तेल में सेंकें।",
-      "prep_notes_en": "Mix oats with gram flour. Make a batter with some water. Add vegetables and cook on a pan with minimal oil.",
-      "vizz_macros": {
-        "cal": 400,
-        "protein": 22,
-        "fat": 13,
-        "carbs": 55
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=oats%20cheela%20recipe%20recipe"
-    },
-    "lunch": {
-      "dish_hindi": "पनीर भूर्जी रोटी, आचार",
-      "dish_english": "Paneer Bhurji with Roti and Pickle",
-      "ingredients_hindi": "पनीर, प्याज, हरी मिर्च, टमाटर, हल्दी, धनिया पाउडर, गरम मसाला, नमक, रोटी, आचार",
-      "ingredients_list_hi": [
-        "पनीर",
-        "प्याज",
-        "हरी मिर्च",
-        "टमाटर",
-        "हल्दी",
-        "धनिया पाउडर",
-        "गरम मसाला",
-        "नमक",
-        "रोटी",
-        "आचार"
-      ],
-      "ingredients_list_en": [
-        "Paneer",
-        "Onion",
-        "Green chili",
-        "Tomato",
-        "Turmeric",
-        "Coriander powder",
-        "Garam masala",
-        "Salt",
-        "Roti",
-        "Pickle"
-      ],
-      "prep_notes_hi": "पनीर को मसालों के साथ प्याज और टमाटर के साथ भूनें। रोटी के साथ पैक करें। आसानी से दोपहर के भोजन में ले जा सकते हैं।",
-      "prep_notes_en": "Sauté paneer with spices, onion, and tomato. Pack with roti. Suitable for portable lunch.",
-      "vizz_macros": {
-        "cal": 600,
-        "protein": 30,
-        "fat": 28,
-        "carbs": 60
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=paneer%20bhurji%20recipe%20recipe"
-    },
-    "dinner": {
-      "dish_hindi": "साबुत मूंग खिचड़ी, पापड़, दही (Flatmate-3 को फल के लिए आम)",
-      "dish_english": "Whole Moong Khichdi with Papad and Curd (Mango for Flatmate-3)",
-      "ingredients_hindi": "साबुत मूंग, चावल, अदरक, जीरा, घी, हींग, नमक, पापड़, दही",
-      "ingredients_list_hi": [
-        "साबुत मूंग",
-        "चावल",
-        "अदरक",
-        "जीरा",
-        "घी",
-        "हींग",
-        "नमक",
-        "पापड़",
-        "दही"
-      ],
-      "ingredients_list_en": [
-        "Whole moong",
-        "Rice",
-        "Ginger",
-        "Cumin",
-        "Ghee",
-        "Asafoetida",
-        "Salt",
-        "Papad",
-        "Curd"
-      ],
-      "prep_notes_hi": "मूंग और चावल को पकाएं। जीरा और हींग का तड़का लगाएं। गरमा गरम परोसें।",
-      "prep_notes_en": "Cook moong and rice together. Temper with cumin and asafoetida. Serve hot.",
-      "vizz_macros": {
-        "cal": 600,
-        "protein": 20,
-        "fat": 10,
-        "carbs": 100
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=moong%20khichdi%20recipe%20recipe"
-    },
-    "vizz_daily_total_from_meals": {
-      "cal": 1600,
-      "protein": 72,
-      "fat": 51,
-      "carbs": 215
-    },
-    "vizz_daily_total_with_shake": {
-      "cal": 1900,
-      "protein": 112,
-      "fat": 56,
-      "carbs": 240
-    },
-    "macro_check": "Slightly under target by 100 calories, but meets protein and carb targets. Consider mid-meal fruit or nuts for Vizz."
-  },
-  {
     "date": "2026-09-22 (Tuesday)",
     "date_display": "Tuesday, September 22",
     "date_short": "Tue · Sep 22",
@@ -3556,5 +3429,126 @@
       "carbs": 255
     },
     "macro_check": "Calories and protein slightly below targets; carbs above. Consider adding another egg for more protein."
+  },
+  {
+    "date": "2026-10-21 (Wednesday)",
+    "date_display": "Wednesday, October 21",
+    "date_short": "Wed · Oct 21",
+    "generated_label": "Generated last night for today",
+    "breakfast": {
+      "dish_hindi": "सब्ज़ी ओट्स उपमा, उबले अंडे",
+      "dish_english": "Vegetable Oats Upma with Boiled Eggs",
+      "ingredients_hindi": "ओट्स, मटर, गाजर, प्याज, सरसों के बीज, करी पत्ते, हरी मिर्च, नमक, धनिया पत्ती, उबले अंडे",
+      "ingredients_list_hi": [
+        "ओट्स",
+        "मटर",
+        "गाजर",
+        "प्याज",
+        "सरसों के बीज",
+        "करी पत्ते",
+        "हरी मिर्च",
+        "नमक",
+        "धनिया पत्ती",
+        "उबले अंडे"
+      ],
+      "ingredients_list_en": [
+        "Oats",
+        "Peas",
+        "Carrot",
+        "Onion",
+        "Mustard seeds",
+        "Curry leaves",
+        "Green chili",
+        "Salt",
+        "Coriander leaves",
+        "Boiled eggs"
+      ],
+      "prep_notes_hi": "ओट्स को अच्छे से पकाएं ताकि सब्जियां मुलायम हो जाएं। अंत में ताज़ा धनिया पत्ती डालें।",
+      "prep_notes_en": "Cook the oats well so that the vegetables become soft. Add fresh coriander leaves at the end.",
+      "vizz_macros": {
+        "cal": 280,
+        "protein": 12,
+        "fat": 10,
+        "carbs": 45
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=vegetable%20oats%20upma%20recipe%20recipe"
+    },
+    "lunch": {
+      "dish_hindi": "राजमा पुलाव, बूँदी रायता, अचार",
+      "dish_english": "Rajma Pulao with Boondi Raita and Pickle",
+      "ingredients_hindi": "बसमती चावल, राजमा, दही, बूँदी, प्याज, टमाटर, मसाले, अचार",
+      "ingredients_list_hi": [
+        "बसमती चावल",
+        "राजमा",
+        "दही",
+        "बूँदी",
+        "प्याज",
+        "टमाटर",
+        "मसाले",
+        "अचार"
+      ],
+      "ingredients_list_en": [
+        "Basmati rice",
+        "Kidney beans",
+        "Yogurt",
+        "Boondi",
+        "Onion",
+        "Tomato",
+        "Spices",
+        "Pickle"
+      ],
+      "prep_notes_hi": "यह राजमा पुलाव यात्रा में ले जाने और माइक्रोवेव में फिर से गरम करने के लिए उपयुक्त है।",
+      "prep_notes_en": "This Rajma Pulao is suitable for traveling and can be reheated in the microwave.",
+      "vizz_macros": {
+        "cal": 600,
+        "protein": 20,
+        "fat": 15,
+        "carbs": 90
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=rajma%20pulao%20recipe%20recipe"
+    },
+    "dinner": {
+      "dish_hindi": "बेगून भाजा, मसूर दाल, चपाती",
+      "dish_english": "Begun Bhaja with Masoor Dal and Chapati",
+      "ingredients_hindi": "बैंगन, मसूर दाल, आटा, मसाले, तेल, नमक",
+      "ingredients_list_hi": [
+        "बैंगन",
+        "मसूर दाल",
+        "आटा",
+        "मसाले",
+        "तेल",
+        "नमक"
+      ],
+      "ingredients_list_en": [
+        "Eggplant",
+        "Red lentils",
+        "Flour",
+        "Spices",
+        "Oil",
+        "Salt"
+      ],
+      "prep_notes_hi": "बैंगन को कुरकुरा होने तक तलें। दाल को हल्के मसालों के साथ पकाएं।",
+      "prep_notes_en": "Fry the eggplants until they are crispy. Cook the lentils with mild spices.",
+      "vizz_macros": {
+        "cal": 820,
+        "protein": 38,
+        "fat": 20,
+        "carbs": 65
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=begun%20bhaja%20recipe%20recipe"
+    },
+    "vizz_daily_total_from_meals": {
+      "cal": 1700,
+      "protein": 70,
+      "fat": 45,
+      "carbs": 200
+    },
+    "vizz_daily_total_with_shake": {
+      "cal": 2000,
+      "protein": 110,
+      "fat": 50,
+      "carbs": 225
+    },
+    "macro_check": "Hits overall target with shake support. Carbs slightly higher, adjust portion sizes if necessary."
   }
 ]
