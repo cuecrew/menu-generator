@@ -1,116 +1,5 @@
 [
   {
-    "date": "2026-09-22 (Tuesday)",
-    "date_display": "Tuesday, September 22",
-    "date_short": "Tue · Sep 22",
-    "generated_label": "Generated last night for today",
-    "breakfast": {
-      "dish_hindi": "अवाकाडो टोस्ट और उबला हुआ अंडा (विज़ और Flatmate-2 के लिए)",
-      "dish_english": "Avocado Toast with Boiled Egg (for Vizz and Flatmate-2)",
-      "ingredients_hindi": "अवाकाडो, रोटी, नमक, काली मिर्च, उबला अंडा",
-      "ingredients_list_hi": [
-        "अवाकाडो",
-        "रोटी",
-        "नमक",
-        "काली मिर्च",
-        "उबला अंडा"
-      ],
-      "ingredients_list_en": [
-        "Avocado",
-        "Bread",
-        "Salt",
-        "Black Pepper",
-        "Boiled Egg"
-      ],
-      "prep_notes_hi": "अवाकाडो को मैश करें और उसे रोटी पर फैलाएं। नमक और काली मिर्च छिड़कें। उबले अंडे स्लाइस में काटें और ऊपर रखें।",
-      "prep_notes_en": "Mash the avocado and spread it on the bread. Sprinkle with salt and pepper. Slice the boiled egg and place on top.",
-      "vizz_macros": {
-        "cal": 420,
-        "protein": 12,
-        "fat": 20,
-        "carbs": 45
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=avocado%20toast%20recipe%20recipe"
-    },
-    "lunch": {
-      "dish_hindi": "दाल चावल, पापड़ और आचार",
-      "dish_english": "Dal Rice with Papad and Pickle",
-      "ingredients_hindi": "अरहर दाल, चावल, पापड़, आचार, हल्दी, नमक, जीरा",
-      "ingredients_list_hi": [
-        "अरहर दाल",
-        "चावल",
-        "पापड़",
-        "आचार",
-        "हल्दी",
-        "नमक",
-        "जीरा"
-      ],
-      "ingredients_list_en": [
-        "Toor Dal",
-        "Rice",
-        "Papad",
-        "Pickle",
-        "Turmeric",
-        "Salt",
-        "Cumin Seeds"
-      ],
-      "prep_notes_hi": "दाल को कुकर में पकाएं और मसालों के साथ छौंक लगाएं। चावल तब भी पकाएं ताकि ये गाढ़े रहें। यह यात्रा और गरम करने में आसानी करेगा।",
-      "prep_notes_en": "Cook the dal in the pressure cooker and temper it with spices. Cook the rice so it's firm. This will hold up during travel and reheating.",
-      "vizz_macros": {
-        "cal": 700,
-        "protein": 20,
-        "fat": 10,
-        "carbs": 120
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=dal%20rice%20recipe%20hindi%20recipe"
-    },
-    "dinner": {
-      "dish_hindi": "पालक पनीर और रोटी",
-      "dish_english": "Palak Paneer with Roti",
-      "ingredients_hindi": "पालक, पनीर, रोटी, अदरक, लहसुन, टमाटर, मसाले",
-      "ingredients_list_hi": [
-        "पालक",
-        "पनीर",
-        "रोटी",
-        "अदरक",
-        "लहसुन",
-        "टमाटर",
-        "मसाले"
-      ],
-      "ingredients_list_en": [
-        "Spinach",
-        "Paneer",
-        "Roti",
-        "Ginger",
-        "Garlic",
-        "Tomato",
-        "Spices"
-      ],
-      "prep_notes_hi": "पालक को बारीक पीस लें और मसालों के साथ पकाएं। पनीर के टुकड़े डालें और इसे अच्छी तरह मिलाएं। रोटी को तवे पर सेंकें।",
-      "prep_notes_en": "Blanch and puree the spinach, then cook with spices. Add paneer cubes and mix well. Cook roti on a griddle.",
-      "vizz_macros": {
-        "cal": 580,
-        "protein": 25,
-        "fat": 15,
-        "carbs": 60
-      },
-      "youtube_url": "https://www.youtube.com/results?search_query=palak%20paneer%20recipe%20recipe"
-    },
-    "vizz_daily_total_from_meals": {
-      "cal": 1700,
-      "protein": 57,
-      "fat": 45,
-      "carbs": 225
-    },
-    "vizz_daily_total_with_shake": {
-      "cal": 2000,
-      "protein": 97,
-      "fat": 50,
-      "carbs": 250
-    },
-    "macro_check": "Calories, fat, and carbs meet targets; protein is 13g short."
-  },
-  {
     "date": "2026-09-23 (Wednesday)",
     "date_display": "Wednesday, September 23",
     "date_short": "Wed · Sep 23",
@@ -3550,5 +3439,110 @@
       "carbs": 225
     },
     "macro_check": "Hits overall target with shake support. Carbs slightly higher, adjust portion sizes if necessary."
+  },
+  {
+    "date": "2026-10-22 (Thursday)",
+    "date_display": "Thursday, October 22",
+    "date_short": "Thu · Oct 22",
+    "generated_label": "Generated last night for today",
+    "breakfast": {
+      "dish_hindi": "अंडा भुर्जी और टोस्ट",
+      "dish_english": "Egg Bhurji with Toast",
+      "ingredients_hindi": "अंडा, प्याज, टमाटर, हरा मिर्च, टोस्ट",
+      "ingredients_list_hi": [
+        "अंडा",
+        "प्याज",
+        "टमाटर",
+        "हरा मिर्च",
+        "टोस्ट"
+      ],
+      "ingredients_list_en": [
+        "Egg",
+        "Onion",
+        "Tomato",
+        "Green Chili",
+        "Toast"
+      ],
+      "prep_notes_hi": "अंडे को हल्का फेंट लें। प्याज, टमाटर और हरी मिर्च को बारीक काट लें। मध्यम आंच पर प्याज और मिर्च को भूनें, फिर टमाटर और फेंटा हुआ अंडा डालें।",
+      "prep_notes_en": "Lightly beat the eggs. Finely chop onion, tomato, and green chili. Saute onion and chili on medium heat, then add tomato and beaten egg.",
+      "vizz_macros": {
+        "cal": 400,
+        "protein": 18,
+        "fat": 15,
+        "carbs": 45
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=egg%20bhurji%20recipe%20recipe"
+    },
+    "lunch": {
+      "dish_hindi": "मूँग दाल और चावल",
+      "dish_english": "Moong Dal with Rice",
+      "ingredients_hindi": "मूँग दाल, चावल, जीरा, हल्दी, नमक",
+      "ingredients_list_hi": [
+        "मूँग दाल",
+        "चावल",
+        "जीरा",
+        "हल्दी",
+        "नमक"
+      ],
+      "ingredients_list_en": [
+        "Moong Dal",
+        "Rice",
+        "Cumin Seeds",
+        "Turmeric",
+        "Salt"
+      ],
+      "prep_notes_hi": "मूँग दाल को 30 मिनट तक भिगोएं। चावल को अलग से पकाएं। मूँग दाल को जीरा और हल्दी के साथ पकाएं। इस डिश को दफ़्तर में आसानी से ले जाया जा सकता है और माइक्रोवेव में गरम किया जा सकता है।",
+      "prep_notes_en": "Soak moong dal for 30 minutes. Cook rice separately. Cook moong dal with cumin and turmeric. This dish can be easily transported and reheated in a microwave.",
+      "vizz_macros": {
+        "cal": 540,
+        "protein": 26,
+        "fat": 3,
+        "carbs": 106
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=moong%20dal%20rice%20recipe%20recipe"
+    },
+    "dinner": {
+      "dish_hindi": "पनीर बटर मसाला और रोटी",
+      "dish_english": "Paneer Butter Masala with Roti",
+      "ingredients_hindi": "पनीर, टमाटर, मक्खन, क्रीम, मसाले, रोटी",
+      "ingredients_list_hi": [
+        "पनीर",
+        "टमाटर",
+        "मक्खन",
+        "क्रीम",
+        "मसाले",
+        "रोटी"
+      ],
+      "ingredients_list_en": [
+        "Paneer",
+        "Tomato",
+        "Butter",
+        "Cream",
+        "Spices",
+        "Roti"
+      ],
+      "prep_notes_hi": "पनीर को क्यूब्स में काटें। टमाटर की प्यूरी बनाएं। मक्खन में मसाले भूनें, फिर क्यूब्स और प्यूरी डालें। आराम से 45 मिनट में बन कर तैयार हो जाएगा।",
+      "prep_notes_en": "Cut paneer into cubes. Make a puree of tomatoes. Saute spices in butter, then add puree and paneer cubes. This can be comfortably prepared in 45 minutes.",
+      "vizz_macros": {
+        "cal": 760,
+        "protein": 28,
+        "fat": 27,
+        "carbs": 70
+      },
+      "youtube_url": "https://www.youtube.com/results?search_query=paneer%20butter%20masala%20recipe%20recipe"
+    },
+    "vizz_daily_total_from_meals": {
+      "cal": 1700,
+      "protein": 72,
+      "fat": 45,
+      "carbs": 221
+    },
+    "vizz_daily_total_with_shake": {
+      "cal": 2000,
+      "protein": 112,
+      "fat": 50,
+      "carbs": 246
+    },
+    "macro_check": "Total macros meet targets, with slight excess in carbs, but well within acceptable range."
   }
 ]

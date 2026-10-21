@@ -1,121 +1,105 @@
 {
-  "date": "2026-10-21 (Wednesday)",
-  "date_display": "Wednesday, October 21",
-  "date_short": "Wed · Oct 21",
+  "date": "2026-10-22 (Thursday)",
+  "date_display": "Thursday, October 22",
+  "date_short": "Thu · Oct 22",
   "generated_label": "Generated last night for today",
   "breakfast": {
-    "dish_hindi": "सब्ज़ी ओट्स उपमा, उबले अंडे",
-    "dish_english": "Vegetable Oats Upma with Boiled Eggs",
-    "ingredients_hindi": "ओट्स, मटर, गाजर, प्याज, सरसों के बीज, करी पत्ते, हरी मिर्च, नमक, धनिया पत्ती, उबले अंडे",
+    "dish_hindi": "अंडा भुर्जी और टोस्ट",
+    "dish_english": "Egg Bhurji with Toast",
+    "ingredients_hindi": "अंडा, प्याज, टमाटर, हरा मिर्च, टोस्ट",
     "ingredients_list_hi": [
-      "ओट्स",
-      "मटर",
-      "गाजर",
-      "प्याज",
-      "सरसों के बीज",
-      "करी पत्ते",
-      "हरी मिर्च",
-      "नमक",
-      "धनिया पत्ती",
-      "उबले अंडे"
-    ],
-    "ingredients_list_en": [
-      "Oats",
-      "Peas",
-      "Carrot",
-      "Onion",
-      "Mustard seeds",
-      "Curry leaves",
-      "Green chili",
-      "Salt",
-      "Coriander leaves",
-      "Boiled eggs"
-    ],
-    "prep_notes_hi": "ओट्स को अच्छे से पकाएं ताकि सब्जियां मुलायम हो जाएं। अंत में ताज़ा धनिया पत्ती डालें।",
-    "prep_notes_en": "Cook the oats well so that the vegetables become soft. Add fresh coriander leaves at the end.",
-    "vizz_macros": {
-      "cal": 280,
-      "protein": 12,
-      "fat": 10,
-      "carbs": 45
-    },
-    "youtube_url": "https://www.youtube.com/results?search_query=vegetable%20oats%20upma%20recipe%20recipe"
-  },
-  "lunch": {
-    "dish_hindi": "राजमा पुलाव, बूँदी रायता, अचार",
-    "dish_english": "Rajma Pulao with Boondi Raita and Pickle",
-    "ingredients_hindi": "बसमती चावल, राजमा, दही, बूँदी, प्याज, टमाटर, मसाले, अचार",
-    "ingredients_list_hi": [
-      "बसमती चावल",
-      "राजमा",
-      "दही",
-      "बूँदी",
+      "अंडा",
       "प्याज",
       "टमाटर",
-      "मसाले",
-      "अचार"
+      "हरा मिर्च",
+      "टोस्ट"
     ],
     "ingredients_list_en": [
-      "Basmati rice",
-      "Kidney beans",
-      "Yogurt",
-      "Boondi",
+      "Egg",
       "Onion",
       "Tomato",
-      "Spices",
-      "Pickle"
+      "Green Chili",
+      "Toast"
     ],
-    "prep_notes_hi": "यह राजमा पुलाव यात्रा में ले जाने और माइक्रोवेव में फिर से गरम करने के लिए उपयुक्त है।",
-    "prep_notes_en": "This Rajma Pulao is suitable for traveling and can be reheated in the microwave.",
+    "prep_notes_hi": "अंडे को हल्का फेंट लें। प्याज, टमाटर और हरी मिर्च को बारीक काट लें। मध्यम आंच पर प्याज और मिर्च को भूनें, फिर टमाटर और फेंटा हुआ अंडा डालें।",
+    "prep_notes_en": "Lightly beat the eggs. Finely chop onion, tomato, and green chili. Saute onion and chili on medium heat, then add tomato and beaten egg.",
     "vizz_macros": {
-      "cal": 600,
-      "protein": 20,
+      "cal": 400,
+      "protein": 18,
       "fat": 15,
-      "carbs": 90
+      "carbs": 45
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=rajma%20pulao%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=egg%20bhurji%20recipe%20recipe"
   },
-  "dinner": {
-    "dish_hindi": "बेगून भाजा, मसूर दाल, चपाती",
-    "dish_english": "Begun Bhaja with Masoor Dal and Chapati",
-    "ingredients_hindi": "बैंगन, मसूर दाल, आटा, मसाले, तेल, नमक",
+  "lunch": {
+    "dish_hindi": "मूँग दाल और चावल",
+    "dish_english": "Moong Dal with Rice",
+    "ingredients_hindi": "मूँग दाल, चावल, जीरा, हल्दी, नमक",
     "ingredients_list_hi": [
-      "बैंगन",
-      "मसूर दाल",
-      "आटा",
-      "मसाले",
-      "तेल",
+      "मूँग दाल",
+      "चावल",
+      "जीरा",
+      "हल्दी",
       "नमक"
     ],
     "ingredients_list_en": [
-      "Eggplant",
-      "Red lentils",
-      "Flour",
-      "Spices",
-      "Oil",
+      "Moong Dal",
+      "Rice",
+      "Cumin Seeds",
+      "Turmeric",
       "Salt"
     ],
-    "prep_notes_hi": "बैंगन को कुरकुरा होने तक तलें। दाल को हल्के मसालों के साथ पकाएं।",
-    "prep_notes_en": "Fry the eggplants until they are crispy. Cook the lentils with mild spices.",
+    "prep_notes_hi": "मूँग दाल को 30 मिनट तक भिगोएं। चावल को अलग से पकाएं। मूँग दाल को जीरा और हल्दी के साथ पकाएं। इस डिश को दफ़्तर में आसानी से ले जाया जा सकता है और माइक्रोवेव में गरम किया जा सकता है।",
+    "prep_notes_en": "Soak moong dal for 30 minutes. Cook rice separately. Cook moong dal with cumin and turmeric. This dish can be easily transported and reheated in a microwave.",
     "vizz_macros": {
-      "cal": 820,
-      "protein": 38,
-      "fat": 20,
-      "carbs": 65
+      "cal": 540,
+      "protein": 26,
+      "fat": 3,
+      "carbs": 106
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=begun%20bhaja%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=moong%20dal%20rice%20recipe%20recipe"
+  },
+  "dinner": {
+    "dish_hindi": "पनीर बटर मसाला और रोटी",
+    "dish_english": "Paneer Butter Masala with Roti",
+    "ingredients_hindi": "पनीर, टमाटर, मक्खन, क्रीम, मसाले, रोटी",
+    "ingredients_list_hi": [
+      "पनीर",
+      "टमाटर",
+      "मक्खन",
+      "क्रीम",
+      "मसाले",
+      "रोटी"
+    ],
+    "ingredients_list_en": [
+      "Paneer",
+      "Tomato",
+      "Butter",
+      "Cream",
+      "Spices",
+      "Roti"
+    ],
+    "prep_notes_hi": "पनीर को क्यूब्स में काटें। टमाटर की प्यूरी बनाएं। मक्खन में मसाले भूनें, फिर क्यूब्स और प्यूरी डालें। आराम से 45 मिनट में बन कर तैयार हो जाएगा।",
+    "prep_notes_en": "Cut paneer into cubes. Make a puree of tomatoes. Saute spices in butter, then add puree and paneer cubes. This can be comfortably prepared in 45 minutes.",
+    "vizz_macros": {
+      "cal": 760,
+      "protein": 28,
+      "fat": 27,
+      "carbs": 70
+    },
+    "youtube_url": "https://www.youtube.com/results?search_query=paneer%20butter%20masala%20recipe%20recipe"
   },
   "vizz_daily_total_from_meals": {
     "cal": 1700,
-    "protein": 70,
+    "protein": 72,
     "fat": 45,
-    "carbs": 200
+    "carbs": 221
   },
   "vizz_daily_total_with_shake": {
     "cal": 2000,
-    "protein": 110,
+    "protein": 112,
     "fat": 50,
-    "carbs": 225
+    "carbs": 246
   },
-  "macro_check": "Hits overall target with shake support. Carbs slightly higher, adjust portion sizes if necessary."
+  "macro_check": "Total macros meet targets, with slight excess in carbs, but well within acceptable range."
 }
