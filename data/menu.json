@@ -1,105 +1,133 @@
 {
-  "date": "2026-10-22 (Thursday)",
-  "date_display": "Thursday, October 22",
-  "date_short": "Thu · Oct 22",
+  "date": "2026-10-23 (Friday)",
+  "date_display": "Friday, October 23",
+  "date_short": "Fri · Oct 23",
   "generated_label": "Generated last night for today",
   "breakfast": {
-    "dish_hindi": "अंडा भुर्जी और टोस्ट",
-    "dish_english": "Egg Bhurji with Toast",
-    "ingredients_hindi": "अंडा, प्याज, टमाटर, हरा मिर्च, टोस्ट",
+    "dish_hindi": "मसाला ओट्स, उबला अंडा",
+    "dish_english": "Masala Oats with Boiled Egg",
+    "ingredients_hindi": "ओट्स, प्याज, टमाटर, मटर, गाजर, मसाले, नमक, पानी, उबला अंडा",
     "ingredients_list_hi": [
-      "अंडा",
+      "ओट्स",
       "प्याज",
       "टमाटर",
-      "हरा मिर्च",
-      "टोस्ट"
+      "मटर",
+      "गाजर",
+      "मसाले",
+      "नमक",
+      "पानी",
+      "उबला अंडा"
     ],
     "ingredients_list_en": [
-      "Egg",
+      "Oats",
       "Onion",
       "Tomato",
-      "Green Chili",
-      "Toast"
+      "Green Peas",
+      "Carrot",
+      "Spices",
+      "Salt",
+      "Water",
+      "Boiled Egg"
     ],
-    "prep_notes_hi": "अंडे को हल्का फेंट लें। प्याज, टमाटर और हरी मिर्च को बारीक काट लें। मध्यम आंच पर प्याज और मिर्च को भूनें, फिर टमाटर और फेंटा हुआ अंडा डालें।",
-    "prep_notes_en": "Lightly beat the eggs. Finely chop onion, tomato, and green chili. Saute onion and chili on medium heat, then add tomato and beaten egg.",
+    "prep_notes_hi": "ओट्स को पानी में पकाएं और मसाले डालें। सब्जियाँ डालकर पकाएं। उबला अंडा साइड में रखें।",
+    "prep_notes_en": "Cook oats in water, add spices. Add vegetables and cook. Serve with boiled egg on the side.",
     "vizz_macros": {
-      "cal": 400,
+      "cal": 370,
       "protein": 18,
-      "fat": 15,
-      "carbs": 45
+      "fat": 10,
+      "carbs": 55
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=egg%20bhurji%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=masala%20oats%20recipe%20recipe"
   },
   "lunch": {
-    "dish_hindi": "मूँग दाल और चावल",
-    "dish_english": "Moong Dal with Rice",
-    "ingredients_hindi": "मूँग दाल, चावल, जीरा, हल्दी, नमक",
+    "dish_hindi": "सोया पुलाव, बूंदी का रायता और बंदगोभी का सलाद",
+    "dish_english": "Soya Pulao with Boondi Raita and Cabbage Salad",
+    "ingredients_hindi": "सोया बीन, चावल, प्याज, टमाटर, मटर, मसाले, रायता, बूंदी, दही, बंदगोभी, नींबू, नमक",
     "ingredients_list_hi": [
-      "मूँग दाल",
+      "सोया बीन",
       "चावल",
-      "जीरा",
-      "हल्दी",
+      "प्याज",
+      "टमाटर",
+      "मटर",
+      "मसाले",
+      "रायता",
+      "बूंदी",
+      "दही",
+      "बंदगोभी",
+      "नींबू",
       "नमक"
     ],
     "ingredients_list_en": [
-      "Moong Dal",
+      "Soya Chunks",
       "Rice",
-      "Cumin Seeds",
-      "Turmeric",
+      "Onion",
+      "Tomato",
+      "Green Peas",
+      "Spices",
+      "Raita",
+      "Boondi",
+      "Curd",
+      "Cabbage",
+      "Lemon",
       "Salt"
     ],
-    "prep_notes_hi": "मूँग दाल को 30 मिनट तक भिगोएं। चावल को अलग से पकाएं। मूँग दाल को जीरा और हल्दी के साथ पकाएं। इस डिश को दफ़्तर में आसानी से ले जाया जा सकता है और माइक्रोवेव में गरम किया जा सकता है।",
-    "prep_notes_en": "Soak moong dal for 30 minutes. Cook rice separately. Cook moong dal with cumin and turmeric. This dish can be easily transported and reheated in a microwave.",
+    "prep_notes_hi": "सोया को भिगोकर चावल और सब्जियों के साथ पुलाव बनाएं। यह आसान से पैक होता है और गर्म खाने पर अच्छा लगता है।",
+    "prep_notes_en": "Soak soya, cook with rice and vegetables. It packs easily and reheats well.",
     "vizz_macros": {
-      "cal": 540,
-      "protein": 26,
-      "fat": 3,
-      "carbs": 106
+      "cal": 550,
+      "protein": 25,
+      "fat": 12,
+      "carbs": 95
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=moong%20dal%20rice%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=soyabean%20pulao%20recipe%20recipe"
   },
   "dinner": {
-    "dish_hindi": "पनीर बटर मसाला और रोटी",
-    "dish_english": "Paneer Butter Masala with Roti",
-    "ingredients_hindi": "पनीर, टमाटर, मक्खन, क्रीम, मसाले, रोटी",
+    "dish_hindi": "मिक्स्ड वेज पैस्ता, लहसुन की ब्रेड",
+    "dish_english": "Mixed Veg Pasta with Garlic Bread",
+    "ingredients_hindi": "पास्ता, शिमला मिर्च, ब्रोकली, गाजर, मटर, टमाटर सॉस, लहसुन, ब्रेड, मक्खन",
     "ingredients_list_hi": [
-      "पनीर",
-      "टमाटर",
-      "मक्खन",
-      "क्रीम",
-      "मसाले",
-      "रोटी"
+      "पास्ता",
+      "शिमला मिर्च",
+      "ब्रोकली",
+      "गाजर",
+      "मटर",
+      "टमाटर सॉस",
+      "लहसुन",
+      "ब्रेड",
+      "मक्खन"
     ],
     "ingredients_list_en": [
-      "Paneer",
-      "Tomato",
-      "Butter",
-      "Cream",
-      "Spices",
-      "Roti"
+      "Pasta",
+      "Bell Pepper",
+      "Broccoli",
+      "Carrot",
+      "Green Peas",
+      "Tomato Sauce",
+      "Garlic",
+      "Bread",
+      "Butter"
     ],
-    "prep_notes_hi": "पनीर को क्यूब्स में काटें। टमाटर की प्यूरी बनाएं। मक्खन में मसाले भूनें, फिर क्यूब्स और प्यूरी डालें। आराम से 45 मिनट में बन कर तैयार हो जाएगा।",
-    "prep_notes_en": "Cut paneer into cubes. Make a puree of tomatoes. Saute spices in butter, then add puree and paneer cubes. This can be comfortably prepared in 45 minutes.",
+    "prep_notes_hi": "पास्ता को सब्जियों और टमाटर सॉस के साथ पकाएं। गरम-गरम लहसुन की ब्रेड के साथ परोसें।",
+    "prep_notes_en": "Cook pasta with vegetables and tomato sauce. Serve hot with garlic bread.",
     "vizz_macros": {
-      "cal": 760,
-      "protein": 28,
-      "fat": 27,
+      "cal": 480,
+      "protein": 12,
+      "fat": 15,
       "carbs": 70
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=paneer%20butter%20masala%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=mixed%20veg%20pasta%20recipe%20recipe"
   },
   "vizz_daily_total_from_meals": {
-    "cal": 1700,
-    "protein": 72,
-    "fat": 45,
-    "carbs": 221
+    "cal": 1400,
+    "protein": 55,
+    "fat": 37,
+    "carbs": 220
   },
   "vizz_daily_total_with_shake": {
-    "cal": 2000,
-    "protein": 112,
-    "fat": 50,
-    "carbs": 246
+    "cal": 1700,
+    "protein": 95,
+    "fat": 42,
+    "carbs": 245
   },
-  "macro_check": "Total macros meet targets, with slight excess in carbs, but well within acceptable range."
+  "macro_check": "Calorie and carbs targets met. Protein slightly low; consider a larger portion or adding more soya to lunch."
 }
