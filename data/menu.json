@@ -1,133 +1,117 @@
 {
-  "date": "2026-10-23 (Friday)",
-  "date_display": "Friday, October 23",
-  "date_short": "Fri · Oct 23",
+  "date": "2026-10-24 (Saturday)",
+  "date_display": "Saturday, October 24",
+  "date_short": "Sat · Oct 24",
   "generated_label": "Generated last night for today",
   "breakfast": {
-    "dish_hindi": "मसाला ओट्स, उबला अंडा",
-    "dish_english": "Masala Oats with Boiled Egg",
-    "ingredients_hindi": "ओट्स, प्याज, टमाटर, मटर, गाजर, मसाले, नमक, पानी, उबला अंडा",
+    "dish_hindi": "पोहा और उबला अंडा",
+    "dish_english": "Poha with Boiled Egg",
+    "ingredients_hindi": "पोहा, प्याज, मटर, गाजर, हरी मिर्च, करी पत्ते, सरसों के दाने, नमक, नींबू, उबला अंडा",
     "ingredients_list_hi": [
-      "ओट्स",
+      "पोहा",
       "प्याज",
-      "टमाटर",
       "मटर",
       "गाजर",
-      "मसाले",
+      "हरी मिर्च",
+      "करी पत्ते",
+      "सरसों के दाने",
       "नमक",
-      "पानी",
+      "नींबू",
       "उबला अंडा"
     ],
     "ingredients_list_en": [
-      "Oats",
+      "Poha (flattened rice)",
       "Onion",
-      "Tomato",
-      "Green Peas",
+      "Green peas",
       "Carrot",
-      "Spices",
+      "Green chili",
+      "Curry leaves",
+      "Mustard seeds",
       "Salt",
-      "Water",
-      "Boiled Egg"
+      "Lemon",
+      "Boiled egg"
     ],
-    "prep_notes_hi": "ओट्स को पानी में पकाएं और मसाले डालें। सब्जियाँ डालकर पकाएं। उबला अंडा साइड में रखें।",
-    "prep_notes_en": "Cook oats in water, add spices. Add vegetables and cook. Serve with boiled egg on the side.",
+    "prep_notes_hi": "सरसों के दानों का तड़का लगाएं और प्याज, मटर, गाजर डालकर भूनें। जब सब्जियां नरम हो जाएं, तो भीगे हुए पोहे और मसाले डालें।",
+    "prep_notes_en": "Temper with mustard seeds and sauté onion, peas, and carrots. Once softened, add soaked poha and spices.",
     "vizz_macros": {
-      "cal": 370,
+      "cal": 420,
       "protein": 18,
-      "fat": 10,
-      "carbs": 55
+      "fat": 14,
+      "carbs": 60
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=masala%20oats%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=poha%20recipe%20hindi%20recipe"
   },
   "lunch": {
-    "dish_hindi": "सोया पुलाव, बूंदी का रायता और बंदगोभी का सलाद",
-    "dish_english": "Soya Pulao with Boondi Raita and Cabbage Salad",
-    "ingredients_hindi": "सोया बीन, चावल, प्याज, टमाटर, मटर, मसाले, रायता, बूंदी, दही, बंदगोभी, नींबू, नमक",
+    "dish_hindi": "चने की सब्जी और चपाती",
+    "dish_english": "Chickpea Curry with Chapati",
+    "ingredients_hindi": "काबुली चना, टमाटर, प्याज, मसाले, अदरक लहसुन पेस्ट, चपाती",
     "ingredients_list_hi": [
-      "सोया बीन",
-      "चावल",
-      "प्याज",
+      "काबुली चना",
       "टमाटर",
-      "मटर",
+      "प्याज",
       "मसाले",
-      "रायता",
-      "बूंदी",
-      "दही",
-      "बंदगोभी",
-      "नींबू",
-      "नमक"
+      "अदरक लहसुन पेस्ट",
+      "चपाती"
     ],
     "ingredients_list_en": [
-      "Soya Chunks",
-      "Rice",
-      "Onion",
+      "Chickpeas",
       "Tomato",
-      "Green Peas",
+      "Onion",
       "Spices",
-      "Raita",
-      "Boondi",
-      "Curd",
-      "Cabbage",
-      "Lemon",
-      "Salt"
+      "Ginger garlic paste",
+      "Chapati"
     ],
-    "prep_notes_hi": "सोया को भिगोकर चावल और सब्जियों के साथ पुलाव बनाएं। यह आसान से पैक होता है और गर्म खाने पर अच्छा लगता है।",
-    "prep_notes_en": "Soak soya, cook with rice and vegetables. It packs easily and reheats well.",
+    "prep_notes_hi": "चना को पहले से भिगो कर उबाल लें। प्याज और अदरक लहसुन पेस्ट का भूनें। टमाटर और मसाले डालें। पैक करने के लिए विशेष सूचना: इसे पोर्टेबल और गर्म करने में आसान बनाना होगा।",
+    "prep_notes_en": "Soak and boil chickpeas in advance. Sauté onions and ginger-garlic paste. Add tomatoes and spices. Note for packaging: It must be portable and easy to reheat.",
     "vizz_macros": {
-      "cal": 550,
-      "protein": 25,
+      "cal": 600,
+      "protein": 22,
       "fat": 12,
       "carbs": 95
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=soyabean%20pulao%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=chickpea%20curry%20chapati%20recipe%20recipe"
   },
   "dinner": {
-    "dish_hindi": "मिक्स्ड वेज पैस्ता, लहसुन की ब्रेड",
-    "dish_english": "Mixed Veg Pasta with Garlic Bread",
-    "ingredients_hindi": "पास्ता, शिमला मिर्च, ब्रोकली, गाजर, मटर, टमाटर सॉस, लहसुन, ब्रेड, मक्खन",
+    "dish_hindi": "पनीर टिक्का और फुल्का",
+    "dish_english": "Paneer Tikka with Fulka",
+    "ingredients_hindi": "पनीर, दही, मसाले, प्याज, शिमला मिर्च, फुल्का",
     "ingredients_list_hi": [
-      "पास्ता",
+      "पनीर",
+      "दही",
+      "मसाले",
+      "प्याज",
       "शिमला मिर्च",
-      "ब्रोकली",
-      "गाजर",
-      "मटर",
-      "टमाटर सॉस",
-      "लहसुन",
-      "ब्रेड",
-      "मक्खन"
+      "फुल्का"
     ],
     "ingredients_list_en": [
-      "Pasta",
-      "Bell Pepper",
-      "Broccoli",
-      "Carrot",
-      "Green Peas",
-      "Tomato Sauce",
-      "Garlic",
-      "Bread",
-      "Butter"
+      "Paneer",
+      "Yogurt",
+      "Spices",
+      "Onion",
+      "Bell pepper",
+      "Fulka"
     ],
-    "prep_notes_hi": "पास्ता को सब्जियों और टमाटर सॉस के साथ पकाएं। गरम-गरम लहसुन की ब्रेड के साथ परोसें।",
-    "prep_notes_en": "Cook pasta with vegetables and tomato sauce. Serve hot with garlic bread.",
+    "prep_notes_hi": "पनीर को दही और मसालों में मैरिनेट करके ग्रिल करें। इसे प्याज और शिमला मिर्च के साथ पकाएं।",
+    "prep_notes_en": "Marinate paneer in yogurt and spices, then grill. Cook with onion and bell pepper.",
     "vizz_macros": {
-      "cal": 480,
-      "protein": 12,
-      "fat": 15,
-      "carbs": 70
+      "cal": 680,
+      "protein": 34,
+      "fat": 26,
+      "carbs": 55
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=mixed%20veg%20pasta%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=paneer%20tikka%20recipe%20recipe"
   },
   "vizz_daily_total_from_meals": {
-    "cal": 1400,
-    "protein": 55,
-    "fat": 37,
-    "carbs": 220
+    "cal": 1700,
+    "protein": 74,
+    "fat": 52,
+    "carbs": 210
   },
   "vizz_daily_total_with_shake": {
-    "cal": 1700,
-    "protein": 95,
-    "fat": 42,
-    "carbs": 245
+    "cal": 2000,
+    "protein": 114,
+    "fat": 57,
+    "carbs": 235
   },
-  "macro_check": "Calorie and carbs targets met. Protein slightly low; consider a larger portion or adding more soya to lunch."
+  "macro_check": "Slightly exceeds protein and carb targets. Adjust portion sizes if necessary."
 }
