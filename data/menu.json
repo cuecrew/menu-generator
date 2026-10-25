@@ -1,135 +1,111 @@
 {
-  "date": "2026-10-25 (Sunday)",
-  "date_display": "Sunday, October 25",
-  "date_short": "Sun · Oct 25",
+  "date": "2026-10-26 (Monday)",
+  "date_display": "Monday, October 26",
+  "date_short": "Mon · Oct 26",
   "generated_label": "Generated last night for today",
   "breakfast": {
-    "dish_hindi": "सब्जियों के साथ उपमा, उबला अंडा",
-    "dish_english": "Vegetable Upma with Boiled Egg",
-    "ingredients_hindi": "सूजी, मटर, गाजर, प्याज, टमाटर, हरी मिर्च, धनिया, नमक, तेल, उबला अंडा",
+    "dish_hindi": "सूजी का चीला, उबला अंडा",
+    "dish_english": "Sooji Cheela with Boiled Egg",
+    "ingredients_hindi": "सूजी, दही, हरी मिर्च, प्याज, टमाटर, धनिया, उबला अंडा",
     "ingredients_list_hi": [
       "सूजी",
-      "मटर",
-      "गाजर",
+      "दही",
+      "हरी मिर्च",
       "प्याज",
       "टमाटर",
-      "हरी मिर्च",
       "धनिया",
-      "नमक",
-      "तेल",
       "उबला अंडा"
     ],
     "ingredients_list_en": [
-      "Semolina",
-      "Peas",
-      "Carrot",
+      "Sooji (semolina)",
+      "Yogurt",
+      "Green Chilli",
       "Onion",
       "Tomato",
-      "Green Chili",
       "Coriander",
-      "Salt",
-      "Oil",
       "Boiled Egg"
     ],
-    "prep_notes_hi": "सब्जियों को छोटे टुकड़ों में काट लें और अच्छी तरह से पकाएँ। सूजी को भूनना सुनिश्चित करें ताकि इसका स्वाद अच्छा हो।",
-    "prep_notes_en": "Chop the vegetables finely and cook them thoroughly. Ensure semolina is roasted properly for good flavor.",
+    "prep_notes_hi": "सूजी का चीला बनाने के लिए, पहले सूजी और दही का घोल तैयार करें। इसे 10 मिनट के लिए फूलने दें। सब्जियाँ मिलाएं और धीमी आंच पर सेंकें।",
+    "prep_notes_en": "To make sooji cheela, prepare a batter with semolina and yogurt. Let it sit for 10 minutes to thicken. Add vegetables and cook on low flame.",
     "vizz_macros": {
-      "cal": 450,
-      "protein": 14,
+      "cal": 400,
+      "protein": 16,
       "fat": 10,
-      "carbs": 75
+      "carbs": 57
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=veg%20upma%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=sooji%20cheela%20recipe%20recipe"
   },
   "lunch": {
-    "dish_hindi": "लौकी का चाना दाल, जीरा चावल",
-    "dish_english": "Bottle Gourd Chana Dal with Jeera Rice",
-    "ingredients_hindi": "लौकी, चना दाल, प्याज, टमाटर, जीरा, बासमती चावल, नमक, तेल, हल्दी, धनिया",
+    "dish_hindi": "राजमा चावल, धनिया की चटनी",
+    "dish_english": "Rajma Rice with Coriander Chutney",
+    "ingredients_hindi": "राजमा, चावल, प्याज, टमाटर, मसाले, धनिया",
     "ingredients_list_hi": [
-      "लौकी",
-      "चना दाल",
+      "राजमा",
+      "चावल",
       "प्याज",
       "टमाटर",
-      "जीरा",
-      "बासमती चावल",
-      "नमक",
-      "तेल",
-      "हल्दी",
+      "मसाले",
       "धनिया"
     ],
     "ingredients_list_en": [
-      "Bottle Gourd",
-      "Chana Dal",
+      "Rajma (Kidney Beans)",
+      "Rice",
       "Onion",
       "Tomato",
-      "Cumin Seeds",
-      "Basmati Rice",
-      "Salt",
-      "Oil",
-      "Turmeric",
+      "Spices",
       "Coriander"
     ],
-    "prep_notes_hi": "इस व्यंजन को ऑफिस के लिए लेना आसान है। यह बिना फ्रिज के 4-5 घंटे चलता है और माइक्रोवेव में आसानी से गर्म किया जा सकता है।",
-    "prep_notes_en": "This dish is easy to carry for office. It stays well unrefrigerated for 4-5 hours and can be reheated in the microwave easily.",
+    "prep_notes_hi": "यह लंच ऑफिस ले जाने के लिए उपयुक्त है। माइक्रोवेव में आसानी से गर्म किया जा सकता है।",
+    "prep_notes_en": "This lunch is suitable for carrying to the office. Easily reheatable in a microwave.",
     "vizz_macros": {
-      "cal": 700,
+      "cal": 650,
       "protein": 24,
-      "fat": 10,
-      "carbs": 120
+      "fat": 8,
+      "carbs": 117
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=lauki%20chana%20dal%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=rajma%20rice%20recipe%20hindi%20recipe"
   },
   "dinner": {
-    "dish_hindi": "पालक पनीर, फुल्का, पापड़",
-    "dish_english": "Palak Paneer with Fulka and Papad",
-    "ingredients_hindi": "पालक, पनीर, प्याज, लहसुन, अदरक, टमाटर, नमक, गरम मसाला, तेल, गेहूं का आटा, पापड़",
+    "dish_hindi": "गोभी मटर की सब्जी, चपाती और साधारण सलाद",
+    "dish_english": "Cauliflower and Peas Curry with Chapati and Simple Salad",
+    "ingredients_hindi": "गोभी, मटर, चपाती का आटा, मसाले, टमाटर, प्याज",
     "ingredients_list_hi": [
-      "पालक",
-      "पनीर",
-      "प्याज",
-      "लहसुन",
-      "अदरक",
+      "गोभी",
+      "मटर",
+      "चपाती का आटा",
+      "मसाले",
       "टमाटर",
-      "नमक",
-      "गरम मसाला",
-      "तेल",
-      "गेहूं का आटा",
-      "पापड़"
+      "प्याज"
     ],
     "ingredients_list_en": [
-      "Spinach",
-      "Paneer",
-      "Onion",
-      "Garlic",
-      "Ginger",
+      "Cauliflower",
+      "Peas",
+      "Wheat Flour for Chapati",
+      "Spices",
       "Tomato",
-      "Salt",
-      "Garam Masala",
-      "Oil",
-      "Wheat Flour",
-      "Papad"
+      "Onion"
     ],
-    "prep_notes_hi": "पालक को पकाने से पहले हल्का उबाल लें और प्यूरी बना लें। पनीर को ताजे टमाटर ग्रेवी में पकाएं।",
-    "prep_notes_en": "Blanch the spinach before making a puree. Cook the paneer in fresh tomato gravy.",
+    "prep_notes_hi": "गोभी और मटर को मसालों के साथ अच्छी तरह भूनें ताकि स्वाद भरपूर आए। चपाती को नरम बनाए रखने के लिए तुरंत ढकें।",
+    "prep_notes_en": "Sauté cauliflower and peas well with spices for full flavor. Cover chapati immediately to keep it soft.",
     "vizz_macros": {
-      "cal": 550,
-      "protein": 32,
-      "fat": 25,
-      "carbs": 60
+      "cal": 650,
+      "protein": 18,
+      "fat": 16,
+      "carbs": 90
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=palak%20paneer%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=gobhi%20matar%20sabzi%20recipe%20recipe"
   },
   "vizz_daily_total_from_meals": {
     "cal": 1700,
-    "protein": 70,
-    "fat": 45,
-    "carbs": 255
+    "protein": 58,
+    "fat": 34,
+    "carbs": 264
   },
   "vizz_daily_total_with_shake": {
     "cal": 2000,
-    "protein": 110,
-    "fat": 50,
-    "carbs": 280
+    "protein": 98,
+    "fat": 39,
+    "carbs": 289
   },
-  "macro_check": "Caloric target achieved. Protein levels are met, but carbs exceed by 65g - consider adjusting meal portions."
+  "macro_check": "Calories and carb target hit but protein is 12g short. Consider adding more legumes for protein."
 }
