@@ -1,111 +1,133 @@
 {
-  "date": "2026-10-26 (Monday)",
-  "date_display": "Monday, October 26",
-  "date_short": "Mon · Oct 26",
+  "date": "2026-10-27 (Tuesday)",
+  "date_display": "Tuesday, October 27",
+  "date_short": "Tue · Oct 27",
   "generated_label": "Generated last night for today",
   "breakfast": {
-    "dish_hindi": "सूजी का चीला, उबला अंडा",
-    "dish_english": "Sooji Cheela with Boiled Egg",
-    "ingredients_hindi": "सूजी, दही, हरी मिर्च, प्याज, टमाटर, धनिया, उबला अंडा",
+    "dish_hindi": "अंडा पराठा और नींबू अचार",
+    "dish_english": "Egg Paratha with Lime Pickle",
+    "ingredients_hindi": "गेहूं का आटा, अंडा, हरी मिर्च, धनिया, धनिया पाउडर, नमक, तेल, नींबू अचार",
     "ingredients_list_hi": [
-      "सूजी",
-      "दही",
+      "गेहूं का आटा",
+      "अंडा",
       "हरी मिर्च",
-      "प्याज",
-      "टमाटर",
       "धनिया",
-      "उबला अंडा"
+      "धनिया पाउडर",
+      "नमक",
+      "तेल",
+      "नींबू अचार"
     ],
     "ingredients_list_en": [
-      "Sooji (semolina)",
-      "Yogurt",
-      "Green Chilli",
-      "Onion",
-      "Tomato",
-      "Coriander",
-      "Boiled Egg"
+      "Wheat flour",
+      "Egg",
+      "Green chili",
+      "Coriander leaves",
+      "Coriander powder",
+      "Salt",
+      "Oil",
+      "Lime pickle"
     ],
-    "prep_notes_hi": "सूजी का चीला बनाने के लिए, पहले सूजी और दही का घोल तैयार करें। इसे 10 मिनट के लिए फूलने दें। सब्जियाँ मिलाएं और धीमी आंच पर सेंकें।",
-    "prep_notes_en": "To make sooji cheela, prepare a batter with semolina and yogurt. Let it sit for 10 minutes to thicken. Add vegetables and cook on low flame.",
+    "prep_notes_hi": "गूँथे हुए आटे में कटी हुई हरी मिर्च और धनिया मिलाएँ। पतला रोटी बेलकर उसपर फेंटा हुआ अंडा फैलाएँ और परांठे को सेक लें।",
+    "prep_notes_en": "Mix chopped green chili and coriander leaves into the dough. Roll a thin roti, spread beaten egg on it, and cook the paratha.",
     "vizz_macros": {
-      "cal": 400,
-      "protein": 16,
-      "fat": 10,
-      "carbs": 57
+      "cal": 450,
+      "protein": 18,
+      "fat": 15,
+      "carbs": 60
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=sooji%20cheela%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=egg%20paratha%20recipe%20recipe"
   },
   "lunch": {
-    "dish_hindi": "राजमा चावल, धनिया की चटनी",
-    "dish_english": "Rajma Rice with Coriander Chutney",
-    "ingredients_hindi": "राजमा, चावल, प्याज, टमाटर, मसाले, धनिया",
+    "dish_hindi": "दाल तड़का और जीरा राइस",
+    "dish_english": "Dal Tadka with Jeera Rice",
+    "ingredients_hindi": "तूर दाल, चावल, जीरा, घी, प्याज, लहसुन, टमाटर, हरी मिर्च, हल्दी पाउडर, लाल मिर्च पाउडर, नमक",
     "ingredients_list_hi": [
-      "राजमा",
+      "तूर दाल",
       "चावल",
+      "जीरा",
+      "घी",
       "प्याज",
+      "लहसुन",
       "टमाटर",
-      "मसाले",
-      "धनिया"
+      "हरी मिर्च",
+      "हल्दी पाउडर",
+      "लाल मिर्च पाउडर",
+      "नमक"
     ],
     "ingredients_list_en": [
-      "Rajma (Kidney Beans)",
+      "Toor dal",
       "Rice",
+      "Cumin seeds",
+      "Ghee",
       "Onion",
+      "Garlic",
       "Tomato",
-      "Spices",
-      "Coriander"
+      "Green chili",
+      "Turmeric powder",
+      "Red chili powder",
+      "Salt"
     ],
-    "prep_notes_hi": "यह लंच ऑफिस ले जाने के लिए उपयुक्त है। माइक्रोवेव में आसानी से गर्म किया जा सकता है।",
-    "prep_notes_en": "This lunch is suitable for carrying to the office. Easily reheatable in a microwave.",
+    "prep_notes_hi": "दाल को अच्छे से पका लें और ऊपर से घी में तड़का लगाएँ। जीरा राइस को हल्का भूनकर पकाएँ। यह यात्रा और गर्म करने के लिए आदर्श है।",
+    "prep_notes_en": "Cook the dal thoroughly and top with ghee tempering. Toast the cumin in the rice and cook it. It is ideal for travel and reheating.",
     "vizz_macros": {
-      "cal": 650,
-      "protein": 24,
-      "fat": 8,
-      "carbs": 117
+      "cal": 690,
+      "protein": 29,
+      "fat": 12,
+      "carbs": 110
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=rajma%20rice%20recipe%20hindi%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=dal%20tadka%20jeera%20rice%20recipe"
   },
   "dinner": {
-    "dish_hindi": "गोभी मटर की सब्जी, चपाती और साधारण सलाद",
-    "dish_english": "Cauliflower and Peas Curry with Chapati and Simple Salad",
-    "ingredients_hindi": "गोभी, मटर, चपाती का आटा, मसाले, टमाटर, प्याज",
+    "dish_hindi": "वेजिटेबल पुलाव और पुदीना रायता",
+    "dish_english": "Vegetable Pulao with Mint Raita",
+    "ingredients_hindi": "बासमती चावल, मटर, गाजर, बीन्स, फूलगोभी, पुदीना, दही, जीरा, धनिया पाउडर, गरम मसाला, नमक",
     "ingredients_list_hi": [
-      "गोभी",
+      "बासमती चावल",
       "मटर",
-      "चपाती का आटा",
-      "मसाले",
-      "टमाटर",
-      "प्याज"
+      "गाजर",
+      "बीन्स",
+      "फूलगोभी",
+      "पुदीना",
+      "दही",
+      "जीरा",
+      "धनिया पाउडर",
+      "गरम मसाला",
+      "नमक"
     ],
     "ingredients_list_en": [
-      "Cauliflower",
+      "Basmati rice",
       "Peas",
-      "Wheat Flour for Chapati",
-      "Spices",
-      "Tomato",
-      "Onion"
+      "Carrot",
+      "Beans",
+      "Cauliflower",
+      "Mint leaves",
+      "Yogurt",
+      "Cumin seeds",
+      "Coriander powder",
+      "Garam masala",
+      "Salt"
     ],
-    "prep_notes_hi": "गोभी और मटर को मसालों के साथ अच्छी तरह भूनें ताकि स्वाद भरपूर आए। चपाती को नरम बनाए रखने के लिए तुरंत ढकें।",
-    "prep_notes_en": "Sauté cauliflower and peas well with spices for full flavor. Cover chapati immediately to keep it soft.",
+    "prep_notes_hi": "चावल को सब्जियों और मसालों के साथ पकाएं। पुदीना रायता बनाने के लिए ताजे पुदीना को दही में मिलाएं।",
+    "prep_notes_en": "Cook the rice with vegetables and spices. For mint raita, mix fresh mint leaves with yogurt.",
     "vizz_macros": {
-      "cal": 650,
-      "protein": 18,
-      "fat": 16,
+      "cal": 560,
+      "protein": 10,
+      "fat": 12,
       "carbs": 90
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=gobhi%20matar%20sabzi%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=vegetable%20pulao%20recipe%20recipe"
   },
   "vizz_daily_total_from_meals": {
     "cal": 1700,
-    "protein": 58,
-    "fat": 34,
-    "carbs": 264
+    "protein": 57,
+    "fat": 39,
+    "carbs": 260
   },
   "vizz_daily_total_with_shake": {
     "cal": 2000,
-    "protein": 98,
-    "fat": 39,
-    "carbs": 289
+    "protein": 97,
+    "fat": 44,
+    "carbs": 285
   },
-  "macro_check": "Calories and carb target hit but protein is 12g short. Consider adding more legumes for protein."
+  "macro_check": "Protein slightly under target. Total carbs a bit high — adjust carb sources in future."
 }
