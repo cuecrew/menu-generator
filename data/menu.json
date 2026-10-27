@@ -1,133 +1,119 @@
 {
-  "date": "2026-10-27 (Tuesday)",
-  "date_display": "Tuesday, October 27",
-  "date_short": "Tue · Oct 27",
+  "date": "2026-10-28 (Wednesday)",
+  "date_display": "Wednesday, October 28",
+  "date_short": "Wed · Oct 28",
   "generated_label": "Generated last night for today",
   "breakfast": {
-    "dish_hindi": "अंडा पराठा और नींबू अचार",
-    "dish_english": "Egg Paratha with Lime Pickle",
-    "ingredients_hindi": "गेहूं का आटा, अंडा, हरी मिर्च, धनिया, धनिया पाउडर, नमक, तेल, नींबू अचार",
+    "dish_hindi": "जई और अखरोट का दलिया, उबला हुआ अंडा",
+    "dish_english": "Oats and Walnut Porridge with Boiled Egg",
+    "ingredients_hindi": "जई, अखरोट, दूध, शहद, दालचीनी, उबला हुआ अंडा",
     "ingredients_list_hi": [
-      "गेहूं का आटा",
-      "अंडा",
-      "हरी मिर्च",
-      "धनिया",
-      "धनिया पाउडर",
-      "नमक",
-      "तेल",
-      "नींबू अचार"
+      "जई",
+      "अखरोट",
+      "दूध",
+      "शहद",
+      "दालचीनी",
+      "उबला हुआ अंडा"
     ],
     "ingredients_list_en": [
-      "Wheat flour",
-      "Egg",
-      "Green chili",
-      "Coriander leaves",
-      "Coriander powder",
-      "Salt",
-      "Oil",
-      "Lime pickle"
+      "Oats",
+      "Walnut",
+      "Milk",
+      "Honey",
+      "Cinnamon",
+      "Boiled Egg"
     ],
-    "prep_notes_hi": "गूँथे हुए आटे में कटी हुई हरी मिर्च और धनिया मिलाएँ। पतला रोटी बेलकर उसपर फेंटा हुआ अंडा फैलाएँ और परांठे को सेक लें।",
-    "prep_notes_en": "Mix chopped green chili and coriander leaves into the dough. Roll a thin roti, spread beaten egg on it, and cook the paratha.",
+    "prep_notes_hi": "जई को दूध में पकाएं और ऊपर से अखरोट डालें। मिठास के लिए शहद मिलाएं।",
+    "prep_notes_en": "Cook oats in milk and top with walnuts. Add honey for sweetness.",
     "vizz_macros": {
-      "cal": 450,
+      "cal": 440,
       "protein": 18,
-      "fat": 15,
-      "carbs": 60
+      "fat": 13,
+      "carbs": 62
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=egg%20paratha%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=oats%20porridge%20recipe%20recipe"
   },
   "lunch": {
-    "dish_hindi": "दाल तड़का और जीरा राइस",
-    "dish_english": "Dal Tadka with Jeera Rice",
-    "ingredients_hindi": "तूर दाल, चावल, जीरा, घी, प्याज, लहसुन, टमाटर, हरी मिर्च, हल्दी पाउडर, लाल मिर्च पाउडर, नमक",
+    "dish_hindi": "सोया चंक्स पुलाव, ककड़ी का रायता",
+    "dish_english": "Soya Chunks Pulao with Cucumber Raita",
+    "ingredients_hindi": "चावल, सोया चंक्स, मटर, गाजर, प्याज, टमाटर, गरम मसाला, दही, ककड़ी",
     "ingredients_list_hi": [
-      "तूर दाल",
       "चावल",
-      "जीरा",
-      "घी",
-      "प्याज",
-      "लहसुन",
-      "टमाटर",
-      "हरी मिर्च",
-      "हल्दी पाउडर",
-      "लाल मिर्च पाउडर",
-      "नमक"
-    ],
-    "ingredients_list_en": [
-      "Toor dal",
-      "Rice",
-      "Cumin seeds",
-      "Ghee",
-      "Onion",
-      "Garlic",
-      "Tomato",
-      "Green chili",
-      "Turmeric powder",
-      "Red chili powder",
-      "Salt"
-    ],
-    "prep_notes_hi": "दाल को अच्छे से पका लें और ऊपर से घी में तड़का लगाएँ। जीरा राइस को हल्का भूनकर पकाएँ। यह यात्रा और गर्म करने के लिए आदर्श है।",
-    "prep_notes_en": "Cook the dal thoroughly and top with ghee tempering. Toast the cumin in the rice and cook it. It is ideal for travel and reheating.",
-    "vizz_macros": {
-      "cal": 690,
-      "protein": 29,
-      "fat": 12,
-      "carbs": 110
-    },
-    "youtube_url": "https://www.youtube.com/results?search_query=dal%20tadka%20jeera%20rice%20recipe"
-  },
-  "dinner": {
-    "dish_hindi": "वेजिटेबल पुलाव और पुदीना रायता",
-    "dish_english": "Vegetable Pulao with Mint Raita",
-    "ingredients_hindi": "बासमती चावल, मटर, गाजर, बीन्स, फूलगोभी, पुदीना, दही, जीरा, धनिया पाउडर, गरम मसाला, नमक",
-    "ingredients_list_hi": [
-      "बासमती चावल",
+      "सोया चंक्स",
       "मटर",
       "गाजर",
-      "बीन्स",
-      "फूलगोभी",
-      "पुदीना",
-      "दही",
-      "जीरा",
-      "धनिया पाउडर",
+      "प्याज",
+      "टमाटर",
       "गरम मसाला",
-      "नमक"
+      "दही",
+      "ककड़ी"
     ],
     "ingredients_list_en": [
-      "Basmati rice",
+      "Rice",
+      "Soya Chunks",
       "Peas",
       "Carrot",
-      "Beans",
-      "Cauliflower",
-      "Mint leaves",
-      "Yogurt",
-      "Cumin seeds",
-      "Coriander powder",
-      "Garam masala",
-      "Salt"
+      "Onion",
+      "Tomato",
+      "Garam Masala",
+      "Curd",
+      "Cucumber"
     ],
-    "prep_notes_hi": "चावल को सब्जियों और मसालों के साथ पकाएं। पुदीना रायता बनाने के लिए ताजे पुदीना को दही में मिलाएं।",
-    "prep_notes_en": "Cook the rice with vegetables and spices. For mint raita, mix fresh mint leaves with yogurt.",
+    "prep_notes_hi": "सोया चंक्स को पहले भिगोएं और चावल में पकाएं। ककड़ी का रायता ठंडा परोसें। यह यात्रा करने योग्य और माइक्रोवेव में फिर से गर्म करने योग्य है।",
+    "prep_notes_en": "Soak soya chunks before cooking with rice. Serve cucumber raita chilled. This is travel-friendly and can be reheated in a microwave.",
     "vizz_macros": {
-      "cal": 560,
-      "protein": 10,
-      "fat": 12,
-      "carbs": 90
+      "cal": 550,
+      "protein": 26,
+      "fat": 10,
+      "carbs": 85
     },
-    "youtube_url": "https://www.youtube.com/results?search_query=vegetable%20pulao%20recipe%20recipe"
+    "youtube_url": "https://www.youtube.com/results?search_query=soya%20chunks%20pulao%20recipe%20recipe"
+  },
+  "dinner": {
+    "dish_hindi": "बैंगन भर्ता, बाजरे की रोटी, मटके का दही",
+    "dish_english": "Baingan Bharta with Millet Roti and Clay Pot Curd",
+    "ingredients_hindi": "बैंगन, टमाटर, प्याज, लहसुन, हरी मिर्च, सरसों का तेल, बाजरे का आटा, दही",
+    "ingredients_list_hi": [
+      "बैंगन",
+      "टमाटर",
+      "प्याज",
+      "लहसुन",
+      "हरी मिर्च",
+      "सरसों का तेल",
+      "बाजरे का आटा",
+      "दही"
+    ],
+    "ingredients_list_en": [
+      "Eggplant",
+      "Tomato",
+      "Onion",
+      "Garlic",
+      "Green Chili",
+      "Mustard Oil",
+      "Millet Flour",
+      "Curd"
+    ],
+    "prep_notes_hi": "बैंगन को सीधा फ्लेम पर पकाएं और मसालों के साथ मिलाएं। बाजरे की रोटी बनाने के लिए आटा गूथें।",
+    "prep_notes_en": "Roast the eggplant directly on flame and mix with spices. Knead dough for millet roti.",
+    "vizz_macros": {
+      "cal": 710,
+      "protein": 18,
+      "fat": 22,
+      "carbs": 92
+    },
+    "youtube_url": "https://www.youtube.com/results?search_query=baingan%20bharta%20recipe%20recipe"
   },
   "vizz_daily_total_from_meals": {
     "cal": 1700,
-    "protein": 57,
-    "fat": 39,
-    "carbs": 260
+    "protein": 62,
+    "fat": 45,
+    "carbs": 239
   },
   "vizz_daily_total_with_shake": {
     "cal": 2000,
-    "protein": 97,
-    "fat": 44,
-    "carbs": 285
+    "protein": 102,
+    "fat": 50,
+    "carbs": 264
   },
-  "macro_check": "Protein slightly under target. Total carbs a bit high — adjust carb sources in future."
+  "macro_check": "Calories and carbs exceed target; protein is slightly under. Consider adding a high-protein supplement."
 }
